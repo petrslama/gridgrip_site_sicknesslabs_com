@@ -2,17 +2,818 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
-		<loc>https://www.example.com/</loc>
+		<loc>https://www.sicknesslabs.com/</loc>
 		<image:image>
-			<image:loc>https://www.example.com/assets/imgs/hero.jpg</image:loc>
-			<image:title>Hero image</image:title>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/lab-petri-dishes.jpg</image:loc>
+			<image:title>Dark laboratory workbench with petri dishes containing glowing digital organisms and code fragments, microscope in the center, cinematic side lighting</image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.example.com/about/</loc>
+		<loc>https://www.sicknesslabs.com/build/</loc>
 		<image:image>
-			<image:loc>https://www.example.com/assets/imgs/about.jpg</image:loc>
-			<image:title>About page image</image:title>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/blueprint-blocks.jpg</image:loc>
+			<image:title>Dark blueprint table with scattered building blocks and tools, some pieces crumbling apart, construction chaos metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/swiss-army-knife.jpg</image:loc>
+			<image:title>Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/expanding-doorframe.jpg</image:loc>
+			<image:title>Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/golden-hammer.jpg</image:loc>
+			<image:title>Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/chess-board.jpg</image:loc>
+			<image:title>Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/build/feature-creep/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/swiss-army-knife.jpg</image:loc>
+			<image:title>Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/minimal-ui.jpg</image:loc>
+			<image:title>Zen-like minimal app UI mockup, single clean sidebar with 5 geometric icons, one spacious content area with a single graph, soft muted color palette, dark background, calm and airy layout, photorealistic UI design, studio lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/bloated-ui.jpg</image:loc>
+			<image:title>Overloaded bloated app wireframe, sidebar exploding with 30 icons in multiple groups, three overlapping modal windows, tabbed subpanels inside panels, toolbar crammed with 15 buttons, everything fighting for attention, dark background, chaotic cluttered layout, flat wireframe style, no text or labels</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/expanding-doorframe.jpg</image:loc>
+			<image:title>Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/golden-hammer.jpg</image:loc>
+			<image:title>Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/chess-board.jpg</image:loc>
+			<image:title>Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magpie-trinkets.jpg</image:loc>
+			<image:title>Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/build/feature-prioritization/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/chess-board.jpg</image:loc>
+			<image:title>Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/kanban-clean.jpg</image:loc>
+			<image:title>Clean minimal kanban board with three columns and five neatly placed cards, soft shadows, muted pastel tones, dark background, calm organized layout, top-down view, studio lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/whiteboard-chaos.jpg</image:loc>
+			<image:title>Chaotic whiteboard completely covered in overlapping sticky notes of every color, arrows pointing everywhere, some notes falling off, dark background, overwhelming cluttered mess, top-down view, studio lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/swiss-army-knife.jpg</image:loc>
+			<image:title>Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/expanding-doorframe.jpg</image:loc>
+			<image:title>Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/golden-hammer.jpg</image:loc>
+			<image:title>Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/spinning-compass.jpg</image:loc>
+			<image:title>Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/build/mvp-overengineering/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/golden-hammer.jpg</image:loc>
+			<image:title>Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/simple-workbench.jpg</image:loc>
+			<image:title>Simple wooden workbench with a single claw hammer and three nails, clean bare surface, warm workshop lighting, dark background, minimalist and functional, top-down view</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/factory-paper-airplane.jpg</image:loc>
+			<image:title>Massive industrial factory assembly line with robotic arms, conveyor belts, and heavy machinery all converging to produce a single tiny paper airplane at the end, dark moody atmosphere, wide angle shot</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/swiss-army-knife.jpg</image:loc>
+			<image:title>Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/expanding-doorframe.jpg</image:loc>
+			<image:title>Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/chess-board.jpg</image:loc>
+			<image:title>Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/under-construction-door.jpg</image:loc>
+			<image:title>Door with a forever under construction sign covered in cobwebs, dark abandoned corridor</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/build/scope-creep/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/expanding-doorframe.jpg</image:loc>
+			<image:title>Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/garden-contained.jpg</image:loc>
+			<image:title>Neat raised garden bed with clean wooden borders, three orderly rows of small green plants, raked soil, dark background, calm and contained, overhead view, soft natural lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/garden-overgrown.jpg</image:loc>
+			<image:title>Overgrown wild garden with vines creeping over a broken wooden fence, plants spilling onto a path, weeds tangling with flowers, chaotic uncontrolled growth in every direction, dark moody atmosphere, wide angle</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/swiss-army-knife.jpg</image:loc>
+			<image:title>Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/golden-hammer.jpg</image:loc>
+			<image:title>Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/chess-board.jpg</image:loc>
+			<image:title>Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/launch-button.jpg</image:loc>
+			<image:title>Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/founder/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/lone-founder-monitors.jpg</image:loc>
+			<image:title>Lone figure sitting at a desk in a dark room illuminated only by multiple monitor screens, founder isolation</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puppet-strings.jpg</image:loc>
+			<image:title>Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/burnt-matchstick.jpg</image:loc>
+			<image:title>Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cracked-mirror.jpg</image:loc>
+			<image:title>Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/frozen-hourglass.jpg</image:loc>
+			<image:title>Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/founder/founder-syndrome/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puppet-strings.jpg</image:loc>
+			<image:title>Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/delegation-board.jpg</image:loc>
+			<image:title>Clean organized delegation board with clear columns and neatly assigned cards, each card a different color, calm and structured, dark background, overhead view, soft studio lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/bottleneck-funnel.jpg</image:loc>
+			<image:title>Massive funnel with dozens of arrows all converging into a single tiny bottleneck point, papers and tasks piling up above the narrow opening, dark background, dramatic top-down lighting, conceptual illustration</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/burnt-matchstick.jpg</image:loc>
+			<image:title>Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cracked-mirror.jpg</image:loc>
+			<image:title>Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/frozen-hourglass.jpg</image:loc>
+			<image:title>Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/spinning-compass.jpg</image:loc>
+			<image:title>Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/founder/imposter-syndrome/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cracked-mirror.jpg</image:loc>
+			<image:title>Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/confident-podium.jpg</image:loc>
+			<image:title>Confident person standing tall on a podium under a warm spotlight, clean minimal stage, calm assured posture, dark background, studio lighting, inspirational atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/ghost-podium.jpg</image:loc>
+			<image:title>Same podium but the person is a translucent ghostly shadow barely visible, spotlight shining through them onto empty floor, haunting and hollow, dark background, eerie atmospheric lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puppet-strings.jpg</image:loc>
+			<image:title>Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/burnt-matchstick.jpg</image:loc>
+			<image:title>Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/frozen-hourglass.jpg</image:loc>
+			<image:title>Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/launch-button.jpg</image:loc>
+			<image:title>Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/founder/procrastination/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/frozen-hourglass.jpg</image:loc>
+			<image:title>Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/focused-desk.jpg</image:loc>
+			<image:title>Clean minimal desk with a single open laptop and one sticky note, calm focused workspace, warm natural light, dark background, top-down view, everything in order</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cluttered-desk.jpg</image:loc>
+			<image:title>Chaotic cluttered desk covered in sticky notes, open tabs on multiple screens, coffee cups, scattered notebooks and pens, overwhelming mess of busywork, dark background, overhead view, harsh fluorescent lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puppet-strings.jpg</image:loc>
+			<image:title>Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/burnt-matchstick.jpg</image:loc>
+			<image:title>Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cracked-mirror.jpg</image:loc>
+			<image:title>Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/spinning-compass.jpg</image:loc>
+			<image:title>Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/founder/startup-burnout/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/burnt-matchstick.jpg</image:loc>
+			<image:title>Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/steady-candle.jpg</image:loc>
+			<image:title>Bright steady candle flame burning cleanly in a dark room, warm stable glow, calm and sustainable, centered composition, dark background, studio lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/melted-candle.jpg</image:loc>
+			<image:title>Candle melted down to a puddle of wax with a tiny dying ember barely visible, smoke trails rising, exhausted and depleted, dark background, moody low-key lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puppet-strings.jpg</image:loc>
+			<image:title>Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cracked-mirror.jpg</image:loc>
+			<image:title>Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/frozen-hourglass.jpg</image:loc>
+			<image:title>Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/zombie-laptop.jpg</image:loc>
+			<image:title>Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/graveyard/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/app-graveyard.jpg</image:loc>
+			<image:title>Foggy digital graveyard with tombstones shaped like app icons and product logos, dark moody atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/zombie-laptop.jpg</image:loc>
+			<image:title>Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/under-construction-door.jpg</image:loc>
+			<image:title>Door with a forever under construction sign covered in cobwebs, dark abandoned corridor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/fork-in-road.jpg</image:loc>
+			<image:title>Fork in a dark road with one path leading to light and the other to darkness, decision crossroads</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/graveyard/perpetual-beta/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/under-construction-door.jpg</image:loc>
+			<image:title>Door with a forever under construction sign covered in cobwebs, dark abandoned corridor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/v1-pedestal.jpg</image:loc>
+			<image:title>Clean finished product on a dark pedestal with a glowing v1 badge, confident and shipped, minimal spotlight</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/beta-forever-workbench.jpg</image:loc>
+			<image:title>Chaotic workbench covered in half-assembled features and sticky notes reading beta forever, dark cluttered workshop with no exit door</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/zombie-laptop.jpg</image:loc>
+			<image:title>Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/fork-in-road.jpg</image:loc>
+			<image:title>Fork in a dark road with one path leading to light and the other to darkness, decision crossroads</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/golden-hammer.jpg</image:loc>
+			<image:title>Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/launch-button.jpg</image:loc>
+			<image:title>Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/graveyard/pivot-or-quit/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/fork-in-road.jpg</image:loc>
+			<image:title>Fork in a dark road with one path leading to light and the other to darkness, decision crossroads</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/focused-builder.jpg</image:loc>
+			<image:title>Focused builder at a clean desk with a single bright monitor, sharp code on screen, one clear direction forward</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/conflicting-dashboards.jpg</image:loc>
+			<image:title>Chaotic desk with multiple screens showing conflicting dashboards, sticky notes everywhere, builder frozen mid-decision</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/zombie-laptop.jpg</image:loc>
+			<image:title>Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/under-construction-door.jpg</image:loc>
+			<image:title>Door with a forever under construction sign covered in cobwebs, dark abandoned corridor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/burnt-matchstick.jpg</image:loc>
+			<image:title>Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magpie-trinkets.jpg</image:loc>
+			<image:title>Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/graveyard/zombie-projects/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/zombie-laptop.jpg</image:loc>
+			<image:title>Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/active-repo.jpg</image:loc>
+			<image:title>Clean terminal showing a single active repository with recent commits and green status indicators, organized workspace</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/abandoned-dashboard.jpg</image:loc>
+			<image:title>Cluttered dashboard showing dozens of abandoned repos, expired SSL warnings, and stale deploy logs glowing red in the dark</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/under-construction-door.jpg</image:loc>
+			<image:title>Door with a forever under construction sign covered in cobwebs, dark abandoned corridor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/fork-in-road.jpg</image:loc>
+			<image:title>Fork in a dark road with one path leading to light and the other to darkness, decision crossroads</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/burnt-matchstick.jpg</image:loc>
+			<image:title>Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/frozen-hourglass.jpg</image:loc>
+			<image:title>Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/idea/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/scattered-lightbulbs.jpg</image:loc>
+			<image:title>Scattered lightbulbs on a dark surface, some shattered some glowing faintly, idea overload concept</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/spinning-compass.jpg</image:loc>
+			<image:title>Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magpie-trinkets.jpg</image:loc>
+			<image:title>Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/bridge-leap.jpg</image:loc>
+			<image:title>Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/idea/analysis-paralysis/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/spinning-compass.jpg</image:loc>
+			<image:title>Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/single-arrow.jpg</image:loc>
+			<image:title>Single straight arrow drawn on a clean whiteboard pointing clearly to the right, minimal and decisive, dark background, calm and confident composition, studio lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/arrow-chaos.jpg</image:loc>
+			<image:title>Whiteboard completely covered in hundreds of arrows pointing in every direction, crossing and overlapping, some circling back on themselves, chaotic indecision visualization, dark background, overhead view</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magpie-trinkets.jpg</image:loc>
+			<image:title>Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/bridge-leap.jpg</image:loc>
+			<image:title>Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/frozen-hourglass.jpg</image:loc>
+			<image:title>Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/launch-button.jpg</image:loc>
+			<image:title>Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/idea/shiny-object-syndrome/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magpie-trinkets.jpg</image:loc>
+			<image:title>Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/single-project.jpg</image:loc>
+			<image:title>Single project on a clean desk, one notebook open to a detailed page, one pen, focused and committed, warm lighting, dark background, top-down view, minimalist composition</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/abandoned-notebooks.jpg</image:loc>
+			<image:title>Desk covered in dozens of half-opened notebooks, each with only the first few pages filled in, scattered pens, crumpled sketches, abandoned prototypes everywhere, dark background, chaotic overhead view</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/spinning-compass.jpg</image:loc>
+			<image:title>Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/bridge-leap.jpg</image:loc>
+			<image:title>Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/swiss-army-knife.jpg</image:loc>
+			<image:title>Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/fork-in-road.jpg</image:loc>
+			<image:title>Fork in a dark road with one path leading to light and the other to darkness, decision crossroads</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/idea/validation-skip/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/bridge-leap.jpg</image:loc>
+			<image:title>Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/scientist-testing.jpg</image:loc>
+			<image:title>Scientist carefully examining a test tube under a magnifying glass, methodical and precise, lab equipment in background, dark moody lighting, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/blindfolded-darts.jpg</image:loc>
+			<image:title>Person blindfolded throwing darts at a wall covered in random targets, some darts hitting nothing, chaotic and unguided, dark background, dramatic side lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/spinning-compass.jpg</image:loc>
+			<image:title>Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magpie-trinkets.jpg</image:loc>
+			<image:title>Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magnifying-crowd.jpg</image:loc>
+			<image:title>Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puzzle-fit.jpg</image:loc>
+			<image:title>Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/launch/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/rocket-launchpad.jpg</image:loc>
+			<image:title>Rocket on a launch pad shrouded in fog and hesitation, dramatic dark lighting, launch anxiety metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/launch-button.jpg</image:loc>
+			<image:title>Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-warehouse.jpg</image:loc>
+			<image:title>Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-theater.jpg</image:loc>
+			<image:title>Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cardboard-rocket.jpg</image:loc>
+			<image:title>Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/launch/launch-fear/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/launch-button.jpg</image:loc>
+			<image:title>Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/ready-rocket.jpg</image:loc>
+			<image:title>Clean minimal rocket on a launchpad under dark sky, ready to go, simple and unpolished but functional</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/overengineered-machine.jpg</image:loc>
+			<image:title>Overcomplicated machine covered in unnecessary gears and wires in a dark workshop, over-engineered and never leaving the workbench</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-warehouse.jpg</image:loc>
+			<image:title>Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-theater.jpg</image:loc>
+			<image:title>Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cardboard-rocket.jpg</image:loc>
+			<image:title>Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/under-construction-door.jpg</image:loc>
+			<image:title>Door with a forever under construction sign covered in cobwebs, dark abandoned corridor</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/launch/mvp-launch/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cardboard-rocket.jpg</image:loc>
+			<image:title>Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/zero-upvotes.jpg</image:loc>
+			<image:title>A chaotic desk covered in crumpled papers and empty coffee cups, a laptop showing a Reddit post with zero upvotes, desperation and disorder in dim light</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/launch-button.jpg</image:loc>
+			<image:title>Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-warehouse.jpg</image:loc>
+			<image:title>Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-theater.jpg</image:loc>
+			<image:title>Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/chess-board.jpg</image:loc>
+			<image:title>Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/launch/no-audience-first/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-theater.jpg</image:loc>
+			<image:title>Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/packed-venue.jpg</image:loc>
+			<image:title>A packed small venue with engaged people leaning forward, a founder presenting on a lit stage, warm attention and anticipation in a dark room</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-auditorium.jpg</image:loc>
+			<image:title>A vast empty auditorium with hundreds of vacant seats, a single laptop glowing on stage presenting to nobody, hollow silence and wasted effort</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/launch-button.jpg</image:loc>
+			<image:title>Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-warehouse.jpg</image:loc>
+			<image:title>Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cardboard-rocket.jpg</image:loc>
+			<image:title>Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magnifying-crowd.jpg</image:loc>
+			<image:title>Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/launch/no-distribution/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-warehouse.jpg</image:loc>
+			<image:title>Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/product-spotlight.jpg</image:loc>
+			<image:title>Focused spotlight illuminating a single product on a dark stage, clear path leading to it through glowing audience silhouettes</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/product-void.jpg</image:loc>
+			<image:title>Beautiful product floating alone in pitch-black void, no doors no windows no paths, digital dust particles settling around it</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/launch-button.jpg</image:loc>
+			<image:title>Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-theater.jpg</image:loc>
+			<image:title>Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/cardboard-rocket.jpg</image:loc>
+			<image:title>Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puzzle-fit.jpg</image:loc>
+			<image:title>Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/market/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-market-stall.jpg</image:loc>
+			<image:title>Empty market stall in a dark bazaar with digital price tags floating, market validation concept</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magnifying-crowd.jpg</image:loc>
+			<image:title>Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/market-compass.jpg</image:loc>
+			<image:title>Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puzzle-fit.jpg</image:loc>
+			<image:title>Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/pricing-anxiety.jpg</image:loc>
+			<image:title>Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/market/customer-validation/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magnifying-crowd.jpg</image:loc>
+			<image:title>Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/interview-coffee.jpg</image:loc>
+			<image:title>Two people sitting across a table in a quiet coffee shop, one listening intently with a notepad, genuine conversation, warm lighting, dark background, candid documentary style</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-audience.jpg</image:loc>
+			<image:title>Person on a stage presenting enthusiastically to an audience of empty chairs with a few people politely clapping, dark theater, spotlight on speaker, wide angle</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/market-compass.jpg</image:loc>
+			<image:title>Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puzzle-fit.jpg</image:loc>
+			<image:title>Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/pricing-anxiety.jpg</image:loc>
+			<image:title>Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/bridge-leap.jpg</image:loc>
+			<image:title>Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/market/market-validation/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/market-compass.jpg</image:loc>
+			<image:title>Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/validated-plan.jpg</image:loc>
+			<image:title>Clean desk with a single validated business plan under a spotlight, sharp focus, dark background fading into nothing</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/assumption-chaos.jpg</image:loc>
+			<image:title>Chaotic wall covered in sticky notes, conflicting arrows, and crossed-out assumptions, dim red lighting, startup chaos</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magnifying-crowd.jpg</image:loc>
+			<image:title>Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puzzle-fit.jpg</image:loc>
+			<image:title>Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/pricing-anxiety.jpg</image:loc>
+			<image:title>Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/spinning-compass.jpg</image:loc>
+			<image:title>Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/market/pricing-phobia/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/pricing-anxiety.jpg</image:loc>
+			<image:title>Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/confident-price.jpg</image:loc>
+			<image:title>Confident price tag showing a bold number under warm spotlight, clean and decisive, dark luxury background</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/crumpled-pricing.jpg</image:loc>
+			<image:title>Crumpled pricing pages scattered on a dark desk, numbers crossed out and rewritten obsessively, anxious founder energy</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magnifying-crowd.jpg</image:loc>
+			<image:title>Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/market-compass.jpg</image:loc>
+			<image:title>Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puzzle-fit.jpg</image:loc>
+			<image:title>Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/launch-button.jpg</image:loc>
+			<image:title>Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sicknesslabs.com/market/product-market-fit/</loc>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/puzzle-fit.jpg</image:loc>
+			<image:title>Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/pmf-beacon.jpg</image:loc>
+			<image:title>Single glowing beacon in a dark void, sharp focused light cutting through fog, product perfectly aligned with its market</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/broken-compasses.jpg</image:loc>
+			<image:title>Scattered broken compasses on a dark surface pointing in different directions, chaotic unfocused effort with no clear signal</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/magnifying-crowd.jpg</image:loc>
+			<image:title>Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/market-compass.jpg</image:loc>
+			<image:title>Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/pricing-anxiety.jpg</image:loc>
+			<image:title>Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sicknesslabs.com/assets/imgs/empty-warehouse.jpg</image:loc>
+			<image:title>Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor</image:title>
 		</image:image>
 	</url>
 </urlset>

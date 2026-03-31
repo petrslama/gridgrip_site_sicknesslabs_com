@@ -1,5 +1,5 @@
 # Robots.txt
-# https://www.example.com/robots.txt
+# https://www.sicknesslabs.com/robots.txt
 
 User-agent: *
 Allow: /
@@ -26,5 +26,5 @@ User-agent: Bytespider
 Disallow: /
 
 # Sitemaps
-Sitemap: https://www.example.com/sitemap.xml
-Sitemap: https://www.example.com/sitemap-images.xml
+Sitemap: https://www.sicknesslabs.com/sitemap.xml
+Sitemap: https://www.sicknesslabs.com/sitemap-images.xml

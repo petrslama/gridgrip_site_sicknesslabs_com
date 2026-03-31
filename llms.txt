@@ -1,27 +1,24 @@
-# Example Company
+# Sickness Labs
 
-> Short one-line description of what the company/website does.
+> Diagnosing the diseases that kill indie projects before they ship.
 
 ## About
 
-A few sentences about the company, its mission, and what visitors will find on the site.
+Sickness Labs is a content site about "indie project diseases" — the recurring patterns that kill side projects, startups, and indie products. From founder syndrome to feature creep, each article diagnoses a specific failure mode and helps solo founders recognize it before it's too late.
 
 ## Main Pages
 
-- [Home](https://www.example.com/): Brief description
-- [About](https://www.example.com/about/): Brief description
-- [Services](https://www.example.com/services/): Brief description
-- [Blog](https://www.example.com/blog/): Brief description
-- [Contact](https://www.example.com/contact/): Brief description
+- [Home](https://www.sicknesslabs.com/): SICKNESS Framework scorecard — 12 criteria to diagnose your project
+- [Founder](https://www.sicknesslabs.com/founder/): Diseases that live in the person — founder syndrome, burnout, imposter syndrome, procrastination
+- [Idea](https://www.sicknesslabs.com/idea/): Diseases before the first line of code — analysis paralysis, shiny object syndrome, skipping validation
+- [Build](https://www.sicknesslabs.com/build/): Diseases that infect the product — feature creep, scope creep, MVP overengineering, feature prioritization
+- [Market](https://www.sicknesslabs.com/market/): Diseases of denial — customer validation, market validation, product-market fit, pricing phobia
+- [Launch](https://www.sicknesslabs.com/launch/): Diseases of distribution — launch fear, no distribution, no audience, MVP launch strategy
+- [Graveyard](https://www.sicknesslabs.com/graveyard/): Where projects go to die — zombie projects, perpetual beta, pivot or quit
+- [About](https://www.sicknesslabs.com/about/): About Sickness Labs
 
 ## Key Facts
 
-- Founded: 2020
-- Location: Prague, Czech Republic
-- Industry: ...
-
-## Contact
-
-- Email: info@example.com
-- Phone: +420 ...
-- Address: ...
+- Industry: Indie hacking, solopreneurship, startup advice
+- Content: 6 sections, 22 articles
+- Language: English

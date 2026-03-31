@@ -14,9 +14,10 @@ html/
 style.css
 style.min.css
 
-# FTP credentials
+# FTP credentials + remote file list
 .ftp.md
 .ftp.sh
+filelist.php
 
 # Environment
 .env

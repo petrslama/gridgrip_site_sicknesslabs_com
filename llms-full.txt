@@ -1,47 +1,199 @@
-# Example Company
+# Sickness Labs
 
-> Short one-line description of what the company/website does.
+> Diagnosing the diseases that kill indie projects before they ship.
 
 ## About
 
-A few sentences about the company, its mission, and what visitors will find on the site.
+Sickness Labs is a content site about "indie project diseases" — the recurring patterns that kill side projects, startups, and indie products. 6 sections, 22 articles covering the full lifecycle from idea to graveyard. The homepage features the SICKNESS Framework — a 12-criteria scorecard to diagnose your project's health.
 
 ---
 
 ## Home
 
-URL: https://www.example.com/
+URL: https://www.sicknesslabs.com/
 
-Full page content goes here. Include all meaningful text from the page — headings, descriptions, feature lists, CTAs. This gives LLMs the full context without needing to crawl the site.
+Every indie project dies of something. We diagnose what's killing yours — before it flatlines.
 
----
+The SICKNESS Framework is a 12-criteria scorecard. Rate each 1–3. If anything scores a 1, that's a knockout.
 
-## About
-
-URL: https://www.example.com/about/
-
-Full page content goes here.
+The 12 criteria: Ship (can you launch in one week?), Intuitive (does anyone understand the value?), Cost (can you self-fund?), Know (who exactly is this for?), Need (will people pay today?), Earn (clear pricing model?), Space (low competition, organic discovery?), Soul (ethically sound?), Lies (are you lying to yourself?), Assumptions (verified with evidence?), Bullshit (can you name three weaknesses?), Stripped (what remains after subtracting lies, assumptions, and BS?).
 
 ---
 
-## Services
+## Founder
 
-URL: https://www.example.com/services/
+URL: https://www.sicknesslabs.com/founder/
 
-Full page content goes here.
+Diseases that live in the person, not the project. The founder is the first point of failure — and the last one to admit it.
+
+### Founder Syndrome — When You Become the Bottleneck
+
+URL: https://www.sicknesslabs.com/founder/founder-syndrome/
+
+Every decision flows through you. Every detail needs your approval. Your team waits while you review, tweak, and second-guess. Founder syndrome turns you into the bottleneck that kills your own project.
+
+### Startup Burnout — The Slow Fire That Kills Your Drive
+
+URL: https://www.sicknesslabs.com/founder/startup-burnout/
+
+You're still shipping. Still answering emails. Still showing up. But somewhere along the way, the thing you loved building became the thing you dread opening. Startup burnout destroys founders silently.
+
+### Imposter Syndrome — You Shipped It, but You Don't Believe It
+
+URL: https://www.sicknesslabs.com/founder/imposter-syndrome/
+
+Your project has users. People are paying for it. Someone called it "impressive" in a comment. And your first thought was: they just haven't figured out I'm faking it yet.
+
+### Procrastination — The Art of Productive Avoidance
+
+URL: https://www.sicknesslabs.com/founder/procrastination/
+
+You reorganized your task board. You researched three new frameworks. You redesigned the settings page. You did everything except the one thing that would actually move your project forward.
 
 ---
 
-## Blog
+## Idea
 
-URL: https://www.example.com/blog/
+URL: https://www.sicknesslabs.com/idea/
 
-Full page content goes here.
+Diseases before the first line of code. Analysis paralysis, shiny object syndrome, skipping validation — diseases that kill indie projects before a single line of code is written.
+
+### Analysis Paralysis — When Overthinking Replaces Building
+
+URL: https://www.sicknesslabs.com/idea/analysis-paralysis/
+
+You've read every competitor teardown, compared 14 tech stacks, and bookmarked 30 articles on product-market fit. Six months later, you still haven't shipped anything.
+
+### Shiny Object Syndrome — Why You Keep Starting and Never Finishing
+
+URL: https://www.sicknesslabs.com/idea/shiny-object-syndrome/
+
+The current project is 60% done. It works, mostly. But it's not exciting anymore. Then a new idea hits — fresh, full of potential, zero baggage. You tell yourself you'll come back to the old one later. You won't.
+
+### Validation Skip — Building First, Asking Questions Never
+
+URL: https://www.sicknesslabs.com/idea/validation-skip/
+
+You spent four months building a product nobody asked for. The landing page is live, the features are polished, the code is clean. There's just one problem: zero users.
 
 ---
 
-## Contact
+## Build
 
-URL: https://www.example.com/contact/
+URL: https://www.sicknesslabs.com/build/
 
-Full page content goes here.
+Diseases that infect the product while it's being built. The code is shipping, but so are the problems — one feature, one scope change, one "just one more thing" at a time.
+
+### Feature Creep — When Your Product Tries to Do Everything
+
+URL: https://www.sicknesslabs.com/build/feature-creep/
+
+It started as a simple tool. Then you added a dashboard. Then dark mode. Then an API. Then a settings page with 47 toggles. Feature creep turns lean products into bloated messes — one "quick addition" at a time.
+
+### Scope Creep — The Silent Expansion That Kills Deadlines
+
+URL: https://www.sicknesslabs.com/build/scope-creep/
+
+The project was supposed to take two months. Then someone said "while we're at it" and now it's month six. Scope creep is the silent expansion of project boundaries — the number one deadline killer in software development.
+
+### MVP Overengineering — When Your Minimum Isn't Minimal
+
+URL: https://www.sicknesslabs.com/build/mvp-overengineering/
+
+Your MVP has a microservice architecture, a CI/CD pipeline, and 90% test coverage. It also has zero users. MVP overengineering mistakes infrastructure for progress.
+
+### Feature Prioritization — How to Decide What Actually Matters
+
+URL: https://www.sicknesslabs.com/build/feature-prioritization/
+
+Your backlog has 200 items. Everything feels urgent. Nothing feels important. Feature prioritization turns a chaotic pile of ideas into a clear sequence of decisions — ICE, RICE, MoSCoW, and Kano compared.
+
+---
+
+## Market
+
+URL: https://www.sicknesslabs.com/market/
+
+Diseases of denial. Building for a market that doesn't exist — customer validation, market validation, product-market fit, pricing phobia.
+
+### Customer Validation — Stop Guessing, Start Asking
+
+URL: https://www.sicknesslabs.com/market/customer-validation/
+
+Your friends said your idea was cool. Your mom said she'd buy it. Your coworker said "totally." None of that is customer validation. It's social lubrication.
+
+### Market Validation — Is There a Market in Your Gap?
+
+URL: https://www.sicknesslabs.com/market/market-validation/
+
+You found a gap in the market. Congratulations. Now the harder question: is there a market in your gap? Because empty space exists for a reason.
+
+### Product-Market Fit for SaaS — The Signal You Can't Fake
+
+URL: https://www.sicknesslabs.com/market/product-market-fit/
+
+You have users. You have revenue. But something feels off. Product-market fit isn't a metric — it's a feeling backed by numbers. And most SaaS founders are faking it.
+
+### Pricing Phobia — Why Founders Are Afraid to Charge Real Money
+
+URL: https://www.sicknesslabs.com/market/pricing-phobia/
+
+Your product is free, freemium, or priced so low it whispers "side project." You're not being generous. You're being afraid.
+
+---
+
+## Launch
+
+URL: https://www.sicknesslabs.com/launch/
+
+Diseases of distribution. The diseases that kill indie products at the finish line.
+
+### Launch Fear — Your Product Will Never Be Ready
+
+URL: https://www.sicknesslabs.com/launch/launch-fear/
+
+The product is 95% done. It has been 95% done for four months. Every week there is one more feature, one more fix, one more reason not to ship. This is not quality control. This is fear wearing a product manager costume.
+
+### No Distribution — Building in a Vacuum
+
+URL: https://www.sicknesslabs.com/launch/no-distribution/
+
+You built it. Nobody came. Because nobody knew. Zero marketing budget is not the problem. Zero distribution plan is.
+
+### No Audience First — Launch Day With Zero Visitors
+
+URL: https://www.sicknesslabs.com/launch/no-audience-first/
+
+Launch day arrives and the only visitor is your own browser. You built the product first and the audience never. That is not a launch — that is a tree falling in an empty forest.
+
+### MVP Launch Strategy — Beyond Post and Pray
+
+URL: https://www.sicknesslabs.com/launch/mvp-launch/
+
+Your MVP launch strategy is posting on Reddit and hoping for the best. That is not a strategy. That is a coin flip with worse odds.
+
+---
+
+## Graveyard
+
+URL: https://www.sicknesslabs.com/graveyard/
+
+Where projects go to die. The graveyard is where indie projects go when no one admits they're dead.
+
+### Zombie Projects — Not Dead, Not Alive, Just Running
+
+URL: https://www.sicknesslabs.com/graveyard/zombie-projects/
+
+The domain is renewed. The server is running. The last commit was eight months ago. Welcome to the project graveyard, where abandoned startups live on life support and nobody has the guts to pull the plug.
+
+### Perpetual Beta — The Product That Will Never Be Ready
+
+URL: https://www.sicknesslabs.com/graveyard/perpetual-beta/
+
+"We're still in beta" is the startup version of "it's complicated." The product will never be ready because ready means accountable — and accountability is terrifying when you've been hiding behind a label.
+
+### Pivot or Quit — The Hardest Decision in Indie Building
+
+URL: https://www.sicknesslabs.com/graveyard/pivot-or-quit/
+
+You've been at it for months. The metrics are flat, the motivation is fading, and you're staring at two doors: pivot the idea or walk away entirely. This is the decision most indie builders get wrong — not because they choose badly, but because they refuse to choose at all.
