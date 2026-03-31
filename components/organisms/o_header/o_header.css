@@ -1,0 +1,139 @@
+.o_header {
+	background: var(--bg_surface);
+	border-bottom: 1px solid var(--color_border);
+	z-index: 100;
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+	padding-block: 1rem;
+	position: fixed;
+	inset: 0 0 auto;
+	transition: transform .3s ease;
+
+	body.header_hidden & {
+		transform: translateY(-100%);
+	}
+
+	body.menu_opened & {
+		transform: translateY(0);
+	}
+
+	.logo {
+		display: flex;
+		align-items: center;
+		gap: .75rem;
+		text-decoration: none;
+	}
+
+	.a_image img {
+		width: 3rem;
+		height: 3rem;
+		border-radius: 50%;
+		border: .25rem solid black;
+	}
+
+	.brand-name {
+		font-family: var(--font_heading);
+		font-weight: 500;
+		font-size: 1.25rem;
+		color: var(--color_text);
+	}
+
+	.actions {
+		display: flex;
+		align-items: center;
+		gap: .5rem;
+		margin-left: auto;
+
+		@media (min-width: 64rem) {
+			order: 3;
+			margin-left: 0;
+		}
+
+		.a_button {
+			padding: .3125rem .75rem;
+
+			&.secondary {
+				display: none;
+
+				@media (min-width: 48rem) {
+					display: flex;
+				}
+			}
+		}
+	}
+
+	.menu-toggle {
+		display: flex;
+		cursor: pointer;
+		background: transparent;
+		border: none;
+		padding: 0;
+		color: var(--color_text-muted);
+		--icon_size: 1.5rem;
+
+		&:hover {
+			color: var(--color_text);
+		}
+
+		body:not(.menu_opened) & [data-icon="x"] {
+			display: none;
+		}
+
+		body.menu_opened & [data-icon="menu"] {
+			display: none;
+		}
+
+		@media (min-width: 64rem) {
+			display: none;
+		}
+	}
+
+	nav {
+		display: none;
+		margin-left: auto;
+
+		a {
+			color: var(--color_text-muted);
+			text-decoration: none;
+
+			&:hover {
+				color: var(--color_text);
+			}
+		}
+
+		@media (min-width: 64rem) {
+			order: 2;
+			display: flex;
+			gap: .75rem;
+		}
+
+		body.menu_opened & {
+			display: flex;
+			flex-direction: column;
+			position: absolute;
+			top: 100%;
+			left: 0;
+			right: 0;
+			height: calc(100dvh - 5rem );
+			background: var(--bg_surface);
+			overflow-y: auto;
+			padding: 2rem 1.75rem;
+			text-align: right;
+			border-top: 1px solid var(--color_border);
+
+			a {
+				display: block;
+				padding: .375rem 0;
+			}
+		}
+	}
+}
+
+main#main {
+	border-top: 5rem solid var(--bg_body);
+}
+
+body.menu_opened {
+	overflow: hidden;
+}

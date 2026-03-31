@@ -1,0 +1,360 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Idea",
+					"href": "/idea/"
+				},
+				{
+					"text": "Shiny Object Syndrome"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/magpie-trinkets.jpg"
+			},
+			"a_eyebrow": "Idea",
+			"a_h1": "Shiny Object Syndrome — Why You Keep Starting and Never Finishing",
+			"a_description": "The current project is 60% done. It works, mostly. But it's not exciting anymore. Then a new idea hits — fresh, full of potential, zero baggage. You tell yourself you'll come back to the old one later. You won't. This is shiny object syndrome, and your graveyard of abandoned side projects is the proof.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Shiny Object Syndrome in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Shiny object syndrome is the compulsive need to chase new ideas</strong> instead of grinding through the boring middle of the current one."
+				},
+				{
+					"text": "<strong>The pattern:</strong> week one is electric, week four is tedious, week five a new idea appears. Every abandoned project followed this exact arc."
+				},
+				{
+					"text": "<strong>You don't have a portfolio — you have a graveyard</strong> of 60% prototypes that were each, at some point, \"the one.\""
+				},
+				{
+					"text": "<strong>New ideas feel like signal. They're mostly novelty.</strong> The dopamine of starting is not evidence that the idea is better."
+				},
+				{
+					"text": "<strong>The cure:</strong> one project at a time, a written commitment, and a rule — no new starts until the current one ships or is formally killed."
+				},
+				{
+					"text": "<strong>Finishing a mediocre project teaches more than starting ten brilliant ones.</strong> Completion is the skill you're actually missing."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Diagnosis: Addicted to the Starting Line",
+			"paragraphs": [
+				{
+					"text": "Shiny object syndrome is the chronic inability to finish projects because new ones keep looking better. It's not about having too many ideas — ideas are cheap. It's about the compulsive need to chase the dopamine hit of starting something new instead of grinding through the boring middle of something old."
+				},
+				{
+					"text": "The pattern is predictable. Week one: you're on fire. The idea is brilliant, the architecture is clean, the potential is massive. Week four: reality sets in. Edge cases pile up, the fun parts are done, and what's left is the unglamorous work of making it actually usable. Week five: a new idea appears."
+				},
+				{
+					"text": "Every abandoned side project follows the same arc. The excitement of creation gives way to the tedium of completion, and completion always loses. You don't have a portfolio of projects — you have a graveyard of 60% prototypes that were each, at some point, \"the one.\""
+				},
+				{
+					"text": "This isn't a productivity problem. It's a pattern recognition problem. Until you see the cycle for what it is, you'll keep mistaking novelty for signal."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Single project on a clean desk, one notebook open to a detailed page, one pen, focused and committed, warm lighting, dark background, top-down view, minimalist composition",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/single-project.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Desk covered in dozens of half-opened notebooks, each with only the first few pages filled in, scattered pens, crumpled sketches, abandoned prototypes everywhere, dark background, chaotic overhead view",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/abandoned-notebooks.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Dopamine Economics of New Ideas",
+			"paragraphs": [
+				{
+					"text": "Your brain is doing exactly what it's designed to do. Novelty triggers dopamine. A new project is pure novelty — new architecture decisions, new design possibilities, new markets to fantasize about. An existing project at 60% is pure grind — bug fixes, documentation, edge cases, and the slow realization that your original vision needs compromise."
+				},
+				{
+					"text": "This is why side project motivation collapses at a predictable point. The first 40% is exploration. The next 20% is where the project becomes real and the problems become concrete. The final 40% is where the actual value gets created — polish, reliability, launch prep. Most people bail right at the transition from exploration to reality."
+				},
+				{
+					"text": "The new idea doesn't have any of those problems yet. It's still in the fantasy phase, where everything is possible and nothing is hard. Comparing a fantasy project to a real one isn't fair, but your dopamine system doesn't care about fairness. It cares about novelty."
+				},
+				{
+					"text": "Understanding this mechanism doesn't cure it, but it does let you catch yourself in the act. When a new idea feels irresistible, that's not signal — that's chemistry."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "New Idea Excitement vs. Real Opportunity",
+			"a_description": "Learn to tell the difference before you abandon another project.",
+			"columns": [
+				{
+					"a_h3": "Dopamine Hit (Shiny Object)",
+					"items": [
+						"<div>🔴</div> Feels urgent and irresistible right now",
+						"<div>🔴</div> No evidence of demand, just excitement",
+						"<div>🔴</div> Current project suddenly feels boring",
+						"<div>🔴</div> You imagine the outcome, not the work",
+						"<div>🔴</div> Fades within 48 hours if you wait"
+					]
+				},
+				{
+					"a_h3": "Real Opportunity",
+					"items": [
+						"<div>🟢</div> Still compelling after a week of reflection",
+						"<div>🟢</div> Evidence: people are asking for it",
+						"<div>🟢</div> Current project is genuinely dead-ended",
+						"<div>🟢</div> You can see the work, not just the dream",
+						"<div>🟢</div> Passes the 48-hour cooling-off test"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Why Projects Die at 60%",
+			"paragraphs": [
+				{
+					"text": "The 60% mark is where abandoned side projects go to die. It's the exact point where the project is real enough to have problems but not finished enough to have users. You've proven the concept works but haven't done the work to make anyone else care."
+				},
+				{
+					"text": "At 60%, you hit the \"messy middle.\" The core functionality exists, but it's rough. The UI works but isn't polished. There are three critical bugs you keep meaning to fix. The onboarding flow doesn't exist yet. Deployment is manual. None of this is fun, and all of it is necessary."
+				},
+				{
+					"text": "This is also the point where doubt kicks in hardest. You can now see the gap between what you imagined and what you've built. The gap looks enormous from the inside. From the outside, it's often just a few weeks of focused work. But you don't see that, because you're already looking at the next shiny thing."
+				},
+				{
+					"text": "The graveyard of abandoned side projects isn't filled with bad ideas. It's filled with ideas that were 3-4 weeks of boring work away from being real products. That should terrify you."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The New Idea Filter",
+			"a_description": "Before abandoning your current project for a new idea, every gate must pass. If any fails, it's a shiny object.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "clock"
+					},
+					"a_h3": "Has the idea survived 48 hours?",
+					"a_description": "Write it down and wait two days. If it still feels urgent after the initial dopamine spike fades, it might be real. Most don't survive."
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Is someone asking for it?",
+					"a_description": "A real opportunity has external demand — people searching, complaining, paying for alternatives. If the only person excited is you, it's a shiny object."
+				},
+				{
+					"a_icon": {
+						"icon": "x-circle"
+					},
+					"a_h3": "Is your current project genuinely dead?",
+					"a_description": "Not boring — dead. No market, no users, no path forward. If it's just in the messy middle, the problem isn't the project. It's your patience."
+				},
+				{
+					"a_icon": {
+						"icon": "file-text"
+					},
+					"a_h3": "Can you write a post-mortem for the current project?",
+					"a_description": "If you can't articulate why the current project failed with evidence, you're not quitting — you're fleeing. Write the post-mortem first."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Commitment Frameworks That Actually Work",
+			"paragraphs": [
+				{
+					"text": "<strong>The one-project rule.</strong> You are allowed exactly one active side project. New ideas go into a parking lot document. You can only start a new project when the current one is either shipped or deliberately killed with a written post-mortem. No silent abandonment."
+				},
+				{
+					"text": "<strong>Public accountability.</strong> Tell people what you're building. Write about it. Post progress updates. The social cost of publicly abandoning a project is higher than the dopamine hit of starting a new one. Use that asymmetry to your advantage."
+				},
+				{
+					"text": "<strong>Ship milestones, not features.</strong> Break the project into shippable increments. Don't build for three months and then launch. Ship v0.1 in week two. Ship v0.2 in week four. Each ship creates a micro-completion that feeds your dopamine system without requiring a whole new project."
+				},
+				{
+					"text": "<strong>The 48-hour rule for new ideas.</strong> When a new idea strikes, write it down and wait 48 hours. If it still feels urgent after two days, evaluate it properly against your current project. Most new ideas lose their shine within 48 hours because the initial dopamine spike has worn off."
+				},
+				{
+					"text": "<strong>Calculate the cost of abandoned projects.</strong> Add up the hours you've spent on projects you never shipped. Multiply by your hourly rate. That number is the real cost of shiny object syndrome. It's usually enough to make you uncomfortable — and discomfort is a better motivator than inspiration."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Push Through the 60% Wall",
+			"a_description": "A repeatable process for finishing what you started instead of chasing the next new thing.",
+			"items": [
+				{
+					"a_h3": "Acknowledge the wall",
+					"text": "Recognize that the loss of excitement at 60% is normal, not a signal. Every project hits this point. The difference between shipped products and abandoned ones isn't the quality of the idea — it's what the builder does when the fun stops."
+				},
+				{
+					"a_h3": "List only what's left to ship",
+					"text": "Write down the minimum remaining work to get this in front of one real user. Not the dream version — the shippable version. The list is almost always shorter than you think. Three to four weeks of focused work, not months."
+				},
+				{
+					"a_h3": "Ship something this week",
+					"text": "Pick the smallest shippable piece from your list and push it live. A beta signup page, a demo video, a working prototype. Anything that puts the project in front of a real human. External feedback reignites motivation that internal perfectionism killed."
+				},
+				{
+					"a_h3": "Park the new idea properly",
+					"text": "Write the new idea down in a parking lot document with a one-paragraph description. Close the tab. You haven't killed it — you've deferred it. If it's still compelling when the current project ships, it goes to the top of the queue."
+				},
+				{
+					"a_h3": "Set a 30-day finish line",
+					"text": "Give yourself 30 days to ship or kill the current project. Not \"work on it\" — ship it or write the post-mortem. A hard deadline removes the option to linger indefinitely in the messy middle."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about shiny object syndrome and staying focused",
+			"items": [
+				{
+					"a_h3": "What is shiny object syndrome?",
+					"answer": "Shiny object syndrome is the pattern of repeatedly starting new projects while abandoning existing ones. It's driven by the dopamine hit of novelty — new ideas feel exciting and full of potential, while current projects feel like a grind. The result is a collection of half-finished work and nothing shipped."
+				},
+				{
+					"a_h3": "Why do I keep abandoning side projects?",
+					"answer": "Most side projects get abandoned at the transition from \"fun exploration\" to \"real work.\" The first 40% is exciting. The remaining 60% is bug fixes, polish, and unglamorous completion work. When that grind sets in, your brain starts looking for the next dopamine hit — which conveniently arrives as a new project idea."
+				},
+				{
+					"a_h3": "How do I maintain side project motivation through the boring middle?",
+					"answer": "Break the project into small, shippable milestones and ship them publicly. Each release creates a sense of completion that sustains motivation. Also, reduce scope aggressively — the smaller the project, the shorter the boring middle, and the more likely you are to reach the finish line."
+				},
+				{
+					"a_h3": "Is shiny object syndrome worse for product managers?",
+					"answer": "Often, yes. PMs are trained to evaluate opportunities and prioritize ruthlessly. That skill backfires with side projects — instead of pushing through friction, the PM instinct is to re-evaluate the opportunity. Combined with a tendency to over-scope, PMs frequently abandon side projects that were closer to done than they realized."
+				},
+				{
+					"a_h3": "How many side projects should I work on at once?",
+					"answer": "One. Seriously. Multiple active projects guarantee that none of them ship. Keep a parking lot for new ideas, but don't start anything new until the current project is either shipped or formally killed. The constraint isn't comfortable, but it's the only thing that consistently works."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Idea-Phase Diseases",
+			"a_description": "Shiny object syndrome thrives alongside these conditions — all fueled by the gap between fantasy and reality.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "brain"
+					},
+					"a_h3": "Analysis Paralysis",
+					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
+					"href": "/idea/analysis-paralysis/",
+					"a_image": {
+						"src": "/assets/imgs/spinning-compass.jpg",
+						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "eye-off"
+					},
+					"a_h3": "Validation Skip",
+					"a_description": "Building first, asking questions never. The product is finished — but nobody was ever asked if they wanted it.",
+					"href": "/idea/validation-skip/",
+					"a_image": {
+						"src": "/assets/imgs/bridge-leap.jpg",
+						"alt": "Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "layers"
+					},
+					"a_h3": "Feature Creep",
+					"a_description": "The product started simple. Now it has a dashboard, an API, dark mode, and a settings page with 47 toggles. Nobody asked for any of it.",
+					"href": "/build/feature-creep/",
+					"a_image": {
+						"src": "/assets/imgs/swiss-army-knife.jpg",
+						"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "crosshair"
+					},
+					"a_h3": "Pivot or Quit",
+					"a_description": "The hardest question in indie building: is this a problem you can fix, or a project you need to walk away from?",
+					"href": "/graveyard/pivot-or-quit/",
+					"a_image": {
+						"src": "/assets/imgs/fork-in-road.jpg",
+						"alt": "Fork in a dark road with one path leading to light and the other to darkness, decision crossroads"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Shiny Object Syndrome — Why You Keep Starting and Never Finishing | Sickness Labs",
+		"description": "Shiny object syndrome kills side projects at 60%. Learn why you keep starting and never finishing, the dopamine trap of new ideas, and frameworks to stay committed.",
+		"og": {
+			"title": "Shiny Object Syndrome — The Graveyard of 60% Prototypes",
+			"description": "The current project is 60% done but the new idea feels 100% exciting. Here's why projects die at the messy middle and how to push through to shipping.",
+			"url": "https://www.sicknesslabs.com/idea/shiny-object-syndrome/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Shiny Object Syndrome — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Shiny Object Syndrome — The Graveyard of 60% Prototypes",
+			"description": "The current project is 60% done but the new idea feels 100% exciting. Here's why projects die at the messy middle and how to push through to shipping.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Shiny Object Syndrome — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

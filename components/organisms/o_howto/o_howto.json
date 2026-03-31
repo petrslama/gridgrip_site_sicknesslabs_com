@@ -1,0 +1,75 @@
+{
+	"fu_type": "o_howto",
+	"fu_label": "How To",
+	"fu_row__labels": [
+		{
+			"fu_label": "How To"
+		},
+		{
+			"fu_label": "[a_h2]"
+		}
+	],
+	"fields": [
+		{
+			"fu_type": "from_definition",
+			"definition": "a_fu_type"
+		},
+		{
+			"fu_type": "tabs",
+			"tabs": [
+				{
+					"fu_label": "Content",
+					"fields": [
+						{
+							"fu_type": "from_definition",
+							"definition": "m_section_title"
+						},
+						{
+							"fu_type": "repeater_single",
+							"fu_label": "Steps",
+							"fu_name": "items",
+							"fu_repeater__labels": [
+								{
+									"fu_label": "Step"
+								}
+							],
+							"templates": [
+								{
+									"fu_row__labels": [
+										{
+											"fu_label": "[a_h3]"
+										},
+										{
+											"fu_label": "[text]"
+										}
+									],
+									"fields": [
+										{
+											"fu_type": "from_definition",
+											"definition": "a_h3"
+										},
+										{
+											"fu_type": "textarea",
+											"fu_label": "Text",
+											"fu_name": "text",
+											"width": "fullwidth"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"fu_label": "Settings",
+					"fields": [
+						{
+							"fu_type": "from_definition",
+							"definition": "m_section_settings"
+						}
+					]
+				}
+			]
+		}
+	]
+}

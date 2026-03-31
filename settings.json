@@ -1,0 +1,34 @@
+{
+	"site_url": "https://www.sicknesslabs.com",
+	"template": "inSite",
+	"start_head_codes": [
+		{
+			"note": "Google Tag Manager",
+			"code": "<!-- Add Google Tag Manager script here -->"
+		}
+	],
+	"head_codes": [],
+	"start_body_codes": [
+		{
+			"note": "Google Tag Manager (noscript)",
+			"code": "<!-- Add Google Tag Manager noscript fallback here -->"
+		}
+	],
+	"body_codes": [],
+	"color_primary": "#39FF14",
+	"color_primary-hover": "#32CC11",
+	"color_text": "#333333",
+	"color_text-muted": "#747474",
+	"bg_body": "#F5F5F5",
+	"color_border": "#eee",
+	"bg_surface": "#ffffff",
+	"dark_scheme_colors": {
+		"color_primary": "#39FF14",
+		"color_primary-hover": "#32CC11",
+		"color_text": "#333333",
+		"color_text-muted": "#747474",
+		"color_border": "#eee",
+		"bg_body": "#F5F5F5",
+		"bg_surface": "#ffffff"
+	}
+}

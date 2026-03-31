@@ -1,0 +1,27 @@
+# Example Company
+
+> Short one-line description of what the company/website does.
+
+## About
+
+A few sentences about the company, its mission, and what visitors will find on the site.
+
+## Main Pages
+
+- [Home](https://www.example.com/): Brief description
+- [About](https://www.example.com/about/): Brief description
+- [Services](https://www.example.com/services/): Brief description
+- [Blog](https://www.example.com/blog/): Brief description
+- [Contact](https://www.example.com/contact/): Brief description
+
+## Key Facts
+
+- Founded: 2020
+- Location: Prague, Czech Republic
+- Industry: ...
+
+## Contact
+
+- Email: info@example.com
+- Phone: +420 ...
+- Address: ...

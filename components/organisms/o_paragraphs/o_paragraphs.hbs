@@ -1,0 +1,9 @@
+<section class="o_paragraphs container-sm"
+	{{#if section_id}}
+	 id="{{section_id}}"
+	{{/if}}>
+	{{> m_section_title }}
+	{{#each paragraphs}}
+	<p class="paragraph">{{{text}}}</p>
+	{{/each}}
+</section>

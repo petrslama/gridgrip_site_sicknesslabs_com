@@ -1,0 +1,30 @@
+# Robots.txt
+# https://www.example.com/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+# AI crawlers — allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# AI crawlers — blocked
+User-agent: Bytespider
+Disallow: /
+
+# Sitemaps
+Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://www.example.com/sitemap-images.xml

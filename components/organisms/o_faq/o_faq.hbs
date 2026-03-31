@@ -1,0 +1,32 @@
+<section class="o_faq container-sm"
+	{{#if section_id}}
+	 id="{{section_id}}"
+	{{/if}}>
+	{{> m_section_title }}
+	{{#each items}}
+	<details>
+		<summary>
+			{{> a_h3 }}
+			{{> a_icon icon='chevron-down' stroke='#747474' }}
+		</summary>
+		<p>{{{answer}}}</p>
+	</details>
+	{{/each}}
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "FAQPage",
+		"mainEntity": [
+			{{#each items}}
+			{
+				"@type": "Question",
+				"name": {{json a_h3}},
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": {{json answer}} }
+			}{{#unless @last}},{{/unless}}
+			{{/each}}
+		]
+	}
+	</script>
+</section>

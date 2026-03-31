@@ -1,0 +1,384 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Founder",
+					"href": "/founder/"
+				},
+				{
+					"text": "Founder Syndrome"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/puppet-strings.jpg"
+			},
+			"a_eyebrow": "Founder",
+			"a_h1": "Founder Syndrome — When You Become the Bottleneck",
+			"a_description": "Every decision flows through you. Every detail needs your approval. Your team waits while you review, tweak, and second-guess. Congratulations — you have founder syndrome, and your project is suffocating.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Founder Syndrome in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Founder syndrome is when the founder becomes the bottleneck.</strong> Every decision routes through one person. Nothing moves without their sign-off."
+				},
+				{
+					"text": "<strong>It's not a character flaw — it's a structural problem.</strong> You built a system that requires you at the center."
+				},
+				{
+					"text": "The instincts that started the project — owning everything, caring about every detail — <strong>are now the ones killing it.</strong>"
+				},
+				{
+					"text": "<strong>The test:</strong> can your project survive two weeks without your input? If not, that's not leadership — that's a dependency."
+				},
+				{
+					"text": "<strong>The cure:</strong> delegation, documentation, and trust. Document the <em>why</em> behind decisions. Delegate outcomes, not tasks."
+				},
+				{
+					"text": "<strong>The project doesn't die dramatically.</strong> It dies slowly — updates get less frequent, responses get slower, and one day it's effectively dead."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Diagnosis: What Is Founder Syndrome?",
+			"paragraphs": [
+				{
+					"text": "Founder syndrome is what happens when the person who started the project can't let go of it. Not emotionally — operationally. Every decision, no matter how small, routes through one person. The color of a button. The wording of an email. The priority of a bug fix. It all sits in your queue, and nothing moves until you say so."
+				},
+				{
+					"text": "This isn't about being a control freak. Most founders with founder's syndrome don't even realize they have it. They think they're being thorough. They think nobody else understands the vision well enough. They think they're the only ones who care enough to get it right."
+				},
+				{
+					"text": "They're wrong. What they actually are is a single point of failure disguised as leadership."
+				},
+				{
+					"text": "The term gets thrown around a lot in nonprofit circles — founder's syndrome nonprofit organizations are especially prone because the founder often <em>is</em> the mission in people's minds. But indie projects suffer from the exact same disease. When one person holds all the context, all the access, and all the decision-making power, the project is one vacation away from total paralysis."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Clean organized delegation board with clear columns and neatly assigned cards, each card a different color, calm and structured, dark background, overhead view, soft studio lighting",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/delegation-board.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Massive funnel with dozens of arrows all converging into a single tiny bottleneck point, papers and tasks piling up above the narrow opening, dark background, dramatic top-down lighting, conceptual illustration",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/bottleneck-funnel.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Symptoms: How to Spot It",
+			"paragraphs": [
+				{
+					"text": "Founder syndrome examples are everywhere once you know what to look for. Here are the classic symptoms:"
+				},
+				{
+					"text": "<strong>The approval bottleneck.</strong> Nothing ships without your explicit sign-off. Pull requests sit for days. Design decisions wait for your \"quick review\" that takes a week."
+				},
+				{
+					"text": "<strong>The context monopoly.</strong> You're the only one who knows why things are built a certain way. There are no docs, no decision logs, no onboarding materials — just your memory."
+				},
+				{
+					"text": "<strong>The delegation allergy.</strong> You assign tasks but then redo them yourself because they weren't done \"right.\" Your team learns that trying is pointless."
+				},
+				{
+					"text": "<strong>The identity merger.</strong> You can't tell where you end and the project begins. Criticism of the product feels like criticism of you personally."
+				},
+				{
+					"text": "If you're a first time founder, these patterns feel natural. You built this thing from nothing. Of course you know it best. Of course your standards are highest. But that's the trap — the very instincts that got the project started are now the ones killing it."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Hands-On Leader vs. Founder Syndrome",
+			"a_description": "The line between involvement and obstruction is thinner than you think.",
+			"columns": [
+				{
+					"a_h3": "Hands-On Leader",
+					"items": [
+						"<div>🟢</div> Builds systems that work without them",
+						"<div>🟢</div> Delegates outcomes, not just tasks",
+						"<div>🟢</div> Documents decisions and context",
+						"<div>🟢</div> Project survives two weeks of absence",
+						"<div>🟢</div> Team suggests and ships independently"
+					]
+				},
+				{
+					"a_h3": "Founder Syndrome",
+					"items": [
+						"<div>🔴</div> Builds systems that require them",
+						"<div>🔴</div> Redoes delegated work personally",
+						"<div>🔴</div> All context lives in their head",
+						"<div>🔴</div> Everything stalls when they're away",
+						"<div>🔴</div> Team stops suggesting anything"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "How Founder Syndrome Kills Indie Projects",
+			"paragraphs": [
+				{
+					"text": "In a startup with funding, founder syndrome eventually gets addressed by a board or investors. In an indie project, there's no external pressure. Nobody's going to stage an intervention. The disease just quietly progresses."
+				},
+				{
+					"text": "First, your team stops suggesting things. Why bother? You'll just override them. Then they stop caring about quality — you're going to redo it anyway. Then they leave. And you're left wondering why nobody else was \"as committed as you.\""
+				},
+				{
+					"text": "Founder decision making becomes the only decision making. And since you're also doing the marketing, the coding, the support, and the bookkeeping, those decisions get slower and worse. You're not making better choices by centralizing control. You're making exhausted choices with incomplete information, because you refused to let anyone else carry part of the load."
+				},
+				{
+					"text": "The cruelest part? The project doesn't die dramatically. It dies slowly. Updates get less frequent. Responses get slower. The roadmap stalls. One day you realize you haven't shipped anything meaningful in months, and the project is effectively dead — killed by the person who loved it most."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Nonprofit Parallel",
+			"paragraphs": [
+				{
+					"text": "Founder's syndrome nonprofit cases are textbook examples of what happens at scale. A passionate founder builds an organization around their vision, then refuses to build systems that could survive without them. The board becomes a rubber stamp. Staff turnover skyrockets. Donors start asking uncomfortable questions."
+				},
+				{
+					"text": "The pattern is identical in indie projects, just smaller. Your contributors are your \"staff.\" Your users are your \"donors.\" And when they start leaving, you won't get an exit interview — they'll just quietly disappear."
+				},
+				{
+					"text": "What nonprofits have learned (often painfully) is that founder syndrome isn't a character flaw. It's a structural problem. The founder built a system that requires them at the center, and now the system can't function any other way. The fix isn't about becoming a better person. It's about building a better system."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Bottleneck Test",
+			"a_description": "Answer honestly. If three or more are true, you have founder syndrome.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "lock"
+					},
+					"a_h3": "Nothing ships without your sign-off",
+					"a_description": "Pull requests, design decisions, support replies — everything waits for your review before it moves forward."
+				},
+				{
+					"a_icon": {
+						"icon": "brain"
+					},
+					"a_h3": "All context lives in your head",
+					"a_description": "There are no docs, no decision logs, no onboarding materials. If you got hit by a bus, the project dies with you."
+				},
+				{
+					"a_icon": {
+						"icon": "repeat"
+					},
+					"a_h3": "You redo delegated work",
+					"a_description": "You assign tasks, then quietly redo them because they weren't done the way you would have done them."
+				},
+				{
+					"a_icon": {
+						"icon": "heart-crack"
+					},
+					"a_h3": "Criticism feels personal",
+					"a_description": "A bug report feels like an insult. A feature request feels like an attack on your judgment. The project is you."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Treatment: How to Let Go Without Losing Control",
+			"paragraphs": [
+				{
+					"text": "The cure for founder syndrome is unglamorous: delegation, documentation, and trust. None of which come naturally to someone who built something from scratch."
+				},
+				{
+					"text": "<strong>Document everything.</strong> Every decision that lives only in your head is a vulnerability. Write down the why behind your choices. Create guidelines instead of gatekeeping. If someone needs to ask you before they can act, you've failed at documentation."
+				},
+				{
+					"text": "<strong>Delegate outcomes, not tasks.</strong> Don't tell people what to do step by step — tell them what the result should look like and let them figure out the path. Their approach might be different from yours. That's fine. Different isn't wrong."
+				},
+				{
+					"text": "<strong>Build review systems, not approval chains.</strong> Instead of requiring your sign-off on everything, create lightweight review processes that catch real problems without bottlenecking every decision through one person."
+				},
+				{
+					"text": "<strong>Accept good enough.</strong> Your way isn't the only way. It might not even be the best way. The 90% solution that ships today beats the 100% solution that sits in your approval queue for a month."
+				},
+				{
+					"text": "Founders syndrome doesn't go away overnight. It's a daily practice of stepping back and trusting the systems you've built. But the alternative — staying the bottleneck until the project dies — isn't really an option worth choosing."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Decentralize Yourself in 30 Days",
+			"a_description": "A repeatable process for removing yourself as the bottleneck without losing quality or direction.",
+			"items": [
+				{
+					"a_h3": "Audit your approval queue",
+					"text": "List every decision that currently requires your sign-off. For each one, ask: does this genuinely need me, or am I just used to being asked? Most founders discover that 70% of their approval queue is habit, not necessity."
+				},
+				{
+					"a_h3": "Write the decision guidelines",
+					"text": "For every recurring decision type, write a one-page guideline that someone else could follow. Not a step-by-step script — a set of principles and boundaries. \"Ship if it passes these three criteria\" is a guideline. \"Ask me first\" is a bottleneck."
+				},
+				{
+					"a_h3": "Delegate one thing completely",
+					"text": "Pick one area — support, code reviews, design decisions — and hand it over fully. No check-ins, no reviews, no secret monitoring. Let someone else own it for two weeks. The result will be different from what you'd produce. That's the point."
+				},
+				{
+					"a_h3": "Take a week off",
+					"text": "The ultimate test. Go offline for a week. If the project survives, you've started building a system that doesn't depend on you. If it doesn't, you now know exactly which pieces still need decentralizing."
+				},
+				{
+					"a_h3": "Review and expand",
+					"text": "After 30 days, assess what worked. Expand delegation to the next area. The goal isn't to remove yourself entirely — it's to make yourself optional for daily operations while staying involved in strategy and direction."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about founder syndrome and how to let go of control",
+			"items": [
+				{
+					"a_h3": "What is founder syndrome?",
+					"answer": "Founder syndrome is a pattern where the project's founder becomes a bottleneck by centralizing all decision-making, context, and authority. Nothing moves without their approval, which slows the project down and drives away contributors and collaborators."
+				},
+				{
+					"a_h3": "How do I know if I have founder syndrome?",
+					"answer": "Classic signs include: you can't delegate without redoing the work, your team waits for your approval on every decision, you're the only one who knows why things were built a certain way, and you feel personally attacked when someone criticizes the project."
+				},
+				{
+					"a_h3": "Is founder syndrome only a nonprofit problem?",
+					"answer": "No. While the term is commonly associated with founder's syndrome nonprofit organizations, it affects any project where one person holds all the context and decision-making power. Indie projects, open-source tools, and solo startups are all vulnerable."
+				},
+				{
+					"a_h3": "Can a first time founder avoid founder syndrome?",
+					"answer": "Awareness is the first step. First time founders are especially prone because building everything yourself is how the project started. The shift to delegation and documentation feels unnatural, but it's necessary. Start documenting decisions early and resist the urge to be the sole gatekeeper."
+				},
+				{
+					"a_h3": "What's the difference between founder syndrome and just being a hands-on leader?",
+					"answer": "A hands-on leader builds systems that work without them. A founder with founder syndrome builds systems that can't work without them. The test is simple: can your project survive two weeks without your input? If not, that's not leadership — that's a dependency."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Founder Diseases",
+			"a_description": "Founder syndrome doesn't exist in isolation. These related conditions share the same root — when the founder becomes the problem.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "flame"
+					},
+					"a_h3": "Startup Burnout",
+					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
+					"href": "/founder/startup-burnout/",
+					"a_image": {
+						"src": "/assets/imgs/burnt-matchstick.jpg",
+						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "ghost"
+					},
+					"a_h3": "Imposter Syndrome",
+					"a_description": "You shipped it, people are using it, and you're still convinced someone will figure out you have no idea what you're doing.",
+					"href": "/founder/imposter-syndrome/",
+					"a_image": {
+						"src": "/assets/imgs/cracked-mirror.jpg",
+						"alt": "Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "hourglass"
+					},
+					"a_h3": "Procrastination",
+					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
+					"href": "/founder/procrastination/",
+					"a_image": {
+						"src": "/assets/imgs/frozen-hourglass.jpg",
+						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "brain"
+					},
+					"a_h3": "Analysis Paralysis",
+					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
+					"href": "/idea/analysis-paralysis/",
+					"a_image": {
+						"src": "/assets/imgs/spinning-compass.jpg",
+						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Founder Syndrome — When You Become the Bottleneck | Sickness Labs",
+		"description": "Founder syndrome turns you into the bottleneck that kills your own project. Learn the symptoms, see real examples, and find the treatment to let go.",
+		"og": {
+			"title": "Founder Syndrome — The Bottleneck That Kills Your Own Project",
+			"description": "Every decision flows through you. Your team waits. Your project suffocates. Here's how founder syndrome happens and how to decentralize before it's too late.",
+			"url": "https://www.sicknesslabs.com/founder/founder-syndrome/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Founder Syndrome — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Founder Syndrome — The Bottleneck That Kills Your Own Project",
+			"description": "Every decision flows through you. Your team waits. Your project suffocates. Here's how founder syndrome happens and how to decentralize before it's too late.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Founder Syndrome — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

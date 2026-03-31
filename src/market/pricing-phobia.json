@@ -1,0 +1,385 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Market",
+					"href": "/market/"
+				},
+				{
+					"text": "Pricing Phobia"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_eyebrow": "Market",
+			"a_h1": "Pricing Phobia — Why Founders Are Afraid to Charge Real Money",
+			"a_description": "Your product is free, freemium, or priced so low it whispers \"side project.\" You're not being generous. You're being afraid. Pricing phobia is the disease of founders who can't face the market's verdict.",
+			"a_image": {
+				"src": "/assets/imgs/pricing-anxiety.jpg",
+				"alt": "Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting",
+				"width": "1024",
+				"height": "768"
+			}
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Pricing Phobia in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>You're not being generous. You're being afraid.</strong> Pricing phobia is the disease of founders who can't face the market's verdict."
+				},
+				{
+					"text": "<strong>Underpricing doesn't protect you from rejection.</strong> It guarantees a slower, more painful version of it. Free users don't give feedback, don't stick around, and don't tell their friends."
+				},
+				{
+					"text": "<strong>Price is the first message you send to the market.</strong> \"Cheap\" says \"not serious.\" Low prices attract the wrong customers and repel the right ones."
+				},
+				{
+					"text": "<strong>You're not afraid the price is wrong.</strong> You're afraid of rejection. That's imposter syndrome wearing a pricing hat."
+				},
+				{
+					"text": "<strong>Start higher than feels comfortable.</strong> You can always lower a price. Raising it later — when you have customers anchored to the old number — is brutal."
+				},
+				{
+					"text": "<strong>The test:</strong> if nobody complains about your pricing, you're too cheap. Some price resistance is a sign you're charging what it's worth."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Psychology Behind Pricing Phobia",
+			"paragraphs": [
+				{
+					"text": "Every indie founder has felt it. The moment you type a price into a checkout page and your stomach drops. $29/month? That's too much. Nobody will pay that. Better make it $9. Or $5. Or free with a donate button. Congratulations — you just told the market your product isn't worth anything."
+				},
+				{
+					"text": "Pricing phobia isn't about economics. It's about identity. You're not afraid the price is wrong — you're afraid of rejection. If someone won't pay $29/month, it means your work isn't valuable. And if your work isn't valuable, what does that say about you?"
+				},
+				{
+					"text": "This is imposter syndrome wearing a pricing hat. You look at competitors charging $99/month and think \"they can do that because they're a real company.\" But you're also a real company. You just don't believe it yet. And until you do, figuring out how to price a SaaS product will remain the scariest question you face."
+				},
+				{
+					"text": "The cruelest irony is that underpricing doesn't protect you from rejection — it guarantees a slower, more painful version of it. Free users don't give feedback, they don't stick around, and they don't tell their friends. Paying customers do all three. Low prices attract the wrong customers and repel the right ones. Your pricing strategy for new product launch is the first message you send to the market, and \"cheap\" says \"not serious.\""
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Confident price tag showing a bold number under warm spotlight, clean and decisive, dark luxury background",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/confident-price.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Crumpled pricing pages scattered on a dark desk, numbers crossed out and rewritten obsessively, anxious founder energy",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/crumpled-pricing.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "How to Price a SaaS Product",
+			"paragraphs": [
+				{
+					"text": "There are three approaches to how to price your SaaS product. All of them are better than guessing or copying your cheapest competitor."
+				},
+				{
+					"text": "<strong>Value-based pricing.</strong> How much money or time does your product save the customer? If your tool saves a marketer 10 hours per month, and their time is worth $75/hour, you're creating $750 in value. Charging $99/month is 13% of the value — a no-brainer for the customer. This is how to price your SaaS when you can quantify the benefit. Most founders massively underestimate the value they create."
+				},
+				{
+					"text": "<strong>Competitor-based pricing.</strong> What do alternatives cost? If every competitor charges $50-100/month, pricing at $9/month doesn't make you competitive — it makes you suspicious. Why are you so cheap? What's wrong with it? How to determine SaaS pricing using competitors: position yourself within the existing range, then differentiate on features or experience, not price."
+				},
+				{
+					"text": "<strong>Cost-plus pricing.</strong> What does it cost you to serve each customer, and what margin do you need? This is the floor, not the strategy. If your costs are $5/customer/month, charging $10 gives you $5 margin — which is nothing once you account for acquisition costs, support, and your own time. Cost-plus tells you the minimum. Value-based tells you the maximum. Price closer to the maximum."
+				},
+				{
+					"text": "How to price a SaaS product isn't a math problem. It's a confidence problem. The math usually supports a higher price than founders are willing to charge. The gap between the math and the price tag is pure fear."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Pricing Strategy for New Product Launch",
+			"paragraphs": [
+				{
+					"text": "A pricing strategy for new product launch is especially nerve-wracking because you have no data. No conversion rates, no churn benchmarks, no customer feedback on pricing. You're guessing. The key is to guess high, not low."
+				},
+				{
+					"text": "Start higher than feels comfortable. You can always lower prices — you can't easily raise them. Early adopters who pay $49/month will riot if you raise it to $99. But nobody notices if you drop from $99 to $49. Introductory pricing works in one direction."
+				},
+				{
+					"text": "If you're learning how to price your SaaS product for launch, consider tiered pricing from day one. Three tiers is the standard: a starter plan that's affordable, a professional plan that's your real price, and an enterprise plan that's aspirational. Most people pick the middle option. This is the anchoring effect — the expensive plan makes the middle one look reasonable."
+				},
+				{
+					"text": "Don't launch with a free tier. It's tempting to think free users will convert to paid, but the conversion rate often sits in the low single digits. That means for every 100 free users, you get 2-5 paying customers. The other 95 consume support, server resources, and your emotional energy without contributing revenue. A free trial with a deadline is vastly better than a free tier with no urgency."
+				},
+				{
+					"text": "Your pricing strategy for new product launch should include a built-in review date. \"We'll revisit pricing in 90 days with real data.\" This takes the pressure off the initial decision. You're not setting the price forever — you're setting it for the first experiment."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Fear-Based Pricing vs. Value-Based Pricing",
+			"a_description": "Two mindsets, two outcomes — how you think about pricing determines what you charge",
+			"columns": [
+				{
+					"a_h3": "Value-Based Pricing",
+					"items": [
+						"<div>🟢</div> Price reflects the value delivered to the customer",
+						"<div>🟢</div> Attracts serious buyers who evaluate ROI, not sticker price",
+						"<div>🟢</div> Healthy margins fund growth, support, and product development",
+						"<div>🟢</div> Price increases feel natural as the product improves",
+						"<div>🟢</div> Customers respect the product and use it actively"
+					]
+				},
+				{
+					"a_h3": "Fear-Based Pricing",
+					"items": [
+						"<div>🔴</div> Price reflects the founder's anxiety, not the product's worth",
+						"<div>🔴</div> Attracts bargain hunters who churn at the first alternative",
+						"<div>🔴</div> Razor-thin margins make every month a survival exercise",
+						"<div>🔴</div> Raising prices later triggers backlash from anchored users",
+						"<div>🔴</div> Low price signals low quality — serious buyers walk away"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Pricing Experiments That Work",
+			"paragraphs": [
+				{
+					"text": "Once you have traffic and users, how to determine SaaS pricing becomes an empirical question. Run experiments."
+				},
+				{
+					"text": "<strong>A/B test your pricing page.</strong> Show different prices to different visitors and measure conversion rates. If $29/month converts at 8% and $49/month converts at 6%, the $49 price generates more revenue per visitor ($2.94 vs $2.32). Higher price, fewer customers, more money. This math surprises founders every time."
+				},
+				{
+					"text": "<strong>Test willingness to pay in sales calls.</strong> If you do demos or sales calls, quote different prices to different prospects. Track close rates. You'll often find that doubling the price barely affects the close rate — which means you've been leaving half your revenue on the table."
+				},
+				{
+					"text": "<strong>Offer annual plans.</strong> Annual pricing is a pricing experiment disguised as a billing option. If customers readily commit to a year, they're signaling that the price is comfortable — maybe too comfortable. Use annual plan uptake as a signal that there's room to increase monthly pricing."
+				},
+				{
+					"text": "<strong>Remove the cheapest tier.</strong> This is the scariest experiment and often the most profitable. Kill your lowest tier. The customers who would have chosen it will either upgrade to the next tier or leave. If most upgrade, you've just increased revenue per customer. If most leave, they were never going to be profitable anyway."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Pricing Readiness Check",
+			"a_description": "Five signals that you're ready to set (or raise) your price with confidence",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "zap"
+					},
+					"a_h3": "Can you articulate the value in one sentence?",
+					"a_description": "If you can't say 'We save X customers Y hours/dollars per month,' you don't have a pricing foundation. Value-based pricing requires knowing the value. Quantify it before you price it."
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Have you talked to at least 10 potential customers about price?",
+					"a_description": "Not friends. Not other founders. Actual target customers. Ask what they pay for alternatives and what they'd expect to pay. The gap between those numbers is your pricing range."
+				},
+				{
+					"a_icon": {
+						"icon": "shield"
+					},
+					"a_h3": "Do you know your competitors' pricing inside out?",
+					"a_description": "Every tier, every feature gate, every discount. You don't need to match them — but you need to know where you sit in the landscape. Pricing in a vacuum is how you end up at $5/month."
+				},
+				{
+					"a_icon": {
+						"icon": "rocket"
+					},
+					"a_h3": "Are you willing to lose some prospects on price?",
+					"a_description": "If your close rate is 100%, you're too cheap. Healthy pricing means some people say no. That's not failure — that's segmentation. The right customers pay; the wrong ones filter themselves out."
+				},
+				{
+					"a_icon": {
+						"icon": "brain"
+					},
+					"a_h3": "Have you separated your self-worth from the price tag?",
+					"a_description": "A 'no' to your pricing is not a 'no' to you as a person. If clicking 'publish' on a pricing page makes your stomach drop, the problem isn't the number — it's your relationship with rejection."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Free-to-Paid Transition",
+			"paragraphs": [
+				{
+					"text": "If you've already launched free or too cheap, the transition to real pricing is painful but survivable. Ripping off the band-aid is better than bleeding slowly."
+				},
+				{
+					"text": "<strong>Grandfather existing users.</strong> Let current free or cheap users keep their rate for 6-12 months. New users get the real price. This avoids backlash while immediately improving unit economics on new acquisition. It's the standard approach for founders learning how to price your SaaS after a mispriced launch."
+				},
+				{
+					"text": "<strong>Add value before raising prices.</strong> Ship a significant feature or improvement, then announce new pricing. \"We've added X, Y, and Z, and our pricing now reflects the full value of the platform.\" This reframes the price increase as a product upgrade, not a cash grab."
+				},
+				{
+					"text": "<strong>Communicate directly.</strong> Don't sneak price changes in. Email every customer personally. Explain what's changing and why. Most will understand. The ones who leave over a price increase were the least valuable customers anyway — they were optimizing for cheap, not for your product."
+				},
+				{
+					"text": "The hardest part of how to price a SaaS product isn't the math or the strategy. It's looking at the number on the pricing page and believing your work is worth that much. It is. Charge accordingly. The market will tell you if you're wrong — and being wrong at $99 is a much better problem than being right at $9."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Set Your SaaS Price in One Afternoon",
+			"a_description": "A four-hour sprint to go from \"I have no idea what to charge\" to a published pricing page",
+			"items": [
+				{
+					"a_h3": "Calculate the value you create (60 minutes)",
+					"text": "Interview three existing users or beta testers. Ask: how much time does this save you per month? What would you pay someone to do this manually? Multiply their time savings by their hourly rate. Your price should be 10-20% of that value — enough to be a no-brainer, enough to sustain your business."
+				},
+				{
+					"a_h3": "Map the competitive landscape (45 minutes)",
+					"text": "Open every competitor's pricing page in a tab. Screenshot them all. Note their tiers, prices, and feature gates. Find the median price for your category. If most competitors charge $30-80/month, that's your ballpark. Pricing dramatically below the range signals amateur hour, not disruption."
+				},
+				{
+					"a_h3": "Design three tiers (45 minutes)",
+					"text": "Create a Starter, Pro, and Business plan. Starter covers the basics at the low end of your range. Pro is your real price — the one you want most customers on. Business is 2-3x Pro with premium features. The expensive tier makes Pro look reasonable. This is anchoring, and it works every time."
+				},
+				{
+					"a_h3": "Stress-test with the 10x rule (30 minutes)",
+					"text": "Imagine charging 10x your planned price. What would customers need to see to justify that? Now imagine 10x cheaper — what corners would you cut? Your actual price should sit where the product delivers clear value without requiring you to be a miracle worker. If 10x feels absurdly high, you might be starting too low."
+				},
+				{
+					"a_h3": "Publish and set a review date (30 minutes)",
+					"text": "Put the pricing page live. Set a calendar reminder for 90 days out. Between now and then, track conversion rates, objections in sales calls, and churn by plan. In 90 days, you'll have real data to adjust. The worst pricing decision is no decision — a live price you can iterate on beats a perfect price that never ships."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about pricing phobia and charging what you're worth",
+			"items": [
+				{
+					"a_h3": "How do I know if my SaaS is priced too low?",
+					"answer": "Three signs: nobody complains about the price (some price friction is healthy — it means you're charging enough to attract serious customers), your free-to-paid conversion is high but revenue per customer is low, and you can't afford to spend on customer acquisition because margins are too thin. If you're profitable per customer but can't grow, the price is almost certainly too low."
+				},
+				{
+					"a_h3": "Should I offer a free plan or a free trial?",
+					"answer": "Free trial, almost always. A 14-day trial with full features creates urgency and lets users experience the real product. Free plans create freeloaders who consume resources without converting. The exception is products with strong network effects (like Slack) where free users directly increase the product's value for paid users. If that's not your model, skip the free tier."
+				},
+				{
+					"a_h3": "How often should I change my pricing?",
+					"answer": "Review pricing every 6 months, but don't change it every time. Most SaaS products should raise prices at least once in their first two years — by then you've added features, improved the product, and built a reputation. If you've never raised prices, you're almost certainly undercharging. Each pricing change is a learning opportunity about how to determine SaaS pricing for your specific market."
+				},
+				{
+					"a_h3": "What if customers say my product is too expensive?",
+					"answer": "First, check if they're actually your target customer. Price objections from people outside your ideal segment are noise, not signal. Second, listen to what they compare you to — if they're comparing you to free tools, you have a positioning problem, not a pricing problem. Third, if your ideal customers consistently say it's too expensive, test a lower price point. But 'too expensive' from a few people is normal and healthy."
+				},
+				{
+					"a_h3": "How do I price my SaaS when I have no competitors?",
+					"answer": "No direct competitors doesn't mean no pricing anchors. Look at what your customers spend on the alternative solution — even if it's spreadsheets, consultants, or manual labor. If they spend $500/month on a freelancer to do what your tool does, pricing at $99/month is a bargain. Value-based pricing works best here: calculate the time or money your product saves, and price at 10-20% of that value."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Market-Phase Diseases",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Customer Validation",
+					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
+					"href": "/market/customer-validation/",
+					"a_image": {
+						"src": "/assets/imgs/magnifying-crowd.jpg",
+						"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "search"
+					},
+					"a_h3": "Market Validation",
+					"a_description": "The market research says there's a gap. But a gap in the market doesn't mean there's a market in the gap.",
+					"href": "/market/market-validation/",
+					"a_image": {
+						"src": "/assets/imgs/market-compass.jpg",
+						"alt": "Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Product-Market Fit",
+					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
+					"href": "/market/product-market-fit/",
+					"a_image": {
+						"src": "/assets/imgs/puzzle-fit.jpg",
+						"alt": "Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "shield-alert"
+					},
+					"a_h3": "Launch Fear",
+					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
+					"href": "/launch/launch-fear/",
+					"a_image": {
+						"src": "/assets/imgs/launch-button.jpg",
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Pricing Phobia — Why Founders Are Afraid to Charge Real Money | Sickness Labs",
+		"description": "How to price a SaaS product without fear. Pricing strategies, experiments, and the psychology behind why indie founders chronically undercharge.",
+		"og": {
+			"title": "Pricing Phobia — Why Founders Are Afraid to Charge Real Money | Sickness Labs",
+			"description": "How to price a SaaS product without fear. Pricing strategies, experiments, and the psychology behind why indie founders chronically undercharge.",
+			"url": "https://www.sicknesslabs.com/market/pricing-phobia/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Pricing Phobia — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Pricing Phobia — Why Founders Are Afraid to Charge Real Money | Sickness Labs",
+			"description": "How to price a SaaS product without fear. Pricing strategies, experiments, and the psychology behind why indie founders chronically undercharge.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Pricing Phobia — Sickness Labs"
+			}
+		}
+	}
+}

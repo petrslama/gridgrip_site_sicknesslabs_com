@@ -1,0 +1,9 @@
+.a_eyebrow {
+	font-weight: 600;
+	font-size: .75rem;
+	line-height: 1.33;
+	letter-spacing: .05em;
+	text-transform: uppercase;
+	color: var(--color_text-muted);
+	margin: 0;
+}

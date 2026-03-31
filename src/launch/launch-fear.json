@@ -1,0 +1,388 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Launch",
+					"href": "/launch/"
+				},
+				{
+					"text": "Launch Fear"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_eyebrow": "Launch",
+			"a_h1": "Launch Fear &mdash; Your Product Will Never Be &ldquo;Ready&rdquo;",
+			"a_description": "The product is 95% done. It has been 95% done for four months. Every week there is one more feature, one more fix, one more reason not to ship. This is not quality control. This is fear wearing a product manager costume.",
+			"a_image": {
+				"src": "/assets/imgs/launch-button.jpg",
+				"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety",
+				"width": "1024",
+				"height": "768"
+			}
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Launch Fear in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Your product will never be \"ready.\"</strong> The 95% that's been 95% for four months is not quality control — it's fear wearing a product manager costume."
+				},
+				{
+					"text": "<strong>Launch fear presents as perfectionism.</strong> The underlying condition is avoidance. You're not polishing — you're hiding."
+				},
+				{
+					"text": "<strong>You're not launching a monument. You're launching a hypothesis.</strong> The market will tell you what needs fixing faster than your anxiety will."
+				},
+				{
+					"text": "<strong>Every week you delay costs more than a bad launch.</strong> A bad launch gives you data. No launch gives you nothing."
+				},
+				{
+					"text": "<strong>Set a date. Make it public. Ship on that date</strong> regardless of what your inner critic says. The constraint forces decisions."
+				},
+				{
+					"text": "<strong>Nobody remembers a rough v1.</strong> They remember whether you shipped at all."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Diagnosis: Perfectionism as Procrastination",
+			"paragraphs": [
+				{
+					"text": "Launch fear is the most common disease in indie product development. It presents as perfectionism, but the underlying condition is avoidance. You are not polishing — you are hiding."
+				},
+				{
+					"text": "The symptoms are easy to spot. Your product launch plan has been \"almost final\" for weeks. You keep adding items to the checklist instead of crossing them off. Every user test reveals something that \"absolutely must\" be fixed before release. The backlog grows. The launch date moves. The product sits in a private repo, gathering dust."
+				},
+				{
+					"text": "Here is the uncomfortable truth: your product will never be ready. Not by your standards, anyway. The founders who ship understand this. The ones who don't are still tweaking button colors at 2 AM, calling it a product launch strategy."
+				},
+				{
+					"text": "A real product launch strategy starts with accepting imperfection. You are not launching a monument. You are launching a hypothesis. The market will tell you what needs fixing far faster than your anxiety will."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Clean minimal rocket on a launchpad under dark sky, ready to go, simple and unpolished but functional",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/ready-rocket.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Overcomplicated machine covered in unnecessary gears and wires in a dark workshop, over-engineered and never leaving the workbench",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/overengineered-machine.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Why Founders Delay: The Three Excuses",
+			"paragraphs": [
+				{
+					"text": "Launch fear wears three disguises, and they are all liars."
+				},
+				{
+					"text": "<strong>\"One more feature.\"</strong> The classic. You convince yourself that the product needs just one more thing before people will want it. But that one thing becomes two, then five, then a full redesign. A new product launch does not require feature completeness. It requires a core value proposition that works. Everything else is iteration."
+				},
+				{
+					"text": "<strong>\"The market isn't ready.\"</strong> Translation: you haven't done the work to validate whether anyone cares. This is not market timing — it is avoidance disguised as strategy. If you don't have a product release strategy that includes talking to real humans, you have a fantasy, not a plan."
+				},
+				{
+					"text": "<strong>\"I need more feedback first.\"</strong> You have been collecting feedback for months. From friends, from Twitter, from your dog. None of it matters until real users interact with a real product. Pre-launch feedback is a warm-up. Post-launch feedback is the game."
+				},
+				{
+					"text": "Every week you delay is a week of learning you forfeit. The cost of not launching is invisible but enormous: market windows close, motivation decays, competitors ship."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "What a Real Launch Plan Looks Like",
+			"paragraphs": [
+				{
+					"text": "A launch plan is not a 47-page document. It is a short list of decisions and deadlines that force you to ship."
+				},
+				{
+					"text": "Step one: pick a date. Not \"sometime next month.\" A specific date. Write it down. Tell someone. A launch strategy without a deadline is a daydream."
+				},
+				{
+					"text": "Step two: define your minimum. What is the smallest version of the product that delivers value? Not the version you are proud of — the version that solves one problem for one person. That is your launch scope. Everything else goes on the \"after launch\" list."
+				},
+				{
+					"text": "Step three: build your product launch marketing plan before you finish building. Distribution is not something you bolt on after the product is done. Your marketing plan should be running in parallel — collecting emails, building an audience, warming up the channels you will launch through."
+				},
+				{
+					"text": "Step four: ship. Not \"soft launch.\" Not \"beta.\" Ship. Put it in front of real people with real expectations. Let them use it, break it, ignore it. That data is worth more than six months of internal testing."
+				},
+				{
+					"text": "The difference between a launch strategy and a product release strategy is intent. A release strategy is operational — deployment, monitoring, rollback plans. A launch strategy is about reaching people. Both matter, but founders with launch fear tend to hide in the operational details to avoid the exposure of actually going public."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Shipping Mindset vs. Perfectionism Trap",
+			"a_description": "Two founders with the same product. One ships. One polishes forever. Here is what separates them.",
+			"columns": [
+				{
+					"a_h3": "Shipping Mindset",
+					"items": [
+						"<div>🟢</div> Sets a hard launch date and tells people",
+						"<div>🟢</div> Defines minimum viable scope and cuts everything else",
+						"<div>🟢</div> Treats v1 as a hypothesis to test",
+						"<div>🟢</div> Builds marketing in parallel with product",
+						"<div>🟢</div> Uses post-launch data to decide what to fix"
+					]
+				},
+				{
+					"a_h3": "Perfectionism Trap",
+					"items": [
+						"<div>🔴</div> Launch date keeps sliding by \"just one more week\"",
+						"<div>🔴</div> Scope grows every sprint with new must-haves",
+						"<div>🔴</div> Treats v1 as a reputation-defining moment",
+						"<div>🔴</div> Plans to \"figure out marketing after launch\"",
+						"<div>🔴</div> Uses internal opinions to decide what to build next"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Product Launch Marketing Plan You Keep Avoiding",
+			"paragraphs": [
+				{
+					"text": "Most indie founders treat marketing as an afterthought. The product launch marketing plan gets written the week before launch, if it gets written at all. This is backwards."
+				},
+				{
+					"text": "Your marketing plan does not need to be complex. For a new product launch, you need three things: a channel, a message, and a schedule."
+				},
+				{
+					"text": "<strong>Channel:</strong> Where do your potential users already spend time? Pick one or two channels and go deep. Reddit, Twitter, a niche forum, a Slack community — it does not matter which. What matters is that you show up consistently before launch day."
+				},
+				{
+					"text": "<strong>Message:</strong> What problem does your product solve, and for whom? If you cannot say this in one sentence, your product is not ready — but not in the way you think. The product might be fine. Your positioning is broken."
+				},
+				{
+					"text": "<strong>Schedule:</strong> Work backwards from launch day. Two weeks out: start teasing. One week out: share behind-the-scenes content. Launch day: make the announcement. Day after launch: follow up with everyone who showed interest. This is not a complex product launch plan. It is the minimum viable version of one."
+				},
+				{
+					"text": "The founders who succeed at new product launches are not the ones with the best products. They are the ones who treat distribution as seriously as development. Build the marketing muscle now, or keep wondering why nobody showed up on launch day."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Launch Readiness Gate",
+			"a_description": "Five checkpoints that determine whether you are genuinely not ready or just afraid to ship.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Does the core feature work end to end?",
+					"a_description": "Not every feature — the one feature that solves the one problem for the one user type. If a new user can sign up, use the core feature, and get value from it, you are ready."
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Do you have at least one distribution channel ready?",
+					"a_description": "A community, an email list, a social following — somewhere to announce. If you have zero audience, spend one week building one. Not six months. One week."
+				},
+				{
+					"a_icon": {
+						"icon": "search"
+					},
+					"a_h3": "Can you explain the value in one sentence?",
+					"a_description": "If you cannot say what the product does and who it is for in a single sentence, your positioning is broken. Fix the sentence, not the product."
+				},
+				{
+					"a_icon": {
+						"icon": "shield"
+					},
+					"a_h3": "Is there a way for users to report problems?",
+					"a_description": "A feedback form, an email address, a chat widget — anything. You do not need a support team. You need a way to hear when things break."
+				},
+				{
+					"a_icon": {
+						"icon": "rocket"
+					},
+					"a_h3": "Have you told three people your launch date?",
+					"a_description": "Accountability kills launch fear faster than confidence does. Tell three people you trust. Put it on your calendar. Make the date real."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Treatment: Ship Before You Are Ready",
+			"paragraphs": [
+				{
+					"text": "The cure for launch fear is exposure therapy. You ship something imperfect and survive the experience. Then you do it again."
+				},
+				{
+					"text": "Start with practical new product launch steps. Set a hard deadline — two weeks from today. Strip the feature list to the bone. Tell three people you trust that you are launching on that date. Now you have accountability and a constraint. Those two forces are more powerful than any amount of planning."
+				},
+				{
+					"text": "Accept that the first version will embarrass you slightly. That is the point. Reid Hoffman's \"if you're not embarrassed by the first version, you've launched too late\" is a cliche because it is true. Embarrassment is the price of learning, and learning is the price of success."
+				},
+				{
+					"text": "Your product launch strategy does not need to be perfect. It needs to exist. A mediocre plan executed today beats a brilliant plan executed never. The market is not waiting for you to feel ready. It is waiting for you to show up."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Ship Your Product in Two Weeks",
+			"a_description": "A concrete two-week plan to go from \"almost ready\" to launched. No excuses, no extensions.",
+			"items": [
+				{
+					"a_h3": "Day 1-2: Cut the Scope Brutally",
+					"text": "Open your backlog and delete everything that is not the core feature. If a task does not directly enable a user to sign up, use the product, and get value — it goes on the post-launch list. You will be uncomfortable. That is the point."
+				},
+				{
+					"a_h3": "Day 3-5: Fix Only Blocking Bugs",
+					"text": "A blocking bug prevents the core flow from working. A cosmetic issue does not. Fix crashes, broken auth, and data loss. Ignore pixel alignment, empty states, and edge cases that affect fewer than 5% of users. Ship ugly. Ugly works."
+				},
+				{
+					"a_h3": "Day 6-8: Build Your Launch Channel",
+					"text": "Pick one or two places where your target users already gather. Write a launch announcement post. Set up an email list with a simple landing page. Reach out to five people in your network who might share it. Do not build a marketing machine — build a megaphone."
+				},
+				{
+					"a_h3": "Day 9-11: Set the Date and Tell People",
+					"text": "Pick a specific launch day in the next three to four days. Post about it publicly. Tell your accountability partners. Schedule the announcement. The moment you commit publicly, the fear shifts from \"what if it fails\" to \"I need to make this happen.\""
+				},
+				{
+					"a_h3": "Day 12-14: Ship and Respond",
+					"text": "Launch on the date you set. Post the announcement. Reply to every comment and email within hours. Collect feedback obsessively. Your first 48 hours of real user data will teach you more than the last four months of polishing ever did."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about launch fear and shipping with confidence",
+			"items": [
+				{
+					"a_h3": "How do I know if my product is actually ready to launch?",
+					"answer": "If it solves one core problem for one type of user, it is ready. You do not need every feature, a perfect UI, or zero bugs. You need a working value proposition. If real users can sign up, use the core feature, and get value from it — ship it. Everything else is iteration material."
+				},
+				{
+					"a_h3": "What is the difference between a launch strategy and a release strategy?",
+					"answer": "A product release strategy is operational: deployment pipelines, monitoring, rollback procedures, server scaling. A product launch strategy is about reaching people: marketing channels, messaging, audience building, timing. Most indie founders obsess over the release side because it feels safe and technical. The launch side — putting yourself out there — is where the fear lives, and where the growth happens."
+				},
+				{
+					"a_h3": "What should a simple product launch plan include?",
+					"answer": "A launch date (non-negotiable), a one-sentence value proposition, two or three distribution channels, a pre-launch content schedule, and a post-launch follow-up plan. That is it. If your launch plan is longer than one page, you are procrastinating, not planning."
+				},
+				{
+					"a_h3": "How do I build a product launch marketing plan with no budget?",
+					"answer": "Focus on owned and earned channels. Build an email list before launch. Post in communities where your target users hang out. Write content that demonstrates your expertise. Build in public on Twitter or LinkedIn. Partner with other indie founders for cross-promotion. A product launch marketing plan does not require money — it requires consistency and genuine engagement with your audience."
+				},
+				{
+					"a_h3": "What are the most common mistakes in a new product launch?",
+					"answer": "Launching without an audience (nobody to tell), launching without a clear message (nobody understands what it does), waiting too long (the market moved on), and treating launch as a single event instead of a process. The biggest mistake of all is not launching at all — which is exactly what launch fear wants you to do."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Launch-Phase Diseases",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "megaphone-off"
+					},
+					"a_h3": "No Distribution",
+					"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget, zero audience, zero plan to change that.",
+					"href": "/launch/no-distribution/",
+					"a_image": {
+						"src": "/assets/imgs/empty-warehouse.jpg",
+						"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "users-round"
+					},
+					"a_h3": "No Audience First",
+					"a_description": "Launch day arrives and the only visitor is your own browser. You skipped the part where you build an audience before building the product.",
+					"href": "/launch/no-audience-first/",
+					"a_image": {
+						"src": "/assets/imgs/empty-theater.jpg",
+						"alt": "Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "rocket"
+					},
+					"a_h3": "MVP Launch",
+					"a_description": "Your MVP launch strategy is \"post on Reddit and hope.\" That's not a strategy — that's a wish.",
+					"href": "/launch/mvp-launch/",
+					"a_image": {
+						"src": "/assets/imgs/cardboard-rocket.jpg",
+						"alt": "Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "infinity"
+					},
+					"a_h3": "Perpetual Beta",
+					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
+					"href": "/graveyard/perpetual-beta/",
+					"a_image": {
+						"src": "/assets/imgs/under-construction-door.jpg",
+						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Launch Fear — Your Product Will Never Be Ready | Sickness Labs",
+		"description": "Why founders delay launching, the real cost of perfectionism, and what a practical product launch strategy looks like. Stop polishing. Start shipping.",
+		"og": {
+			"title": "Launch Fear — Your Product Will Never Be Ready | Sickness Labs",
+			"description": "Why founders delay launching, the real cost of perfectionism, and what a practical product launch strategy looks like. Stop polishing. Start shipping.",
+			"url": "https://www.sicknesslabs.com/launch/launch-fear/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Launch Fear — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Launch Fear — Your Product Will Never Be Ready | Sickness Labs",
+			"description": "Why founders delay launching, the real cost of perfectionism, and what a practical product launch strategy looks like. Stop polishing. Start shipping.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Launch Fear — Sickness Labs"
+			}
+		}
+	}
+}

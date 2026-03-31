@@ -1,0 +1,59 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "About"
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "About Page Heading",
+			"a_description": "Brief intro to the about page.",
+			"paragraphs": [
+				{
+					"text": "First paragraph about the company, team, or project. Tell visitors who you are and what you do."
+				},
+				{
+					"text": "Second paragraph with more details, history, or mission statement."
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "About — Website Name",
+		"description": "Meta description for the about page (150-160 characters recommended).",
+		"og": {
+			"title": "About — Website Name",
+			"description": "Open Graph description for the about page.",
+			"url": "https://www.example.com/about/",
+			"type": "website",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "OG image description"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "About — Website Name",
+			"description": "Twitter card description for the about page.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Twitter image description"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"fu_name": "a_button",
+	"fields": [
+		{
+			"fu_type": "text",
+			"fu_label": "Icon Before",
+			"fu_name": "icon_before",
+			"fu_list": "datalist__lucide_icons"
+		},
+		{
+			"fu_type": "text",
+			"fu_label": "Text",
+			"fu_name": "text"
+		},
+		{
+			"fu_type": "text",
+			"fu_label": "Icon after",
+			"fu_name": "icon_after",
+			"fu_list": "datalist__lucide_icons"
+		},
+		{
+			"fu_type": "select",
+			"fu_label": "Target",
+			"fu_name": "target",
+			"values": [
+				{
+					"fu_label": "Same window"
+				},
+				{
+					"fu_label": "New window",
+					"fu_value": "_blank"
+				}
+			]
+		},
+		{
+			"fu_type": "text",
+			"fu_label": "Link",
+			"fu_name": "href",
+			"width": "fullwidth"
+		},
+		{
+			"fu_type": "select",
+			"fu_label": "Style",
+			"fu_name": "style",
+			"values": [
+				{
+					"fu_label": "Primary",
+					"fu_value": "primary"
+				},
+				{
+					"fu_label": "Secondary",
+					"fu_value": "secondary"
+				}
+			]
+		}
+	]
+}

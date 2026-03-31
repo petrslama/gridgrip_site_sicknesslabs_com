@@ -1,0 +1,440 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Build",
+					"href": "/build/"
+				},
+				{
+					"text": "Feature Creep"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/swiss-army-knife.jpg"
+			},
+			"a_eyebrow": "Build",
+			"a_h1": "Feature Creep — When Your Product Tries to Do Everything",
+			"a_description": "It started as a simple tool. Then you added a dashboard. Then dark mode. Then an API. Then a settings page with 47 toggles. Feature creep is the disease that turns lean products into bloated messes — one \"quick addition\" at a time.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Feature Creep in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Feature creep is uncontrolled addition</strong> — the product grows wider, not deeper."
+				},
+				{
+					"text": "<strong>Scope creep expands existing work. Feature creep adds entirely new work.</strong> Different disease, different cure."
+				},
+				{
+					"text": "Every feature has a maintenance cost. <strong>If you can't support it alone for two years, don't ship it.</strong>"
+				},
+				{
+					"text": "<strong>Diagnosis:</strong> if you can't explain your product in one sentence, you're already infected."
+				},
+				{
+					"text": "<strong>Treatment:</strong> one in, one out — every new feature requires removing an existing one."
+				},
+				{
+					"text": "<strong>Useful growth</strong> deepens the core value. <strong>Feature bloat</strong> widens the product into territory it doesn't belong in."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "What Feature Creep Actually Looks Like",
+			"paragraphs": [
+				{
+					"text": "Feature creep doesn't announce itself. There's no moment where you think \"I'm about to ruin my product.\" It starts with a reasonable request. A user asks for export to CSV. Another wants filtering. A third suggests notifications. Each one makes sense in isolation. Each one is a small addition. And then one morning you open your codebase and realize your simple task manager now has Gantt charts, team permissions, a calendar view, recurring tasks, integrations with six services, and a reporting dashboard that nobody looks at."
+				},
+				{
+					"text": "This is <strong>feature bloat</strong> in its purest form. The product didn't get better — it got wider. It spread horizontally across every possible use case instead of going deep on the one thing that actually mattered. The original value proposition is still there, technically, but it's buried under seventeen menu items and a learning curve that didn't exist six months ago."
+				},
+				{
+					"text": "The worst part is that feature creep feels like progress. Every commit ships something. Every sprint delivers a new capability. The roadmap is always full. But the product is getting harder to use, harder to maintain, and harder to explain to new users in a single sentence."
+				},
+				{
+					"text": "If you can't describe what your product does in ten words, you might already be infected."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Zen-like minimal app UI mockup, single clean sidebar with 5 geometric icons, one spacious content area with a single graph, soft muted color palette, dark background, calm and airy layout, photorealistic UI design, studio lighting",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/minimal-ui.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Overloaded bloated app wireframe, sidebar exploding with 30 icons in multiple groups, three overlapping modal windows, tabbed subpanels inside panels, toolbar crammed with 15 buttons, everything fighting for attention, dark background, chaotic cluttered layout, flat wireframe style, no text or labels",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/bloated-ui.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "How Feature Creep Happens — One \"Quick Addition\" at a Time",
+			"paragraphs": [
+				{
+					"text": "Feature creep in project management typically follows a predictable pattern. Someone — a user, a stakeholder, a founder staring at a competitor's feature list at 2 AM — suggests something. It's small. It won't take long. It's adjacent to what the product already does. So you build it."
+				},
+				{
+					"text": "Then it needs settings. And edge cases need handling. And it doesn't quite fit the existing UI, so you adjust the layout. And now the navigation needs rethinking because there are too many items. One feature didn't just add itself — it reshaped everything around it."
+				},
+				{
+					"text": "The \"quick addition\" myth is the primary vector for product creep. Nothing is ever quick. A feature that takes a day to build takes a week to polish, a month to support, and forever to maintain. Every feature you add increases the surface area of your product — more bugs, more documentation, more things that can break when you change something else."
+				},
+				{
+					"text": "The compound effect is brutal. Ten \"quick\" features added over three months can transform a focused product into something that tries to be everything and succeeds at nothing."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Feature Bloat vs. Useful Growth",
+			"paragraphs": [
+				{
+					"text": "Not all new features are creep. Products need to evolve. The distinction is simple: <strong>useful growth</strong> deepens the core value proposition. Feature bloat widens the product into territory it doesn't belong in."
+				},
+				{
+					"text": "A note-taking app that adds better search, faster sync, and Markdown support is growing usefully. The same app adding a built-in calendar, a Kanban board, and a habit tracker is creeping. The first set of features makes the core experience better. The second set turns it into a different product entirely."
+				},
+				{
+					"text": "Ask yourself: does this feature make the thing people already love about the product even better? Or does it add a new thing that a different subset of users might theoretically want? The first is growth. The second is creep."
+				},
+				{
+					"text": "Feature bloat is especially dangerous for indie projects because you don't have the team to support a wide product. Enterprise companies can afford to bloat — they have departments dedicated to features most users never touch. You don't. Every feature you add is a feature you personally have to maintain, debug, and explain."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Useful Growth vs. Feature Bloat",
+			"a_description": "Know the difference before you build the wrong thing.",
+			"columns": [
+				{
+					"a_h3": "Useful Growth",
+					"items": [
+						"<div>🟢</div> Deepens the core value",
+						"<div>🟢</div> Existing users get more value",
+						"<div>🟢</div> Product stays easy to explain",
+						"<div>🟢</div> Fits existing architecture",
+						"<div>🟢</div> Note app adds better search"
+					]
+				},
+				{
+					"a_h3": "Feature Bloat",
+					"items": [
+						"<div>🔴</div> Widens into new territory",
+						"<div>🔴</div> New edge-case users might show up",
+						"<div>🔴</div> Elevator pitch keeps growing",
+						"<div>🔴</div> Requires new systems and dependencies",
+						"<div>🔴</div> Note app adds Kanban board"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Symptoms — How to Know You're Infected",
+			"paragraphs": [
+				{
+					"text": "Feature creep has clear diagnostic markers. You don't need a retrospective to spot them — just honest observation."
+				},
+				{
+					"text": "<strong>Your onboarding is a tour.</strong> If new users need a guided walkthrough to understand your product, you've added too much. Simple products don't need tutorials."
+				},
+				{
+					"text": "<strong>Your settings page has sections.</strong> A settings page with categories and sub-pages means your product has grown beyond what any single user needs."
+				},
+				{
+					"text": "<strong>You can't explain it in one sentence.</strong> \"It's a project tracker that also does time tracking, invoicing, team chat, and document management\" isn't a product — it's a feature list."
+				},
+				{
+					"text": "<strong>Usage data is lopsided.</strong> If 80% of users touch 20% of features, the other 80% of features are dead weight you're paying to maintain."
+				},
+				{
+					"text": "<strong>Releases keep slipping.</strong> When every change touches five systems and every feature has dependencies on three others, shipping anything becomes slow. Feature creep doesn't just bloat the product — it bloats the timeline."
+				},
+				{
+					"text": "If three or more of these sound familiar, the infection is already advanced."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "How to Say No to Features — And the People Behind Them",
+			"paragraphs": [
+				{
+					"text": "The cure for feature creep is the word \"no.\" Not \"maybe later.\" Not \"let's add it to the backlog.\" Just no. A backlog full of maybes is a roadmap for bloat. But \"no\" doesn't mean \"never\" — it means \"not without evidence.\" The goal isn't to freeze your product in place. It's to make every addition earn its spot through data, not instinct."
+				},
+				{
+					"text": "But here's what most advice skips: feature requests come with people attached. A paying customer who asked for CSV export. A stakeholder who promised a client that the feature was coming. A beta tester who stuck around specifically because you hinted at a roadmap item. Saying no to a feature is easy in the abstract. Saying no to a person — especially one who pays you, trusts you, or advocated for you — is the hardest thing a founder does."
+				},
+				{
+					"text": "This is why feature creep is a discipline problem masquerading as a product problem. The roadmap isn't the bottleneck. Your willingness to disappoint someone is. Every \"yes\" that avoids a difficult conversation adds weight your product will carry forever."
+				},
+				{
+					"text": "Build a filter for every feature request. Before anything gets built, it needs to pass three tests:"
+				},
+				{
+					"text": "<ol><li><strong>Does it serve the core use case?</strong> If the feature doesn't directly improve what most users came for, it doesn't belong.</li><li><strong>Would you build the product with this feature from day one?</strong> If it wouldn't be in v1, it probably shouldn't be in v2 either.</li><li><strong>Can you maintain it alone for two years?</strong> Every feature is a long-term commitment. If you can't support it indefinitely with your current resources, don't ship it.</li></ol>"
+				},
+				{
+					"text": "One hack that disarms stakeholder pressure: ask them which existing feature they'd remove to make room. This shifts the conversation from \"why won't you build this\" to \"what's worth the tradeoff.\" Most requesters have never considered the cost of addition — making it visible changes the dynamic entirely."
+				},
+				{
+					"text": "Another: before building anything, write the support docs first. If explaining the feature to users feels convoluted, the feature is too complex. If the docs practically write themselves, it might belong. The support-docs test is cheap, fast, and surprisingly accurate."
+				},
+				{
+					"text": "And the simplest filter of all: send a one-question survey to active users before starting any new build. \"Would you use this?\" with a yes/no. If fewer than half say yes, you just saved yourself weeks. If most say yes, you have conviction instead of assumption."
+				},
+				{
+					"text": "Sometimes the right answer isn't \"no\" — it's \"not yet, and here's what would change my mind.\" The best product teams don't reject features reflexively. They define the conditions under which a feature would make sense: a usage threshold, a revenue milestone, a market shift. This turns a confrontation into a collaboration. The requester knows exactly what needs to happen, and you've protected the product without burning the relationship."
+				},
+				{
+					"text": "Saying no gets easier with practice. The first rejected feature request feels like you're letting users down. The fiftieth feels like you're protecting your product. Both are true — you're choosing which users to serve and which problems to solve. The cost of saying yes is invisible until it's crushing."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Feature Filter",
+			"a_description": "Before anything gets built, it needs to pass every gate. If any answer is no, don't build it.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Does it serve the core use case?",
+					"a_description": "If the feature doesn't directly improve what most users came for, it doesn't belong."
+				},
+				{
+					"a_icon": {
+						"icon": "rocket"
+					},
+					"a_h3": "Would you build it from day one?",
+					"a_description": "If it wouldn't be in v1, it probably shouldn't be in v2 either."
+				},
+				{
+					"a_icon": {
+						"icon": "wrench"
+					},
+					"a_h3": "Can you maintain it alone for two years?",
+					"a_description": "If you can't support it indefinitely with your current resources, don't ship it."
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Do most active users want it?",
+					"a_description": "If fewer than half say yes, you just saved yourself weeks of wasted work."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Treatment — Getting Feature Creep Under Control",
+			"paragraphs": [
+				{
+					"text": "If you're already infected, the treatment is painful but straightforward: cut features. Not hide them behind settings. Not deprecate them with a timeline. Remove them."
+				},
+				{
+					"text": "Easier said than done. In a mature codebase, removal is architecturally expensive. Features intertwine — a reporting dashboard depends on data models that three other features also use. Deleting a feature can mean refactoring half the system. This is exactly why feature flags matter from day one. If every feature ships behind a flag, removal becomes surgical instead of traumatic. You flip a switch, monitor the impact, and clean up the code later. Without flags, removal requires the same engineering effort as building — which is why most teams avoid it and the bloat compounds."
+				},
+				{
+					"text": "Start with usage data. Identify the features that less than 10% of users touch. Those are your candidates. Announce the removal, give a reasonable migration window, and delete them. Yes, some users will complain. The ones who stay will have a better product."
+				},
+				{
+					"text": "For prevention, adopt a <strong>one in, one out</strong> policy. Every new feature requires removing an existing one. This forces ruthless prioritization and keeps the product's surface area constant. It sounds extreme, but it works because it makes the cost of addition visible."
+				},
+				{
+					"text": "Run a timed \"core task\" test monthly. Pick the one thing most users come to your product to do, time how long it takes a new user to complete it, and track that number across releases. If it goes up, you've added friction. This is the simplest canary for feature creep — when the core task gets slower, the product is getting worse, no matter how many new features you shipped."
+				},
+				{
+					"text": "Finally, schedule regular feature audits. Every quarter, review every feature against your core value proposition. If it doesn't directly support what makes your product valuable, flag it for removal. Feature creep is a chronic condition — it requires ongoing treatment, not a one-time fix."
+				},
+				{
+					"text": "There's also a dimension founders rarely consider: bloat has fundraising consequences. Investors look at product complexity as a proxy for operational risk. A focused product with clear metrics signals discipline. A bloated product with scattered usage data signals a team that can't say no — and if you can't say no to feature requests, investors wonder what else you can't say no to. Clean products raise cleaner rounds."
+				},
+				{
+					"text": "The healthiest products aren't the ones with the most features. They're the ones where every feature earns its place."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Evaluate a Feature Request",
+			"a_description": "A repeatable process for deciding whether a feature belongs in your product — or in the graveyard.",
+			"items": [
+				{
+					"a_h3": "Write the support doc first",
+					"text": "Before writing a single line of code, draft the help article for the feature. If the explanation feels convoluted or requires multiple caveats, the feature is too complex. If the doc practically writes itself, the feature might belong."
+				},
+				{
+					"a_h3": "Check it against the core task",
+					"text": "Time how long it takes a new user to complete your product's core task today. Estimate how the proposed feature would affect that time. If it adds friction to the primary workflow — even indirectly through UI complexity — it fails the test."
+				},
+				{
+					"a_h3": "Survey active users",
+					"text": "Send a one-question poll to active users: \"Would you use this?\" with a yes or no. If fewer than half say yes, you just saved yourself weeks. If most say yes, you have conviction instead of assumption."
+				},
+				{
+					"a_h3": "Define the reversal plan",
+					"text": "Before shipping, document how you would remove the feature if it underperforms. If removal would require refactoring half the codebase, ship it behind a feature flag. If you can't articulate the exit strategy, you're not ready to build it."
+				},
+				{
+					"a_h3": "Set a review date",
+					"text": "Every feature ships with a 90-day review. Check usage data against the threshold you defined. If it didn't hit the mark, remove it — no debates, no extensions. The review date makes removal a scheduled event, not an emotional decision."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about feature creep and keeping your product focused",
+			"items": [
+				{
+					"a_h3": "What is feature creep?",
+					"answer": "Feature creep is the gradual, uncontrolled expansion of a product's feature set beyond its original scope. It happens when new features are added without removing old ones or evaluating whether they serve the core use case. The result is a bloated product that tries to do everything and does nothing particularly well."
+				},
+				{
+					"a_h3": "What's the difference between feature creep and scope creep?",
+					"answer": "Feature creep is about the product — adding capabilities that don't belong. Scope creep is about the project — expanding the work required to deliver a defined outcome. Feature creep adds things nobody asked for. Scope creep makes agreed-upon things bigger than they were supposed to be. Both kill timelines, but through different mechanisms."
+				},
+				{
+					"a_h3": "How do you prevent feature creep in project management?",
+					"answer": "Define your core value proposition clearly and evaluate every feature request against it. Use a strict feature filter: does it serve the core use case, would it be in v1, and can you maintain it long-term? Keep a \"not doing\" list that's as visible as your roadmap. Review features quarterly and remove anything that doesn't earn its place."
+				},
+				{
+					"a_h3": "Is feature bloat the same as feature creep?",
+					"answer": "Feature bloat is the result. Feature creep is the process. Creep is the slow accumulation of features over time. Bloat is what your product looks like once creep has been running unchecked — an overloaded, confusing, hard-to-maintain product where the original value is buried under layers of unnecessary functionality."
+				},
+				{
+					"a_h3": "When should you add new features vs. improving existing ones?",
+					"answer": "Default to improving existing features. New features should only be added when they directly strengthen the core value proposition and pass a strict evaluation filter. If your existing features aren't polished, fast, and reliable, adding new ones is just spreading your resources thinner. Depth beats width for indie products."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Build-Phase Diseases",
+			"a_description": "Feature creep doesn't exist in isolation. These related conditions share the same root causes — and often travel together.",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/expanding-doorframe.jpg"
+					},
+					"a_h3": "Scope Creep",
+					"a_description": "The timeline was two months. Then someone said \"while we're at it\" and now it's month six with no end in sight.",
+					"href": "/build/scope-creep/",
+					"a_icon": {
+						"icon": "expand"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/golden-hammer.jpg"
+					},
+					"a_h3": "MVP Overengineering",
+					"a_description": "Your MVP has a microservice architecture, CI/CD pipeline, and 90% test coverage. It has zero users.",
+					"href": "/build/mvp-overengineering/",
+					"a_icon": {
+						"icon": "wrench"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/chess-board.jpg"
+					},
+					"a_h3": "Feature Prioritization",
+					"a_description": "Everything feels urgent, nothing feels important. The backlog is a graveyard of half-started features and unranked ideas.",
+					"href": "/build/feature-prioritization/",
+					"a_icon": {
+						"icon": "list-ordered"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/magpie-trinkets.jpg"
+					},
+					"a_h3": "Shiny Object Syndrome",
+					"a_description": "Every week there's a better idea. The current project is 60% done but the new one feels 100% exciting.",
+					"href": "/idea/shiny-object-syndrome/",
+					"a_icon": {
+						"icon": "sparkles"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Feature Creep — When Your Product Tries to Do Everything | Sickness Labs",
+		"description": "Feature creep turns focused products into bloated messes. Learn the symptoms of feature bloat, how product creep happens, and practical treatment strategies.",
+		"og": {
+			"title": "Feature Creep — The Disease That Kills Focused Products",
+			"description": "Your simple tool now has 47 settings and a dashboard nobody uses. Here's how feature creep happens, how to diagnose it, and how to cut the bloat before it kills your product.",
+			"url": "https://www.sicknesslabs.com/build/feature-creep/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Feature Creep — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Feature Creep — The Disease That Kills Focused Products",
+			"description": "Your simple tool now has 47 settings and a dashboard nobody uses. Here's how feature creep happens, how to diagnose it, and how to cut the bloat before it kills your product.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Feature Creep — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

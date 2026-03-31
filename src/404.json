@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_hero",
+			"a_h1": "404 — Page Not Found",
+			"a_description": "Sorry, this page doesn't exist.",
+			"m_buttons": [
+				{
+					"text": "Back to homepage",
+					"href": "/",
+					"style": "primary",
+					"target": "Same window"
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "404 — Page Not Found"
+	}
+}

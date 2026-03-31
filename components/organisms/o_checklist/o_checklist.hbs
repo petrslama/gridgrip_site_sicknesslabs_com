@@ -1,0 +1,12 @@
+<section class="o_checklist container-sm"
+	{{#if section_id}}
+	 id="{{section_id}}"
+	{{/if}}>
+	{{> m_section_title }}
+	{{#each items}}
+	<div class="item">
+		{{> a_h3 }}
+		{{> a_description }}
+	</div>
+	{{/each}}
+</section>

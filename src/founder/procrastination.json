@@ -1,0 +1,384 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Founder",
+					"href": "/founder/"
+				},
+				{
+					"text": "Procrastination"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/frozen-hourglass.jpg"
+			},
+			"a_eyebrow": "Founder",
+			"a_h1": "Procrastination — The Art of Productive Avoidance",
+			"a_description": "You reorganized your task board. You researched three new frameworks. You redesigned the settings page. You did everything except the one thing that would actually move your project forward. Welcome to entrepreneur procrastination.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Procrastination in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Entrepreneur procrastination doesn't look like laziness.</strong> It looks like work — research, planning, reorganizing, tool evaluations. All busy, zero progress."
+				},
+				{
+					"text": "<strong>Productive avoidance</strong> is substituting comfortable tasks for uncomfortable ones and calling it progress."
+				},
+				{
+					"text": "The uncomfortable task — the one you keep pushing off — <strong>is almost always the most important one.</strong> That's why you're avoiding it."
+				},
+				{
+					"text": "<strong>The test:</strong> \"what shipped this week?\" If the answer is nothing, the work was real but the progress was imaginary."
+				},
+				{
+					"text": "<strong>The fix:</strong> identify the one task you're avoiding, make it the first thing you do tomorrow, and set a timer. Action kills the dread."
+				},
+				{
+					"text": "<strong>Procrastination is an emotion regulation problem, not a time management problem.</strong> You're not avoiding the work — you're avoiding the feeling the work triggers."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Diagnosis: Why Entrepreneurs Procrastinate Differently",
+			"paragraphs": [
+				{
+					"text": "Procrastination for an entrepreneur doesn't look like lying on a couch. It looks like work. That's what makes it so dangerous and so invisible."
+				},
+				{
+					"text": "Entrepreneur procrastination hides behind productivity. You're \"doing research\" instead of writing the landing page. You're \"evaluating tools\" instead of building the feature. You're \"planning the roadmap\" instead of shipping the next version. Every one of these activities feels legitimate. None of them move the needle."
+				},
+				{
+					"text": "The procrastination entrepreneur is always busy. The to-do list is packed. Slack is active. The spreadsheet has seventeen tabs. But when you zoom out and ask \"what shipped this week?\" the answer is nothing. The work was real. The progress was imaginary."
+				},
+				{
+					"text": "This is different from laziness. Lazy people know they're not working. Procrastinating founders genuinely believe they are working. They've perfected the art of productive avoidance — substituting comfortable tasks for uncomfortable ones and calling it progress."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Clean minimal desk with a single open laptop and one sticky note, calm focused workspace, warm natural light, dark background, top-down view, everything in order",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/focused-desk.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Chaotic cluttered desk covered in sticky notes, open tabs on multiple screens, coffee cups, scattered notebooks and pens, overwhelming mess of busywork, dark background, overhead view, harsh fluorescent lighting",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/cluttered-desk.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Analysis Paralysis Connection",
+			"paragraphs": [
+				{
+					"text": "One of the most common forms of entrepreneur procrastination is analysis paralysis. The decision about which database to use turns into a three-week comparison. The choice between two pricing models becomes a month-long spreadsheet exercise. The question of what to build next spawns a user survey, three competitor analyses, and a strategy doc that nobody reads."
+				},
+				{
+					"text": "Founder decision making is hard because the stakes feel enormous. Every choice feels permanent. Pick the wrong tech stack and you'll have to rewrite everything. Price too low and you leave money on the table. Price too high and nobody buys. The weight of these decisions makes it feel rational to gather more information before committing."
+				},
+				{
+					"text": "But here's the thing: most decisions are reversible. Most choices are not as permanent as they feel. And the cost of deciding wrong is almost always lower than the cost of not deciding at all. While you're analyzing, your competitors are shipping. While you're comparing, your users are waiting. While you're planning, your motivation is draining."
+				},
+				{
+					"text": "Analysis paralysis is procrastination wearing a lab coat. It looks scientific and rigorous. It's actually just fear of being wrong, dressed up as thoroughness."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Real Progress vs. Productive Avoidance",
+			"a_description": "Both feel like work. Only one moves the needle.",
+			"columns": [
+				{
+					"a_h3": "Real Progress",
+					"items": [
+						"<div>🟢</div> Something shipped this week",
+						"<div>🟢</div> A user saw or tested it",
+						"<div>🟢</div> A decision was made and acted on",
+						"<div>🟢</div> The uncomfortable task is done",
+						"<div>🟢</div> You can point to a tangible output"
+					]
+				},
+				{
+					"a_h3": "Productive Avoidance",
+					"items": [
+						"<div>🔴</div> Lots of activity, nothing shipped",
+						"<div>🔴</div> Only you saw the work",
+						"<div>🔴</div> More research needed before deciding",
+						"<div>🔴</div> The hard task moved to next week again",
+						"<div>🔴</div> Output is plans, not products"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Done Is Better Than Perfect",
+			"paragraphs": [
+				{
+					"text": "\"Done is better than perfect\" — the quote resonated because it named something every builder knows: perfectionism is a form of procrastination."
+				},
+				{
+					"text": "The pull of \"just one more tweak\" is universal. The feature that's 95% done but never ships because the last 5% keeps expanding. The blog post that sits in drafts because the opening paragraph isn't quite right. The product that never launches because it's \"not ready yet.\""
+				},
+				{
+					"text": "Done is better than perfect isn't about shipping garbage. It's about recognizing that the difference between 90% and 100% is often invisible to your users but enormously expensive to you. That last 10% of polish consumes a disproportionate amount of time and energy, and most of it addresses problems that exist only in your head."
+				},
+				{
+					"text": "The real lesson: your users don't compare your product to the ideal version in your mind. They compare it to having nothing at all. And the imperfect thing that exists beats the perfect thing that doesn't."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Decision Fatigue and Founder Decision Making",
+			"paragraphs": [
+				{
+					"text": "Here's a less obvious cause of procrastination: you're making too many decisions. Founder decision making is relentless. What features to build. What bugs to fix. What to charge. Who to respond to first. What technology to use. Whether to pivot. Whether to quit."
+				},
+				{
+					"text": "Every decision costs cognitive energy. By afternoon, your brain has spent its decision budget, and you default to the path of least resistance — which is whatever feels easy and familiar. Reorganizing files feels easy. Tweaking CSS feels easy. The hard, ambiguous, high-stakes decisions get pushed to tomorrow, where the cycle repeats."
+				},
+				{
+					"text": "This is why procrastination often clusters around the most important tasks. It's not that you're avoiding them because they're hard (though they are). You're avoiding them because they require the kind of focused, high-quality thinking that your overtaxed brain can't produce after eight hours of smaller decisions."
+				},
+				{
+					"text": "The fix isn't motivation — it's structure. Do the hardest, most important thing first, when your decision-making capacity is full. Batch the small decisions. Eliminate the optional ones entirely. Reduce the total number of choices you face in a day so that the ones that matter actually get your best thinking."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Daily Anti-Procrastination Gate",
+			"a_description": "Run through this every morning before you open anything else.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "What is the single most important task today?",
+					"a_description": "Not three things. Not five. One. The task that, if completed, makes the day a success regardless of what else happens."
+				},
+				{
+					"a_icon": {
+						"icon": "alert-triangle"
+					},
+					"a_h3": "Am I avoiding it right now?",
+					"a_description": "If you're reaching for email, Slack, or the task board before doing the hard thing — you're already procrastinating. Catch it early."
+				},
+				{
+					"a_icon": {
+						"icon": "clock"
+					},
+					"a_h3": "Can I time-box this decision?",
+					"a_description": "If a decision is blocking progress, give it 30 minutes. When the timer runs out, decide with what you have. Perfect information never arrives."
+				},
+				{
+					"a_icon": {
+						"icon": "ship"
+					},
+					"a_h3": "Will this ship something?",
+					"a_description": "If the task you're about to do won't result in something a user can see or use, question whether it's real work or comfortable avoidance."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Treatment: Frameworks to Actually Ship",
+			"paragraphs": [
+				{
+					"text": "Procrastination isn't a character flaw. It's a response to ambiguity, fear, and cognitive overload. Here's how to break the cycle:"
+				},
+				{
+					"text": "<strong>The two-minute rule.</strong> If a task takes less than two minutes, do it now. Don't add it to a list. Don't schedule it. Just do it. This keeps the small stuff from piling up into an overwhelming backlog that makes everything feel impossible."
+				},
+				{
+					"text": "<strong>The \"one thing\" practice.</strong> Every morning, identify the single most important thing you could do today. Not three things. Not five. One. Do it before anything else. Before email, before Slack, before the comfortable busywork. If that's the only thing you accomplish today, the day was a success."
+				},
+				{
+					"text": "<strong>Ship the ugly version.</strong> Done is better than perfect, remember? Set a deadline and ship whatever you have when it arrives. Not when it's ready — when the clock runs out. You can iterate later. You can't iterate on something that doesn't exist."
+				},
+				{
+					"text": "<strong>Time-box decisions.</strong> Give yourself a fixed amount of time to make a decision — 30 minutes, an hour, a day. When the time is up, decide with what you have. Founder decision making doesn't improve linearly with more research. After a point, you're just postponing."
+				},
+				{
+					"text": "<strong>Accountability through visibility.</strong> Tell someone what you're going to ship and when. A build-in-public post, a message to a friend, a commitment in a founder group. Procrastination thrives in private. Visibility kills it."
+				},
+				{
+					"text": "The core truth about entrepreneur procrastination: the work you're avoiding is almost always the work that matters most. The discomfort you feel when you think about it is a compass, pointing directly at the thing you should do next."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Break a Procrastination Spiral in One Day",
+			"a_description": "A repeatable process for snapping out of productive avoidance and shipping something real.",
+			"items": [
+				{
+					"a_h3": "Name the task you're avoiding",
+					"text": "Be specific. Not \"work on the project\" — the exact task. \"Write the pricing page copy\" or \"Fix the signup flow bug.\" Procrastination feeds on vagueness. Specificity kills it. If you can't name the task, that's your first problem."
+				},
+				{
+					"a_h3": "Set a 25-minute timer",
+					"text": "Open the task. Start the timer. Work only on that task until the timer stops. No email, no Slack, no browser tabs. Twenty-five minutes of focused work on the right thing accomplishes more than eight hours of scattered busywork."
+				},
+				{
+					"a_h3": "Ship something before lunch",
+					"text": "The goal isn't to finish — it's to ship a visible piece. A draft, a commit, a deployed change. Something that exists outside your head. Once one thing ships, the second one is easier. Momentum breaks the spiral."
+				},
+				{
+					"a_h3": "Review what you actually did",
+					"text": "At the end of the day, write one sentence: \"Today I shipped [X].\" If you can't fill in the blank, the day was productive avoidance. If you can, you broke the cycle. Do it again tomorrow."
+				},
+				{
+					"a_h3": "Protect the morning",
+					"text": "Tomorrow, do the hardest task first — before email, before meetings, before the comfortable busywork. Your decision-making capacity is highest in the morning. Don't waste it on things that don't matter."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about procrastination patterns and how to break them",
+			"items": [
+				{
+					"a_h3": "Why do entrepreneurs procrastinate even when they're passionate about their project?",
+					"answer": "Passion doesn't eliminate fear. Entrepreneur procrastination is usually driven by fear of failure, perfectionism, or decision fatigue — not lack of interest. The more you care about the project, the higher the stakes feel, and the more tempting it is to avoid the tasks where you might fall short."
+				},
+				{
+					"a_h3": "Is \"done is better than perfect\" really good advice?",
+					"answer": "Yes, with nuance. The done is better than perfect quote isn't about shipping broken products — it's about recognizing that perfectionism is a form of procrastination. A good-enough product that exists will always beat a perfect product that doesn't. Ship, get feedback, iterate."
+				},
+				{
+					"a_h3": "How is analysis paralysis related to procrastination?",
+					"answer": "Analysis paralysis is procrastination disguised as diligence. Gathering more information feels productive, but past a certain point, you're not making a better decision — you're delaying making any decision at all. The cost of a wrong decision is almost always lower than the cost of no decision."
+				},
+				{
+					"a_h3": "What's the connection between decision fatigue and procrastination?",
+					"answer": "Founder decision making drains cognitive energy throughout the day. By the time you reach the hard, ambiguous tasks, your brain defaults to easy, familiar work. That's why important tasks keep getting pushed to tomorrow. The fix is doing the hardest thing first, when your mental reserves are full."
+				},
+				{
+					"a_h3": "How do I stop procrastinating on my indie project?",
+					"answer": "Start with one change: identify the single most important task each morning and do it before anything else. No email, no planning, no comfortable busywork first. Procrastination feeds on ambiguity and overwhelm — narrowing your focus to one thing cuts through both."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Founder Diseases",
+			"a_description": "Procrastination rarely acts alone. These conditions share the same engine — avoidance disguised as effort.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "crown"
+					},
+					"a_h3": "Founder Syndrome",
+					"a_description": "When the founder becomes the bottleneck. Every decision flows through one person, and the project can't breathe without them.",
+					"href": "/founder/founder-syndrome/",
+					"a_image": {
+						"src": "/assets/imgs/puppet-strings.jpg",
+						"alt": "Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "flame"
+					},
+					"a_h3": "Startup Burnout",
+					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
+					"href": "/founder/startup-burnout/",
+					"a_image": {
+						"src": "/assets/imgs/burnt-matchstick.jpg",
+						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "ghost"
+					},
+					"a_h3": "Imposter Syndrome",
+					"a_description": "You shipped it, people are using it, and you're still convinced someone will figure out you have no idea what you're doing.",
+					"href": "/founder/imposter-syndrome/",
+					"a_image": {
+						"src": "/assets/imgs/cracked-mirror.jpg",
+						"alt": "Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "brain"
+					},
+					"a_h3": "Analysis Paralysis",
+					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
+					"href": "/idea/analysis-paralysis/",
+					"a_image": {
+						"src": "/assets/imgs/spinning-compass.jpg",
+						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Procrastination — The Art of Productive Avoidance | Sickness Labs",
+		"description": "Entrepreneur procrastination hides behind productivity. Learn why founders avoid the work that matters and how to start shipping instead.",
+		"og": {
+			"title": "Procrastination — Why Busy Founders Ship Nothing",
+			"description": "You reorganized your task board, researched three frameworks, and redesigned the settings page. You shipped nothing. Here's how to break the productive avoidance cycle.",
+			"url": "https://www.sicknesslabs.com/founder/procrastination/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Procrastination — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Procrastination — Why Busy Founders Ship Nothing",
+			"description": "You reorganized your task board, researched three frameworks, and redesigned the settings page. You shipped nothing. Here's how to break the productive avoidance cycle.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Procrastination — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

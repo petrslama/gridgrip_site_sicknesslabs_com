@@ -1,0 +1,23 @@
+{
+	"fu_name": "a_image_cover",
+	"fields": [
+		{
+			"fu_type": "group",
+			"fu_name": "a_image_cover",
+			"fields": [
+				{
+					"fu_type": "text",
+					"fu_label": "Alt",
+					"fu_name": "alt"
+				},
+				{
+					"fu_type": "text",
+					"fu_label": "Src",
+					"fu_name": "src",
+					"fu_list": "datalist__image_sources",
+					"width": "fullwidth"
+				}
+			]
+		}
+	]
+}

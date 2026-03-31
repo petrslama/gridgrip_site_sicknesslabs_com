@@ -1,0 +1,381 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Market",
+					"href": "/market/"
+				},
+				{
+					"text": "Customer Validation"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/magnifying-crowd.jpg"
+			},
+			"a_eyebrow": "Market",
+			"a_h1": "Customer Validation — Stop Guessing, Start Asking",
+			"a_description": "Your friends said your idea was cool. Your mom said she'd buy it. Your coworker said \"totally.\" None of that is customer validation. It's social lubrication.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Customer Validation in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>\"Would you use this?\" is a worthless question.</strong> Everyone says yes to hypotheticals. The real question is: \"Will you pay for this right now?\""
+				},
+				{
+					"text": "<strong>Three things to validate, in order:</strong> the problem exists, it's painful enough to pay to fix, and your solution actually addresses it."
+				},
+				{
+					"text": "<strong>Your friends' enthusiasm is not validation.</strong> Neither is your mom's support. That's social lubrication, not market signal."
+				},
+				{
+					"text": "<strong>Validation isn't about confirming your idea is good.</strong> It's about finding out if it's bad — before you waste six months building it."
+				},
+				{
+					"text": "<strong>Talk to people who have the problem.</strong> Not people who might. Not people who know you. People who are actively suffering and currently paying to solve it some other way."
+				},
+				{
+					"text": "<strong>If you're not prepared to hear \"no,\"</strong> you're not doing validation. You're doing therapy."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "What Customer Validation Actually Means",
+			"paragraphs": [
+				{
+					"text": "Customer validation is the process of proving that real people will pay real money for what you're building. Not \"would you use this?\" — that question is worthless. Everyone says yes to hypotheticals. The real question is: \"Will you pay for this right now?\""
+				},
+				{
+					"text": "The customer validation process exists because founders are biologically incapable of objectivity about their own ideas. You've been marinating in the problem for months. You see patterns everywhere. You interpret silence as agreement and politeness as enthusiasm. Validation is the antidote to that delusion."
+				},
+				{
+					"text": "True customer discovery and validation means talking to people who have the problem you're solving, confirming the problem is painful enough to pay to fix, and verifying that your solution actually addresses it. Three separate things. Most founders skip straight to the third one and wonder why nobody buys."
+				},
+				{
+					"text": "Here's the uncomfortable truth: validation isn't about confirming your idea is good. It's about finding out if it's bad — before you waste six months building it. If you're not prepared to hear \"no,\" you're not doing validation. You're doing therapy."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Two people sitting across a table in a quiet coffee shop, one listening intently with a notepad, genuine conversation, warm lighting, dark background, candid documentary style",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/interview-coffee.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Person on a stage presenting enthusiastically to an audience of empty chairs with a few people politely clapping, dark theater, spotlight on speaker, wide angle",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/empty-audience.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Customer Validation Process, Step by Step",
+			"paragraphs": [
+				{
+					"text": "The customer validation process steps aren't complicated. They're just painful, which is why founders skip them."
+				},
+				{
+					"text": "<strong>Step 1: Define your assumption.</strong> Write down exactly who your customer is, what problem they have, and why your solution is better than what they're doing now. Be specific. \"Busy professionals\" is not a customer segment. \"Marketing managers at 10-50 person agencies who manually create social media reports\" — that's a segment."
+				},
+				{
+					"text": "<strong>Step 2: Find those people.</strong> Not your friends. Not your Twitter followers. Actual strangers who match your customer profile. LinkedIn, Reddit, industry forums, cold outreach. If you can't find them, that's your first red flag."
+				},
+				{
+					"text": "<strong>Step 3: Interview them about the problem.</strong> Not your solution — the problem. How do they deal with it today? How much time and money do they spend? Have they tried alternatives? What's broken about those alternatives? Shut up and listen. Your job is to understand their world, not pitch yours."
+				},
+				{
+					"text": "<strong>Step 4: Test willingness to pay.</strong> Show a mockup, a landing page, a prototype. Ask for a pre-order, a deposit, a letter of intent. Anything that involves commitment — not just verbal interest. Words are free. Money and time are not."
+				},
+				{
+					"text": "<strong>Step 5: Iterate or kill.</strong> If the customer validation steps reveal that nobody cares about the problem, or they care but won't pay, or they'll pay but not enough — you have data. Use it. Pivot the solution, pivot the audience, or kill the idea entirely."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Commitment Signals vs. Polite Interest",
+			"a_description": "Only one of these predicts whether someone will actually pay.",
+			"columns": [
+				{
+					"a_h3": "Commitment Signals",
+					"items": [
+						"<div>🟢</div> Signed up for a waitlist unprompted",
+						"<div>🟢</div> Put down a pre-order deposit",
+						"<div>🟢</div> Shared it with their team",
+						"<div>🟢</div> Asked when it's launching",
+						"<div>🟢</div> Offered to be a beta tester"
+					]
+				},
+				{
+					"a_h3": "Polite Interest",
+					"items": [
+						"<div>🔴</div> \"That sounds cool\"",
+						"<div>🔴</div> \"I would definitely use that\"",
+						"<div>🔴</div> \"Let me know when it's ready\"",
+						"<div>🔴</div> \"You should talk to my friend\"",
+						"<div>🔴</div> Nodded along during your pitch"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Confirmation Bias: The Silent Killer",
+			"paragraphs": [
+				{
+					"text": "The biggest threat to honest customer discovery and validation isn't a lack of data. It's your brain. Confirmation bias makes you hear what you want to hear, remember the positive responses, and rationalize away the negative ones."
+				},
+				{
+					"text": "\"They said they liked it\" — but did they say they'd pay for it? \"They said they'd definitely use it\" — but did they pull out their wallet? \"Nobody said it was a bad idea\" — because people are polite. Politeness is not validation."
+				},
+				{
+					"text": "To fight confirmation bias during the customer validation process, adopt these rules: never interview alone (bring someone who'll call out your blind spots), record every interview, count the negatives as carefully as the positives, and set a kill threshold before you start. If 7 out of 10 people say no, the idea is dead. Decide that <em>before</em> you hear the answers."
+				},
+				{
+					"text": "The founders who succeed at validation are the ones who actively try to disprove their idea. They're not looking for permission to build. They're looking for evidence that building is worth the next two years of their life."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Interview Techniques That Actually Work",
+			"paragraphs": [
+				{
+					"text": "Most founder interviews are accidentally rigged. You describe your brilliant idea, ask if it sounds good, and the person across from you — who wants to be supportive — says yes. Congratulations, you've validated nothing."
+				},
+				{
+					"text": "The Mom Test (Rob Fitzpatrick's framework) is the gold standard for the customer validation process: never tell people your idea, never ask if they'd buy something, and never ask hypothetical questions. Instead, ask about their life. What do they do today? What's the hardest part? How much do they spend on the problem? What have they tried?"
+				},
+				{
+					"text": "Good validation questions sound boring. \"Walk me through the last time you dealt with this.\" \"What did you do after that?\" \"How much did that cost you?\" Bad validation questions sound exciting. \"What if there was an app that could...\" — stop. You're pitching, not validating."
+				},
+				{
+					"text": "Do at least 20 interviews before drawing conclusions. Five isn't a pattern. Ten might be a coincidence. Twenty starts to look like data. And if you can't find 20 people willing to talk about the problem for 30 minutes, that tells you something important about how much they care."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Validation Evidence Checklist",
+			"a_description": "Before building, every box must be checked with real evidence — not assumptions.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "20+ strangers interviewed",
+					"a_description": "Not friends, not family. Strangers who match your target customer profile. Five is a start. Twenty is data."
+				},
+				{
+					"a_icon": {
+						"icon": "alert-circle"
+					},
+					"a_h3": "Problem confirmed as painful",
+					"a_description": "At least half of interviewees described the problem with emotion, specifics, and evidence of prior attempts to solve it."
+				},
+				{
+					"a_icon": {
+						"icon": "credit-card"
+					},
+					"a_h3": "Commitment signals collected",
+					"a_description": "Pre-orders, waitlist signups, deposits — something that cost them time or money. Verbal enthusiasm doesn't count."
+				},
+				{
+					"a_icon": {
+						"icon": "x-circle"
+					},
+					"a_h3": "Kill threshold defined",
+					"a_description": "You decided in advance what \"no\" looks like. If 7 out of 10 say no, the idea is dead — and you set that number before interviewing."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "When the Data Says Pivot",
+			"paragraphs": [
+				{
+					"text": "The customer validation steps will eventually produce a verdict. Sometimes it's clear: nobody has this problem, or they have it but won't pay, or they'll pay but the market is too small. Other times it's ambiguous: some people love it, some don't, and you can't tell why."
+				},
+				{
+					"text": "Ambiguity means you haven't talked to enough people, or you're talking to the wrong people, or your customer segment is too broad. Narrow it. Instead of \"small business owners,\" try \"solo e-commerce operators doing over $50K/year.\" The narrower your segment, the clearer the signal."
+				},
+				{
+					"text": "A pivot doesn't mean failure. It means the customer validation process is working. You learned that Version A of the idea doesn't match reality, so you adjust. The founders who fail are the ones who ignore the data and build anyway, convinced that the market is wrong and they're right."
+				},
+				{
+					"text": "Set a deadline. \"If I can't find 10 people willing to pre-order by [date], I'm pivoting or killing this.\" Without a deadline, validation becomes an endless loop of \"just one more interview\" — which is just procrastination wearing a research hat."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Run a Customer Validation Interview",
+			"a_description": "A repeatable process for extracting honest, useful signal from potential customers.",
+			"items": [
+				{
+					"a_h3": "Find the right person",
+					"text": "Identify someone who matches your target customer profile — not a friend, not a fellow founder. Use LinkedIn, Reddit, or industry communities. Cold outreach works: \"I'm researching how [role] handles [problem]. Can I ask you a few questions? 20 minutes, no pitch.\" Most people say yes."
+				},
+				{
+					"a_h3": "Ask about their life, not your idea",
+					"text": "Start with: \"Walk me through the last time you dealt with [problem].\" Follow up with: \"What did you do? How long did it take? How much did it cost?\" Never describe your solution. Never ask if they'd use something. Just listen to how they experience the problem today."
+				},
+				{
+					"a_h3": "Listen for emotion and specifics",
+					"text": "Strong signals: frustration, specific dollar amounts, detailed stories of failed attempts. Weak signals: vague agreement, hypothetical interest, \"yeah that's kind of annoying I guess.\" The difference between a real problem and a minor inconvenience shows up in how people talk about it."
+				},
+				{
+					"a_h3": "Test commitment at the end",
+					"text": "Only after understanding their problem: \"We're building something that addresses this. Would you like to be on the early access list?\" or \"Would you pay $X/month for a solution?\" Watch what they do, not what they say. A signup is a signal. \"Sounds interesting\" is politeness."
+				},
+				{
+					"a_h3": "Record and count honestly",
+					"text": "Write down every interview result immediately. Count positives and negatives separately. Set your kill threshold in advance (e.g., \"If fewer than 5 of 15 show commitment signals, I pivot\"). Review the data after 20 interviews, not after each one — individual interviews are noisy, patterns are signal."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about customer validation and understanding buyer needs",
+			"items": [
+				{
+					"a_h3": "How many customer validation interviews do I need?",
+					"answer": "At minimum, 20 interviews with people who match your target customer profile. Five conversations might reveal a pattern, but twenty confirm it. If you're getting wildly different answers after 20 interviews, your customer segment is probably too broad — narrow it down and start again."
+				},
+				{
+					"a_h3": "What's the difference between customer discovery and customer validation?",
+					"answer": "Customer discovery is about finding and understanding the problem — who has it, how painful it is, what they do about it today. Customer validation is about proving that your specific solution to that problem is something people will pay for. Discovery comes first. Validation tests whether your answer fits the question you discovered."
+				},
+				{
+					"a_h3": "Can I validate with a landing page instead of interviews?",
+					"answer": "A landing page can test demand (\"will people click a buy button?\") but it can't tell you why they buy or don't buy. Use both. Interviews give you depth — the motivations, objections, and language your customers use. Landing pages give you breadth — actual conversion data at scale. Neither alone is a complete customer validation process."
+				},
+				{
+					"a_h3": "How do I know if I'm just confirming my own bias?",
+					"answer": "If every single interview makes you more excited about the idea, you're probably filtering. Honest validation produces mixed signals. You should hear things that surprise you, contradict your assumptions, or make you uncomfortable. If you're not hearing any of that, you're either asking leading questions or only interviewing people who already agree with you."
+				},
+				{
+					"a_h3": "When should I stop validating and start building?",
+					"answer": "When you can describe your customer, their problem, and their willingness to pay — with evidence, not hope. Specifically: you've talked to 20+ people, at least half confirmed the problem is real and painful, and a meaningful percentage showed real buying intent (pre-orders, deposits, or signed up for early access unprompted). That's enough to build an MVP."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Market-Phase Diseases",
+			"a_description": "Customer validation is one piece of the market puzzle. These conditions reveal what happens when other pieces are missing.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "search"
+					},
+					"a_h3": "Market Validation",
+					"a_description": "The market research says there's a gap. But a gap in the market doesn't mean there's a market in the gap.",
+					"href": "/market/market-validation/",
+					"a_image": {
+						"src": "/assets/imgs/market-compass.jpg",
+						"alt": "Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Product-Market Fit",
+					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
+					"href": "/market/product-market-fit/",
+					"a_image": {
+						"src": "/assets/imgs/puzzle-fit.jpg",
+						"alt": "Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "tag"
+					},
+					"a_h3": "Pricing Phobia",
+					"a_description": "Your product is free, freemium, or priced so low it signals \"hobby project.\" Charging real money feels like a betrayal.",
+					"href": "/market/pricing-phobia/",
+					"a_image": {
+						"src": "/assets/imgs/pricing-anxiety.jpg",
+						"alt": "Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "eye-off"
+					},
+					"a_h3": "Validation Skip",
+					"a_description": "Building first, asking questions never. The product is finished — but nobody was ever asked if they wanted it.",
+					"href": "/idea/validation-skip/",
+					"a_image": {
+						"src": "/assets/imgs/bridge-leap.jpg",
+						"alt": "Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Customer Validation — Stop Guessing, Start Asking | Sickness Labs",
+		"description": "The customer validation process that actually works. Stop asking friends for opinions and start testing if real people will pay real money for your idea.",
+		"og": {
+			"title": "Customer Validation — Your Friends Lied, the Market Won't",
+			"description": "Your friends said your idea was cool. That's not validation — that's politeness. Here's how to run a real customer validation process with strangers, evidence, and commitment signals.",
+			"url": "https://www.sicknesslabs.com/market/customer-validation/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Customer Validation — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Customer Validation — Your Friends Lied, the Market Won't",
+			"description": "Your friends said your idea was cool. That's not validation — that's politeness. Here's how to run a real customer validation process with strangers, evidence, and commitment signals.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Customer Validation — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

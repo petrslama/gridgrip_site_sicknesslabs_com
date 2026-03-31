@@ -1,0 +1,11 @@
+/* TEAM */
+Name:
+Role:
+Contact:
+Location:
+
+/* SITE */
+Last update:
+Language: en
+Standards: HTML5, CSS3
+Software: GridGrip CMS

@@ -1,0 +1,385 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Market",
+					"href": "/market/"
+				},
+				{
+					"text": "Market Validation"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_eyebrow": "Market",
+			"a_h1": "Market Validation — Is There a Market in Your Gap?",
+			"a_description": "You found a gap in the market. Congratulations. Now the harder question: is there a market in your gap? Because empty space exists for a reason.",
+			"a_image": {
+				"src": "/assets/imgs/market-compass.jpg",
+				"alt": "Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor",
+				"width": "1024",
+				"height": "768"
+			}
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Market Validation in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Customer validation asks \"do people want this?\" Market validation asks \"are there enough of them?\"</strong> You can validate the customer and still fail at the market."
+				},
+				{
+					"text": "<strong>A gap in the market doesn't mean a market in the gap.</strong> Empty space exists for a reason — sometimes nobody wants what would fill it."
+				},
+				{
+					"text": "<strong>Three questions, answered with evidence:</strong> Is the market large enough? Is it accessible? Is it growing or at least stable?"
+				},
+				{
+					"text": "<strong>TAM is a fantasy. SAM is a guess. SOM is what matters.</strong> Your serviceable obtainable market is the only number that affects your bank account."
+				},
+				{
+					"text": "<strong>Competitors are proof of demand.</strong> No competitors usually means no market — not that you found a goldmine."
+				},
+				{
+					"text": "<strong>Validate the market before building the product.</strong> A beautiful boat is useless on a lake that's drying up."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Market Validation vs. Customer Validation",
+			"paragraphs": [
+				{
+					"text": "Customer validation asks: \"Do individual people want this?\" Market validation for startup founders asks something bigger: \"Are there <em>enough</em> people who want this, willing to pay <em>enough</em>, to sustain a business?\" You can validate the customer and still fail at the market."
+				},
+				{
+					"text": "Ten people who'd pay $50/month is customer validation. But if those are the only ten people on earth with that problem, you don't have a market — you have a consulting gig. Startup market validation forces you to zoom out from individual conversations and look at the landscape. How many people have this problem? How fast is that number growing? What do they spend on alternatives today?"
+				},
+				{
+					"text": "This distinction kills more startups than bad products do. The product works fine. The customers love it. But there aren't enough of them, or they don't spend enough, or the market is shrinking. You built a beautiful boat for a lake that's drying up."
+				},
+				{
+					"text": "Market validation for startup success means answering three questions with evidence: Is the market large enough? Is it accessible? Is it growing or at least stable? If any answer is no, your gap in the market is just a gap."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Clean desk with a single validated business plan under a spotlight, sharp focus, dark background fading into nothing",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/validated-plan.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Chaotic wall covered in sticky notes, conflicting arrows, and crossed-out assumptions, dim red lighting, startup chaos",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/assumption-chaos.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Idea Validation Framework",
+			"paragraphs": [
+				{
+					"text": "A proper idea validation framework doesn't start with your product. It starts with the market. Before you write a line of code, before you sketch a wireframe, you need to understand the territory you're entering."
+				},
+				{
+					"text": "<strong>Market size.</strong> TAM/SAM/SOM is the standard framework, but most founders abuse it. \"The global CRM market is $80 billion\" is not your market size. Your market size is the number of people who match your exact customer profile, multiplied by what they'd realistically pay you. Be brutally honest. If the answer is less than $1M ARR potential, you're building a lifestyle project, not a startup. That's fine — just know it going in."
+				},
+				{
+					"text": "<strong>Competitive landscape.</strong> If nobody else is solving this problem, ask why. Sometimes you're a visionary. Usually, others tried and failed, or the market doesn't exist. Research dead startups in your space. Their post-mortems are more valuable than any market report."
+				},
+				{
+					"text": "<strong>Timing.</strong> The best startup idea validation happens at the intersection of a real problem and a new enabling factor — new technology, new regulation, new behavior. If nothing has changed recently to make your solution newly possible or newly necessary, you're probably late or early. Both are deadly."
+				},
+				{
+					"text": "This idea validation framework isn't glamorous. It's spreadsheets and research and cold calls. But it's cheaper than building something nobody needs."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Market Research for New Product Launch",
+			"paragraphs": [
+				{
+					"text": "Corporate market research for new product launch costs six figures and takes months. You don't have that. Fortunately, you don't need it. Startup market validation can be done in weeks with free or cheap tools."
+				},
+				{
+					"text": "<strong>Search volume.</strong> Google Trends and keyword research tools tell you how many people are searching for solutions to the problem. If nobody's searching, either the problem isn't painful enough or people don't know it has a name. Both are bad signs for startup idea validation."
+				},
+				{
+					"text": "<strong>Competitor revenue.</strong> SimilarWeb, BuiltWith, and public financial data can estimate competitor revenue. If the top player in your space does $2M/year, the market ceiling might be $10-20M. Is that enough for you?"
+				},
+				{
+					"text": "<strong>Community signals.</strong> Reddit, Twitter, Stack Overflow, Product Hunt — where do people with this problem gather? What do they complain about? What alternatives do they mention? The language real users use is worth more than any analyst report."
+				},
+				{
+					"text": "<strong>Adjacent market data.</strong> Even if your exact niche has no published data, adjacent markets do. If you're building a project management tool for architects, look at project management market data and architecture software market data. The intersection gives you a realistic estimate for market research for new product launch without paying for custom reports."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Due Diligence vs. Wishful Thinking",
+			"a_description": "The difference between founders who validate markets and founders who hallucinate them",
+			"columns": [
+				{
+					"a_h3": "Real Market Signals",
+					"items": [
+						"<div>🟢</div> People are already paying for inferior alternatives",
+						"<div>🟢</div> Search volume exists for the problem (not just your solution)",
+						"<div>🟢</div> Competitors exist and some are profitable",
+						"<div>🟢</div> Customer interviews reveal consistent, urgent pain",
+						"<div>🟢</div> The market is growing or stable with clear tailwinds"
+					]
+				},
+				{
+					"a_h3": "False Positives",
+					"items": [
+						"<div>🔴</div> Friends and family say \"great idea\" without reaching for their wallet",
+						"<div>🔴</div> TAM numbers from analyst reports with no bottom-up validation",
+						"<div>🔴</div> Zero competitors (nobody else bothered — that's a signal)",
+						"<div>🔴</div> Survey respondents say they \"would\" pay (hypothetical money is free)",
+						"<div>🔴</div> A shrinking market with one viral outlier creating the illusion of growth"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Cheap and Fast Validation Techniques",
+			"paragraphs": [
+				{
+					"text": "Startup market validation doesn't require a finished product. It requires creativity and a tolerance for rejection."
+				},
+				{
+					"text": "<strong>The smoke test.</strong> Build a landing page for a product that doesn't exist yet. Drive traffic with $200 of Google ads. Measure signups or clicks on a buy button. If nobody clicks, you have your answer. If people click, you have leads for customer interviews. This is startup idea validation at its cheapest."
+				},
+				{
+					"text": "<strong>The Wizard of Oz.</strong> Offer the service manually before building the technology. If you're planning to build an AI that writes job descriptions, write them yourself for 10 companies. Charge real money. If they pay and come back for more, you've validated demand without writing a single algorithm."
+				},
+				{
+					"text": "<strong>The concierge MVP.</strong> Similar to Wizard of Oz, but the customer knows it's manual. \"We're building this tool. In the meantime, our team will do it for you.\" The response tells you everything: do they care enough to use a clunky version?"
+				},
+				{
+					"text": "<strong>Pre-sales.</strong> The ultimate market validation for startup ideas. Ask people to pay before the product exists. Crowdfunding, pre-order pages, annual subscriptions at a discount. Nothing validates a market like collected revenue. If you can't sell it before it's built, building it won't fix that."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Market Validation Checklist",
+			"a_description": "Five evidence-based checks before you commit to building anything",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "search"
+					},
+					"a_h3": "Can you find people searching for a solution?",
+					"a_description": "Check Google Trends, keyword tools, and forum activity. If nobody is actively looking for what you're building, the problem isn't painful enough to create a market."
+				},
+				{
+					"a_icon": {
+						"icon": "banknote"
+					},
+					"a_h3": "Are people already spending money on alternatives?",
+					"a_description": "Spreadsheets, freelancers, duct-taped tools — any money flowing toward the problem is proof of willingness to pay. No spending means no market, no matter how loud the complaints."
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Can you reach enough customers affordably?",
+					"a_description": "A real market needs accessible channels. If your ideal customers don't gather anywhere online, don't search for solutions, and can't be targeted with ads, acquisition costs will kill you."
+				},
+				{
+					"a_icon": {
+						"icon": "trending-up"
+					},
+					"a_h3": "Is the market growing or at least stable?",
+					"a_description": "Check industry trends, regulatory changes, and technology shifts. A shrinking market means you're fighting for a smaller pie every year. Stable is fine. Growing is ideal. Shrinking is a death sentence."
+				},
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Can you estimate a realistic SOM above your revenue floor?",
+					"a_description": "Forget TAM fantasies. Calculate the number of reachable customers multiplied by a realistic price. If that number doesn't clear your minimum viable revenue, the market is too small for your ambitions."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Red Flags the Market Doesn't Exist",
+			"paragraphs": [
+				{
+					"text": "Some markets look real but aren't. The idea validation framework should include kill criteria — signals that mean the market is imaginary, too small, or fundamentally broken."
+				},
+				{
+					"text": "<strong>Nobody's spending money on alternatives.</strong> If people solve the problem with free tools, spreadsheets, or just ignoring it, they won't pay for your solution either. A problem people tolerate is not a market."
+				},
+				{
+					"text": "<strong>The graveyard is full.</strong> Three or more well-funded startups have tried this exact thing and died. Unless you know specifically why they failed and why your approach is different, you're walking into the same wall."
+				},
+				{
+					"text": "<strong>Your market requires education.</strong> If you have to convince people they have the problem before you can sell the solution, your customer acquisition cost will eat you alive. Markets where people already know they're in pain are dramatically easier than markets where you have to explain the pain."
+				},
+				{
+					"text": "<strong>The market is a feature, not a product.</strong> Sometimes the thing you're building should be a feature inside an existing product, not a standalone business. If every potential customer says \"oh, I wish [existing tool] did that,\" your market is an acquisition target, not an independent company. That's not necessarily bad — but it changes your strategy entirely."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Validate a Market in Two Weeks",
+			"a_description": "A sprint-based approach to answering the only question that matters: is there a market in your gap?",
+			"items": [
+				{
+					"a_h3": "Map the landscape (Days 1-2)",
+					"text": "Spend two days on pure research. Identify every competitor, alternative, and adjacent solution. Check their traffic with SimilarWeb, read their reviews, estimate their revenue. Search for dead startups in the space and read their post-mortems. By the end of day two, you should know who's tried this, who's succeeding, and who's failed."
+				},
+				{
+					"a_h3": "Quantify demand signals (Days 3-5)",
+					"text": "Run keyword research to measure search volume for the problem and existing solutions. Check Reddit, Twitter, and niche forums for complaint frequency. Look at job postings that mention the problem — companies hiring to solve it manually is a strong demand signal. Build a spreadsheet with hard numbers, not vibes."
+				},
+				{
+					"a_h3": "Talk to potential customers (Days 6-9)",
+					"text": "Schedule 15-20 short interviews with people who match your customer profile. Don't pitch your solution — ask about their problem, current workarounds, and what they spend on alternatives. Listen for patterns. If eight out of fifteen describe the same pain and the same budget, you have a market signal."
+				},
+				{
+					"a_h3": "Run a demand test (Days 10-12)",
+					"text": "Build a simple landing page describing the solution. Run $200 worth of Google or LinkedIn ads targeting your ideal customer. Measure click-through rates and email signups. If people click and sign up, the demand is real. If the ads get impressions but no clicks, your positioning is wrong or the problem isn't urgent enough."
+				},
+				{
+					"a_h3": "Make the call (Days 13-14)",
+					"text": "Assemble all evidence: competitor revenue, search volume, interview patterns, and demand test results. Score each signal as green, yellow, or red. If the majority is green, build the MVP. If it's mostly red, kill the idea or pivot. Yellow means you need one more week of data — but only one. Validation has a deadline."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about market validation and testing real demand",
+			"items": [
+				{
+					"a_h3": "How do I estimate market size without expensive research?",
+					"answer": "Start with search volume data from free keyword tools — this shows active demand. Then estimate the number of potential customers using LinkedIn filters, industry reports, or census data. Multiply by a realistic price point. Cross-reference with competitor revenue estimates from SimilarWeb or public data. It won't be precise, but it'll tell you if you're looking at a $100K market or a $100M market, and that's the distinction that matters."
+				},
+				{
+					"a_h3": "What if my competitors are all doing well — does that mean the market is validated?",
+					"answer": "Healthy competitors are a strong positive signal for market validation. It means people pay for solutions, the market is real, and there's proven demand. The question becomes: can you carve out a segment? Look for underserved niches, pricing gaps, or feature gaps in what competitors offer. A crowded market with clear differentiation opportunities is better than an empty market with no proof anyone cares."
+				},
+				{
+					"a_h3": "How long should startup market validation take?",
+					"answer": "Two to four weeks of focused work. That includes keyword research, competitor analysis, 15-20 customer interviews, and at least one demand test (landing page, pre-sales, or smoke test). If you're spending longer than a month, you're either overthinking it or avoiding the answer. Validation is about speed — get enough data to make a go/no-go decision, not enough data to write a dissertation."
+				},
+				{
+					"a_h3": "Can a market be too small for a startup but fine for an indie project?",
+					"answer": "Absolutely. A $500K/year market is worthless for a VC-backed startup that needs to reach $100M. But it's life-changing for a solo founder who needs $10K/month. Know what you're building and for whom. Startup market validation and indie project validation have different thresholds. Be honest about which game you're playing."
+				},
+				{
+					"a_h3": "What's the minimum viable market research for a new product launch?",
+					"answer": "At minimum: confirm search volume exists for the problem, verify at least two competitors are generating revenue, talk to 15+ potential customers, and run one demand test (landing page or pre-sale). If all four signals are positive, you have enough market research for a new product launch to justify building an MVP. If any signal is clearly negative, investigate further before proceeding."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Market-Phase Diseases",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Customer Validation",
+					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
+					"href": "/market/customer-validation/",
+					"a_image": {
+						"src": "/assets/imgs/magnifying-crowd.jpg",
+						"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Product-Market Fit",
+					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
+					"href": "/market/product-market-fit/",
+					"a_image": {
+						"src": "/assets/imgs/puzzle-fit.jpg",
+						"alt": "Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "tag"
+					},
+					"a_h3": "Pricing Phobia",
+					"a_description": "Your product is free, freemium, or priced so low it signals \"hobby project.\" Charging real money feels like a betrayal.",
+					"href": "/market/pricing-phobia/",
+					"a_image": {
+						"src": "/assets/imgs/pricing-anxiety.jpg",
+						"alt": "Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "brain"
+					},
+					"a_h3": "Analysis Paralysis",
+					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
+					"href": "/idea/analysis-paralysis/",
+					"a_image": {
+						"src": "/assets/imgs/spinning-compass.jpg",
+						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Market Validation — Is There a Market in Your Gap? | Sickness Labs",
+		"description": "Practical market validation for startups. Cheap, fast techniques to prove your market exists before you build something nobody wants to buy.",
+		"og": {
+			"title": "Market Validation — Is There a Market in Your Gap? | Sickness Labs",
+			"description": "Practical market validation for startups. Cheap, fast techniques to prove your market exists before you build something nobody wants to buy.",
+			"url": "https://www.sicknesslabs.com/market/market-validation/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Market Validation — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Market Validation — Is There a Market in Your Gap? | Sickness Labs",
+			"description": "Practical market validation for startups. Cheap, fast techniques to prove your market exists before you build something nobody wants to buy.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Market Validation — Sickness Labs"
+			}
+		}
+	}
+}

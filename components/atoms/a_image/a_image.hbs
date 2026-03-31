@@ -1,0 +1,10 @@
+{{#if a_image.src}}
+<{{#if a_image.href}}a href="{{a_image.href}}"{{else}}div{{/if}} class="a_image">
+	<img
+		 src="{{a_image.src}}"
+		 alt="{{a_image.alt}}"
+		 {{#if a_image.width}} width="{{parseInt a_image.width}}"{{/if}}
+		 {{#if a_image.height}} height="{{parseInt a_image.height}}"{{/if}}
+	 />
+</{{#if a_image.href}}a{{else}}div{{/if}}>
+{{/if}}

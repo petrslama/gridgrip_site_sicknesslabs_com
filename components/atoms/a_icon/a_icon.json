@@ -1,0 +1,51 @@
+{
+	"fu_name": "a_icon",
+	"fields": [
+		{
+			"fu_type": "group",
+			"fu_name": "a_icon",
+			"fields": [
+				{
+					"fu_type": "text",
+					"fu_label": "Icon",
+					"fu_name": "icon",
+					"fu_list": "datalist__lucide_icons"
+				},
+				{
+					"fu_type": "radiotabs",
+					"fu_name": "icon_style",
+					"tabs": [
+						{
+							"fu_label": "Default",
+							"fields": []
+						},
+						{
+							"fu_label": "Custom",
+							"fu_value": "custom",
+							"fields": [
+								{
+									"fu_type": "color",
+									"fu_label": "Stroke",
+									"fu_name": "stroke",
+									"fu_placeholder": "currentColor"
+								},
+								{
+									"fu_type": "number",
+									"fu_label": "Stroke width",
+									"fu_name": "stroke_width",
+									"fu_placeholder": "1"
+								},
+								{
+									"fu_type": "color",
+									"fu_label": "Fill",
+									"fu_name": "fill",
+									"fu_placeholder": "none"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

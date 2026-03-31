@@ -1,0 +1,42 @@
+.o_cards {
+
+	.card {
+		display: flex;
+		flex-direction: column;
+		gap: .5rem;
+		background: var(--bg_surface);
+		border-radius: var(--radius-sm);
+		text-decoration: none;
+		transition: box-shadow .2s ease;
+		margin-bottom: 1.5rem;
+		overflow: hidden;
+
+		&:hover {
+			box-shadow: 0 2px 12px rgba(0, 0, 0, .08);
+		}
+
+		.a_image {
+			display: block;
+
+			img {
+				display: block;
+				width: 100%;
+				height: auto;
+			}
+		}
+
+		.a_h3,
+		.a_description {
+			padding-inline: 1.5rem;
+		}
+
+		.a_h3 {
+			padding-top: 1rem;
+			color: var(--color_text);
+		}
+
+		.a_description {
+			padding-bottom: 1.5rem;
+		}
+	}
+}

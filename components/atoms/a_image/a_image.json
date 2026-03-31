@@ -1,0 +1,38 @@
+{
+	"fu_name": "a_image",
+	"fields": [
+		{
+			"fu_type": "group",
+			"fu_name": "a_image",
+			"fields": [
+				{
+					"fu_type": "text",
+					"fu_label": "Alt",
+					"fu_name": "alt"
+				},
+				{
+					"fu_type": "text",
+					"fu_label": "Width",
+					"fu_name": "width"
+				},
+				{
+					"fu_type": "text",
+					"fu_label": "Height",
+					"fu_name": "height"
+				},
+				{
+					"fu_type": "text",
+					"fu_label": "Src",
+					"fu_name": "src",
+					"fu_list": "datalist__image_sources"
+				},
+				{
+					"fu_type": "text",
+					"fu_label": "Link",
+					"fu_name": "href",
+					"fu_list": "datalist__site_pages_links"
+				}
+			]
+		}
+	]
+}

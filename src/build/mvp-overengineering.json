@@ -1,0 +1,414 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Build",
+					"href": "/build/"
+				},
+				{
+					"text": "MVP Overengineering"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/golden-hammer.jpg"
+			},
+			"a_eyebrow": "Build",
+			"a_h1": "MVP Overengineering — When Your \"Minimum\" Isn't Minimal",
+			"a_description": "Your MVP has a microservice architecture, a CI/CD pipeline, and 90% test coverage. It also has zero users. MVP overengineering is the disease that mistakes infrastructure for progress — and it kills more launches than bad ideas ever will.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "MVP Overengineering in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>If your MVP takes longer than 4-6 weeks, it's not minimal.</strong> The M stands for minimum."
+				},
+				{
+					"text": "<strong>Over-building is procrastination disguised as preparation.</strong> Infrastructure feels productive. Launching feels terrifying. So you stay in the code."
+				},
+				{
+					"text": "Your MVP needs one thing: <strong>the core action that delivers value.</strong> Not a dashboard. Not an API. Not dark mode."
+				},
+				{
+					"text": "<strong>The willingness-to-pay test:</strong> would someone exchange money for this specific capability? If not, cut it."
+				},
+				{
+					"text": "<strong>Use boring technology.</strong> The fastest code is the code you've written before. The MVP is not the place to learn a new stack."
+				},
+				{
+					"text": "<strong>If your MVP can't beat a spreadsheet</strong> at solving the core problem, no amount of engineering will save it."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Signs Your MVP Is Overengineered",
+			"paragraphs": [
+				{
+					"text": "An overengineered MVP is easy to spot from the outside and nearly invisible from the inside. That's what makes it dangerous. You're deep in the code, solving real technical problems, shipping real infrastructure. It feels like progress. But progress toward what?"
+				},
+				{
+					"text": "<strong>You've been building for months without showing it to anyone.</strong> An MVP that takes longer than 4-6 weeks is almost certainly over-scoped. The M in MVP stands for minimum, and minimum doesn't take months."
+				},
+				{
+					"text": "<strong>Your tech stack has more services than your product has features.</strong> If you have Kubernetes, a message queue, three databases, and a caching layer for a product that doesn't have paying users yet, you've optimized for a scale problem you don't have."
+				},
+				{
+					"text": "<strong>You're writing tests for features nobody has validated.</strong> Testing is good. Testing features that might not survive first contact with real users is a waste. Ship first, test what survives."
+				},
+				{
+					"text": "<strong>You keep refactoring before launching.</strong> Refactoring pre-launch code is polishing a prototype. The code will change dramatically once real users touch it anyway."
+				},
+				{
+					"text": "The core symptom is this: you're building infrastructure for a business that doesn't exist yet. The architecture is ready for 100,000 users, but you haven't validated whether 10 people want it."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Simple wooden workbench with a single claw hammer and three nails, clean bare surface, warm workshop lighting, dark background, minimalist and functional, top-down view",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/simple-workbench.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Massive industrial factory assembly line with robotic arms, conveyor belts, and heavy machinery all converging to produce a single tiny paper airplane at the end, dark moody atmosphere, wide angle shot",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/factory-paper-airplane.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Psychology Behind Over-Building",
+			"paragraphs": [
+				{
+					"text": "MVP overengineering isn't a technical problem — it's a psychological one. Builders over-build for predictable reasons, and none of them are about the product."
+				},
+				{
+					"text": "<strong>Fear of judgment.</strong> You're worried that other developers will see your code and think less of you. So you build it \"properly\" — clean architecture, full test coverage, proper abstractions. The product is pristine. It's also unused, because you spent three months on code quality instead of finding out if anyone cares about what it does."
+				},
+				{
+					"text": "<strong>Fear of scaling problems.</strong> \"What if we go viral?\" is the question that kills MVPs. You build for scale because you're afraid of success. In reality, scaling problems are the best problems to have — they mean people want your product. Building for scale before you have users is solving tomorrow's problem with today's limited time."
+				},
+				{
+					"text": "<strong>Procrastination disguised as preparation.</strong> Building infrastructure feels productive. It has clear tasks, measurable progress, and concrete output. Launching and getting feedback is terrifying — it means facing the possibility that your idea doesn't work. Over-building is a sophisticated way to avoid that confrontation."
+				},
+				{
+					"text": "The honest truth: most overengineered MVPs are built by founders who are more comfortable writing code than talking to users. The code is the comfort zone. The market is the unknown. So they stay in the code."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Real MVP vs. Overengineered MVP",
+			"a_description": "Spot the difference before you waste three months.",
+			"columns": [
+				{
+					"a_h3": "Real MVP",
+					"items": [
+						"<div>🟢</div> Ships in 4-6 weeks",
+						"<div>🟢</div> One core feature, done well",
+						"<div>🟢</div> Monolith on a single server",
+						"<div>🟢</div> Manual processes where possible",
+						"<div>🟢</div> Feedback loop running from week one"
+					]
+				},
+				{
+					"a_h3": "Overengineered MVP",
+					"items": [
+						"<div>🔴</div> Months of building, zero users",
+						"<div>🔴</div> Ten features, none validated",
+						"<div>🔴</div> Microservices, queues, caching layers",
+						"<div>🔴</div> Everything automated before anything is used",
+						"<div>🔴</div> Feedback loop starts \"after launch\""
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "What Actually Belongs in an MVP",
+			"paragraphs": [
+				{
+					"text": "A real MVP checklist is brutally short. If yours has more than ten items, it's not minimal. Here's what belongs on it and what doesn't."
+				},
+				{
+					"text": "<strong>Include:</strong> the core action that delivers value (one thing, not three), the minimum UI needed to perform that action, user authentication (if the product requires accounts), payment (if you're validating willingness to pay), basic security (HTTPS, hashed passwords, sanitized inputs &mdash; these aren't optional even at MVP stage), basic error handling (the product shouldn't crash), and a way to collect feedback (even just an email link)."
+				},
+				{
+					"text": "<strong>Exclude everything else.</strong> No admin dashboard. No analytics integration. No email notifications. No settings page. No API. No dark mode. No onboarding flow. Not yet."
+				},
+				{
+					"text": "The MVP checklist is a filter, not a wishlist. Every item on it should answer \"yes\" to one question: <strong>will someone pay for this, and can I find out without building anything else?</strong> If the item doesn't directly contribute to validating the business hypothesis, it doesn't belong in the MVP."
+				},
+				{
+					"text": "How to launch an MVP: ship the checklist above and nothing more. Get it in front of real users within weeks, not months. The goal isn't a polished product — it's a learning machine. Every day you spend building features beyond the checklist is a day you're not learning whether the idea works."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "MVP Prioritization — Deciding What Makes the Cut",
+			"paragraphs": [
+				{
+					"text": "MVP prioritization is the discipline of choosing what to build first — and more importantly, what not to build at all. The frameworks are well-known. Applying them honestly is the hard part."
+				},
+				{
+					"text": "<strong>The MoSCoW method</strong> sorts features into Must Have, Should Have, Could Have, and Won't Have. For an MVP, only the \"Must Have\" column ships. Everything else is post-launch. The mistake people make is putting too many things in \"Must Have\" because they can't stomach the idea of launching without them."
+				},
+				{
+					"text": "An <strong>MVP prioritization matrix</strong> maps features on two axes: impact on the user (how much value does this deliver?) and effort to build (how long will it take?). High impact, low effort goes first. Low impact, high effort gets cut entirely. The matrix makes trade-offs visual and forces honest conversations about what's really necessary."
+				},
+				{
+					"text": "Build MVP fast by being ruthless about the \"minimum\" part. Every feature you include extends the timeline. Every feature you cut brings launch day closer. The question isn't \"would this be nice to have?\" — it's \"will the product fail to validate without this?\" If the answer is no, it's not in the MVP."
+				},
+				{
+					"text": "Prioritize features for MVP by talking to potential users before writing code. Ask them what one thing the product must do well. Build that one thing. Their answer will almost certainly be simpler than what you had planned."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The MVP Scope Check",
+			"a_description": "Before building anything, every item must pass all four gates. If any answer is no, cut it.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "circle-dollar-sign"
+					},
+					"a_h3": "Would someone pay for this alone?",
+					"a_description": "If the feature doesn't contribute to validating willingness to pay, it's not MVP-essential."
+				},
+				{
+					"a_icon": {
+						"icon": "clock"
+					},
+					"a_h3": "Can you build it in under a week?",
+					"a_description": "If a single item takes longer than a week, it's either over-scoped or you're over-building it."
+				},
+				{
+					"a_icon": {
+						"icon": "user-check"
+					},
+					"a_h3": "Did a real user ask for it?",
+					"a_description": "Features born from user conversations survive. Features born from founder imagination usually don't."
+				},
+				{
+					"a_icon": {
+						"icon": "x"
+					},
+					"a_h3": "Is the product broken without it?",
+					"a_description": "If the core workflow still works without this item, it's post-launch. Ship what's essential, learn what's not."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The \"Will Anyone Pay for This\" Test",
+			"paragraphs": [
+				{
+					"text": "The ultimate MVP prioritization technique is the willingness-to-pay test. Before building anything, ask: would someone exchange money for this specific capability? Not \"would they use it for free.\" Not \"would they say it's interesting.\" Would they pay?"
+				},
+				{
+					"text": "This test cuts through every debate about what belongs in an MVP. An admin dashboard won't make someone pay. A beautiful onboarding flow won't make someone pay. Solving their actual problem — the one that costs them time, money, or frustration — will make them pay."
+				},
+				{
+					"text": "Run the test before writing code. Describe the product in one sentence. Show a mockup or a landing page. Ask for a pre-order or a signup with a credit card. If people won't commit when the only thing that exists is a promise, more features won't change their mind."
+				},
+				{
+					"text": "The products that succeed as MVPs are the ones that nail a single painful problem so well that users tolerate everything else being rough. They don't need polish. They don't need scale. They need to solve one problem better than the alternative — even if the alternative is a spreadsheet."
+				},
+				{
+					"text": "If your MVP can't beat a spreadsheet at solving the core problem, no amount of engineering will save it."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "How to Build an MVP Fast Without Cutting Quality",
+			"paragraphs": [
+				{
+					"text": "\"Build MVP fast\" doesn't mean write garbage code. It means scope aggressively and execute on a tiny surface area. Quality applies to what you build — speed comes from what you don't build."
+				},
+				{
+					"text": "Use boring technology. The MVP is not the place to try a new framework, a new database, or a new deployment strategy. Use what you already know. The fastest code is the code you've written before. Technical exploration is fun, but it's not building a product — it's building your skills on someone else's timeline."
+				},
+				{
+					"text": "Skip the abstractions. Your MVP doesn't need a plugin architecture, a theme system, or a configuration layer. Hardcode things. When (if) you need flexibility later, you'll refactor with the knowledge of how the product is actually used — which will be different from what you imagined."
+				},
+				{
+					"text": "Deploy simply. A single server, a single database, a monolith. You're not going to have scaling problems with 50 users. Microservices, containers, and orchestration are solutions to problems that come after product-market fit, not before."
+				},
+				{
+					"text": "The fastest MVP is the one with the smallest scope, built with familiar tools, deployed in the simplest way possible. Speed and quality aren't opposites — over-building is the enemy of both."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Scope an MVP in One Afternoon",
+			"a_description": "A repeatable process for stripping your idea down to the minimum that validates the business hypothesis.",
+			"items": [
+				{
+					"a_h3": "Write the one-sentence pitch",
+					"text": "Describe what your product does in a single sentence. If you can't, the scope is already too wide. The sentence should name the user, the problem, and the solution — nothing else. This sentence is your scope boundary."
+				},
+				{
+					"a_h3": "List every feature you want to build",
+					"text": "Brain-dump everything. The dashboard, the notifications, the integrations, the settings page. Get it all out. This is the maximum scope — the thing you're about to cut ruthlessly."
+				},
+				{
+					"a_h3": "Apply the willingness-to-pay test to each item",
+					"text": "For every feature on the list, ask: would someone pay specifically for this capability? If the answer is no or uncertain, cross it out. Most of your list will disappear."
+				},
+				{
+					"a_h3": "Cut until it hurts",
+					"text": "Look at what survived and cut again. If you're not uncomfortable with how little is left, you haven't cut enough. The MVP should feel embarrassingly small. That's how you know the scope is right."
+				},
+				{
+					"a_h3": "Set a four-week deadline and ship",
+					"text": "Give yourself four weeks to build and launch what's left. If you can't ship it in four weeks, the scope is still too big — go back to step four and cut more. The deadline is non-negotiable."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about MVP overengineering and building just enough",
+			"items": [
+				{
+					"a_h3": "What should be on an MVP checklist?",
+					"answer": "An MVP checklist should include only what's needed to validate the core business hypothesis: the primary action that delivers value, the minimum UI to perform it, authentication if required, payment if you're validating willingness to pay, basic security (HTTPS, hashed passwords, sanitized inputs), basic error handling, and a feedback mechanism. Everything else — admin tools, analytics, notifications, settings — is post-launch."
+				},
+				{
+					"a_h3": "How long should it take to build an MVP?",
+					"answer": "A real MVP should take 4-6 weeks maximum. If it's taking longer, the scope isn't minimal enough. The goal is to get something in front of real users as fast as possible to validate the idea. Months-long MVP builds are almost always a sign of overengineering or scope creep."
+				},
+				{
+					"a_h3": "What is an MVP prioritization matrix?",
+					"answer": "An MVP prioritization matrix maps features on two axes: user impact (how much value it delivers) and build effort (how long it takes). Features that are high impact and low effort ship first. Low impact and high effort features get cut entirely. The matrix makes trade-offs visible and prevents emotional decision-making about what's \"essential.\""
+				},
+				{
+					"a_h3": "How do you prioritize features for an MVP?",
+					"answer": "Start by talking to potential users — ask what one thing the product must do well. Use MoSCoW (Must/Should/Could/Won't) and only ship the Must Haves. Apply the willingness-to-pay test: would someone exchange money for this specific capability? If not, it's not MVP-essential. Default to cutting features rather than adding them."
+				},
+				{
+					"a_h3": "Is it bad to over-build an MVP?",
+					"answer": "Yes. Over-building an MVP wastes time on infrastructure and polish for a product that hasn't been validated. Every week spent building features beyond the minimum is a week you're not learning whether the idea works. The biggest risk for any new product isn't bad code — it's building something nobody wants. Ship fast, learn fast."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Build-Phase Diseases",
+			"a_description": "Overengineering is one way to avoid launching. These related conditions offer other creative excuses.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "layers"
+					},
+					"a_h3": "Feature Creep",
+					"a_description": "The product started simple. Now it has a dashboard, an API, dark mode, and a settings page with 47 toggles. Nobody asked for any of it.",
+					"href": "/build/feature-creep/",
+					"a_image": {
+						"src": "/assets/imgs/swiss-army-knife.jpg",
+						"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "expand"
+					},
+					"a_h3": "Scope Creep",
+					"a_description": "The timeline was two months. Then someone said \"while we're at it\" and now it's month six with no end in sight.",
+					"href": "/build/scope-creep/",
+					"a_image": {
+						"src": "/assets/imgs/expanding-doorframe.jpg",
+						"alt": "Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "list-ordered"
+					},
+					"a_h3": "Feature Prioritization",
+					"a_description": "Everything feels urgent, nothing feels important. The backlog is a graveyard of half-started features and unranked ideas.",
+					"href": "/build/feature-prioritization/",
+					"a_image": {
+						"src": "/assets/imgs/chess-board.jpg",
+						"alt": "Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "infinity"
+					},
+					"a_h3": "Perpetual Beta",
+					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
+					"href": "/graveyard/perpetual-beta/",
+					"a_image": {
+						"src": "/assets/imgs/under-construction-door.jpg",
+						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "MVP Overengineering — When Your Minimum Isn't Minimal | Sickness Labs",
+		"description": "Your MVP has zero users and enterprise architecture. Learn the signs of overengineering, what belongs on an MVP checklist, and how to launch fast.",
+		"og": {
+			"title": "MVP Overengineering — Zero Users, Enterprise Architecture",
+			"description": "Your MVP has microservices, a CI/CD pipeline, and 90% test coverage. It also has zero users. Here's how to stop over-building and start shipping.",
+			"url": "https://www.sicknesslabs.com/build/mvp-overengineering/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "MVP Overengineering — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "MVP Overengineering — Zero Users, Enterprise Architecture",
+			"description": "Your MVP has microservices, a CI/CD pipeline, and 90% test coverage. It also has zero users. Here's how to stop over-building and start shipping.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "MVP Overengineering — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

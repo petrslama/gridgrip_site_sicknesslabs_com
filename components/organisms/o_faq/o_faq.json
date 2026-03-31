@@ -1,0 +1,75 @@
+{
+	"fu_type": "o_faq",
+	"fu_label": "FAQ Accordion",
+	"fu_row__labels": [
+		{
+			"fu_label": "FAQ"
+		},
+		{
+			"fu_label": "[a_h2]"
+		}
+	],
+	"fields": [
+		{
+			"fu_type": "from_definition",
+			"definition": "a_fu_type"
+		},
+		{
+			"fu_type": "tabs",
+			"tabs": [
+				{
+					"fu_label": "Content",
+					"fields": [
+						{
+							"fu_type": "from_definition",
+							"definition": "m_section_title"
+						},
+						{
+							"fu_type": "repeater_single",
+							"fu_label": "FAQ Items",
+							"fu_name": "items",
+							"fu_repeater__labels": [
+								{
+									"fu_label": "Question"
+								}
+							],
+							"templates": [
+								{
+									"fu_row__labels": [
+										{
+											"fu_label": "[a_h3]"
+										},
+										{
+											"fu_label": "[answer]"
+										}
+									],
+									"fields": [
+										{
+											"fu_type": "from_definition",
+											"definition": "a_h3"
+										},
+										{
+											"fu_type": "textarea",
+											"fu_label": "Answer",
+											"fu_name": "answer",
+											"width": "fullwidth"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"fu_label": "Settings",
+					"fields": [
+						{
+							"fu_type": "from_definition",
+							"definition": "m_section_settings"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,379 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Launch",
+					"href": "/launch/"
+				},
+				{
+					"text": "No Distribution"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_eyebrow": "Launch",
+			"a_h1": "No Distribution &mdash; Building in a Vacuum",
+			"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget is not the problem. Zero distribution plan is.",
+			"a_image": {
+				"src": "/assets/imgs/empty-warehouse.jpg",
+				"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor",
+				"width": "1024",
+				"height": "768"
+			}
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "No Distribution in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>\"Build it and they will come\" is the most expensive lie in indie development.</strong> The best product with zero distribution loses to a mediocre product with great distribution. Every time."
+				},
+				{
+					"text": "<strong>Distribution is the founder's job, not marketing's.</strong> If you can't answer \"how will people find this?\" — stop building and answer that first."
+				},
+				{
+					"text": "<strong>Zero marketing budget is not the problem.</strong> Zero distribution plan is. Most distribution channels worth having are free — they cost time, not money."
+				},
+				{
+					"text": "<strong>Pick one channel, go deep.</strong> SEO, community, content, partnerships — master one before adding another. Spreading thin across five channels means you're mediocre at all of them."
+				},
+				{
+					"text": "<strong>Distribution compounds.</strong> Content, SEO, and community grow over time. The founders who start early have an unfair advantage by launch day."
+				},
+				{
+					"text": "<strong>A product nobody uses helps nobody,</strong> no matter how elegant the code is. This is not cynicism — it's math."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Diagnosis: Build It and They Will Not Come",
+			"paragraphs": [
+				{
+					"text": "\"Build it and they will come\" is the most expensive lie in indie product development. It is a comforting fantasy that lets you stay in your comfort zone — writing code — while ignoring the part that actually determines whether your product survives: getting it in front of people."
+				},
+				{
+					"text": "The disease is quiet. You spend months building, refining, perfecting. You launch. Crickets. The analytics dashboard shows single-digit visits, and most of those are you checking whether the analytics work. You wonder what went wrong. Nothing went wrong with the product. Everything went wrong with the plan — or rather, the absence of one."
+				},
+				{
+					"text": "Distribution is not marketing's job. Distribution is the founder's job. If you are building a product and you do not have a clear answer to \"how will people find this?\" — stop building and answer that question first. The best product with zero distribution loses to a mediocre product with great distribution. Every time."
+				},
+				{
+					"text": "This is not cynicism. This is math. A product nobody uses helps nobody, no matter how elegant the code is."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Focused spotlight illuminating a single product on a dark stage, clear path leading to it through glowing audience silhouettes",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/product-spotlight.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Beautiful product floating alone in pitch-black void, no doors no windows no paths, digital dust particles settling around it",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/product-void.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Zero Budget Marketing That Actually Works",
+			"paragraphs": [
+				{
+					"text": "Let's kill the budget excuse immediately. Zero cost marketing strategies are not theoretical — they are how most successful indie products got their first thousand users."
+				},
+				{
+					"text": "<strong>Content marketing.</strong> Write about the problem your product solves. Not about your product — about the problem. If you are building a project management tool, write about the chaos of managing projects without a system. This is the most reliable zero dollar marketing strategy because it compounds over time. Every article is a permanent asset that keeps working while you sleep."
+				},
+				{
+					"text": "<strong>Community participation.</strong> Find where your target users gather — Reddit, Discord, Slack groups, niche forums — and become a genuine member. Answer questions. Share insights. Help people. Do this for weeks before you ever mention your product. When you finally do, you have credibility. This is zero budget marketing that feels like networking because it is."
+				},
+				{
+					"text": "<strong>Building in public.</strong> Share your development process openly. Progress updates, decisions, mistakes, metrics. People root for founders they watch build. Your Twitter thread about a gnarly database migration might be the thing that gets your first 50 signups. Transparency is a zero cost marketing idea that also keeps you accountable."
+				},
+				{
+					"text": "<strong>Partnerships.</strong> Find other indie founders with overlapping audiences and non-competing products. Cross-promote. Guest post on each other's blogs. Co-host a Twitter Space. Two small audiences combined are bigger than either alone, and the trust transfers."
+				},
+				{
+					"text": "None of these strategies cost money. All of them cost time and consistency. That is the real currency of zero budget marketing — not dollars, but discipline."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Side Projects as Distribution",
+			"paragraphs": [
+				{
+					"text": "Here is a zero cost marketing strategy that most founders overlook: build something small and useful that serves the same audience as your main product, then give it away for free."
+				},
+				{
+					"text": "Side projects for product managers, for developers, for designers — small tools, calculators, templates, checklists. These are not distractions. They are distribution channels. A free tool that solves a minor annoyance for your target audience will attract exactly the people who might pay for your main product."
+				},
+				{
+					"text": "The economics are simple. A side project takes a weekend to build. If it gets traction, it sends a steady stream of your ideal users to your main product's landing page. That is more effective than any paid ad campaign, and it costs nothing but a weekend."
+				},
+				{
+					"text": "Some of the most successful SaaS companies started as side projects themselves. The side project proved the audience existed. The main product monetized it. This is not an accident — it is a pattern. Side projects for product managers and founders are not procrastination if they serve a distribution purpose. They are the marketing equivalent of a loss leader."
+				},
+				{
+					"text": "The key is relevance. Your side project must attract the same people who would use your main product. A random tool that goes viral but attracts the wrong audience is vanity, not strategy."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Distribution-First vs. Build-First",
+			"a_description": "Two approaches to launching a product. One survives. One collects dust.",
+			"columns": [
+				{
+					"a_h3": "Distribution-First",
+					"items": [
+						"<div>🟢</div> Audience exists before the product ships",
+						"<div>🟢</div> Feedback drives what gets built next",
+						"<div>🟢</div> Launch day has momentum and early adopters",
+						"<div>🟢</div> Every feature decision considers reach",
+						"<div>🟢</div> Revenue timeline is measured in weeks"
+					]
+				},
+				{
+					"a_h3": "Build-First",
+					"items": [
+						"<div>🔴</div> Product ships into silence and empty analytics",
+						"<div>🔴</div> Features are guesses based on assumptions",
+						"<div>🔴</div> Launch day is a solo event with zero fanfare",
+						"<div>🔴</div> Distribution is an afterthought bolted on later",
+						"<div>🔴</div> Revenue timeline is measured in hopes"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Distribution as a First-Class Problem",
+			"paragraphs": [
+				{
+					"text": "Most indie founders treat distribution as a second-class problem. Build first, distribute later. This is like building a restaurant in the middle of a desert and then wondering why you need to invest in directions."
+				},
+				{
+					"text": "Distribution deserves the same time, energy, and creativity as product development. In your weekly schedule, it should occupy roughly equal space. If you spend 20 hours a week building, spend at least 10 hours on distribution. This is not a nice-to-have. This is survival."
+				},
+				{
+					"text": "What does treating distribution as first-class look like in practice? It means you choose your channels before you choose your tech stack. It means your landing page exists before your product does. It means you are collecting emails on day one, not day ninety. It means every product decision includes the question: \"how does this help us reach more people?\""
+				},
+				{
+					"text": "The founders who build in a vacuum are not lazy. They are usually the hardest workers in the room. But hard work directed entirely at the product and none at distribution is like running on a treadmill — enormous effort, zero forward progress. The market does not reward effort. It rewards visibility."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Distribution Readiness Check",
+			"a_description": "Answer these before you write another line of code. If you fail three or more, your product has a distribution problem.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Can you name your primary distribution channel?",
+					"a_description": "Not three channels. One. The single channel you will master before touching another. If you cannot name it, you do not have a distribution plan."
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Do you have an audience waiting for launch?",
+					"a_description": "An email list, a community following, a group of beta testers. If the answer is zero, your launch will land in a vacuum."
+				},
+				{
+					"a_icon": {
+						"icon": "search"
+					},
+					"a_h3": "Can people find you without knowing your name?",
+					"a_description": "SEO, community presence, content that ranks. If your only traffic source is direct links you share yourself, you have no organic discovery."
+				},
+				{
+					"a_icon": {
+						"icon": "megaphone"
+					},
+					"a_h3": "Are you visible in the places your users already gather?",
+					"a_description": "Reddit threads, Discord servers, niche forums, Twitter circles. If your target users have never seen your name, your product does not exist to them."
+				},
+				{
+					"a_icon": {
+						"icon": "zap"
+					},
+					"a_h3": "Is your distribution compounding while you build?",
+					"a_description": "Content, SEO, and community presence grow over time. If you have not started, you are already behind the founders who started six months ago."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Treatment: Ship Your Distribution Before Your Product",
+			"paragraphs": [
+				{
+					"text": "The cure for no distribution is to start distributing before you have anything to distribute. Start the blog. Build the email list. Join the communities. Post the first build-in-public update. Do all of this before the product is ready."
+				},
+				{
+					"text": "By the time you launch, you should have an audience — even a small one — that is expecting what you are building. That is the difference between launching into silence and launching into applause. It is not about the size of the audience. Ten engaged people who are waiting for your product will generate more momentum than ten thousand passive followers who do not care."
+				},
+				{
+					"text": "Zero cost marketing ideas do not require cleverness. They require starting early and staying consistent. The best time to start your distribution was the day you decided to build. The second best time is today. Stop building in a vacuum. The vacuum is killing your product."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Build a Distribution Channel From Scratch",
+			"a_description": "A concrete plan for founders who have zero audience, zero budget, and zero excuses left.",
+			"items": [
+				{
+					"a_h3": "Pick one channel and commit for 90 days",
+					"text": "SEO, community, content, or building in public. Choose the one that fits your strengths and your audience's habits. Do not split your attention across three channels and fail at all of them. One channel, full commitment, three months minimum before you judge results."
+				},
+				{
+					"a_h3": "Show up where your users already are",
+					"text": "Find the subreddits, Discord servers, Slack groups, and forums where your target users discuss the problem you solve. Lurk for a week to learn the culture, then start contributing genuinely. Answer questions, share insights, be helpful. Do not mention your product for at least two weeks."
+				},
+				{
+					"a_h3": "Create a content asset that compounds",
+					"text": "Write one high-quality article per week about the problem your product solves. Not about your product — about the pain. Optimize for search intent. Every article is a permanent distribution asset that works while you sleep and compounds over months."
+				},
+				{
+					"a_h3": "Build a small free tool for your audience",
+					"text": "A calculator, template, checklist, or micro-tool that solves a minor annoyance for the same people who would use your main product. Give it away. It takes a weekend to build and sends a steady stream of your ideal users to your landing page."
+				},
+				{
+					"a_h3": "Start collecting emails on day one",
+					"text": "A simple landing page with a clear value proposition and an email signup. Every piece of content, every community interaction, every free tool should funnel people here. By launch day, this list is your audience — the difference between launching into silence and launching into momentum."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about distribution strategy and reaching your audience",
+			"items": [
+				{
+					"a_h3": "What are the best zero cost marketing strategies for indie products?",
+					"answer": "Content marketing, community participation, building in public, and strategic partnerships with other founders. These zero cost marketing strategies work because they build trust and compound over time. The catch is that they require consistency — you cannot write one blog post, join one community, and expect results. Plan for at least three months of consistent effort before judging effectiveness."
+				},
+				{
+					"a_h3": "How do I market my product with literally zero budget?",
+					"answer": "Zero dollar marketing strategies center on trading time for reach. Write content about the problems your product solves. Participate genuinely in online communities where your users hang out. Build in public to attract an audience that roots for you. Create a small free side project that serves your target audience and funnels them to your main product. All of these are zero budget marketing approaches that work — they just require discipline instead of dollars."
+				},
+				{
+					"a_h3": "Can side projects really work as marketing?",
+					"answer": "Yes. Side projects for product managers, developers, and other builders are one of the most underrated distribution channels. A free tool, template, or calculator that serves your target audience attracts exactly the right people. The key is relevance — the side project must draw the same users who would benefit from your main product. Think of it as a free sample that proves your competence."
+				},
+				{
+					"a_h3": "How much time should I spend on distribution vs building?",
+					"answer": "A common guideline is 50/50, but early on you may need even more distribution time. If your product works but nobody uses it, the bottleneck is distribution, not features. Shift your time toward the constraint. At minimum, spend 30% of your working hours on distribution activities — writing, community engagement, outreach, and audience building."
+				},
+				{
+					"a_h3": "When should I start marketing my product?",
+					"answer": "Before you start building it. Collect emails, validate the problem, build an audience, and share your journey from day one. The worst time to start marketing is launch day. The best zero cost marketing ideas are the ones you started months ago. If you are already building and haven't started — start today. Every day you delay is another day of building in a vacuum."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Launch-Phase Diseases",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "shield-alert"
+					},
+					"a_h3": "Launch Fear",
+					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
+					"href": "/launch/launch-fear/",
+					"a_image": {
+						"src": "/assets/imgs/launch-button.jpg",
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "users-round"
+					},
+					"a_h3": "No Audience First",
+					"a_description": "Launch day arrives and the only visitor is your own browser. You skipped the part where you build an audience before building the product.",
+					"href": "/launch/no-audience-first/",
+					"a_image": {
+						"src": "/assets/imgs/empty-theater.jpg",
+						"alt": "Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "rocket"
+					},
+					"a_h3": "MVP Launch",
+					"a_description": "Your MVP launch strategy is \"post on Reddit and hope.\" That's not a strategy — that's a wish.",
+					"href": "/launch/mvp-launch/",
+					"a_image": {
+						"src": "/assets/imgs/cardboard-rocket.jpg",
+						"alt": "Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Product-Market Fit",
+					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
+					"href": "/market/product-market-fit/",
+					"a_image": {
+						"src": "/assets/imgs/puzzle-fit.jpg",
+						"alt": "Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "No Distribution — Building in a Vacuum | Sickness Labs",
+		"description": "Zero budget marketing strategies that actually work for indie founders. Stop building in silence and start distributing before you ship.",
+		"og": {
+			"title": "No Distribution — Building in a Vacuum | Sickness Labs",
+			"description": "Zero budget marketing strategies that actually work for indie founders. Stop building in silence and start distributing before you ship.",
+			"url": "https://www.sicknesslabs.com/launch/no-distribution/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "No Distribution — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "No Distribution — Building in a Vacuum | Sickness Labs",
+			"description": "Zero budget marketing strategies that actually work for indie founders. Stop building in silence and start distributing before you ship.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "No Distribution — Sickness Labs"
+			}
+		}
+	}
+}

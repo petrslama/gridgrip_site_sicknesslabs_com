@@ -1,0 +1,391 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Graveyard",
+					"href": "/graveyard/"
+				},
+				{
+					"text": "Pivot or Quit"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_eyebrow": "Graveyard",
+			"a_h1": "Pivot or Quit &mdash; The Hardest Decision in Indie Building",
+			"a_description": "You've been at it for months. The metrics are flat, the motivation is fading, and you're staring at two doors: pivot the idea or walk away entirely. This is the decision most indie builders get wrong &mdash; not because they choose badly, but because they refuse to choose at all.",
+			"a_image": {
+				"src": "/assets/imgs/fork-in-road.jpg",
+				"alt": "Fork in a dark road with one path leading to light and the other to darkness, decision crossroads",
+				"width": "1024",
+				"height": "768"
+			}
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Pivot or Quit in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>The hardest part isn't choosing wrong. It's refusing to choose at all.</strong> Most builders freeze — they don't pivot, they don't quit, they linger."
+				},
+				{
+					"text": "<strong>Pivot when users love the problem but not your solution.</strong> The demand is real, but you're solving it the wrong way. Change the approach, keep the audience."
+				},
+				{
+					"text": "<strong>Quit when the problem itself isn't big enough</strong> — or you're the only one who cares about it. No pivot fixes a missing market."
+				},
+				{
+					"text": "<strong>Sunk cost is not a reason to continue.</strong> The months you already spent are gone regardless of what you decide next."
+				},
+				{
+					"text": "<strong>Set a kill date before you start.</strong> \"If X hasn't happened by Y, I stop.\" Decide when you're rational, not when you're desperate."
+				},
+				{
+					"text": "<strong>Quitting a project is not quitting building.</strong> The skills, the lessons, and the scar tissue go with you to the next thing."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Weight of the Decision",
+			"paragraphs": [
+				{
+					"text": "This is the hardest article on this site, and it should be. Every other disease we cover &mdash; feature creep, perpetual beta, zombie projects &mdash; has a relatively clear treatment. Pivot or quit doesn't. It's the one that sits in your chest at 2 AM, the one you can't solve with a framework or a checklist."
+				},
+				{
+					"text": "The decision to pivot or quit an abandoned side project carries emotional weight that no business book prepares you for. You built this thing. You told people about it. You sacrificed weekends, strained relationships, spent money you probably shouldn't have. Walking away feels like betrayal &mdash; not just of the project, but of the version of yourself that believed in it."
+				},
+				{
+					"text": "And that's exactly why so many builders freeze. They don't pivot, and they don't quit. They linger. They keep the server running, check analytics once a month, and tell themselves they'll \"get back to it.\" That's not a strategy. That's denial wearing a productivity mask."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Focused builder at a clean desk with a single bright monitor, sharp code on screen, one clear direction forward",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/focused-builder.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Chaotic desk with multiple screens showing conflicting dashboards, sticky notes everywhere, builder frozen mid-decision",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/conflicting-dashboards.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Signs It's Time to Pivot",
+			"paragraphs": [
+				{
+					"text": "A pivot makes sense when the <strong>problem is real but your solution is wrong</strong>. You've validated that people care about the space you're in &mdash; they're searching for solutions, paying competitors, complaining in forums &mdash; but your specific approach isn't landing. The ingredients are there; the recipe needs changing."
+				},
+				{
+					"text": "Concrete pivot signals:"
+				},
+				{
+					"text": "<ul><li>Users sign up but don't convert &mdash; there's interest, but the value prop isn't connecting</li><li>Your best feature is something you built as an afterthought &mdash; the market is telling you what it wants</li><li>Competitors are thriving in the same space with a different angle &mdash; the demand exists, your positioning doesn't</li><li>Your startup idea validation produced positive signals for the problem but negative signals for your solution</li></ul>"
+				},
+				{
+					"text": "A pivot isn't giving up. It's <strong>giving up on the wrong answer while keeping the right question</strong>. The best pivots preserve the insight and discard the implementation. Slack grew out of a failed game studio. Twitter was born inside a podcast startup that needed a new direction. The insight survived; the product didn't."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Signs It's Time to Quit",
+			"paragraphs": [
+				{
+					"text": "Quitting makes sense when the <strong>problem isn't worth solving</strong> &mdash; or more precisely, isn't worth solving by you, right now, with the resources you have. This is harder to admit because it means the entire premise was off, not just the execution."
+				},
+				{
+					"text": "Concrete quit signals:"
+				},
+				{
+					"text": "<ul><li>You've validated the market and there's no demand &mdash; not \"not enough demand for my product,\" but no demand for any product in this space</li><li>The economics don't work &mdash; customer acquisition costs exceed lifetime value and there's no plausible path to changing that</li><li>You've lost the fire completely &mdash; not a temporary dip in side project motivation, but a fundamental loss of interest in the problem itself</li><li>Someone else solved it better and cheaper, and you have no defensible advantage</li></ul>"
+				},
+				{
+					"text": "An abandoned side project is only a failure if you learn nothing from it. Sometimes the bravest thing a builder can do is close the laptop, archive the repo, and say: \"I was wrong about this one.\" That's not weakness. That's data."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "When to Pivot vs. When to Walk Away",
+			"a_description": "The signals look different — here's how to read them",
+			"columns": [
+				{
+					"a_h3": "Pivot",
+					"items": [
+						"<div>🟢</div> Users sign up but don't convert — interest exists, delivery is off",
+						"<div>🟢</div> Competitors thrive in the same space with a different angle",
+						"<div>🟢</div> Your best feature was an afterthought — the market is telling you what it wants",
+						"<div>🟢</div> The problem is validated but your solution misses the mark",
+						"<div>🟢</div> You can articulate exactly what to change and why"
+					]
+				},
+				{
+					"a_h3": "Quit",
+					"items": [
+						"<div>🔴</div> No demand for any product in this space — not just yours",
+						"<div>🔴</div> Customer acquisition costs permanently exceed lifetime value",
+						"<div>🔴</div> You've lost interest in the problem itself, not just the product",
+						"<div>🔴</div> Someone solved it better and cheaper with no path to compete",
+						"<div>🔴</div> You can't name a single thing worth preserving from the project"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Separating Emotion from Data",
+			"paragraphs": [
+				{
+					"text": "The sunk cost fallacy is the zombie virus of indie building. \"I've already spent six months on this\" is not a reason to spend a seventh. The time is gone regardless of what you decide. The only question that matters is: <strong>given what you know now, would you start this project today?</strong>"
+				},
+				{
+					"text": "If the answer is no, you're keeping it alive for emotional reasons, not rational ones. And that's understandable &mdash; you're human. But understanding the bias doesn't mean surrendering to it."
+				},
+				{
+					"text": "Here's how to separate emotion from data: write down your reasons for continuing. Not in your head &mdash; on paper or in a document. Then cross out every reason that's about the past (\"I already built X,\" \"I already spent Y\") and every reason that's about identity (\"I'm the kind of person who finishes things,\" \"people will think I'm a quitter\"). Look at what's left. If there's nothing &mdash; or only vague optimism &mdash; you have your answer."
+				},
+				{
+					"text": "Re-validate the idea with fresh eyes. Revisit your startup idea validation from scratch, as if you'd never built anything. Does the problem still exist? Is the market still there? Are people still willing to pay? If the data says yes, maybe it's worth another shot with a new approach. If the data says no, the emotion is lying to you."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Quitting vs. Shiny Object Syndrome",
+			"paragraphs": [
+				{
+					"text": "Here's the critical distinction most people miss: <strong>quitting with data is not the same as quitting for dopamine.</strong> Shiny object syndrome is abandoning a project because something newer and more exciting caught your eye. Quitting is abandoning a project because the evidence says it's not working."
+				},
+				{
+					"text": "The shiny object builder quits before the data arrives. They launch, hit the first plateau, get bored, and move on to the next idea &mdash; convinced that <em>this one</em> is different. It never is. They leave a trail of half-built projects, each abandoned at roughly the same stage, because the pattern isn't about the projects. It's about the builder."
+				},
+				{
+					"text": "Real quitting looks different. Real quitting means you stayed long enough to collect data, honest enough to read it, and brave enough to act on it. You didn't leave because something shiny appeared. You left because the numbers said to. That's not flaky &mdash; that's disciplined."
+				},
+				{
+					"text": "If you're not sure which one you're doing, ask yourself: <strong>am I running toward something or away from something?</strong> Running toward a validated new opportunity is a pivot. Running away from hard numbers is shiny object syndrome. The direction matters more than the decision."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Pivot-or-Quit Decision Framework",
+			"a_description": "Run through these five checks before you commit either way",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Is the problem still worth solving?",
+					"a_description": "Forget your product for a moment. Does the underlying problem still matter? Are real people still struggling with it? If the problem evaporated or you were the only one who cared, no pivot will save it."
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Did anyone engage with your solution?",
+					"a_description": "Sign-ups, emails, comments, complaints — any signal that humans interacted with what you built. Zero engagement after real distribution effort means the market spoke. Some engagement with drop-off means your angle needs adjusting."
+				},
+				{
+					"a_icon": {
+						"icon": "search"
+					},
+					"a_h3": "Can you identify exactly what's broken?",
+					"a_description": "If you can point to a specific failure — wrong audience, wrong pricing, wrong feature set — a pivot might fix it. If everything feels vaguely wrong and you can't articulate why, you're likely emotionally done."
+				},
+				{
+					"a_icon": {
+						"icon": "zap"
+					},
+					"a_h3": "Do you have energy for 90 more days?",
+					"a_description": "A pivot isn't a weekend project. It's a full restart with existing baggage. If the thought of spending another three months on this makes you feel dread rather than curiosity, that's your answer."
+				},
+				{
+					"a_icon": {
+						"icon": "brain"
+					},
+					"a_h3": "Would you start this project today?",
+					"a_description": "The ultimate sunk-cost filter. Knowing everything you know now — the market, the competition, the effort required — would you begin from scratch? If no, you're continuing for emotional reasons, not rational ones."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Making the Call",
+			"paragraphs": [
+				{
+					"text": "If you've read this far, you probably already know the answer. You've known for weeks, maybe months. The decision has been made in your gut &mdash; you're just looking for permission to execute it."
+				},
+				{
+					"text": "Here's your permission. Whether it's pivot or quit, <strong>make the decision and commit to it fully</strong>. Half-measures are worse than either option. A half-pivot is just a confused product. A half-quit is a zombie project. Both waste more time than a clean break."
+				},
+				{
+					"text": "If you're pivoting: set a 90-day window. Define new success criteria. Run the experiment with the same rigor you'd give a new project, because that's what it is. If the pivot doesn't show traction in 90 days, you're back to the same question &mdash; and next time, the answer is probably quit."
+				},
+				{
+					"text": "If you're quitting: do it properly. Archive the code, write the postmortem, cancel the infrastructure. Give yourself a week to grieve &mdash; the emotional attachment was real and denying it doesn't help. Then start something new with everything you learned."
+				},
+				{
+					"text": "The project graveyard isn't a museum of failures. It's a <strong>training ground</strong>. Every dead project made you a better builder. The only real failure is refusing to make the call and staying stuck in limbo &mdash; half-alive, half-dead, going nowhere."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Make the Pivot-or-Quit Decision in One Week",
+			"a_description": "A structured process to move from limbo to clarity without overthinking it",
+			"items": [
+				{
+					"a_h3": "Blackout all work on the project for 48 hours",
+					"text": "Don't touch the code, don't check analytics, don't think about features. Give yourself two full days of distance. When you come back, notice how you feel. Relief means quit. Anxiety about lost momentum means there's still something alive in there."
+				},
+				{
+					"a_h3": "Write down every reason to continue — then cross out the past",
+					"text": "List everything keeping you attached. Then eliminate every reason rooted in sunk cost: time spent, money invested, people you told. What's left is your actual case for continuing. If the list is empty, you have your answer."
+				},
+				{
+					"a_h3": "Re-validate the problem from scratch",
+					"text": "Pretend the project doesn't exist. Search for the problem online. Are people still complaining about it? Are competitors growing? Would you start this today with zero code written? Run a fresh startup idea validation as if it were day one."
+				},
+				{
+					"a_h3": "Talk to three people who are not you",
+					"text": "Find three people in your target market — not friends, not fellow builders, actual potential users. Ask them about the problem, not your product. If they light up about the problem but shrug at your solution, that's a pivot signal. If they shrug at the problem itself, that's a quit signal."
+				},
+				{
+					"a_h3": "Set a 72-hour deadline and commit",
+					"text": "By Friday, you decide: pivot with a 90-day experiment plan, or quit with a clean shutdown. Write the decision down. Tell someone. No more \"I'll figure it out next week.\" The decision is the product now."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about pivoting versus quitting and making the right call",
+			"items": [
+				{
+					"a_h3": "How do I know if I should pivot or quit?",
+					"answer": "Pivot when the problem is validated but your solution is wrong &mdash; users care about the space but your approach isn't connecting. Quit when the problem itself isn't worth solving, the economics don't work, or you've fundamentally lost interest in the domain. The key difference: pivots preserve the insight and change the product; quitting means the entire premise was off."
+				},
+				{
+					"a_h3": "Is abandoning a side project always a failure?",
+					"answer": "No. An abandoned side project is only wasted if you learn nothing from it. Quitting based on data &mdash; validated that the market isn't there, economics don't work, or someone else solved it better &mdash; is a rational decision, not a failure. The failure is refusing to make the call and letting the project become a zombie."
+				},
+				{
+					"a_h3": "How do I maintain motivation when things are hard?",
+					"answer": "Side project motivation drops for everyone &mdash; the question is whether the drop is a normal valley or a signal to stop. Reconnect with the problem you're solving, not the product you're building. Talk to users. Revisit your original insight. If the fire comes back, push through. If it doesn't, and hasn't for weeks, that's data too."
+				},
+				{
+					"a_h3": "What's the difference between quitting and shiny object syndrome?",
+					"answer": "Quitting with data means you stayed long enough to collect evidence, read it honestly, and acted on it. Shiny object syndrome means you abandoned the project because something newer appeared &mdash; usually before meaningful data arrived. Ask yourself: am I running toward a validated opportunity or away from uncomfortable numbers?"
+				},
+				{
+					"a_h3": "How do I re-validate a startup idea before pivoting?",
+					"answer": "Start fresh. Pretend you haven't built anything. Research the market again: are people still searching for solutions? Are competitors growing? Are potential users willing to pay? Run startup idea validation as if this were day one. If the data supports the problem but not your current angle, pivot. If the data doesn't support the problem at all, quit."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Graveyard Diseases",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "skull"
+					},
+					"a_h3": "Zombie Projects",
+					"a_description": "Not alive, not dead. The domain is renewed, the server is running, and the last commit was eight months ago.",
+					"href": "/graveyard/zombie-projects/",
+					"a_image": {
+						"src": "/assets/imgs/zombie-laptop.jpg",
+						"alt": "Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "infinity"
+					},
+					"a_h3": "Perpetual Beta",
+					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
+					"href": "/graveyard/perpetual-beta/",
+					"a_image": {
+						"src": "/assets/imgs/under-construction-door.jpg",
+						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "flame"
+					},
+					"a_h3": "Startup Burnout",
+					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
+					"href": "/founder/startup-burnout/",
+					"a_image": {
+						"src": "/assets/imgs/burnt-matchstick.jpg",
+						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "sparkles"
+					},
+					"a_h3": "Shiny Object Syndrome",
+					"a_description": "Every week there's a better idea. The current project is 60% done but the new one feels 100% exciting.",
+					"href": "/idea/shiny-object-syndrome/",
+					"a_image": {
+						"src": "/assets/imgs/magpie-trinkets.jpg",
+						"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Pivot or Quit — The Hardest Decision in Indie Building | Sickness Labs",
+		"description": "Should you pivot your side project or walk away? How to separate emotion from data, avoid the sunk cost trap, and make the call without shiny object syndrome.",
+		"og": {
+			"title": "Pivot or Quit — The Hardest Decision in Indie Building | Sickness Labs",
+			"description": "Should you pivot your side project or walk away? How to separate emotion from data, avoid the sunk cost trap, and make the call without shiny object syndrome.",
+			"url": "https://www.sicknesslabs.com/graveyard/pivot-or-quit/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Pivot or Quit — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Pivot or Quit — The Hardest Decision in Indie Building | Sickness Labs",
+			"description": "Should you pivot your side project or walk away? How to separate emotion from data, avoid the sunk cost trap, and make the call without shiny object syndrome.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Pivot or Quit — Sickness Labs"
+			}
+		}
+	}
+}

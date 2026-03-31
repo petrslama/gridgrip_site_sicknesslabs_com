@@ -1,0 +1,45 @@
+<section class="o_letters grid"
+	{{#if section_id}}
+	 id="{{section_id}}"
+	{{/if}}>
+	<div class="col-12">
+		{{> m_section_title }}
+	</div>
+	{{#each items}}
+	<div class="item col-6">
+		<span class="letter">{{letter}}</span>
+		<div class="content">
+			{{> a_h3 }}
+			{{#if question}}
+			<p class="question">{{question}}</p>
+			{{/if}}
+			{{> a_description }}
+		</div>
+	</div>
+	<div class="col-6 scorecard">
+		{{#unless text_only}}
+		<div class="score-buttons">
+			<button class="score-btn" data-val="1" aria-pressed="false">{{../label_1}}</button>
+			<button class="score-btn" data-val="2" aria-pressed="false">{{../label_2}}</button>
+			<button class="score-btn" data-val="3" aria-pressed="false">{{../label_3}}</button>
+		</div>
+		{{/unless}}
+		<textarea placeholder="{{../placeholder_notes}}" rows="2"></textarea>
+	</div>
+	{{/each}}
+	<div class="col-3"></div>
+	<div class="col-3 score-header">
+		<h3 class="score-title">{{summary_title}}</h3>
+		<span class="score-total"></span>
+	</div>
+	<div class="col-6 score-summary"
+		data-summary-incomplete="{{summary_incomplete}}"
+		data-verdict-knockout="{{verdict_knockout}}"
+		data-verdict-perfect="{{verdict_perfect}}"
+		data-verdict-solid="{{verdict_solid}}"
+		data-verdict-weak="{{verdict_weak}}"
+		data-verdict-stop="{{verdict_stop}}">
+		<div class="score-bars"></div>
+		<p class="score-verdict">{{summary_incomplete}}</p>
+	</div>
+</section>

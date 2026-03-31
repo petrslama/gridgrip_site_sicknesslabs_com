@@ -1,0 +1,56 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_header",
+			"a_image": {
+				"alt": "Sickness Labs logo",
+				"width": "140",
+				"height": "30",
+				"src": "/assets/logo.svg"
+			},
+			"aria_label": "Open navigation",
+			"navigation": [
+				{
+					"label": "Founder",
+					"href": "/founder/"
+				},
+				{
+					"label": "Idea",
+					"href": "/idea/"
+				},
+				{
+					"label": "Build",
+					"href": "/build/"
+				},
+				{
+					"label": "Market",
+					"href": "/market/"
+				},
+				{
+					"label": "Launch",
+					"href": "/launch/"
+				},
+				{
+					"label": "Graveyard",
+					"href": "/graveyard/"
+				}
+			],
+			"m_buttons": []
+		}
+	],
+	"seo": {
+		"og": {
+			"type": "product"
+		},
+		"twitter": {
+			"card": "summary_large_image"
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

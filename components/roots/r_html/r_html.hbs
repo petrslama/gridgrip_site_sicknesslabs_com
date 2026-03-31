@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html
+	 lang="{{#if main.settings.lang}}{{main.settings.lang}}{{else}}en{{/if}}">
+<head>
+	{{#each settings.start_head_codes}}
+	{{{code}}}
+	{{/each}}
+	{{#each main.settings.start_head_codes}}
+	{{{code}}}
+	{{/each}}
+	{{#each main.settings.alternate}}
+	<link
+		 rel="alternate"
+		 hreflang="{{hreflang}}"
+		 href="{{href}}">
+	{{/each}}
+	<meta
+		 charset="UTF-8">
+	<meta
+		 name="color-scheme"
+		 content="light dark">
+	<script>(t=localStorage.theme)&&document.documentElement.classList.add(t)</script>
+	{{#with settings}}
+	<style>
+		/* Colors — Light (manual toggle) */
+		html.light {
+			--color_primary: {{#if color_primary}}{{color_primary}}{{else}}#6210FE{{/if}};
+			--color_primary-hover: {{#if color_primary-hover}}{{color_primary-hover}}{{else}}#8140FE{{/if}};
+			--color_accent: {{#if color_accent}}{{color_accent}}{{else}}#30FE10{{/if}};
+			--color_text: {{#if color_text}}{{color_text}}{{else}}#333333{{/if}};
+			--color_text-muted: {{#if color_text-muted}}{{color_text-muted}}{{else}}#717171{{/if}};
+			--color_text-inverted: {{#if color_text-inverted}}{{color_text-inverted}}{{else}}#ffffff{{/if}};
+			--color_border: {{#if color_border}}{{color_border}}{{else}}#e5e7eb{{/if}};
+			--bg_body: {{#if bg_body}}{{bg_body}}{{else}}#ffffff{{/if}};
+			--bg_surface: {{#if bg_surface}}{{bg_surface}}{{else}}#ffffff{{/if}};
+		}
+		/* Colors — Light (system preference) */
+		@media (prefers-color-scheme: light) {
+			html:not(.light):not(.dark) {
+				--color_primary: {{#if color_primary}}{{color_primary}}{{else}}#6210FE{{/if}};
+				--color_primary-hover: {{#if color_primary-hover}}{{color_primary-hover}}{{else}}#8140FE{{/if}};
+				--color_accent: {{#if color_accent}}{{color_accent}}{{else}}#30FE10{{/if}};
+				--color_text: {{#if color_text}}{{color_text}}{{else}}#333333{{/if}};
+				--color_text-muted: {{#if color_text-muted}}{{color_text-muted}}{{else}}#717171{{/if}};
+				--color_text-inverted: {{#if color_text-inverted}}{{color_text-inverted}}{{else}}#ffffff{{/if}};
+				--color_border: {{#if color_border}}{{color_border}}{{else}}#e5e7eb{{/if}};
+				--bg_body: {{#if bg_body}}{{bg_body}}{{else}}#ffffff{{/if}};
+				--bg_surface: {{#if bg_surface}}{{bg_surface}}{{else}}#ffffff{{/if}};
+			}
+		}
+		/* Colors — Dark (manual toggle) */
+		{{#with dark_scheme_colors}}
+		html.dark {
+			--color_primary: {{#if color_primary}}{{color_primary}}{{else}}#8140FE{{/if}};
+			--color_primary-hover: {{#if color_primary-hover}}{{color_primary-hover}}{{else}}#9960FF{{/if}};
+			--color_accent: {{#if color_accent}}{{color_accent}}{{else}}#30FE10{{/if}};
+			--color_text: {{#if color_text}}{{color_text}}{{else}}#e0e0e0{{/if}};
+			--color_text-muted: {{#if color_text-muted}}{{color_text-muted}}{{else}}#a0a0a0{{/if}};
+			--color_text-inverted: {{#if color_text-inverted}}{{color_text-inverted}}{{else}}#141414{{/if}};
+			--color_border: {{#if color_border}}{{color_border}}{{else}}#2a2a2a{{/if}};
+			--bg_body: {{#if bg_body}}{{bg_body}}{{else}}#121212{{/if}};
+			--bg_surface: {{#if bg_surface}}{{bg_surface}}{{else}}#1e1e1e{{/if}};
+		}
+		/* Colors — Dark (system preference) */
+		@media (prefers-color-scheme: dark) {
+			html:not(.light):not(.dark) {
+				--color_primary: {{#if color_primary}}{{color_primary}}{{else}}#8140FE{{/if}};
+				--color_primary-hover: {{#if color_primary-hover}}{{color_primary-hover}}{{else}}#9960FF{{/if}};
+				--color_accent: {{#if color_accent}}{{color_accent}}{{else}}#30FE10{{/if}};
+				--color_text: {{#if color_text}}{{color_text}}{{else}}#e0e0e0{{/if}};
+				--color_text-muted: {{#if color_text-muted}}{{color_text-muted}}{{else}}#a0a0a0{{/if}};
+				--color_text-inverted: {{#if color_text-inverted}}{{color_text-inverted}}{{else}}#141414{{/if}};
+				--color_border: {{#if color_border}}{{color_border}}{{else}}#2a2a2a{{/if}};
+				--bg_body: {{#if bg_body}}{{bg_body}}{{else}}#121212{{/if}};
+				--bg_surface: {{#if bg_surface}}{{bg_surface}}{{else}}#1e1e1e{{/if}};
+			}
+		}
+		{{/with}}
+		/* Apply colors immediately (before external CSS loads) */
+		html, body {
+			background-color: var(--bg_body);
+			color: var(--color_text);
+		}
+		/* Fonts */
+		:root {
+			--font-heading: {{#if font-heading}}{{font-heading}}{{else}}ui-sans-serif, system-ui, sans-serif{{/if}};
+			--font-body: {{#if font-body}}{{font-body}}{{else}}ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"{{/if}};
+		}
+		/* Radius */
+		:root {
+			--radius-sm: {{#if radius-sm}}{{radius-sm}}{{else}}.25rem{{/if}};
+			--radius-md: {{#if radius-md}}{{radius-md}}{{else}}.5rem{{/if}};
+			--radius-lg: {{#if radius-lg}}{{radius-lg}}{{else}}1rem{{/if}};
+		}
+	</style>
+	{{/with}}
+	<link
+		 rel="icon"
+		 href="/favicon.ico"
+		 sizes="16x16 32x32 48x48">
+	<link
+		 rel="icon"
+		 href="/assets/icons/icon-192.png"
+		 type="image/png"
+		 sizes="192x192">
+	<link
+		 rel="apple-touch-icon"
+		 href="/assets/icons/apple-touch-icon.png">
+	<meta
+		 name="viewport"
+		 content="width=device-width, initial-scale=1" />
+	<link
+		 rel="preconnect"
+		 href="https://fonts.googleapis.com">
+	<link
+		 rel="preconnect"
+		 href="https://fonts.gstatic.com"
+		 crossorigin>
+	<link
+		 href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap"
+		 rel="stylesheet">
+	<link
+		 rel="preload"
+		 href="/style.min.{{timestamp}}.css"
+		 as="style">
+	<link
+		 rel="stylesheet"
+		 href="/style.min.{{timestamp}}.css">
+	{{#with main.seo}}
+	{{#if title}}
+	<title>{{title}}</title>
+	{{/if}}
+	{{#if description}}
+	<meta
+		 name="description"
+		 content="{{description}}">
+	{{/if}}
+	{{#if keywords}}
+	<meta
+		 name="keywords"
+		 content="{{keywords}}">
+	{{/if}}
+	{{#if og.url}}
+	<link
+		 rel="canonical"
+		 href="{{og.url}}">
+	{{/if}}
+	<meta
+		 name="robots"
+		 content="index, follow">
+	{{/with}}
+	{{#with main.seo}}
+	{{#if og}}
+	{{#if og.title}}
+	<meta
+		 property="og:title"
+		 content="{{og.title}}">
+	{{/if}}
+	{{#if og.description}}
+	<meta
+		 property="og:description"
+		 content="{{og.description}}">
+	{{/if}}
+	{{#if og.url}}
+	<meta
+		 property="og:url"
+		 content="{{og.url}}">
+	{{/if}}
+	{{#if og.type}}
+	<meta
+		 property="og:type"
+		 content="{{og.type}}">
+	{{/if}}
+	{{#if og.image}}
+	{{#if og.image.src}}
+	<meta
+		 property="og:image"
+		 content="{{og.image.src}}">
+	{{/if}}
+	{{#if og.image.alt}}
+	<meta
+		 property="og:image:alt"
+		 content="{{og.image.alt}}">
+	{{/if}}
+	{{/if}}
+	{{/if}}
+	{{#if twitter}}
+	{{#if twitter.card}}
+	<meta
+		 name="twitter:card"
+		 content="{{twitter.card}}">
+	{{/if}}
+	{{#if twitter.title}}
+	<meta
+		 name="twitter:title"
+		 content="{{twitter.title}}">
+	{{/if}}
+	{{#if twitter.description}}
+	<meta
+		 name="twitter:description"
+		 content="{{twitter.description}}">
+	{{/if}}
+	{{#if twitter.image}}
+	{{#if twitter.image.src}}
+	<meta
+		 name="twitter:image"
+		 content="{{twitter.image.src}}">
+	{{/if}}
+	{{#if twitter.image.alt}}
+	<meta
+		 name="twitter:image:alt"
+		 content="{{twitter.image.alt}}">
+	{{/if}}
+	{{/if}}
+	{{/if}}
+	{{/with}}
+	{{#each settings.files}}
+	{{#if use}}
+	{{#eq name "llms.txt"}}
+	<link
+		 rel="alternate"
+		 type="text/plain"
+		 href="/llms.txt">
+	{{/eq}}
+	{{#eq name "site.webmanifest"}}
+	<link
+		 rel="manifest"
+		 href="/site.webmanifest">
+	{{/eq}}
+	{{#eq name "humans.txt"}}
+	<link
+		 rel="author"
+		 type="text/plain"
+		 href="/humans.txt">
+	{{/eq}}
+	{{/if}}
+	{{/each}}
+	{{#each settings.head_codes}}
+	{{{code}}}
+	{{/each}}
+	{{#each main.settings.head_codes}}
+	{{{code}}}
+	{{/each}}
+	{{#with main.seo}}
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "WebPage"
+		{{#if title}}
+		,"name": "{{{title}}}"
+		{{/if}}
+		{{#if description}}
+		,"description": "{{{description}}}"
+		{{/if}}
+		{{#if og.url}}
+		,"url": "{{og.url}}"
+		{{/if}}
+		{{#if og.image}}
+		{{#if og.image.src}}
+		,"primaryImageOfPage": {
+			"@type": "ImageObject",
+			"url": "{{og.image.src}}"
+		}
+		{{/if}}
+		{{/if}}
+	}
+	</script>
+	{{/with}}
+</head>
+<body
+{{#if main.settings.body_id}}
+ id="{{main.settings.body_id}}"
+{{/if}}
+{{#if main.settings.body_class}}
+ class="{{main.settings.body_class}}"
+{{/if}}>
+	{{#each settings.start_body_codes}}
+	{{{code}}}
+	{{/each}}
+	{{#each main.settings.start_body_codes}}
+	{{{code}}}
+	{{/each}}
+	<header id="header">
+		{{#each header.sections}}
+		{{{renderSection this}}}
+		{{/each}}
+	</header>
+	<main id="main">
+		{{#each main.sections}}
+		{{{renderSection this}}}
+		{{/each}}
+	</main>
+	<footer id="footer">
+		{{#each footer.sections}}
+		{{{renderSection this}}}
+		{{/each}}
+	</footer>
+	{{{js}}}
+	{{#each main.settings.body_codes}}
+	{{{code}}}
+	{{/each}}
+	{{#each settings.body_codes}}
+	{{{code}}}
+	{{/each}}
+</body>
+</html>

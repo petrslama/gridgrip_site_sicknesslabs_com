@@ -1,0 +1,14 @@
+{
+	"fu_name": "a_h3",
+	"fields": [
+		{
+			"fu_type": "from_definition",
+			"definition": "a_icon"
+		},
+		{
+			"fu_type": "text",
+			"fu_label": "H3 Text",
+			"fu_name": "a_h3"
+		}
+	]
+}

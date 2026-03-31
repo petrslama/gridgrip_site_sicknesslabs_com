@@ -1,0 +1,56 @@
+{
+	"fu_type": "o_breadcrumbs",
+	"fu_label": "Breadcrumbs",
+	"fu_row__labels": [
+		{
+			"fu_label": "Breadcrumbs"
+		}
+	],
+	"fields": [
+		{
+			"fu_type": "from_definition",
+			"definition": "a_fu_type"
+		},
+		{
+			"fu_type": "tabs",
+			"tabs": [
+				{
+					"fu_label": "Content",
+					"fields": [
+						{
+							"fu_type": "repeater_table",
+							"fu_label": "Items",
+							"fu_name": "items",
+							"templates": [
+								{
+									"fields": [
+										{
+											"fu_type": "text",
+											"fu_label": "Text",
+											"fu_name": "text"
+										},
+										{
+											"fu_type": "text",
+											"fu_label": "Link",
+											"fu_name": "href",
+											"width": "fullwidth"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"fu_label": "Settings",
+					"fields": [
+						{
+							"fu_type": "from_definition",
+							"definition": "m_section_settings"
+						}
+					]
+				}
+			]
+		}
+	]
+}

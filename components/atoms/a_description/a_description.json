@@ -1,0 +1,11 @@
+{
+	"fu_name": "a_description",
+	"fields": [
+		{
+			"fu_type": "textarea",
+			"fu_label": "Description text",
+			"fu_name": "a_description",
+			"width": "fullwidth"
+		}
+	]
+}

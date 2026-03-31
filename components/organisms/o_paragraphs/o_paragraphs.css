@@ -1,0 +1,33 @@
+.o_paragraphs {
+
+	.paragraph {
+		line-height: 1.6;
+		color: var(--color_text);
+		margin: 0 0 1rem 0;
+		text-wrap: pretty;
+	}
+
+	ul, ol {
+		line-height: 1.6;
+		color: var(--color_text);
+		margin: 0 0 1rem 0;
+		padding-left: 1.5rem;
+
+		li {
+			margin-bottom: .25rem;
+		}
+	}
+
+	strong {
+		font-weight: 600;
+	}
+
+	a {
+		color: var(--color_primary);
+		text-decoration: underline;
+
+		&:hover {
+			color: var(--color_primary-hover);
+		}
+	}
+}

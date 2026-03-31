@@ -1,0 +1,379 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Graveyard",
+					"href": "/graveyard/"
+				},
+				{
+					"text": "Zombie Projects"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_eyebrow": "Graveyard",
+			"a_h1": "Zombie Projects &mdash; Not Dead, Not Alive, Just Running",
+			"a_description": "The domain is renewed. The server is running. The last commit was eight months ago. Welcome to the project graveyard, where abandoned startups live on life support and nobody has the guts to pull the plug.",
+			"a_image": {
+				"src": "/assets/imgs/zombie-laptop.jpg",
+				"alt": "Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere",
+				"width": "1024",
+				"height": "768"
+			}
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Zombie Projects in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>A zombie project is not dead, not alive, just running.</strong> The domain auto-renews, the server is up, the last commit was eight months ago."
+				},
+				{
+					"text": "<strong>\"On pause\" is a lie.</strong> Paused implies intention to resume. What you have is an abandoned startup with a heartbeat."
+				},
+				{
+					"text": "<strong>Zombies cost more than money.</strong> They drain mental bandwidth, guilt you into inaction, and block you from starting something new."
+				},
+				{
+					"text": "<strong>The sunk cost fallacy keeps them alive.</strong> You spent six months building it. You can't just let it die. Yes, you can — and you should."
+				},
+				{
+					"text": "<strong>The cure:</strong> audit every project. Ship it, sell it, open-source it, or kill it. No more \"I'll get back to it.\""
+				},
+				{
+					"text": "<strong>Killing a zombie frees up the one resource you can't buy back:</strong> your attention. That attention is worth more than any half-dead side project."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Anatomy of a Zombie Project",
+			"paragraphs": [
+				{
+					"text": "You know the symptoms. The landing page still loads. The SSL certificate auto-renews. There might even be a user or two trickling in from some forgotten backlink. But nobody is home. No commits, no updates, no roadmap. The project exists in a limbo state &mdash; technically alive, functionally dead."
+				},
+				{
+					"text": "Graveyard projects are the indie builder's version of a body that forgot to stop breathing. They sit on your server, eating resources and bandwidth, while you pretend they're \"on pause.\" They're not on pause. Paused implies intention to resume. What you have is an <strong>abandoned startup</strong> with a heartbeat."
+				},
+				{
+					"text": "The telltale signs are always the same: a GitHub repo with cobwebs, a Slack channel with the last message reading \"will fix Monday,\" and a Stripe account that still charges $20/month for hosting nobody uses. The project isn't dormant &mdash; dormant things wake up. This thing is undead."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Clean terminal showing a single active repository with recent commits and green status indicators, organized workspace",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/active-repo.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Cluttered dashboard showing dozens of abandoned repos, expired SSL warnings, and stale deploy logs glowing red in the dark",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/abandoned-dashboard.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Why You Can't Let Go",
+			"paragraphs": [
+				{
+					"text": "The psychology behind zombie projects is surprisingly simple: <strong>shutting something down feels like admitting failure.</strong> As long as the server runs, you haven't failed. You've just... not finished yet. There's a difference, right?"
+				},
+				{
+					"text": "Wrong. The perpetual beta mindset and the zombie project share the same root &mdash; an inability to draw a line and say \"this is done, and done means over.\" Every indie builder has at least one project they keep alive purely out of guilt. You spent six months on it. You told people about it. You bought the domain for three years."
+				},
+				{
+					"text": "But here's the uncomfortable truth: keeping a dead project alive costs more than killing it. Not just in hosting fees &mdash; in <em>mental overhead</em>. Every zombie project occupies a slot in your brain. It's one more thing on the list you'll never get to, one more tab you keep open, one more source of low-grade anxiety every time someone asks \"so what happened with that thing?\""
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Real Cost of Keeping Zombies Alive",
+			"paragraphs": [
+				{
+					"text": "Let's do the math. A typical zombie project costs you:"
+				},
+				{
+					"text": "<ul><li><strong>Hosting:</strong> $10&ndash;50/month for a server nobody visits</li><li><strong>Domain:</strong> $15&ndash;30/year for a name nobody types</li><li><strong>Mental bandwidth:</strong> Incalculable, but real &mdash; every zombie takes up space in your task list, your conscience, and your portfolio</li><li><strong>Reputation:</strong> That half-broken app with the 2023 copyright in the footer? People find it. It reflects on you.</li></ul>"
+				},
+				{
+					"text": "Multiply that across two or three graveyard projects and you're bleeding resources into the void. The hosting costs alone could fund your next real project. The mental bandwidth could be the difference between shipping something new and staying stuck in maintenance mode for things nobody cares about &mdash; including you."
+				},
+				{
+					"text": "And then there's the opportunity cost. Every hour you spend \"maybe I should update that thing\" is an hour not spent building something that matters. Zombie projects don't just drain resources &mdash; they <em>prevent new ones from being born</em>."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Dormant Project vs. Zombie Project",
+			"a_description": "One is sleeping with a plan. The other is decomposing with an excuse.",
+			"columns": [
+				{
+					"a_h3": "Dormant",
+					"items": [
+						"<div>🟢</div> Has a specific trigger to resume — a date, an event, a dependency",
+						"<div>🟢</div> You can articulate why it's paused and when it restarts",
+						"<div>🟢</div> Still generates value passively — users, revenue, or learning",
+						"<div>🟢</div> The codebase is clean and you could pick it up in a day",
+						"<div>🟢</div> You feel calm when you think about it"
+					]
+				},
+				{
+					"a_h3": "Zombie",
+					"items": [
+						"<div>🔴</div> No concrete plan to resume — just \"eventually\" or \"when I have time\"",
+						"<div>🔴</div> You avoid thinking about it and change the subject when asked",
+						"<div>🔴</div> Zero meaningful activity — no users, no commits, no progress",
+						"<div>🔴</div> The codebase is stale and you'd need days just to remember how it works",
+						"<div>🔴</div> You feel guilt or dread when you see it in your bookmarks"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Dormant vs. Dead &mdash; Know the Difference",
+			"paragraphs": [
+				{
+					"text": "Not every quiet project is a zombie. Some projects are genuinely dormant &mdash; seasonal tools, niche utilities that work fine without updates, side projects waiting for the right moment. The difference is <strong>intent and honesty</strong>."
+				},
+				{
+					"text": "A dormant project has a reason to exist and a trigger to resume. \"I'll revisit this when the API they depend on ships v2\" is dormant. \"I'll get back to it eventually\" is dead. If you can't name a specific condition under which you'd actively work on it again, it's not sleeping. It's a corpse."
+				},
+				{
+					"text": "Be honest with yourself. Open the repo. Look at the last commit date. Look at the issues. Look at the analytics. If the answer to \"would I start this project today, knowing what I know now\" is no &mdash; congratulations, you've identified a zombie. Now do something about it."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "How to Properly Kill a Project",
+			"paragraphs": [
+				{
+					"text": "Shutting down a project is a skill, and most indie builders never learn it. Here's the protocol:"
+				},
+				{
+					"text": "<ol><li><strong>Archive, don't delete.</strong> Make the repo read-only. Push a final commit that says \"archived.\" Keep the code &mdash; you might reuse pieces later.</li><li><strong>Redirect or sunset the domain.</strong> Either point it to your main site or let it expire. Don't leave a broken landing page floating around the internet.</li><li><strong>Notify users.</strong> If anyone actually uses it, give them notice. A simple \"this project is shutting down on [date]\" email is enough. Respect the people who gave you their time.</li><li><strong>Kill the infrastructure.</strong> Cancel the hosting. Remove the CI/CD pipelines. Delete the monitoring alerts. Every piece of infrastructure is a thread tying you to something that no longer matters.</li><li><strong>Write the postmortem.</strong> Not for anyone else &mdash; for you. What did you learn? What would you do differently? The project graveyard becomes a learning tool when you treat each dead project as a case study, not a shame.</li></ol>"
+				},
+				{
+					"text": "Killing a project isn't failure. It's <strong>triage</strong>. You're reallocating resources from something that can't be saved to something that can."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Zombie Audit",
+			"a_description": "Five questions to determine if your project is undead",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "archive"
+					},
+					"a_h3": "When was the last meaningful commit?",
+					"a_description": "Not a dependency update or a typo fix — a real feature, a real fix, a real decision. If the answer is measured in months, the project is cold. If you can't remember without checking, it's already dead."
+				},
+				{
+					"a_icon": {
+						"icon": "crosshair"
+					},
+					"a_h3": "Can you name the next three things you'd build?",
+					"a_description": "Active projects have a backlog that excites you. Zombie projects have a vague sense of \"I should probably...\" If you can't list three concrete next steps in 30 seconds, there's no roadmap — just guilt."
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Does anyone besides you care if it disappears?",
+					"a_description": "Check your analytics, your inbox, your support channels. If zero humans would notice the project vanishing tomorrow, it's not serving anyone. Keeping it alive is a performance for an empty theater."
+				},
+				{
+					"a_icon": {
+						"icon": "skull"
+					},
+					"a_h3": "Would you start this project today?",
+					"a_description": "The sunk cost killer. Forget everything you've built. If you had the idea today with zero code written, would you begin? If no, the only reason it exists is because it already exists — and that's not a reason."
+				},
+				{
+					"a_icon": {
+						"icon": "shield"
+					},
+					"a_h3": "Is it costing you more than money?",
+					"a_description": "Hosting fees are obvious. The hidden cost is the mental tab it keeps open — the low-grade guilt every time you see it in your bookmarks, the awkward explanation when someone asks about it. If it drains your energy, it's a zombie."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Graveyard as a Learning Tool",
+			"paragraphs": [
+				{
+					"text": "Every experienced indie builder has a graveyard. The difference between a good builder and a stuck one isn't the number of dead projects &mdash; it's what they did with the bodies."
+				},
+				{
+					"text": "Your graveyard projects contain lessons you paid for in time, money, and emotional energy. The project that failed because you never validated the market? That's a lesson in startup idea validation. The one that died because you couldn't stop adding features? That's a lesson in scope. The one you abandoned because something shinier came along? That's a lesson in commitment."
+				},
+				{
+					"text": "Stop treating your project graveyard like a source of shame. Start treating it like a curriculum. Every dead project taught you something. If you can't name what it taught you, you haven't finished learning from it yet."
+				},
+				{
+					"text": "The best founders aren't the ones who never fail. They're the ones who fail fast, learn deliberately, and move on without dragging zombie projects behind them like chains."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Audit and Kill Your Zombie Projects",
+			"a_description": "A weekend protocol for clearing out the undead and reclaiming your focus",
+			"items": [
+				{
+					"a_h3": "List every project you're technically responsible for",
+					"text": "Open your hosting dashboards, domain registrar, GitHub repos, and Stripe accounts. Write down every project that has your name on it — active, dormant, or forgotten. If it has a URL, a repo, or a recurring charge, it goes on the list."
+				},
+				{
+					"a_h3": "Score each project: ship, sell, open-source, or kill",
+					"text": "For each project, pick one of four verdicts. Ship means you commit to finishing it within 90 days. Sell means you list it on a marketplace. Open-source means you push the repo public and walk away. Kill means you shut everything down. There is no fifth option."
+				},
+				{
+					"a_h3": "Kill the obvious zombies first",
+					"text": "Start with the easiest decisions — the projects you haven't touched in six months and feel nothing about. Cancel the hosting, archive the repo, let the domain expire. Each one you eliminate frees a mental slot immediately."
+				},
+				{
+					"a_h3": "Archive the code and write a one-paragraph postmortem",
+					"text": "Before you delete anything, push a final commit with a note in the README: what the project was, why it died, and one thing you learned. This turns dead code into a reference you can revisit without guilt."
+				},
+				{
+					"a_h3": "Set a recurring audit every quarter",
+					"text": "Zombie projects don't appear overnight — they accumulate slowly. Put a recurring calendar reminder to review your project list every three months. If anything hasn't moved since the last audit, it's a zombie. Act accordingly."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about zombie projects and when to pull the plug",
+			"items": [
+				{
+					"a_h3": "What is a zombie project?",
+					"answer": "A zombie project is a side project or startup that's technically still running &mdash; the domain is active, the server is up &mdash; but hasn't received meaningful development, updates, or attention in months. It's not actively maintained, but nobody has officially shut it down either."
+				},
+				{
+					"a_h3": "How do I know if my project is a zombie or just dormant?",
+					"answer": "Ask yourself one question: can you name a specific, concrete condition under which you'd resume active work on it? If yes, it's dormant. If your answer is \"eventually\" or \"when I have time,\" it's a zombie. Dormant projects have triggers. Zombie projects have excuses."
+				},
+				{
+					"a_h3": "Is it okay to keep graveyard projects in my portfolio?",
+					"answer": "Only if they still work and represent your skill level. A broken app with outdated dependencies and a 2022 copyright doesn't make you look experienced &mdash; it makes you look careless. Either maintain it to a presentable standard or remove it."
+				},
+				{
+					"a_h3": "What should I do with the code from a dead project?",
+					"answer": "Archive the repository rather than deleting it. You might reuse components, patterns, or lessons later. Write a brief postmortem in the README explaining what the project was, why it died, and what you learned. This turns dead code into a reference library."
+				},
+				{
+					"a_h3": "How do I stop accumulating zombie projects?",
+					"answer": "Set kill criteria before you start. Define upfront what success looks like and what failure looks like &mdash; with numbers and dates, not vibes. If your project doesn't hit its milestones by the deadline, you make the call: pivot, recommit with a new plan, or shut it down. No limbo."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Graveyard Diseases",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "infinity"
+					},
+					"a_h3": "Perpetual Beta",
+					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
+					"href": "/graveyard/perpetual-beta/",
+					"a_image": {
+						"src": "/assets/imgs/under-construction-door.jpg",
+						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "crosshair"
+					},
+					"a_h3": "Pivot or Quit",
+					"a_description": "The hardest question in indie building: is this a problem you can fix, or a project you need to walk away from?",
+					"href": "/graveyard/pivot-or-quit/",
+					"a_image": {
+						"src": "/assets/imgs/fork-in-road.jpg",
+						"alt": "Fork in a dark road with one path leading to light and the other to darkness, decision crossroads"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "flame"
+					},
+					"a_h3": "Startup Burnout",
+					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
+					"href": "/founder/startup-burnout/",
+					"a_image": {
+						"src": "/assets/imgs/burnt-matchstick.jpg",
+						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "hourglass"
+					},
+					"a_h3": "Procrastination",
+					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
+					"href": "/founder/procrastination/",
+					"a_image": {
+						"src": "/assets/imgs/frozen-hourglass.jpg",
+						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Zombie Projects — Not Dead, Not Alive, Just Running | Sickness Labs",
+		"description": "Your project is still online but nobody's touched it in months. Learn to recognize graveyard projects, understand the cost of keeping them alive, and how to shut them down.",
+		"og": {
+			"title": "Zombie Projects — Not Dead, Not Alive, Just Running | Sickness Labs",
+			"description": "Your project is still online but nobody's touched it in months. Learn to recognize graveyard projects, understand the cost of keeping them alive, and how to shut them down.",
+			"url": "https://www.sicknesslabs.com/graveyard/zombie-projects/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Zombie Projects — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Zombie Projects — Not Dead, Not Alive, Just Running | Sickness Labs",
+			"description": "Your project is still online but nobody's touched it in months. Learn to recognize graveyard projects, understand the cost of keeping them alive, and how to shut them down.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Zombie Projects — Sickness Labs"
+			}
+		}
+	}
+}

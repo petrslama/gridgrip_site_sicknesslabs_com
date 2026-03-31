@@ -1,0 +1,31 @@
+<section class="o_howto container-sm"
+	{{#if section_id}}
+	 id="{{section_id}}"
+	{{/if}}>
+	{{> m_section_title }}
+	<ol>
+		{{#each items}}
+		<li>
+			{{> a_h3 }}
+			<p>{{{text}}}</p>
+		</li>
+		{{/each}}
+	</ol>
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		 "@type": "HowTo",
+		 "name": {{json a_h2}},
+		 "description": {{json a_description}},
+		 "step": [
+			{{#each items}}
+			{
+				 "@type": "HowToStep",
+				 "name": {{json a_h3}},
+				 "text": {{json text}}
+			}{{#unless @last}},{{/unless}}
+			{{/each}}
+		]
+	}
+	</script>
+</section>

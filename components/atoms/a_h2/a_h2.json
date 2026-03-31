@@ -1,0 +1,10 @@
+{
+	"fu_name": "a_h2",
+	"fields": [
+		{
+			"fu_type": "textarea",
+			"fu_label": "H2 Text",
+			"fu_name": "a_h2"
+		}
+	]
+}

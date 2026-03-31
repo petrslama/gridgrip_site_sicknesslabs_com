@@ -1,0 +1,440 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Build",
+					"href": "/build/"
+				},
+				{
+					"text": "Feature Prioritization"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/chess-board.jpg"
+			},
+			"a_eyebrow": "Build",
+			"a_h1": "Feature Prioritization — How to Decide What Actually Matters",
+			"a_description": "Your backlog has 200 items. Everything feels urgent. Nothing feels important. Feature prioritization is the discipline that turns a chaotic pile of ideas into a clear sequence of decisions — and it's the skill most indie builders never develop.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Feature Prioritization in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>If your process is \"whatever feels urgent,\" you don't have a process.</strong> You have chaos with a to-do list."
+				},
+				{
+					"text": "<strong>Pick a framework (ICE, RICE, MoSCoW) and apply it consistently.</strong> A bad framework used consistently beats perfect intuition used randomly."
+				},
+				{
+					"text": "Every Monday: <strong>pick three things for the week.</strong> Not five. Not ten. Three."
+				},
+				{
+					"text": "<strong>Kill the backlog regularly.</strong> Delete everything below the top 20. If an idea matters, it'll come back."
+				},
+				{
+					"text": "<strong>Feature prioritization is a subset of product prioritization.</strong> Sometimes the right move is fixing bugs, not building features."
+				},
+				{
+					"text": "<strong>Score every idea against consistent criteria</strong> — that discipline is what separates products that ship from products that stall."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Why Everything Feels Urgent",
+			"paragraphs": [
+				{
+					"text": "Broken prioritization of features is the default state for most indie projects. Without a system, every feature request feels equally important. The user who emailed this morning is urgent. The competitor who launched a new feature yesterday is urgent. The idea you had in the shower is urgent. And the bug that's been there for three months is also urgent, somehow, because someone just mentioned it on Twitter."
+				},
+				{
+					"text": "The problem isn't that you have too many ideas. The problem is that you have no reliable way to compare them. When everything is evaluated on gut feeling and recency bias, the loudest voice wins — whether that's an angry user, a persuasive stakeholder, or your own anxiety at 2 AM."
+				},
+				{
+					"text": "Product prioritization fails when there's no framework. Not because frameworks are magic, but because they force you to evaluate features against consistent criteria instead of whatever emotion is strongest at the moment. A bad framework applied consistently will outperform perfect intuition applied inconsistently in most cases."
+				},
+				{
+					"text": "The first step to fixing prioritization isn't adopting a framework — it's admitting you don't have one. If your process for deciding what to build next is \"whatever seems most important right now,\" you don't have a process. You have chaos with a to-do list."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Clean minimal kanban board with three columns and five neatly placed cards, soft shadows, muted pastel tones, dark background, calm organized layout, top-down view, studio lighting",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/kanban-clean.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Chaotic whiteboard completely covered in overlapping sticky notes of every color, arrows pointing everywhere, some notes falling off, dark background, overwhelming cluttered mess, top-down view, studio lighting",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/whiteboard-chaos.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Feature Prioritization Frameworks — RICE, ICE, MoSCoW, and Kano",
+			"paragraphs": [
+				{
+					"text": "There's no shortage of feature prioritization frameworks. The challenge is picking one that matches your context and actually using it. Here are the four that matter most for indie builders."
+				},
+				{
+					"text": "<strong>RICE</strong> scores features by Reach (how many users it affects), Impact (how much it moves the needle per user), Confidence (how sure you are about the estimates), and Effort (how long it takes to build). Multiply Reach x Impact x Confidence, divide by Effort. The result is a prioritization score you can sort by. RICE works well when you have usage data and can estimate reach honestly. One caveat: the Confidence score is the most commonly gamed dimension — founders routinely rate their pet features at 80%+ confidence with zero data to back it up. If you can't point to a specific signal (user request, usage pattern, support ticket) that supports your confidence rating, drop it to 50%."
+				},
+				{
+					"text": "<strong>ICE</strong> is RICE's simpler cousin: Impact, Confidence, Ease. Score each on a scale of 1-10, multiply them together. It's faster, less precise, and good enough for early-stage products where you don't have real reach data yet. Most indie builders should start with ICE."
+				},
+				{
+					"text": "<strong>MoSCoW</strong> sorts features into Must Have, Should Have, Could Have, and Won't Have. It's not a scoring system — it's a categorization exercise. MoSCoW works best for MVP prioritization and fixed-deadline projects where you need to decide what ships and what doesn't."
+				},
+				{
+					"text": "<strong>Kano model</strong> (developed by Noriaki Kano in 1984) categorizes features by user perception: Basic (expected, absence causes dissatisfaction), Performance (more is better, linear satisfaction), and Attractive (unexpected, creates strong positive reaction). Kano helps you understand which features prevent churn vs. which drive growth. To apply it without a full research budget, run a minimal Kano survey: for each feature, ask users two questions — \"How would you feel if this feature existed?\" and \"How would you feel if it didn't?\" Even five responses are enough to sort a feature into Basic, Performance, or Attractive with reasonable confidence."
+				},
+				{
+					"text": "The framework matters less than consistency. Pick one, apply it to every decision, and refine your scoring over time. Switching frameworks every month is worse than using a mediocre one consistently."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Choosing the Right Framework",
+			"a_description": "Each framework fits a different stage. Pick one and stick with it.",
+			"columns": [
+				{
+					"a_h3": "ICE / RICE (Scoring)",
+					"items": [
+						"<div>🟢</div> Gives a numeric rank you can sort",
+						"<div>🟢</div> Forces honest effort estimates",
+						"<div>🟢</div> ICE works without usage data",
+						"<div>🟡</div> RICE needs real reach numbers",
+						"<div>🟡</div> Scores can be gamed by optimistic founders"
+					]
+				},
+				{
+					"a_h3": "MoSCoW / Kano (Categorization)",
+					"items": [
+						"<div>🟢</div> Fast — no math, just buckets",
+						"<div>🟢</div> MoSCoW ideal for fixed deadlines",
+						"<div>🟢</div> Kano reveals churn vs. growth levers",
+						"<div>🟡</div> No rank order within categories",
+						"<div>🟡</div> Kano requires user research to apply"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Feature Prioritization Matrix — Making Trade-offs Visible",
+			"paragraphs": [
+				{
+					"text": "A feature prioritization matrix is a 2x2 grid that plots features along two dimensions. The most common version uses Impact (vertical axis) and Effort (horizontal axis), creating four quadrants:"
+				},
+				{
+					"text": "<ul><li><strong>High Impact, Low Effort (Quick Wins)</strong> — Build these first. They deliver the most value for the least investment.</li><li><strong>High Impact, High Effort (Big Bets)</strong> — Plan these carefully. They're worth doing but need proper scoping and timelines.</li><li><strong>Low Impact, Low Effort (Fill-ins)</strong> — Build these when you have spare capacity. Nice-to-have improvements that don't move the needle much.</li><li><strong>Low Impact, High Effort (Money Pits)</strong> — Don't build these. Ever. If someone argues for a feature in this quadrant, they're wrong about either the impact or the effort.</li></ul>"
+				},
+				{
+					"text": "The feature priority matrix isn't a decision-maker — it's a decision visualizer. It takes abstract arguments about what to build and turns them into a spatial layout where trade-offs are obvious. When two people disagree about priority, putting both features on the matrix often resolves the debate without further discussion."
+				},
+				{
+					"text": "Build your matrix on a whiteboard or a simple spreadsheet. Don't use specialized software — the value is in the conversation that happens while placing features on the grid, not in the grid itself. If you spend more time configuring the tool than discussing priorities, you've missed the point."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Agile Feature Prioritization for Small Teams",
+			"paragraphs": [
+				{
+					"text": "Agile feature prioritization was designed for teams with product managers, scrum masters, and dedicated stakeholder meetings. Indie builders and small teams need a stripped-down version that works without the ceremony."
+				},
+				{
+					"text": "<strong>Weekly prioritization, not sprint planning.</strong> Forget two-week sprints. Every Monday, look at your list and pick the three most important things for the week. Not five. Not ten. Three. If you finish all three, pick the next one. This keeps focus tight and makes reprioritization a weekly habit instead of a quarterly event."
+				},
+				{
+					"text": "<strong>One decision-maker.</strong> In agile teams, prioritization is collaborative. In a team of one or two, it's autocratic — and that's fine. The founder decides what gets built. Input from users and data informs the decision, but the decision itself is fast and final. Committee-style prioritization in small teams is just procrastination."
+				},
+				{
+					"text": "<strong>Kill the backlog regularly.</strong> A backlog with 200 items is not a prioritized list — it's a graveyard of ideas. Every month, delete everything below the top 20. If an idea is important enough, it'll come back. If it doesn't come back, it wasn't important. Track how many times a killed idea resurfaces — if something comes back three or more times unprompted, it's earned a real evaluation regardless of its original score. This is the most liberating practice in agile feature prioritization: admitting that most ideas don't matter."
+				},
+				{
+					"text": "<strong>Close the loop with users.</strong> When you kill a feature request, tell the person who asked. A one-line message — \"We considered this but prioritized X instead because it affects more users\" — costs you 30 seconds and prevents the slow erosion of trust that happens when requests disappear into a void. Users who feel heard keep giving feedback. Users who feel ignored stop talking and start leaving."
+				},
+				{
+					"text": "Small teams have one advantage over large ones: speed of decision. Use it. The time between \"this is important\" and \"this is being built\" should be hours, not weeks. Every process that slows that loop down is overhead you can't afford."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Product Prioritization vs. Feature Prioritization",
+			"paragraphs": [
+				{
+					"text": "Feature prioritization asks: which feature should we build next? Product prioritization asks: should we be building features at all?"
+				},
+				{
+					"text": "Product prioritization operates at a higher level. It decides between categories of work: new features vs. bug fixes vs. performance improvements vs. reducing technical debt vs. user research vs. marketing. A product can have perfect feature prioritization and still fail because it's spending all its time on features when it should be fixing the bugs that make existing users leave."
+				},
+				{
+					"text": "For indie builders, the product prioritization question is even broader: should I be coding, or should I be doing customer development? Should I be building, or should I be writing content? Should I be adding features, or should I be improving onboarding for the features that already exist?"
+				},
+				{
+					"text": "The feature prioritization template that actually works for indie products includes all types of work, not just features. Your weekly top-three list should sometimes include \"write a blog post\" or \"talk to five users\" or \"fix the three worst bugs.\" If your prioritization system only considers new features, it has a blind spot that will eventually sink the product."
+				},
+				{
+					"text": "Product prioritization is the meta-skill. Feature prioritization is a subset of it. Master the broader discipline first, and feature-level decisions become much easier because they're happening in the right context."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Weekly Prioritization Checklist",
+			"a_description": "Run through this every Monday before you write a single line of code.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "list-checks"
+					},
+					"a_h3": "Review last week's output",
+					"a_description": "Did you finish your top three? If not, why? Recurring blockers reveal systemic problems — fix those before picking new work."
+				},
+				{
+					"a_icon": {
+						"icon": "message-square"
+					},
+					"a_h3": "Check user feedback",
+					"a_description": "Read every support message and feature request from the past week. Look for patterns, not individual voices. Pull out the top five support pain points — these are prioritization candidates that come pre-validated."
+				},
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Score with your framework",
+					"a_description": "Run the top candidates through ICE or RICE. No gut decisions — numbers first, intuition second."
+				},
+				{
+					"a_icon": {
+						"icon": "scissors"
+					},
+					"a_h3": "Pick three, kill the rest",
+					"a_description": "Choose your top three for the week. Everything else waits. If you can't pick three, your scoring is broken."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "A Practical Prioritization Template for Indie Builders",
+			"paragraphs": [
+				{
+					"text": "Here's a feature prioritization template that works for solo builders and small teams. No software required. A spreadsheet or a text file is enough."
+				},
+				{
+					"text": "For each feature, bug fix, technical debt item, or any other work item, score these dimensions on a scale of 1-5:"
+				},
+				{
+					"text": "<ol><li><strong>User Impact</strong> — How much does this improve the experience for existing users or attract new ones? (1 = barely noticeable, 5 = transformative)</li><li><strong>Business Impact</strong> — Does this directly affect revenue, retention, or growth? (1 = no measurable effect, 5 = critical to business survival)</li><li><strong>Build Cost</strong> — How long will this take, including testing, edge cases, and maintenance? (1 = a few hours, 5 = multiple weeks)</li><li><strong>Revenue Link</strong> — Flag as Direct (this feature drives purchases or upgrades), Indirect (improves retention or reduces churn), or None. Use this column to break ties — between two equal scores, build the one with a direct revenue connection first.</li></ol>"
+				},
+				{
+					"text": "Priority score = (User Impact + Business Impact) minus Build Cost. Sort by score descending. Build from the top."
+				},
+				{
+					"text": "Here's what a scored row looks like in practice: <strong>\"Add CSV export\"</strong> — User Impact: 4 (top-requested feature, affects power users daily), Business Impact: 3 (indirect retention driver, not a purchase trigger), Build Cost: 2 (straightforward implementation, one edge case around encoding), Revenue Link: Indirect. Score: (4 + 3) - 2 = <strong>5</strong>. That single row took 60 seconds to fill out and gives you a defensible number to compare against every other item on the list."
+				},
+				{
+					"text": "Consider adding a <strong>Kill Date</strong> column — the date by which you'll delete the item if it hasn't been started. Default to 90 days. If a feature can't earn enough priority to get built in three months, it's either not important or not well-defined enough. Kill dates prevent your backlog from becoming a museum of good intentions."
+				},
+				{
+					"text": "This template is intentionally simple. It captures the essential trade-off — value delivered vs. cost to build — without the overhead of RICE's reach estimates or ICE's confidence scores. For MVP feature prioritization, simplify further: score only User Impact and Build Cost. At the MVP stage, business impact is too speculative to score reliably."
+				},
+				{
+					"text": "Review and re-score monthly. Priorities change as the product evolves, as you learn more about users, and as the market shifts. A prioritization system that never updates is just a static list — and static lists become irrelevant fast."
+				},
+				{
+					"text": "The template isn't the point. The discipline of scoring every idea against consistent criteria is the point. The act of comparing features systematically — instead of building whatever feels exciting today — is what separates products that ship from products that stall."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Prioritize Your Backlog From Scratch",
+			"a_description": "A repeatable process for turning a chaotic pile of ideas into a ranked build order.",
+			"items": [
+				{
+					"a_h3": "Dump everything into one list",
+					"text": "Collect every feature request, bug report, idea, and to-do into a single flat list. No categories, no grouping. Just a raw inventory of everything competing for your time. Include items from support emails, your own notes, and competitor observations."
+				},
+				{
+					"a_h3": "Delete the bottom half",
+					"text": "Read through the list and delete anything you wouldn't seriously consider building in the next three months. Be brutal — if an idea has been sitting in your backlog for six months untouched, it's not important. Cut it. If it matters, it'll come back."
+				},
+				{
+					"a_h3": "Score what survives",
+					"text": "Apply your chosen framework (ICE or RICE) to every remaining item. Score honestly — if you're not confident about impact, your Confidence score should reflect that. The goal is relative ranking, not absolute accuracy."
+				},
+				{
+					"a_h3": "Pick the top three for this week",
+					"text": "Sort by score and commit to the top three. Not five, not ten — three. Put them somewhere visible. Everything else is frozen until these are done. If something urgent comes in mid-week, it has to outscore a current item to replace it."
+				},
+				{
+					"a_h3": "Review and re-score monthly",
+					"text": "At the end of each month, re-score the entire surviving list. New information — user feedback, usage data, market changes — will shift priorities. Items that keep sinking in rank are candidates for permanent deletion."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Further Reading",
+			"paragraphs": [
+				{
+					"text": "The frameworks in this article didn't appear from nowhere. If you want to go deeper on any of them, start here:"
+				},
+				{
+					"text": "<ul><li><strong>RICE scoring</strong> — Intercom's original blog post on the RICE framework is the clearest explanation of how Reach, Impact, Confidence, and Effort work together. Search for \"Intercom RICE scoring\" — it's been the canonical reference since they published it.</li><li><strong>Kano model</strong> — Noriaki Kano's original 1984 paper introduced the attractive quality theory. For a practical introduction, the Folding Burritos guide to the Kano model breaks down how to run surveys and classify features without academic jargon.</li><li><strong>MoSCoW</strong> — Dai Clegg is credited with developing MoSCoW prioritization, which was adopted by DSDM in the mid-1990s and became widely used from the early 2000s. It's since become the default prioritization method in agile workshops and fixed-scope projects.</li></ul>"
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about feature prioritization and making better trade-offs",
+			"items": [
+				{
+					"a_h3": "What is a feature prioritization matrix?",
+					"answer": "A feature prioritization matrix is a 2x2 grid that plots features by Impact (high/low) and Effort (high/low). It creates four quadrants: Quick Wins (high impact, low effort — build first), Big Bets (high impact, high effort — plan carefully), Fill-ins (low impact, low effort — build when spare), and Money Pits (low impact, high effort — never build). It makes trade-offs visual and resolves priority debates."
+				},
+				{
+					"a_h3": "What's the best feature prioritization framework?",
+					"answer": "There's no single best framework — it depends on your stage and data. ICE (Impact, Confidence, Ease) works best for early-stage indie products because it's fast and doesn't require usage data. RICE adds Reach for products with real traffic numbers. MoSCoW is best for fixed-deadline decisions. The framework matters less than applying one consistently."
+				},
+				{
+					"a_h3": "How do you prioritize features for an MVP?",
+					"answer": "For MVP feature prioritization, use only two criteria: user impact and build cost. Score each feature 1-5 on both, then prioritize by the difference (impact minus cost). Only include features that validate the core business hypothesis. Apply the willingness-to-pay test: would someone pay specifically for this capability? If not, it's post-MVP."
+				},
+				{
+					"a_h3": "How often should you reprioritize features?",
+					"answer": "Weekly for what you're building next, monthly for the broader roadmap. Every Monday, pick your top three priorities for the week. Every month, re-score your feature list against your criteria and delete everything below the top 20. Priorities shift as you learn from users and the market — a system that never updates becomes irrelevant."
+				},
+				{
+					"a_h3": "What's the difference between product prioritization and feature prioritization?",
+					"answer": "Feature prioritization decides which feature to build next. Product prioritization decides whether you should be building features at all — or fixing bugs, reducing debt, doing user research, or writing content. Product prioritization is the higher-level skill. Perfect feature prioritization still fails if you're spending all your time on features when the product needs something else entirely."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Build-Phase Diseases",
+			"a_description": "Broken prioritization rarely travels alone. These conditions share the same root — building without a system.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "layers"
+					},
+					"a_h3": "Feature Creep",
+					"a_description": "The product started simple. Now it has a dashboard, an API, dark mode, and a settings page with 47 toggles. Nobody asked for any of it.",
+					"href": "/build/feature-creep/",
+					"a_image": {
+						"src": "/assets/imgs/swiss-army-knife.jpg",
+						"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "expand"
+					},
+					"a_h3": "Scope Creep",
+					"a_description": "The timeline was two months. Then someone said \"while we're at it\" and now it's month six with no end in sight.",
+					"href": "/build/scope-creep/",
+					"a_image": {
+						"src": "/assets/imgs/expanding-doorframe.jpg",
+						"alt": "Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "wrench"
+					},
+					"a_h3": "MVP Overengineering",
+					"a_description": "Your MVP has a microservice architecture, CI/CD pipeline, and 90% test coverage. It has zero users.",
+					"href": "/build/mvp-overengineering/",
+					"a_image": {
+						"src": "/assets/imgs/golden-hammer.jpg",
+						"alt": "Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "brain"
+					},
+					"a_h3": "Analysis Paralysis",
+					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
+					"href": "/idea/analysis-paralysis/",
+					"a_image": {
+						"src": "/assets/imgs/spinning-compass.jpg",
+						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Feature Prioritization — How to Decide What Actually Matters | Sickness Labs",
+		"description": "Feature prioritization frameworks, matrices, and templates for indie builders. Turn a chaotic backlog into clear decisions — ICE, RICE, MoSCoW, and Kano compared.",
+		"og": {
+			"title": "Feature Prioritization — Stop Building Whatever Feels Urgent",
+			"description": "Your backlog has 200 items and no ranking. Here's a practical system for indie builders to prioritize features without the enterprise ceremony.",
+			"url": "https://www.sicknesslabs.com/build/feature-prioritization/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Feature Prioritization — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Feature Prioritization — Stop Building Whatever Feels Urgent",
+			"description": "Your backlog has 200 items and no ranking. Here's a practical system for indie builders to prioritize features without the enterprise ceremony.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Feature Prioritization — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [
+			{
+				"note": "Article schema",
+				"code": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Feature Prioritization — How to Decide What Actually Matters\",\"description\":\"Feature prioritization frameworks, matrices, and templates for indie builders. Turn a chaotic backlog into clear decisions.\",\"url\":\"https://www.sicknesslabs.com/build/feature-prioritization/\",\"image\":\"https://www.sicknesslabs.com/assets/imgs/chess-board.jpg\",\"author\":{\"@type\":\"Organization\",\"name\":\"Sickness Labs\",\"url\":\"https://www.sicknesslabs.com\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Sickness Labs\",\"url\":\"https://www.sicknesslabs.com\"}}</script>"
+			}
+		],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

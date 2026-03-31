@@ -1,0 +1,378 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Idea",
+					"href": "/idea/"
+				},
+				{
+					"text": "Validation Skip"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/bridge-leap.jpg"
+			},
+			"a_eyebrow": "Idea",
+			"a_h1": "Validation Skip — Building First, Asking Questions Never",
+			"a_description": "You spent four months building a product nobody asked for. The landing page is live, the features are polished, the code is clean. There's just one problem: zero users. Validation Skip is the startup disease where conviction replaces evidence and \"if I build it, they will come\" replaces actual idea validation.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Validation Skip in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Validation Skip is building first and asking questions never.</strong> Four months of coding, zero conversations with potential users."
+				},
+				{
+					"text": "<strong>Founders skip validation because validation can say no.</strong> And \"no\" means the idea you've been fantasizing about might not work."
+				},
+				{
+					"text": "<strong>\"I am my target audience\" is not validation.</strong> Neither is \"Steve Jobs said people don't know what they want until you show it to them.\" Both are shields against the discomfort of being wrong."
+				},
+				{
+					"text": "<strong>Validation doesn't require a product.</strong> A landing page, five conversations, or a pre-order button can tell you more than six months of building."
+				},
+				{
+					"text": "<strong>The question isn't \"do people like this idea?\"</strong> It's \"will people pay for this?\" Enthusiasm is cheap. Wallets are honest."
+				},
+				{
+					"text": "<strong>A killed idea is not a failure.</strong> It's a week of validation saving you six months of building something nobody wants."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Diagnosis: Why Founders Skip Idea Validation",
+			"paragraphs": [
+				{
+					"text": "Idea validation startup founders skip it for one simple reason: validation can say no. And \"no\" means the idea you've been fantasizing about for weeks might not work. That's a painful thing to hear before you've even started building. So you don't ask."
+				},
+				{
+					"text": "The rationalization comes in many forms. \"My idea is too innovative for people to understand until they see it.\" \"Steve Jobs said people don't know what they want until you show it to them.\" \"I know my target audience because I <em>am</em> my target audience.\" Every one of these is a shield against the discomfort of potentially being wrong."
+				},
+				{
+					"text": "Fear of rejection is the biggest driver. If you build the product and nobody comes, you can blame distribution, timing, or marketing. If you validate the idea and people say they don't want it, you have to blame the idea itself. That feels personal in a way that failed marketing doesn't."
+				},
+				{
+					"text": "There's also the builder's bias. If you're a developer, building is your comfort zone. Talking to strangers about whether they'd pay for something? That's terrifying. So you default to what feels productive — writing code — and skip the part that actually determines whether the code matters."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Scientist carefully examining a test tube under a magnifying glass, methodical and precise, lab equipment in background, dark moody lighting, shallow depth of field",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/scientist-testing.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Person blindfolded throwing darts at a wall covered in random targets, some darts hitting nothing, chaotic and unguided, dark background, dramatic side lighting",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/blindfolded-darts.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "What Real Startup Idea Validation Looks Like",
+			"paragraphs": [
+				{
+					"text": "Startup idea validation isn't asking your friends if your idea is good. Your friends will lie to you. They'll say \"that sounds cool\" because they don't want to hurt your feelings. That's not validation — that's social lubrication."
+				},
+				{
+					"text": "Real validation in startup contexts means finding evidence that people have the problem you're solving <em>and</em> are willing to pay for a solution. Those are two separate things. Lots of people have problems they've learned to live with. Validation means finding the ones who are actively looking for an answer."
+				},
+				{
+					"text": "The gold standard for how to validate a startup idea: find 10 people in your target market, describe the problem (not your solution), and see if they light up. If they start telling you about their own experience with the problem, you're onto something. If they shrug, you're not. No amount of building changes that reaction."
+				},
+				{
+					"text": "Startup validation isn't a one-time gate. It's an ongoing process. You validate the problem, then the solution concept, then the willingness to pay, then the price point. Each step reduces risk. Skipping any step means building on assumptions instead of evidence."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Real Validation vs. Fake Validation",
+			"a_description": "One produces evidence. The other produces comfort.",
+			"columns": [
+				{
+					"a_h3": "Real Validation",
+					"items": [
+						"<div>🟢</div> Strangers confirm the problem exists",
+						"<div>🟢</div> People sign up or pre-order unprompted",
+						"<div>🟢</div> Interviews reveal surprises",
+						"<div>🟢</div> Some people say no — that's data",
+						"<div>🟢</div> Evidence would survive a skeptic"
+					]
+				},
+				{
+					"a_h3": "Fake Validation",
+					"items": [
+						"<div>🔴</div> Friends say \"that sounds cool\"",
+						"<div>🔴</div> Hypothetical \"I would use that\"",
+						"<div>🔴</div> Interviews confirm what you hoped",
+						"<div>🔴</div> Nobody disagrees — because you pitched",
+						"<div>🔴</div> Evidence is just polite encouragement"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "How to Validate Your Startup Idea in a Weekend",
+			"paragraphs": [
+				{
+					"text": "Here's how to validate your startup idea before writing a single line of code. This isn't theoretical — it's a weekend exercise that separates real opportunities from fantasies."
+				},
+				{
+					"text": "<strong>Saturday morning: problem interviews.</strong> Find 5 people in your target audience (Reddit, Twitter, LinkedIn, industry Slack groups). Ask them about the problem you're solving. Don't pitch your solution. Just ask: \"How do you currently handle X? What's frustrating about it? Have you tried to solve it? What did you try?\" Listen more than you talk. Take notes on exact words they use."
+				},
+				{
+					"text": "<strong>Saturday afternoon: competitive analysis.</strong> Find every existing solution to this problem. If nothing exists, that's a red flag, not a green one — it often means the market doesn't care enough to pay. If solutions exist, study their reviews. What do users complain about? That's your opportunity. What do they praise? That's your table stakes."
+				},
+				{
+					"text": "<strong>Sunday: the landing page test.</strong> Build a simple landing page describing your solution. Include a clear call to action — \"Join the waitlist\" or \"Get early access.\" Drive traffic to it via the same communities where you found interview subjects. If nobody signs up, you have your answer. If people sign up, you have your first users."
+				},
+				{
+					"text": "This isn't exhaustive validation, but it gives you more signal in 48 hours than most founders get in months of building. How to validate your startup idea doesn't require a research team or a budget. It requires the willingness to hear \"no.\""
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Difference Between Asking and Validating",
+			"paragraphs": [
+				{
+					"text": "\"Would you use an app that does X?\" is not validation. It's a hypothetical, and humans are terrible at predicting their own behavior in hypotheticals. Everyone says they'd go to the gym more, eat healthier, and use your app. Almost nobody actually does."
+				},
+				{
+					"text": "Validation requires commitment signals. A commitment signal is anything that costs the other person something — time, money, reputation. Signing up for a waitlist costs time. Pre-ordering costs money. Sharing the idea with their network costs reputation. These are validation signals. Polite nodding is not."
+				},
+				{
+					"text": "The \"Mom Test\" principle applies here: never ask anyone if your business idea is good. Instead, ask about their life, their problems, their current solutions. The data is in their behavior, not their opinions. If someone says \"I'd definitely use that\" but won't spend 30 seconds signing up for a waitlist, they're being polite, not honest."
+				},
+				{
+					"text": "Validate idea startup founders need to design experiments, not surveys. An experiment has a clear hypothesis (\"10% of people who see this page will sign up\") and a measurable outcome. A survey has opinions. Opinions are noise. Behavior is signal."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Validation Readiness Gate",
+			"a_description": "Before writing any code, every gate must pass. If any fails, validate more.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "message-circle"
+					},
+					"a_h3": "Have 5+ strangers confirmed the problem?",
+					"a_description": "Not friends, not family — strangers in your target market. They described the problem in their own words without you prompting the answer."
+				},
+				{
+					"a_icon": {
+						"icon": "credit-card"
+					},
+					"a_h3": "Has someone shown a commitment signal?",
+					"a_description": "A waitlist signup, a pre-order, a deposit. Something that cost them time or money — not just verbal enthusiasm."
+				},
+				{
+					"a_icon": {
+						"icon": "search"
+					},
+					"a_h3": "Do alternatives exist?",
+					"a_description": "If no one has tried to solve this before, ask why. Existing competitors are a good sign — they prove people pay for solutions. No competitors often means no market."
+				},
+				{
+					"a_icon": {
+						"icon": "dollar-sign"
+					},
+					"a_h3": "Are people currently spending money on this problem?",
+					"a_description": "If the target audience solves the problem with free tools or ignores it entirely, they won't pay for your solution either."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Cost of Building Without Validation",
+			"paragraphs": [
+				{
+					"text": "The math is unforgiving. A weekend of validation costs you 20 hours. Building a full product without validation costs you 200-500 hours. If the idea was wrong, validation saves you 180-480 hours. That's 5-12 weeks of your life. There is no scenario where skipping validation is the rational choice."
+				},
+				{
+					"text": "But the cost isn't just time. It's emotional. You've now spent months on something that doesn't work, and you have to confront that. Some founders pivot. Most quit entirely — not just the project, but the whole idea of building things. The validation skip doesn't just kill one project. It often kills the founder's willingness to try again."
+				},
+				{
+					"text": "The sunk cost fallacy makes it worse. After three months of building, you're not going to throw it away based on 5 user interviews. So you keep building, keep adding features, keep telling yourself that the next feature will be the one that makes people care. It won't. Features don't fix a problem that doesn't exist."
+				},
+				{
+					"text": "Every successful startup founder you admire validated before they built. They might not call it validation — they might call it \"talking to users\" or \"customer development\" or \"market research.\" But they all did it. The ones who didn't are the ones you've never heard of."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Validate a Startup Idea in a Weekend",
+			"a_description": "A repeatable process for testing whether your idea has real demand — before you write a single line of code.",
+			"items": [
+				{
+					"a_h3": "Saturday morning: run 5 problem interviews",
+					"text": "Find 5 people in your target market through Reddit, LinkedIn, or industry communities. Ask about their experience with the problem — not your solution. \"How do you handle X today? What's frustrating about it? Have you tried to fix it?\" Listen for emotion and specifics. Take notes on their exact words."
+				},
+				{
+					"a_h3": "Saturday afternoon: map the competitive landscape",
+					"text": "Find every existing solution. Study their reviews — complaints reveal your opportunity, praise reveals table stakes. If no solutions exist, investigate why. The absence of competition usually means the absence of demand, not a blue ocean."
+				},
+				{
+					"a_h3": "Sunday morning: build a landing page",
+					"text": "Create a simple page describing your solution. Use the exact language your interview subjects used to describe the problem. Include one clear call to action: waitlist signup or pre-order. This takes 2-3 hours, not 2-3 weeks."
+				},
+				{
+					"a_h3": "Sunday afternoon: drive traffic and measure",
+					"text": "Share the landing page in the same communities where you found interview subjects. Post it on relevant subreddits, Slack groups, or Twitter. Track signups. If 5-10% of visitors sign up, you have initial demand. If nobody does, you have your answer — and you saved months."
+				},
+				{
+					"a_h3": "Sunday evening: decide",
+					"text": "Review the evidence. Problem confirmed + competitive gap + landing page conversions = green light to build an MVP. Any missing piece = more validation needed. No evidence of demand = kill the idea and move on. This decision should take 30 minutes, not 30 days."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about idea validation and avoiding costly assumptions",
+			"items": [
+				{
+					"a_h3": "What is idea validation for startups?",
+					"answer": "Idea validation is the process of testing whether a real market exists for your product before you build it. It involves talking to potential users, testing demand with landing pages or pre-orders, and gathering commitment signals — not just opinions. The goal is evidence that people have the problem and will pay for a solution."
+				},
+				{
+					"a_h3": "How do I validate my startup idea quickly?",
+					"answer": "In a weekend: do 5 problem interviews (Saturday morning), analyze existing solutions (Saturday afternoon), and launch a landing page with a waitlist (Sunday). If people who have the problem sign up without being asked twice, you have initial validation. If they don't, you've saved yourself months of building the wrong thing."
+				},
+				{
+					"a_h3": "Is asking friends and family a valid way to validate a startup idea?",
+					"answer": "No. Friends and family will tell you what you want to hear. Real validation comes from strangers in your target market who have the problem you're solving. Look for commitment signals — signups, pre-orders, willingness to switch from their current solution — not polite encouragement."
+				},
+				{
+					"a_h3": "What if no competing product exists for my idea?",
+					"answer": "That's usually a red flag, not a green one. If nobody has tried to solve this problem before, it often means the market doesn't care enough to pay for a solution. Exceptions exist, but they're rare. Always investigate why the gap exists before assuming you've found a blue ocean."
+				},
+				{
+					"a_h3": "How many people do I need to talk to for validation?",
+					"answer": "Start with 5-10 problem interviews. You'll see patterns emerge quickly — if 4 out of 5 people describe the same frustration, that's a strong signal. If everyone describes a different problem or doesn't relate to the one you're solving, that's equally clear. You don't need statistical significance. You need pattern recognition."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Idea-Phase Diseases",
+			"a_description": "Validation skip rarely acts alone. These conditions share the same weakness — building on assumptions instead of evidence.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "brain"
+					},
+					"a_h3": "Analysis Paralysis",
+					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
+					"href": "/idea/analysis-paralysis/",
+					"a_image": {
+						"src": "/assets/imgs/spinning-compass.jpg",
+						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "sparkles"
+					},
+					"a_h3": "Shiny Object Syndrome",
+					"a_description": "Every week there's a better idea. The current project is 60% done but the new one feels 100% exciting.",
+					"href": "/idea/shiny-object-syndrome/",
+					"a_image": {
+						"src": "/assets/imgs/magpie-trinkets.jpg",
+						"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Customer Validation",
+					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
+					"href": "/market/customer-validation/",
+					"a_image": {
+						"src": "/assets/imgs/magnifying-crowd.jpg",
+						"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Product-Market Fit",
+					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
+					"href": "/market/product-market-fit/",
+					"a_image": {
+						"src": "/assets/imgs/puzzle-fit.jpg",
+						"alt": "Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Validation Skip — Building First, Asking Questions Never | Sickness Labs",
+		"description": "Skipping startup idea validation costs months of wasted effort. Learn why founders skip it, what real validation looks like, and how to validate your idea in a weekend.",
+		"og": {
+			"title": "Validation Skip — Four Months of Building, Zero Users",
+			"description": "You built a product nobody asked for. The code is clean, the features are polished, and nobody cares. Here's how to validate before you build.",
+			"url": "https://www.sicknesslabs.com/idea/validation-skip/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Validation Skip — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Validation Skip — Four Months of Building, Zero Users",
+			"description": "You built a product nobody asked for. The code is clean, the features are polished, and nobody cares. Here's how to validate before you build.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Validation Skip — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

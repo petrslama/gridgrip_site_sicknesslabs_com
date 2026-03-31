@@ -1,0 +1,83 @@
+#main.debug {
+	counter-reset: section;
+	& > section {
+
+		&::before {
+			counter-increment: section;
+			content: counter(section);
+			position: absolute;
+			display: inline-block;
+			top: 0;
+			left: 0;
+			padding: .5rem;
+			font-size: 1rem;
+			line-height: 1rem;
+			min-width: 2rem;
+			text-align: center;
+			background-color: #ffffff;
+			border: 1px solid #000;
+		}
+		&::after {
+			content: '';
+			position: absolute;
+			inset: 0 var( --padding-inline );
+			z-index: 999;
+			pointer-events: none;
+
+			background-image: linear-gradient(to right, #ff00000d 0, #ff00000d calc(100% - 1.5rem), transparent calc(100% - 1.5rem));
+			background-size: calc(((100%) + (1.5rem)) / 12) 100%;
+
+			@media (min-width: 69rem) {
+				background: repeating-linear-gradient(to right,
+					#ff00000d 0, #ff00000d calc((65.5rem - 1.5rem * 11) / 12),
+					transparent calc((65.5rem - 1.5rem * 11) / 12), transparent calc((65.5rem - 1.5rem * 11) / 12 + 1.5rem)
+				);
+			}
+		}
+
+		&.gap-xs::after {
+			background-image: linear-gradient(to right, #ff00000d 0, #ff00000d calc(100% - .5rem), transparent calc(100% - .5rem));
+			background-size: calc(((100%) + (.5rem)) / 12) 100%;
+
+			@media (min-width: 69rem) {
+				background: repeating-linear-gradient(to right,
+					#ff00000d 0, #ff00000d calc((65.5rem - .5rem * 11) / 12),
+					transparent calc((65.5rem - .5rem * 11) / 12), transparent calc((65.5rem - .5rem * 11) / 12 + .5rem)
+				);
+			}
+		}
+		&.gap-sm::after {
+			background-image: linear-gradient(to right, #ff00000d 0, #ff00000d calc(100% - 1rem), transparent calc(100% - 1rem));
+			background-size: calc(((100%) + (1rem)) / 12) 100%;
+
+			@media (min-width: 69rem) {
+				background: repeating-linear-gradient(to right,
+					#ff00000d 0, #ff00000d calc((65.5rem - 1rem * 11) / 12),
+					transparent calc((65.5rem - 1rem * 11) / 12), transparent calc((65.5rem - 1rem * 11) / 12 + 1rem)
+				);
+			}
+		}
+		&.gap-lg::after {
+			background-image: linear-gradient(to right, #ff00000d 0, #ff00000d calc(100% - 2rem), transparent calc(100% - 2rem));
+			background-size: calc(((100%) + (2rem)) / 12) 100%;
+
+			@media (min-width: 69rem) {
+				background: repeating-linear-gradient(to right,
+					#ff00000d 0, #ff00000d calc((65.5rem - 2rem * 11) / 12),
+					transparent calc((65.5rem - 2rem * 11) / 12), transparent calc((65.5rem - 2rem * 11) / 12 + 2rem)
+				);
+			}
+		}
+		&.gap-xl::after {
+			background-image: linear-gradient(to right, #ff00000d 0, #ff00000d calc(100% - 2.5rem), transparent calc(100% - 2.5rem));
+			background-size: calc(((100%) + (2.5rem)) / 12) 100%;
+
+			@media (min-width: 69rem) {
+				background: repeating-linear-gradient(to right,
+					#ff00000d 0, #ff00000d calc((65.5rem - 2.5rem * 11) / 12),
+					transparent calc((65.5rem - 2.5rem * 11) / 12), transparent calc((65.5rem - 2.5rem * 11) / 12 + 2.5rem)
+				);
+			}
+		}
+	}
+}

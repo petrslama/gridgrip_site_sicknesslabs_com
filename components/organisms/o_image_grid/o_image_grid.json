@@ -1,0 +1,49 @@
+{
+	"fu_type": "o_image_grid",
+	"fu_label": "Image Grid",
+	"fu_row__labels": [
+		{
+			"fu_label": "Image Grid"
+		}
+	],
+	"fields": [
+		{
+			"fu_type": "from_definition",
+			"definition": "a_fu_type"
+		},
+		{
+			"fu_type": "tabs",
+			"tabs": [
+				{
+					"fu_label": "Content",
+					"fields": [
+						{
+							"fu_type": "repeater_single",
+							"fu_name": "items",
+							"fu_label": "Images",
+							"templates": [
+								{
+									"fields": [
+										{
+											"fu_type": "from_definition",
+											"definition": "a_image"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"fu_label": "Settings",
+					"fields": [
+						{
+							"fu_type": "from_definition",
+							"definition": "m_section_settings"
+						}
+					]
+				}
+			]
+		}
+	]
+}

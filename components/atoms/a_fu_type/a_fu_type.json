@@ -1,0 +1,9 @@
+{
+	"fu_name": "a_fu_type",
+	"fields": [
+		{
+			"fu_type": "hidden",
+			"fu_name": "fu_type"
+		}
+	]
+}

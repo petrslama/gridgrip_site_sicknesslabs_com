@@ -1,0 +1,20 @@
+.m_section_title {
+	display: flex;
+	flex-direction: column;
+	gap: .5rem;
+	padding-bottom: 2rem;
+	grid-column: 1 / -1;
+
+	@media (min-width: 40rem) {
+		.a_eyebrow, .a_h2, .a_description {
+			max-width: 20rem;
+		}
+
+		&.center {
+			.a_eyebrow, .a_h2, .a_description {
+				text-align: center;
+				margin: 0 auto;
+			}
+		}
+	}
+}

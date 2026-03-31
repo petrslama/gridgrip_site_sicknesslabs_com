@@ -1,0 +1,15 @@
+<section class="o_cards grid"
+	{{#if section_id}}
+	 id="{{section_id}}"
+	{{/if}}>
+	<div class="col-12">
+		{{> m_section_title }}
+	</div>
+	{{#each items}}
+	<a href="{{href}}" class="card col-3">
+		{{> a_image }}
+		{{> a_h3 }}
+		{{> a_description }}
+	</a>
+	{{/each}}
+</section>

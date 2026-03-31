@@ -1,0 +1,12 @@
+.a_h1 {
+	font-weight: 600;
+	font-size: 2rem;
+	line-height: 1.2;
+	color: var(--color_text);
+	margin: 0 0 .5rem 0;
+	text-wrap: balance;
+
+	.muted {
+		color: var(--color_text-muted);
+	}
+}

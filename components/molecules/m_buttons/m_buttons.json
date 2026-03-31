@@ -1,0 +1,35 @@
+{
+	"fu_name": "m_buttons",
+	"fields": [
+		{
+			"fu_type": "repeater_single",
+			"fu_name": "m_buttons",
+			"fu_repeater__labels": [
+				{
+					"fu_label": "Text"
+				},
+				{
+					"fu_label": "Link"
+				}
+			],
+			"templates": [
+				{
+					"fu_row__labels": [
+						{
+							"fu_label": "[text]"
+						},
+						{
+							"fu_label": "[href]"
+						}
+					],
+					"fields": [
+						{
+							"fu_type": "from_definition",
+							"definition": "a_button"
+						}
+					]
+				}
+			]
+		}
+	]
+}

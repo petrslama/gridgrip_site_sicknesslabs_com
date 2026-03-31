@@ -1,0 +1,57 @@
+{
+	"fu_type": "o_hero",
+	"fu_label": "Hero",
+	"fu_row__labels": [
+		{
+			"fu_label": "Hero"
+		},
+		{
+			"fu_label": "[a_h1]"
+		}
+	],
+	"fields": [
+		{
+			"fu_type": "from_definition",
+			"definition": "a_fu_type"
+		},
+		{
+			"fu_type": "tabs",
+			"tabs": [
+				{
+					"fu_label": "Content",
+					"fields": [
+						{
+							"fu_type": "from_definition",
+							"definition": "a_image"
+						},
+						{
+							"fu_type": "from_definition",
+							"definition": "a_eyebrow"
+						},
+						{
+							"fu_type": "from_definition",
+							"definition": "a_h1"
+						},
+						{
+							"fu_type": "from_definition",
+							"definition": "a_description"
+						},
+						{
+							"fu_type": "from_definition",
+							"definition": "m_buttons"
+						}
+					]
+				},
+				{
+					"fu_label": "Settings",
+					"fields": [
+						{
+							"fu_type": "from_definition",
+							"definition": "m_section_settings"
+						}
+					]
+				}
+			]
+		}
+	]
+}

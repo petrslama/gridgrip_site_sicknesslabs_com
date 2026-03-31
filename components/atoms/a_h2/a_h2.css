@@ -1,0 +1,8 @@
+.a_h2 {
+	font-weight: 600;
+	font-size: 1.75rem;
+	line-height: 1.2;
+	color: var(--color_text);
+	margin: 0;
+	text-wrap: balance;
+}

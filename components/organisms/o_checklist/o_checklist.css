@@ -1,0 +1,39 @@
+.o_checklist {
+
+	.item {
+		background: var(--bg_surface);
+		padding: 1.5rem;
+		margin-bottom: 1.5rem;
+		border-radius: var(--radius-sm);
+
+		.a_h3 {
+			gap: 1rem;
+			position: relative;
+
+			&::before {
+				content: "";
+				position: absolute;
+				width: 3rem;
+				height: 3rem;
+				background: #111;
+				top: 0;
+				border-radius: 50%;
+				z-index: 1;
+			}
+
+			.a_icon {
+				--icon-size: 1.5rem;
+				position: relative;
+				width: 3rem;
+				height: 3rem;
+				color: var(--color_primary);
+				margin: 0 0 -2rem 0;
+				z-index: 2;
+			}
+		}
+
+		.a_description {
+			padding-left: 4rem;
+		}
+	}
+}

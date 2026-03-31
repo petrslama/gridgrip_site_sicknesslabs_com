@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SICKNESS Framework — sicknesslabs</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;700;800&display=swap" rel="stylesheet">
+    <style>
+        @layer reset, base, components, utilities;
+
+        @layer reset {
+            *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+            html { -webkit-text-size-adjust: 100%; }
+            img, svg { display: block; max-width: 100%; }
+            input, textarea, select, button { font: inherit; }
+            ul, ol { list-style: none; }
+        }
+
+        @layer base {
+            :root {
+                --clr-bg:        #0a0a0a;
+                --clr-surface:   #111111;
+                --clr-border:    #222222;
+                --clr-text:      #e8e8e8;
+                --clr-muted:     #666666;
+                --clr-accent:    #c8ff00;
+                --clr-score-1:   #ff2d2d;
+                --clr-score-2:   #ffb800;
+                --clr-score-3:   #c8ff00;
+                --clr-knockout:  #ff2d2d;
+                --ff-display:    'Syne', sans-serif;
+                --ff-mono:       'Space Mono', monospace;
+                --radius:        4px;
+            }
+
+            html { scroll-behavior: smooth; }
+
+            body {
+                font-family: var(--ff-mono);
+                background: var(--clr-bg);
+                color: var(--clr-text);
+                font-size: 14px;
+                line-height: 1.6;
+                min-height: 100vh;
+            }
+        }
+
+        @layer components {
+
+            /* ── Layout ── */
+            .page {
+                max-width: 860px;
+                margin: 0 auto;
+                padding: 48px 24px 96px;
+            }
+
+            /* ── Header ── */
+            .site-header {
+                border-bottom: 1px solid var(--clr-border);
+                padding-bottom: 40px;
+                margin-bottom: 48px;
+            }
+
+            .brand {
+                font-family: var(--ff-mono);
+                font-size: 11px;
+                letter-spacing: 0.2em;
+                color: var(--clr-muted);
+                text-transform: uppercase;
+                margin-bottom: 20px;
+            }
+
+            .site-title {
+                font-family: var(--ff-display);
+                font-size: clamp(52px, 10vw, 96px);
+                font-weight: 800;
+                line-height: 0.9;
+                letter-spacing: -0.03em;
+                color: var(--clr-text);
+                margin-bottom: 16px;
+
+                .title-accent {
+                    color: var(--clr-accent);
+                }
+            }
+
+            .site-tagline {
+                font-family: var(--ff-mono);
+                font-size: 12px;
+                color: var(--clr-muted);
+                max-width: 480px;
+                line-height: 1.7;
+            }
+
+            /* ── Meta row ── */
+            .meta-row {
+                display: flex;
+                gap: 16px;
+                align-items: center;
+                flex-wrap: wrap;
+                margin-bottom: 48px;
+                padding: 16px 20px;
+                border: 1px solid var(--clr-border);
+                background: var(--clr-surface);
+
+                label {
+                    font-size: 11px;
+                    letter-spacing: 0.15em;
+                    color: var(--clr-muted);
+                    text-transform: uppercase;
+                    white-space: nowrap;
+                }
+
+                input[type="text"],
+                input[type="date"] {
+                    background: transparent;
+                    border: none;
+                    border-bottom: 1px solid var(--clr-border);
+                    color: var(--clr-text);
+                    padding: 4px 8px;
+                    font-size: 13px;
+                    outline: none;
+                    transition: border-color 0.3s;
+                    flex: 1;
+                    min-width: 140px;
+                    color-scheme: dark;
+
+                    &:focus-visible {
+                        border-bottom-color: var(--clr-accent);
+                    }
+                }
+
+                .meta-sep {
+                    width: 1px;
+                    height: 24px;
+                    background: var(--clr-border);
+                }
+            }
+
+            /* ── Knockout banner ── */
+            .knockout-banner {
+                display: none;
+                align-items: flex-start;
+                gap: 16px;
+                padding: 20px 24px;
+                background: #1a0000;
+                border: 2px solid var(--clr-knockout);
+                margin-bottom: 32px;
+                position: sticky;
+                top: 16px;
+                z-index: 10;
+
+                &.is-active {
+                    display: flex;
+                }
+
+                .knockout-label {
+                    font-family: var(--ff-display);
+                    font-size: 11px;
+                    font-weight: 700;
+                    letter-spacing: 0.2em;
+                    color: var(--clr-knockout);
+                    text-transform: uppercase;
+                    white-space: nowrap;
+                    padding-top: 2px;
+                }
+
+                .knockout-msg {
+                    font-size: 13px;
+                    line-height: 1.6;
+                    color: #ff9999;
+
+                    strong {
+                        color: var(--clr-knockout);
+                        font-weight: 700;
+                    }
+                }
+            }
+
+            /* ── Score legend ── */
+            .score-legend {
+                display: flex;
+                gap: 24px;
+                flex-wrap: wrap;
+                margin-bottom: 40px;
+                padding: 14px 20px;
+                border: 1px solid var(--clr-border);
+
+                .legend-item {
+                    display: flex;
+                    align-items: center;
+                    gap: 8px;
+                    font-size: 12px;
+                    color: var(--clr-muted);
+                }
+
+                .legend-dot {
+                    width: 10px;
+                    height: 10px;
+                    border-radius: 50%;
+                    flex-shrink: 0;
+                }
+            }
+
+            /* ── Criterion card ── */
+            .criterion {
+                border: 1px solid var(--clr-border);
+                background: var(--clr-surface);
+                margin-bottom: 8px;
+                transition: border-color 0.3s;
+
+                &.has-knockout {
+                    border-color: var(--clr-knockout);
+                    background: #110000;
+                }
+
+                &.has-yellow {
+                    border-color: #3d2e00;
+                }
+
+                &.has-green {
+                    border-color: #1a2a00;
+                }
+
+                &.is-stripped {
+                    border-color: #1a1a2e;
+                }
+            }
+
+            .criterion-header {
+                display: grid;
+                grid-template-columns: 56px 1fr auto;
+                align-items: center;
+                gap: 16px;
+                padding: 20px 24px;
+                cursor: pointer;
+                user-select: none;
+
+                &:focus-visible {
+                    outline: 2px solid var(--clr-accent);
+                    outline-offset: -2px;
+                }
+            }
+
+            .criterion-letter {
+                font-family: var(--ff-display);
+                font-size: 40px;
+                font-weight: 800;
+                line-height: 1;
+                color: var(--clr-muted);
+                transition: color 0.3s;
+
+                .criterion.has-knockout & { color: var(--clr-score-1); }
+                .criterion.has-yellow &  { color: var(--clr-score-2); }
+                .criterion.has-green &   { color: var(--clr-score-3); }
+            }
+
+            .criterion-title-group {
+                .criterion-name {
+                    font-family: var(--ff-display);
+                    font-size: 18px;
+                    font-weight: 700;
+                    color: var(--clr-text);
+                    line-height: 1.1;
+                }
+
+                .criterion-key {
+                    font-size: 11px;
+                    letter-spacing: 0.15em;
+                    color: var(--clr-muted);
+                    text-transform: uppercase;
+                    margin-top: 2px;
+                }
+            }
+
+            .criterion-score-display {
+                font-family: var(--ff-display);
+                font-size: 28px;
+                font-weight: 800;
+                color: var(--clr-border);
+                min-width: 32px;
+                text-align: right;
+                transition: color 0.3s;
+
+                &[data-score="1"] { color: var(--clr-score-1); }
+                &[data-score="2"] { color: var(--clr-score-2); }
+                &[data-score="3"] { color: var(--clr-score-3); }
+            }
+
+            .criterion-body {
+                display: none;
+                padding: 0 24px 24px;
+                border-top: 1px solid var(--clr-border);
+
+                .criterion.is-open & {
+                    display: block;
+                }
+            }
+
+            .criterion-question {
+                font-size: 15px;
+                font-family: var(--ff-display);
+                font-weight: 700;
+                color: var(--clr-text);
+                padding: 20px 0 12px;
+                line-height: 1.4;
+            }
+
+            .criterion-hint {
+                font-size: 12px;
+                color: var(--clr-muted);
+                line-height: 1.7;
+                padding-bottom: 20px;
+                border-bottom: 1px solid var(--clr-border);
+                margin-bottom: 20px;
+            }
+
+            /* ── Score buttons ── */
+            .score-buttons {
+                display: flex;
+                gap: 8px;
+                margin-bottom: 16px;
+
+                .score-btn {
+                    flex: 1;
+                    padding: 12px 8px;
+                    border: 1px solid var(--clr-border);
+                    background: transparent;
+                    color: var(--clr-muted);
+                    font-family: var(--ff-display);
+                    font-size: 20px;
+                    font-weight: 800;
+                    cursor: pointer;
+                    transition: all 0.3s;
+                    position: relative;
+
+                    &::after {
+                        display: block;
+                        font-family: var(--ff-mono);
+                        font-size: 9px;
+                        letter-spacing: 0.1em;
+                        margin-top: 4px;
+                        font-weight: 400;
+                    }
+
+                    &[data-val="1"]::after { content: "STOP"; }
+                    &[data-val="2"]::after { content: "OVĚŘIT"; }
+                    &[data-val="3"]::after { content: "DŮKAZ"; }
+
+                    &:hover {
+                        border-color: var(--clr-text);
+                        color: var(--clr-text);
+                    }
+
+                    &:focus-visible {
+                        outline: 2px solid var(--clr-accent);
+                        outline-offset: 2px;
+                    }
+
+                    &.active[data-val="1"] {
+                        background: #1a0000;
+                        border-color: var(--clr-score-1);
+                        color: var(--clr-score-1);
+                    }
+
+                    &.active[data-val="2"] {
+                        background: #1a1000;
+                        border-color: var(--clr-score-2);
+                        color: var(--clr-score-2);
+                    }
+
+                    &.active[data-val="3"] {
+                        background: #0d1a00;
+                        border-color: var(--clr-score-3);
+                        color: var(--clr-score-3);
+                    }
+                }
+            }
+
+            /* ── Conditional fields ── */
+            .field-group {
+                display: none;
+                flex-direction: column;
+                gap: 6px;
+                margin-top: 12px;
+                animation: slideIn 0.3s ease;
+
+                &.is-visible { display: flex; }
+
+                label {
+                    font-size: 10px;
+                    letter-spacing: 0.2em;
+                    text-transform: uppercase;
+                    color: var(--clr-muted);
+                }
+
+                textarea {
+                    background: var(--clr-bg);
+                    border: 1px solid var(--clr-border);
+                    color: var(--clr-text);
+                    padding: 12px 14px;
+                    font-family: var(--ff-mono);
+                    font-size: 12px;
+                    line-height: 1.6;
+                    resize: vertical;
+                    min-height: 72px;
+                    outline: none;
+                    transition: border-color 0.3s;
+                    border-radius: var(--radius);
+
+                    &:focus-visible {
+                        border-color: var(--clr-accent);
+                    }
+
+                    &::placeholder {
+                        color: var(--clr-border);
+                    }
+                }
+            }
+
+            .field-group--next { margin-top: 12px; }
+
+            /* ── Stripped (text output only) ── */
+            .stripped-output {
+                margin-top: 16px;
+
+                label {
+                    display: block;
+                    font-size: 10px;
+                    letter-spacing: 0.2em;
+                    text-transform: uppercase;
+                    color: var(--clr-muted);
+                    margin-bottom: 8px;
+                }
+
+                textarea {
+                    width: 100%;
+                    background: var(--clr-bg);
+                    border: 1px solid #1a1a2e;
+                    color: var(--clr-text);
+                    padding: 16px;
+                    font-family: var(--ff-mono);
+                    font-size: 12px;
+                    line-height: 1.8;
+                    resize: vertical;
+                    min-height: 100px;
+                    outline: none;
+                    transition: border-color 0.3s;
+
+                    &:focus-visible { border-color: #4444aa; }
+                    &::placeholder { color: var(--clr-border); }
+                }
+
+                .stripped-note {
+                    margin-top: 8px;
+                    font-size: 11px;
+                    color: var(--clr-muted);
+                    font-style: italic;
+                }
+            }
+
+            /* ── Score summary ── */
+            .summary {
+                margin-top: 48px;
+                border: 1px solid var(--clr-border);
+                background: var(--clr-surface);
+                padding: 32px;
+
+                &.summary--knockout {
+                    border-color: var(--clr-knockout);
+                    background: #110000;
+                }
+
+                .summary-label {
+                    font-size: 10px;
+                    letter-spacing: 0.25em;
+                    text-transform: uppercase;
+                    color: var(--clr-muted);
+                    margin-bottom: 24px;
+                }
+
+                .summary-score {
+                    font-family: var(--ff-display);
+                    font-size: clamp(48px, 10vw, 80px);
+                    font-weight: 800;
+                    line-height: 1;
+                    margin-bottom: 8px;
+                    color: var(--clr-text);
+
+                    span { color: var(--clr-muted); }
+                }
+
+                .summary-verdict {
+                    font-size: 13px;
+                    line-height: 1.7;
+                    color: var(--clr-muted);
+                    max-width: 480px;
+                    margin-bottom: 24px;
+                    min-height: 44px;
+                }
+
+                .summary-bars {
+                    display: flex;
+                    gap: 4px;
+                    height: 6px;
+                    margin-bottom: 24px;
+
+                    .bar {
+                        flex: 1;
+                        background: var(--clr-border);
+                        border-radius: 2px;
+                        transition: background 0.3s;
+
+                        &.s1 { background: var(--clr-score-1); }
+                        &.s2 { background: var(--clr-score-2); }
+                        &.s3 { background: var(--clr-score-3); }
+                    }
+                }
+
+                .summary-date {
+                    font-size: 11px;
+                    color: var(--clr-muted);
+                    letter-spacing: 0.1em;
+                }
+            }
+
+            /* ── Footer ── */
+            .site-footer {
+                margin-top: 64px;
+                padding-top: 24px;
+                border-top: 1px solid var(--clr-border);
+                font-size: 11px;
+                color: var(--clr-muted);
+                letter-spacing: 0.1em;
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                gap: 8px;
+            }
+
+            @keyframes slideIn {
+                from {
+                    opacity: 0;
+                    transform: translateY(-8px);
+                }
+                to {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
+            }
+
+            @media (prefers-reduced-motion: reduce) {
+                *, *::before, *::after {
+                    animation-duration: 0.01ms !important;
+                    transition-duration: 0.01ms !important;
+                }
+            }
+
+            @media (max-width: 640px) {
+                .meta-row { flex-direction: column; align-items: flex-start; }
+                .meta-sep { display: none; }
+                .criterion-header { grid-template-columns: 40px 1fr auto; padding: 16px; }
+                .criterion-letter { font-size: 28px; }
+                .criterion-body { padding: 0 16px 20px; }
+                .score-buttons { flex-direction: column; }
+            }
+        }
+
+        @layer utilities {
+            .sr-only {
+                position: absolute;
+                width: 1px;
+                height: 1px;
+                padding: 0;
+                margin: -1px;
+                overflow: hidden;
+                clip: rect(0,0,0,0);
+                white-space: nowrap;
+                border: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<main class="page">
+
+    <header class="site-header">
+        <p class="brand">sicknesslabs</p>
+        <h1 class="site-title">SICK<span class="title-accent">NESS</span><br>LABS</h1>
+        <p class="site-tagline">Indie projekt scorecard. Žádná propaganda, žádný optimismus — jen otázky, které bolí, než tě zabolí výsledek.</p>
+    </header>
+
+    <div class="meta-row" role="group" aria-label="Metadata projektu">
+        <label for="project-name">Projekt</label>
+        <input type="text" id="project-name" placeholder="název projektu" autocomplete="off">
+        <div class="meta-sep" aria-hidden="true"></div>
+        <label for="eval-date">Datum hodnocení</label>
+        <input type="date" id="eval-date">
+    </div>
+
+    <div class="knockout-banner" id="knockoutBanner" role="alert" aria-live="assertive">
+        <span class="knockout-label">KNOCKOUT</span>
+        <p class="knockout-msg">Projekt má <strong>sickness</strong>. Stop — nezáleží na součtu. Zapiš, co konkrétně způsobilo knockout. Vrať se za 30 dní s důkazem, ne pocitem.</p>
+    </div>
+
+    <div class="score-legend" aria-label="Legenda hodnocení">
+        <div class="legend-item">
+            <div class="legend-dot" style="background: var(--clr-score-1)"></div>
+            <span>1 — Červená: jasná odpověď chybí nebo víš, že lžeš</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-dot" style="background: var(--clr-score-2)"></div>
+            <span>2 — Žlutá: nejistota, musíš ověřit</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-dot" style="background: var(--clr-score-3)"></div>
+            <span>3 — Zelená: konkrétní důkaz, ne pocit</span>
+        </div>
+    </div>
+
+    <section id="criteria" aria-label="Kritéria SICKNESS">
+    </section>
+
+    <div class="summary" id="summary" aria-live="polite">
+        <p class="summary-label">Celkové skóre</p>
+        <div class="summary-bars" id="summaryBars"></div>
+        <p class="summary-score" id="summaryScore">—<span>/33</span></p>
+        <p class="summary-verdict" id="summaryVerdict">Vyplň kritéria pro výsledek.</p>
+        <p class="summary-date" id="summaryDate"></p>
+    </div>
+
+</main>
+
+<footer class="site-footer">
+    <span>sicknesslabs.cz</span>
+    <span>SICKNESS Framework v1.0</span>
+</footer>
+
+<script>
+    const CRITERIA = [
+        {
+            letter: 'S',
+            name: 'Ship',
+            key: 'ship',
+            question: 'Zvládnu postavit + spustit za max týden?',
+            hint: 'Pokud přesahuje týden, je scope příliš velký. Zjednodušuj nebo odlož.',
+            isStripped: false,
+        },
+        {
+            letter: 'I',
+            name: 'Intuitive',
+            key: 'intuitive',
+            question: 'Pochopí každý hodnotu bez vysvětlování?',
+            hint: 'Testuj na 3 lidech. Pokud vysvětluješ déle než 30 vteřin, přepracuj pitch.',
+            isStripped: false,
+        },
+        {
+            letter: 'C',
+            name: 'Cost',
+            key: 'cost',
+            question: 'Ufinancuju to sám, bez investora?',
+            hint: 'Spočítej runway — čas i peníze. Pokud potřebuješ funding, jsi v jiné hře.',
+            isStripped: false,
+        },
+        {
+            letter: 'K',
+            name: 'Know',
+            key: 'know',
+            question: 'Vím přesně, pro koho to je?',
+            hint: 'Dokaž to konkrétním jménem nebo komunitou. „Každý nad 30" není odpověď.',
+            isStripped: false,
+        },
+        {
+            letter: 'N',
+            name: 'Need',
+            key: 'need',
+            question: 'Lidé to reálně potřebují?',
+            hint: 'Platili by za to dnes? Ptej se konkrétních lidí — nepředpokládej.',
+            isStripped: false,
+        },
+        {
+            letter: 'E',
+            name: 'Earn',
+            key: 'earn',
+            question: 'Vydělá to? Má potenciál na opakování?',
+            hint: 'Nastav cenový model ještě před spuštěním. Jednorázové prodeje jsou těžší než recurring.',
+            isStripped: false,
+        },
+        {
+            letter: 'S',
+            name: 'Space',
+            key: 'space',
+            question: 'Nízká konkurence, dá se organicky najít?',
+            hint: 'Zkontroluj Google, App Store, Product Hunt. Bez organic channel potřebuješ rozpočet.',
+            isStripped: false,
+        },
+        {
+            letter: 'S',
+            name: 'Soul',
+            key: 'soul',
+            question: 'Je to morálně a eticky v pořádku?',
+            hint: 'Projekty bez integrity se táhnou a bolí. Pokud váháš, odpověď je ne.',
+            isStripped: false,
+        },
+        {
+            letter: 'L',
+            name: 'Lies',
+            key: 'lies',
+            question: 'Říkáš si věci, o kterých víš, že nejsou pravda?',
+            hint: 'Každý projekt má místa, kde si lžeš. Zapiš je. Pokud je nedokážeš vyvrátit důkazem, jsou to stále lži — jen lépe zabalené.',
+            isStripped: false,
+        },
+        {
+            letter: 'A',
+            name: 'Assumptions',
+            key: 'assumptions',
+            question: 'Jaké předpoklady bereš jako fakta, aniž jsi je ověřil?',
+            hint: '„Lidé to budou chtít." „Vyděláme na tom." „Zvládnu to sám." Možná ano. Ale dokud to není ověřené, je to jen příběh, který si vyprávíš.',
+            isStripped: false,
+        },
+        {
+            letter: 'B',
+            name: 'Bullshit',
+            key: 'bullshit',
+            question: 'Kde racionalizuješ místo abys se díval pravdě do očí?',
+            hint: 'Sepiš tři největší slabiny projektu. Přečti si je znovu. Pokud každá z nich začíná slovem „ale" — jsou to výmluvy.',
+            isStripped: false,
+        },
+        {
+            letter: 'S',
+            name: 'Stripped',
+            key: 'stripped',
+            question: 'Co zůstane, když odečteš lži, předpoklady a bullshit?',
+            hint: 'Tohle je skutečný stav projektu — bez přikrášlování. Pokud zbyde prázdno, nejde o to, že máš špatnou ideu. Jde o to, že ji ještě nemáš připravenou.',
+            isStripped: true,
+        },
+    ];
+
+    const state = {
+        scores: {},
+        evidence: {},
+        nextActions: {},
+        strippedText: '',
+    };
+
+    const $ = id => document.getElementById(id);
+
+    const buildCriteria = () => {
+        const container = $('criteria');
+
+        CRITERIA.forEach((c, i) => {
+            const card = document.createElement('article');
+            card.className = `criterion${c.isStripped ? ' is-stripped' : ''}`;
+            card.id = `criterion-${c.key}`;
+
+            const scoreButtonsHtml = c.isStripped ? '' : `
+                <div class="score-buttons" role="group" aria-label="Skóre pro ${c.name}">
+                    <button class="score-btn" data-key="${c.key}" data-val="1" aria-pressed="false">1</button>
+                    <button class="score-btn" data-key="${c.key}" data-val="2" aria-pressed="false">2</button>
+                    <button class="score-btn" data-key="${c.key}" data-val="3" aria-pressed="false">3</button>
+                </div>
+                <div class="field-group field-group--evidence" id="evidence-${c.key}" aria-live="polite">
+                    <label for="evidence-text-${c.key}">Důkaz — co konkrétně to potvrzuje?</label>
+                    <textarea id="evidence-text-${c.key}" placeholder="Napiš konkrétní důkaz, ne pocit…" rows="3"></textarea>
+                </div>
+                <div class="field-group field-group--next" id="next-${c.key}" aria-live="polite">
+                    <label for="next-text-${c.key}">Další krok — co ověříš a do kdy?</label>
+                    <textarea id="next-text-${c.key}" placeholder="Např. Do pátku zavolám 3 lidem z cílové skupiny a zeptám se na X…" rows="3"></textarea>
+                </div>
+            `;
+
+            const strippedHtml = c.isStripped ? `
+                <div class="stripped-output">
+                    <label for="stripped-text">Výstup — co skutečně zbývá?</label>
+                    <textarea id="stripped-text" placeholder="Napiš to co nejstručněji a nejupřímněji. Tenhle text nikdo nehodnotí — je jen pro tebe." rows="5"></textarea>
+                    <p class="stripped-note">Stripped nemá skóre. Je to výstup celého cvičení.</p>
+                </div>
+            ` : '';
+
+            card.innerHTML = `
+                <div class="criterion-header" role="button" tabindex="0" aria-expanded="false" aria-controls="body-${c.key}" id="header-${c.key}">
+                    <span class="criterion-letter" aria-hidden="true">${c.letter}</span>
+                    <div class="criterion-title-group">
+                        <p class="criterion-name">${c.name}</p>
+                        <p class="criterion-key">${i + 1} / 12</p>
+                    </div>
+                    ${!c.isStripped ? `<span class="criterion-score-display" id="score-display-${c.key}" aria-label="Skóre">—</span>` : '<span class="criterion-score-display" style="font-size:12px;color:var(--clr-muted)">TEXT</span>'}
+                </div>
+                <div class="criterion-body" id="body-${c.key}" role="region" aria-labelledby="header-${c.key}">
+                    <p class="criterion-question">${c.question}</p>
+                    <p class="criterion-hint">${c.hint}</p>
+                    ${scoreButtonsHtml}
+                    ${strippedHtml}
+                </div>
+            `;
+
+            container.appendChild(card);
+        });
+    };
+
+    const toggleCard = key => {
+        const card = document.getElementById(`criterion-${key}`);
+        const header = document.getElementById(`header-${key}`);
+        const body = document.getElementById(`body-${key}`);
+        const isOpen = card.classList.contains('is-open');
+        card.classList.toggle('is-open', !isOpen);
+        header.setAttribute('aria-expanded', String(!isOpen));
+    };
+
+    const setScore = (key, val) => {
+        state.scores[key] = val;
+
+        const card = document.getElementById(`criterion-${key}`);
+        card.classList.remove('has-knockout', 'has-yellow', 'has-green');
+        if (val === 1) card.classList.add('has-knockout');
+        if (val === 2) card.classList.add('has-yellow');
+        if (val === 3) card.classList.add('has-green');
+
+        const display = $(`score-display-${key}`);
+        if (display) {
+            display.textContent = val;
+            display.dataset.score = val;
+        }
+
+        document.querySelectorAll(`.score-btn[data-key="${key}"]`).forEach(btn => {
+            const active = Number(btn.dataset.val) === val;
+            btn.classList.toggle('active', active);
+            btn.setAttribute('aria-pressed', String(active));
+        });
+
+        const evidenceGroup = $(`evidence-${key}`);
+        const nextGroup = $(`next-${key}`);
+        if (evidenceGroup) evidenceGroup.classList.toggle('is-visible', val === 3);
+        if (nextGroup) nextGroup.classList.toggle('is-visible', val === 2);
+
+        updateSummary();
+        updateKnockout();
+    };
+
+    const updateKnockout = () => {
+        const hasKnockout = Object.values(state.scores).includes(1);
+        const banner = $('knockoutBanner');
+        const summary = $('summary');
+        banner.classList.toggle('is-active', hasKnockout);
+        summary.classList.toggle('summary--knockout', hasKnockout);
+    };
+
+    const VERDICTS = [
+        { min: 33, max: 33, text: 'Projekt je připravený. Spusť.' },
+        { min: 25, max: 32, text: 'Solidní základ — identifikuj žlutá pole a ověř je před spuštěním.' },
+        { min: 13, max: 24, text: 'Příliš mnoho nejistot. Vrať se zpět — projekt není připravený.' },
+        { min: 0,  max: 12, text: 'Zastav se. Nejde o projekt, jde o nápad.' },
+    ];
+
+    const updateSummary = () => {
+        const scoredKeys = CRITERIA.filter(c => !c.isStripped).map(c => c.key);
+        const filled = scoredKeys.filter(k => state.scores[k]);
+        const total = filled.reduce((acc, k) => acc + state.scores[k], 0);
+        const maxPossible = scoredKeys.length * 3;
+        const hasKnockout = filled.some(k => state.scores[k] === 1);
+        const allFilled = filled.length === scoredKeys.length;
+
+        $('summaryScore').innerHTML = allFilled
+            ? `${total}<span>/${maxPossible}</span>`
+            : `${total || '—'}<span>/${maxPossible}</span>`;
+
+        const barsEl = $('summaryBars');
+        barsEl.innerHTML = scoredKeys.map(k => {
+            const s = state.scores[k];
+            const cls = s === 1 ? 's1' : s === 2 ? 's2' : s === 3 ? 's3' : '';
+            return `<div class="bar ${cls}" aria-hidden="true"></div>`;
+        }).join('');
+
+        const verdictEl = $('summaryVerdict');
+        if (hasKnockout) {
+            verdictEl.textContent = 'KNOCKOUT — projekt má sickness. Stop bez výjimky.';
+            verdictEl.style.color = 'var(--clr-score-1)';
+        } else if (!allFilled) {
+            verdictEl.textContent = 'Vyplň všechna kritéria pro výsledek.';
+            verdictEl.style.color = '';
+        } else {
+            const verdict = VERDICTS.find(v => total >= v.min && total <= v.max);
+            verdictEl.textContent = verdict ? verdict.text : '';
+            verdictEl.style.color = '';
+        }
+
+        const dateInput = $('eval-date');
+        if (dateInput.value) {
+            const d = new Date(dateInput.value);
+            $('summaryDate').textContent = `Hodnoceno: ${d.toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' })}`;
+        }
+    };
+
+    const init = () => {
+        buildCriteria();
+
+        $('eval-date').value = new Date().toISOString().split('T')[0];
+
+        document.querySelectorAll('.criterion-header').forEach(header => {
+            const key = header.id.replace('header-', '');
+            header.addEventListener('click', () => toggleCard(key));
+            header.addEventListener('keydown', e => {
+                if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleCard(key); }
+            });
+        });
+
+        document.querySelectorAll('.score-btn').forEach(btn => {
+            btn.addEventListener('click', e => {
+                e.stopPropagation();
+                const { key, val } = btn.dataset;
+                const current = state.scores[key];
+                setScore(key, Number(val) === current ? 0 : Number(val));
+            });
+        });
+
+        $('eval-date').addEventListener('change', updateSummary);
+
+        const strippedEl = $('stripped-text');
+        if (strippedEl) {
+            strippedEl.addEventListener('input', () => { state.strippedText = strippedEl.value; });
+        }
+
+        document.querySelectorAll('[id^="evidence-text-"]').forEach(el => {
+            el.addEventListener('input', () => {
+                const key = el.id.replace('evidence-text-', '');
+                state.evidence[key] = el.value;
+            });
+        });
+
+        document.querySelectorAll('[id^="next-text-"]').forEach(el => {
+            el.addEventListener('input', () => {
+                const key = el.id.replace('next-text-', '');
+                state.nextActions[key] = el.value;
+            });
+        });
+
+        // open first card by default
+        toggleCard('ship');
+    };
+
+    document.addEventListener('DOMContentLoaded', init);
+</script>
+
+</body>
+</html>

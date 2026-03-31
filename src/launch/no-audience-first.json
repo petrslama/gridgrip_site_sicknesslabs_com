@@ -1,0 +1,418 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Launch",
+					"href": "/launch/"
+				},
+				{
+					"text": "No Audience First"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_eyebrow": "Launch",
+			"a_h1": "No Audience First &mdash; Launch Day With Zero Visitors",
+			"a_description": "Launch day arrives and the only visitor is your own browser. You built the product first and the audience never. That is not a launch — that is a tree falling in an empty forest.",
+			"a_image": {
+				"src": "/assets/imgs/empty-theater.jpg",
+				"alt": "Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere",
+				"width": "1024",
+				"height": "768"
+			}
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "No Audience First in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Without an audience, a launch is just a deployment.</strong> A tree falling in an empty forest. The product might be good — it doesn't matter."
+				},
+				{
+					"text": "<strong>Build the audience before you build the product.</strong> Find users first, then build. This is the single most reliable predictor of indie product survival."
+				},
+				{
+					"text": "<strong>Every launch checklist assumes you have people to launch to.</strong> You can't \"announce to email list\" when the list has four people — two of them your alt addresses."
+				},
+				{
+					"text": "<strong>An audience is not followers.</strong> It's people who trust you enough to try what you build. That trust takes months to earn."
+				},
+				{
+					"text": "<strong>Start writing, sharing, or helping in public</strong> the day you get the idea — not the day you finish building."
+				},
+				{
+					"text": "<strong>Distribution is not a post-launch problem.</strong> If you don't have it before launch, you won't magically have it after."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Diagnosis: Launching Into the Void",
+			"paragraphs": [
+				{
+					"text": "You spent six months building. You polished the UI, wrote the docs, fixed the edge cases. Then you hit publish and waited. And waited. The launch day analytics looked like a flatline on a heart monitor. A handful of visits — your mom, your cofounder, a bot from Russia."
+				},
+				{
+					"text": "This is the No Audience First disease. It kills more indie products than bad code, bad design, or bad ideas combined. The product might be genuinely good. It does not matter. Without an audience, a launch is just a deployment."
+				},
+				{
+					"text": "The audience-first model flips the sequence. Instead of build-then-find-users, you find-users-then-build. This is not just a theoretical framework. It is the single most reliable predictor of whether an indie product will survive its first month."
+				},
+				{
+					"text": "Every successful product launch plan checklist you have ever seen assumes you already have people to launch to. If you don't, the checklist is useless. You cannot check \"announce to email list\" when the list has four people on it, and two of them are your alternate email addresses."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "A packed small venue with engaged people leaning forward, a founder presenting on a lit stage, warm attention and anticipation in a dark room",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/packed-venue.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "A vast empty auditorium with hundreds of vacant seats, a single laptop glowing on stage presenting to nobody, hollow silence and wasted effort",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/empty-auditorium.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Audience-First Model",
+			"paragraphs": [
+				{
+					"text": "The audience-first approach means you build an audience before — or at least alongside — your product. This sounds obvious. It is obvious. And yet most indie founders skip it entirely because building product feels productive and building audience feels like begging."
+				},
+				{
+					"text": "Here is what audience-first looks like in practice. Before you write a single line of code, you start sharing. Write about the problem space. Document your research. Share the insights that led you to this idea. Post in communities. Reply to people struggling with the problem you intend to solve."
+				},
+				{
+					"text": "Over weeks and months, something happens. People start following along. They subscribe to your newsletter. They reply to your posts. They tell you what they wish existed. Now you have two things that are worth more than code: attention and feedback."
+				},
+				{
+					"text": "When you eventually launch, you are not shouting into the void. You are making an announcement to people who have been watching, waiting, sometimes even asking when the thing will be ready. That is the difference between a launch with zero visitors and a launch with momentum."
+				},
+				{
+					"text": "Pre launch marketing is not a phase that comes after building. It is a parallel workstream that runs from day one. The product launch process steps should interleave building and audience development at every stage."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Pre Launch Marketing Strategy",
+			"paragraphs": [
+				{
+					"text": "A startup pre launch strategy does not require a marketing team or a budget. It requires starting early and being consistent. Here is a practical pre launch marketing strategy broken into phases."
+				},
+				{
+					"text": "<strong>Phase 1: Problem validation (weeks 1&ndash;4).</strong> Before you build anything, talk to potential users. Post in forums, run surveys, interview people. This is not market research theater — this is building your first audience. Everyone who participates in your validation is a potential launch day visitor. Collect emails. Start a newsletter. Share what you learn."
+				},
+				{
+					"text": "<strong>Phase 2: Building in public (weeks 4&ndash;12).</strong> As you build, share the process. Weekly updates, design decisions, technical challenges, pivots. Each post is a touchpoint that deepens your relationship with the growing audience. People who watch you build something feel invested in its success."
+				},
+				{
+					"text": "<strong>Phase 3: Beta access (weeks 8&ndash;14).</strong> Before the public launch, give early access to your most engaged followers. This is your pre launch marketing strategy in action — beta users become advocates. They find bugs, suggest features, and most importantly, they tell other people. A SaaS product launch plan without a beta phase is skipping the warmup before a sprint."
+				},
+				{
+					"text": "<strong>Phase 4: Launch (week 14+).</strong> By now, you have an email list, a group of beta users, and a trail of content that establishes your authority. The launch is not a cold start. It is the culmination of months of relationship building."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Audience-First Launch vs. Build-First Launch",
+			"a_description": "Two approaches to bringing a product into the world — one compounds, the other flatlines",
+			"columns": [
+				{
+					"a_h3": "Audience-First",
+					"items": [
+						"<div>🟢</div> Validates the problem before writing code",
+						"<div>🟢</div> Builds email list and trust over months",
+						"<div>🟢</div> Launch day has warm, waiting users",
+						"<div>🟢</div> Feedback shapes the product before it ships",
+						"<div>🟢</div> Each piece of content compounds into distribution"
+					]
+				},
+				{
+					"a_h3": "Build-First",
+					"items": [
+						"<div>🔴</div> Assumes the problem is real without asking anyone",
+						"<div>🔴</div> Zero subscribers on launch day",
+						"<div>🔴</div> Launch is a cold start to total strangers",
+						"<div>🔴</div> Feedback arrives too late to change direction cheaply",
+						"<div>🔴</div> Marketing starts from scratch after the product is done"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Product Launch Plan Checklist",
+			"paragraphs": [
+				{
+					"text": "A launch plan checklist is only useful if you have done the pre-work. Assuming you have, here is a practical new product launch checklist that covers the essentials."
+				},
+				{
+					"text": "<strong>Two weeks before launch:</strong>"
+				},
+				{
+					"text": "<ul><li>Confirm launch date and communicate it to your audience</li><li>Prepare launch assets — landing page, demo video, screenshots</li><li>Draft announcements for each channel (email, social, communities)</li><li>Line up any partnerships or cross-promotions</li><li>Test the signup and onboarding flow end to end</li></ul>"
+				},
+				{
+					"text": "<strong>One week before launch:</strong>"
+				},
+				{
+					"text": "<ul><li>Send a teaser email to your list</li><li>Post a countdown or behind-the-scenes content</li><li>Prepare responses for common questions</li><li>Brief any beta users who agreed to share on launch day</li></ul>"
+				},
+				{
+					"text": "<strong>Launch day:</strong>"
+				},
+				{
+					"text": "<ul><li>Send the launch email</li><li>Post on all planned channels</li><li>Submit to directories and aggregators (Product Hunt, Hacker News, relevant subreddits)</li><li>Engage with every comment and reply personally</li><li>Monitor analytics and fix any critical issues immediately</li></ul>"
+				},
+				{
+					"text": "<strong>Week after launch:</strong>"
+				},
+				{
+					"text": "<ul><li>Follow up with everyone who showed interest</li><li>Send a \"thank you + what's next\" email to your list</li><li>Publish a launch retrospective (great content, builds trust)</li><li>Identify the top-performing channel and double down</li></ul>"
+				},
+				{
+					"text": "This product launch plan checklist works for any new product launch — SaaS, mobile app, or developer tool. The product launch process steps are the same. The only variable is the channels you prioritize."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Building a SaaS Product Launch Plan",
+			"paragraphs": [
+				{
+					"text": "SaaS products have specific launch dynamics that deserve attention. A SaaS product launch plan differs from other launches in a few key ways."
+				},
+				{
+					"text": "First, the trial or freemium funnel matters enormously. Your launch needs to drive not just visits but signups. Every element of the launch — the landing page, the announcement copy, the demo — should make signing up feel like the obvious next step."
+				},
+				{
+					"text": "Second, activation is as important as acquisition. Getting people to sign up is half the battle. Getting them to experience the core value within the first session is the other half. Your launch plan checklist should include onboarding optimization as a pre-launch task, not a post-launch afterthought."
+				},
+				{
+					"text": "Third, SaaS launches are iterative. The first launch gets you your first cohort. What you learn from that cohort shapes the next launch — and yes, you should launch multiple times. New feature launches, market expansion, pricing changes. Each is a mini-launch that follows the same product launch process steps."
+				},
+				{
+					"text": "A startup pre launch strategy for SaaS should prioritize email list building above all else. Email converts better than any other channel for SaaS. A small email list of genuinely interested people will consistently outperform a large social media following on launch day. Email converts better because subscribers opted in to hear from you — it is a pattern many indie founders have experienced firsthand."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Audience Readiness Check",
+			"a_description": "Before you call it a launch, check whether you actually have anyone to launch to",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "mail"
+					},
+					"a_h3": "Do you have at least 100 email subscribers?",
+					"a_description": "Not Twitter followers. Not LinkedIn connections. People who gave you their email address because they care about the problem you are solving."
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Can you name 10 people who are waiting for this?",
+					"a_description": "Specific humans who have told you they want what you are building. If you cannot name them, you do not have an audience — you have an assumption."
+				},
+				{
+					"a_icon": {
+						"icon": "search"
+					},
+					"a_h3": "Have you validated the problem publicly?",
+					"a_description": "Published at least one piece of content about the problem space that got genuine engagement — comments, replies, shares from people you do not know personally."
+				},
+				{
+					"a_icon": {
+						"icon": "brain"
+					},
+					"a_h3": "Does your audience know a launch is coming?",
+					"a_description": "You have communicated a timeline, shared previews, and built anticipation. Your audience is not just aware — they are expecting something from you."
+				},
+				{
+					"a_icon": {
+						"icon": "zap"
+					},
+					"a_h3": "Do you have a channel that reliably reaches people?",
+					"a_description": "A newsletter with consistent open rates, a community where your posts get responses, or a social account where people actually engage. At least one channel you can count on."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Treatment: Build the Audience First, Then the Product",
+			"paragraphs": [
+				{
+					"text": "If you are reading this and you have already built a product with no audience — the situation is recoverable. But it requires a mindset shift. Stop thinking of yourself as a builder who needs to learn marketing. Start thinking of yourself as a founder whose job is distribution."
+				},
+				{
+					"text": "Go back to phase one. Start talking to people. Start writing. Start showing up. The product is built — great. Now build the audience. It will take longer than you want, but it is the only path to traction."
+				},
+				{
+					"text": "If you haven't started building yet — congratulations, you are in the best possible position. Start with the audience. Validate the problem. Build the email list. Let the audience shape what you build. When you finally launch, you will launch to people who are already waiting."
+				},
+				{
+					"text": "The pre launch marketing strategy is not optional. It is the difference between a launch that generates momentum and a launch that generates a \"well, that didn't work\" journal entry. Start building your audience today. Your future launch day self will thank you."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Build a Launch Audience From Zero",
+			"a_description": "A practical sequence for founders who have no following, no list, and no idea where to start",
+			"items": [
+				{
+					"a_h3": "Pick one community and become a regular",
+					"text": "Choose the single online community where your target users already gather — a subreddit, a Slack group, a Discord server, a forum. Show up consistently for at least four weeks before mentioning anything you are building. Answer questions, share insights, be genuinely helpful. You are earning the right to be heard."
+				},
+				{
+					"a_h3": "Start a newsletter about the problem, not the product",
+					"text": "Write about the problem space you are exploring. Share research, data, opinions, and lessons from your own experience. Publish weekly. Link to it from your community contributions. The newsletter is your owned channel — the one place where algorithms cannot throttle your reach."
+				},
+				{
+					"a_h3": "Document your building process publicly",
+					"text": "Post weekly updates about what you are building and why. Share design decisions, technical trade-offs, and pivots. People who watch you build feel invested in the outcome. Each update is a touchpoint that deepens trust and keeps your growing audience engaged."
+				},
+				{
+					"a_h3": "Recruit beta testers from your most engaged followers",
+					"text": "When you have something testable, invite the people who have been most active — replying to your posts, opening your emails, asking questions. Beta testers who come from your audience are already warm. They will give better feedback and become your strongest launch day advocates."
+				},
+				{
+					"a_h3": "Launch to your list, then amplify outward",
+					"text": "On launch day, email your subscribers first. Their early engagement — signups, comments, shares — creates the social proof that cold channels need to take notice. Your audience is the spark. Product Hunt, Reddit, and Hacker News are the kindling. Without the spark, the kindling never catches."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about audience building before you launch",
+			"items": [
+				{
+					"a_h3": "How long before launch should I start building an audience?",
+					"answer": "As early as possible — ideally before you start building the product. Three to six months of pre launch marketing gives you enough time to build a meaningful email list and establish credibility in your target community. Even starting four weeks before launch is better than nothing, but the more time you invest in audience building, the stronger your launch will be."
+				},
+				{
+					"a_h3": "What should a product launch plan checklist include?",
+					"answer": "A practical launch plan checklist covers four phases: pre-launch prep (assets, messaging, channel selection), one-week-out tasks (teasers, beta user briefing), launch day actions (announcements, engagement, monitoring), and post-launch follow-up (thank-yous, retrospective, channel analysis). The specifics vary by product type, but the structure is universal."
+				},
+				{
+					"a_h3": "What is the best pre launch marketing strategy for a solo founder?",
+					"answer": "Focus on one channel and be consistent. If you write well, start a newsletter and publish weekly. If you are comfortable on camera, post short videos. If you are active in communities, double down there. A startup pre launch strategy for a solo founder cannot cover every channel — pick the one that matches your strengths and commit to it for at least three months."
+				},
+				{
+					"a_h3": "How is a SaaS product launch plan different from other launches?",
+					"answer": "A SaaS product launch plan puts extra emphasis on activation and retention, not just acquisition. Getting signups is important, but getting users to experience core value in the first session is critical. SaaS launches also tend to be more iterative — you launch, learn, improve onboarding, and launch again to a new audience segment."
+				},
+				{
+					"a_h3": "What are the most important product launch process steps?",
+					"answer": "In order of importance: build an audience (pre launch marketing), validate your messaging (does your one-sentence pitch resonate?), prepare launch assets (landing page, demo, announcements), execute the launch across your chosen channels, and follow up relentlessly in the week after. The follow-up is where most founders drop the ball — launch day energy fades, but the real conversions happen in the days that follow."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Launch-Phase Diseases",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "shield-alert"
+					},
+					"a_h3": "Launch Fear",
+					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
+					"href": "/launch/launch-fear/",
+					"a_image": {
+						"src": "/assets/imgs/launch-button.jpg",
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "megaphone-off"
+					},
+					"a_h3": "No Distribution",
+					"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget, zero audience, zero plan to change that.",
+					"href": "/launch/no-distribution/",
+					"a_image": {
+						"src": "/assets/imgs/empty-warehouse.jpg",
+						"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "rocket"
+					},
+					"a_h3": "MVP Launch",
+					"a_description": "Your MVP launch strategy is \"post on Reddit and hope.\" That's not a strategy — that's a wish.",
+					"href": "/launch/mvp-launch/",
+					"a_image": {
+						"src": "/assets/imgs/cardboard-rocket.jpg",
+						"alt": "Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Customer Validation",
+					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
+					"href": "/market/customer-validation/",
+					"a_image": {
+						"src": "/assets/imgs/magnifying-crowd.jpg",
+						"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "No Audience First — Launch Day With Zero Visitors | Sickness Labs",
+		"description": "Why launching without an audience fails and how to build one before you ship. Pre launch marketing strategy, checklists, and SaaS launch plans.",
+		"og": {
+			"title": "No Audience First — Launch Day With Zero Visitors | Sickness Labs",
+			"description": "Why launching without an audience fails and how to build one before you ship. Pre launch marketing strategy, checklists, and SaaS launch plans.",
+			"url": "https://www.sicknesslabs.com/launch/no-audience-first/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "No Audience First — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "No Audience First — Launch Day With Zero Visitors | Sickness Labs",
+			"description": "Why launching without an audience fails and how to build one before you ship. Pre launch marketing strategy, checklists, and SaaS launch plans.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "No Audience First — Sickness Labs"
+			}
+		}
+	}
+}

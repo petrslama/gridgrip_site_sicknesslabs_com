@@ -1,0 +1,47 @@
+# Example Company
+
+> Short one-line description of what the company/website does.
+
+## About
+
+A few sentences about the company, its mission, and what visitors will find on the site.
+
+---
+
+## Home
+
+URL: https://www.example.com/
+
+Full page content goes here. Include all meaningful text from the page — headings, descriptions, feature lists, CTAs. This gives LLMs the full context without needing to crawl the site.
+
+---
+
+## About
+
+URL: https://www.example.com/about/
+
+Full page content goes here.
+
+---
+
+## Services
+
+URL: https://www.example.com/services/
+
+Full page content goes here.
+
+---
+
+## Blog
+
+URL: https://www.example.com/blog/
+
+Full page content goes here.
+
+---
+
+## Contact
+
+URL: https://www.example.com/contact/
+
+Full page content goes here.

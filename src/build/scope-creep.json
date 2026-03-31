@@ -1,0 +1,405 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Build",
+					"href": "/build/"
+				},
+				{
+					"text": "Scope Creep"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/expanding-doorframe.jpg"
+			},
+			"a_eyebrow": "Build",
+			"a_h1": "Scope Creep — The Silent Expansion That Kills Deadlines",
+			"a_description": "The project was supposed to take two months. Then someone said \"while we're at it\" and now it's month six. Scope creep is the silent expansion of project boundaries — and it's the number one deadline killer in software development.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Scope Creep in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Scope creep is uncontrolled expansion</strong> — the scope grows, the deadline doesn't."
+				},
+				{
+					"text": "<strong>Feature creep adds new things. Scope creep bloats things already agreed on.</strong> Different disease, different cure."
+				},
+				{
+					"text": "Every \"while we're at it\" has a time cost. <strong>Making that cost visible is the entire game.</strong>"
+				},
+				{
+					"text": "<strong>Prevention:</strong> write down what's included and — more importantly — what's excluded."
+				},
+				{
+					"text": "<strong>Mid-project:</strong> freeze scope, audit the delta, sort into ship / defer / cut."
+				},
+				{
+					"text": "<strong>Healthy scope change</strong> is identical work with documentation and approval. <strong>Creep</strong> is the same work without either."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "What Scope Creep Really Is",
+			"paragraphs": [
+				{
+					"text": "Scope creep is the gradual, uncontrolled expansion of a project's boundaries after work has already begun. It's not a dramatic explosion — it's a slow leak. The requirements document said X. Then someone suggested X plus a small Y. Then Y needed Z to work properly. And now the project is XYZ with a side of W, and the original timeline is a fantasy."
+				},
+				{
+					"text": "Software scope creep is particularly insidious because software is malleable. Unlike physical construction where adding a floor to a building is obviously a massive change, adding a feature to a codebase feels small. \"It's just a few more lines of code.\" Except it never is. Every scope expansion touches architecture, testing, documentation, edge cases, and deployment. The lines of code are the tip of the iceberg."
+				},
+				{
+					"text": "The defining characteristic of scope creep — what separates it from legitimate scope changes — is that it happens without formal acknowledgment. Nobody updated the timeline. Nobody adjusted the budget. Nobody signed off on the new requirements. The scope just... grew. Like mold in a damp room. Quietly, invisibly, until the damage is obvious."
+				},
+				{
+					"text": "Scope creep in software development kills more projects than bad code ever will. Bad code can be refactored. A project that's trying to deliver twice what was planned with the same resources and the same deadline cannot be refactored — it can only fail or be rescued through painful cuts."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Neat raised garden bed with clean wooden borders, three orderly rows of small green plants, raked soil, dark background, calm and contained, overhead view, soft natural lighting",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/garden-contained.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Overgrown wild garden with vines creeping over a broken wooden fence, plants spilling onto a path, weeds tangling with flowers, chaotic uncontrolled growth in every direction, dark moody atmosphere, wide angle",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/garden-overgrown.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Scope Creep vs. Feature Creep — They're Not the Same Disease",
+			"paragraphs": [
+				{
+					"text": "People use these terms interchangeably. They shouldn't. Feature creep adds capabilities that nobody asked for — the product grows beyond its purpose. Scope creep expands the work required to deliver what was already agreed upon."
+				},
+				{
+					"text": "Here's an example. You're building a user registration system. Feature creep would be adding social login, two-factor authentication, and a profile customization page that weren't in the original plan. Scope creep would be the original login form taking three times longer than estimated because someone decided it needs to support five edge cases, three error states, and pixel-perfect responsive behavior across twelve breakpoints — none of which were in the spec."
+				},
+				{
+					"text": "Feature creep is a product disease. Scope creep is a project management disease. You can have both simultaneously, and they compound each other. A project that's creeping in scope while also creeping in features is a project that will never ship."
+				},
+				{
+					"text": "The treatment differs too. Feature creep requires saying no to new ideas. Scope creep requires saying no to expanding existing ideas. The second is harder because it feels like you're cutting corners on something you already committed to."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Scope Creep vs. Scope Change",
+			"a_description": "The work might be identical. The process around it is what matters.",
+			"columns": [
+				{
+					"a_h3": "Healthy Scope Change",
+					"items": [
+						"<div>🟢</div> Documented and approved",
+						"<div>🟢</div> Timeline adjusted to match",
+						"<div>🟢</div> Budget reflects the new work",
+						"<div>🟢</div> Stakeholders signed off",
+						"<div>🟢</div> Trade-offs made explicit"
+					]
+				},
+				{
+					"a_h3": "Scope Creep",
+					"items": [
+						"<div>🔴</div> Sneaks in without acknowledgment",
+						"<div>🔴</div> Original deadline stays the same",
+						"<div>🔴</div> No budget adjustment",
+						"<div>🔴</div> Nobody formally approved it",
+						"<div>🔴</div> Costs invisible until it's too late"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Real Scope Creep Examples in Software Development",
+			"paragraphs": [
+				{
+					"text": "Scope creep examples in software development are everywhere once you know what to look for. They follow a pattern: a simple requirement gets reinterpreted, expanded, or gold-plated until it bears little resemblance to what was originally planned."
+				},
+				{
+					"text": "<strong>The \"simple\" dashboard.</strong> The requirement said: show three key metrics on a dashboard. What got built: a configurable dashboard with drag-and-drop widgets, date range filtering, export to PDF, and comparison views. The original ask was three numbers on a page. The delivered scope was an analytics platform."
+				},
+				{
+					"text": "<strong>The \"basic\" search.</strong> The spec said: add a search bar that filters results by name. What happened: someone asked if it could also search by description. Then by tags. Then someone wanted fuzzy matching. Then autocomplete suggestions. Then saved searches. A text input that filters a list became a full search engine."
+				},
+				{
+					"text": "<strong>The API that kept growing.</strong> The plan: build a REST API with five endpoints for the mobile app. The reality: the mobile team needed twelve endpoints. Then the partner integration needed six more. Then the internal tools team needed custom fields. Same project, same timeline, four times the scope."
+				},
+				{
+					"text": "In every case, each individual expansion seemed reasonable. That's what makes scope creep dangerous — it's made of rational decisions that add up to an irrational outcome."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "How to Prevent Scope Creep — Before It Starts",
+			"paragraphs": [
+				{
+					"text": "Project management preventing scope creep starts before the first line of code. Scope creep prevention is a discipline, not a tool. No project management software will save you if the underlying habits are broken."
+				},
+				{
+					"text": "<strong>Write it down in painful detail.</strong> Vague requirements are an open invitation for scope creep. \"Build a user profile page\" can mean anything from a name and avatar to a full social networking profile. Specify exactly what's included and — critically — what's excluded. The exclusion list is more important than the inclusion list."
+				},
+				{
+					"text": "<strong>Define \"done\" for every task.</strong> If a task doesn't have acceptance criteria, it's not a task — it's a wish. \"Done\" means specific, testable conditions are met. Not \"it looks good\" or \"it works.\" Actual criteria that anyone on the team can verify."
+				},
+				{
+					"text": "Avoiding scope creep requires a formal change process. When someone wants to add to the scope, the response isn't yes or no — it's \"how does this affect the timeline and budget?\" Every scope addition has a cost. Making that cost visible is the single most effective way to control scope creep in software development."
+				},
+				{
+					"text": "<strong>Scope change vs. scope creep</strong> is the critical distinction. Scope changes are intentional, documented, and approved with adjusted timelines. Scope creep is the same expansion without the documentation or approval. The work is identical — the process around it is what matters."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Scope Gate",
+			"a_description": "Before any addition enters the project, it must clear every gate. If any answer is no, it waits for v2.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "file-text"
+					},
+					"a_h3": "Is it in the original spec?",
+					"a_description": "If the addition wasn't documented in the original requirements, it's new scope — acknowledge it formally before proceeding."
+				},
+				{
+					"a_icon": {
+						"icon": "calendar"
+					},
+					"a_h3": "Has the timeline been adjusted?",
+					"a_description": "Every scope addition costs time. If the deadline hasn't moved, someone is pretending the addition is free."
+				},
+				{
+					"a_icon": {
+						"icon": "user-check"
+					},
+					"a_h3": "Did the decision-maker approve?",
+					"a_description": "Whoever owns the timeline must sign off. No informal hallway agreements, no \"just this once\" exceptions."
+				},
+				{
+					"a_icon": {
+						"icon": "arrow-left-right"
+					},
+					"a_h3": "What gets cut to make room?",
+					"a_description": "Zero-sum scoping: every addition requires a removal. If nothing gets cut, the project just got bigger without anyone admitting it."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "How to Stop Scope Creep That's Already Happening",
+			"paragraphs": [
+				{
+					"text": "If you're reading this mid-project with a deadline that's already slipping, prevention advice isn't what you need. Here's how to stop scope creep that's already in progress."
+				},
+				{
+					"text": "<strong>Freeze the scope immediately.</strong> Declare a scope freeze. Nothing new gets added until what's already committed is delivered. This feels aggressive, but it's the only way to stop the bleeding. Every day you continue accepting scope additions is a day the project falls further behind."
+				},
+				{
+					"text": "<strong>Audit what's actually been committed.</strong> List every feature and requirement that's currently in scope. Compare it to the original plan. The delta between those two lists is your creep. Put a number on it — hours, days, weeks of additional work. This makes the problem concrete instead of abstract."
+				},
+				{
+					"text": "<strong>Cut or defer ruthlessly.</strong> Take your audit list and sort everything into three categories: must ship, can defer to v2, and can cut entirely. Be honest about what \"must ship\" means — it means the product is broken or useless without it, not that someone will be disappointed."
+				},
+				{
+					"text": "How to minimize scope creep going forward: every remaining decision gets a time estimate attached. No more \"quick additions\" without acknowledging the cost. If someone wants to add something, they also have to say what gets cut to make room. Zero-sum scoping is the only reliable way to control scope creep once it's started."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Documentation and Sign-Off — The Boring Cure That Works",
+			"paragraphs": [
+				{
+					"text": "The most effective scope creep prevention is the least exciting: documentation and sign-off processes. Nobody wants to hear this. Everyone wants a clever framework or a magic tool. But the projects that don't creep are the ones where changes require written approval."
+				},
+				{
+					"text": "It doesn't need to be heavy. A shared document that lists every requirement, with a status and an owner, is enough. When someone wants to change something, they update the document and get explicit sign-off from whoever controls the timeline. That's it. The friction of writing it down and getting approval is enough to filter out most creep."
+				},
+				{
+					"text": "For indie builders working alone, the sign-off comes from yourself — but it still needs to be written down. Keep a change log. Every time you expand the scope, write down what you added, why, and what it costs in time. When you're three weeks past your deadline, you can look at the log and see exactly where the time went."
+				},
+				{
+					"text": "How to avoid scope creep on future projects: start every project with a scope document that includes a section called \"Not Included.\" This section is as important as the requirements themselves. It preemptively answers \"can we also...\" with \"no, and here's where we documented that decision.\""
+				},
+				{
+					"text": "Scope creep prevention isn't glamorous. It's paperwork. But it's the paperwork that keeps projects on track when enthusiasm and optimism try to blow them apart."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Run a Mid-Project Scope Audit",
+			"a_description": "A repeatable process for quantifying scope creep and getting the project back on track.",
+			"items": [
+				{
+					"a_h3": "Pull the original spec",
+					"text": "Find the original requirements document, project brief, or initial task list. This is your baseline — the scope as it existed when the timeline was set. If no written spec exists, reconstruct it from memory and early commits."
+				},
+				{
+					"a_h3": "List everything currently in scope",
+					"text": "Walk through the codebase, the task board, and any conversations to compile a complete list of what the project is currently expected to deliver. Include features, integrations, edge cases, and polish items that have been added since the original spec."
+				},
+				{
+					"a_h3": "Calculate the delta",
+					"text": "Compare the two lists. Everything in the current scope that wasn't in the original spec is creep. Estimate the time cost of each addition — even roughly. The total is the number of days (or weeks) the project has expanded without anyone acknowledging it."
+				},
+				{
+					"a_h3": "Sort into ship, defer, and cut",
+					"text": "For every item in the delta, decide: must it ship for the product to work (ship), can it wait for the next version (defer), or was it never important enough to justify the cost (cut)? Be honest — \"must ship\" means broken without it, not disappointing without it."
+				},
+				{
+					"a_h3": "Reset the timeline",
+					"text": "Take the reduced scope (original + must-ship items only) and re-estimate the delivery date. Communicate the new date and the reasoning. A realistic late date is better than a fictional on-time date that everyone knows is wrong."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about scope creep and protecting your project boundaries",
+			"items": [
+				{
+					"a_h3": "What is scope creep in software development?",
+					"answer": "Scope creep in software development is the uncontrolled expansion of project requirements after development has started. It happens when new features, additional complexity, or expanded requirements are added without adjusting the timeline, budget, or resources. It's the most common reason software projects miss deadlines."
+				},
+				{
+					"a_h3": "How do you prevent scope creep?",
+					"answer": "Preventing scope creep requires three things: detailed requirements documentation that specifies what's included and excluded, a formal change process where every addition comes with a time and cost estimate, and clear acceptance criteria for every task so \"done\" has an objective definition. The most effective tool is a written scope document with an explicit \"Not Included\" section."
+				},
+				{
+					"a_h3": "What's the difference between scope change and scope creep?",
+					"answer": "Scope change is intentional, documented, and approved. The timeline and budget are adjusted to reflect the new work. Scope creep is the same expansion without the formal process — the scope grows but the timeline and budget stay the same. The work might be identical, but creep happens without anyone acknowledging its cost."
+				},
+				{
+					"a_h3": "How do you stop scope creep mid-project?",
+					"answer": "Freeze the scope immediately — no new additions until current commitments are delivered. Audit everything in scope against the original plan to quantify the creep. Then sort remaining work into must-ship, defer to v2, and cut entirely. Going forward, require every new addition to specify what gets removed to make room."
+				},
+				{
+					"a_h3": "Is scope creep always bad?",
+					"answer": "Uncontrolled scope expansion is always bad. But scope can legitimately need to change — new information, changed market conditions, or user feedback that invalidates original assumptions. The difference is process. If the change is documented, the cost is acknowledged, and the timeline is adjusted, it's a healthy scope change. If it sneaks in without any of that, it's creep."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Build-Phase Diseases",
+			"a_description": "Scope creep rarely acts alone. These conditions share the same weakness — building without boundaries.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "layers"
+					},
+					"a_h3": "Feature Creep",
+					"a_description": "The product started simple. Now it has a dashboard, an API, dark mode, and a settings page with 47 toggles. Nobody asked for any of it.",
+					"href": "/build/feature-creep/",
+					"a_image": {
+						"src": "/assets/imgs/swiss-army-knife.jpg",
+						"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "wrench"
+					},
+					"a_h3": "MVP Overengineering",
+					"a_description": "Your MVP has a microservice architecture, CI/CD pipeline, and 90% test coverage. It has zero users.",
+					"href": "/build/mvp-overengineering/",
+					"a_image": {
+						"src": "/assets/imgs/golden-hammer.jpg",
+						"alt": "Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "list-ordered"
+					},
+					"a_h3": "Feature Prioritization",
+					"a_description": "Everything feels urgent, nothing feels important. The backlog is a graveyard of half-started features and unranked ideas.",
+					"href": "/build/feature-prioritization/",
+					"a_image": {
+						"src": "/assets/imgs/chess-board.jpg",
+						"alt": "Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "shield-alert"
+					},
+					"a_h3": "Launch Fear",
+					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
+					"href": "/launch/launch-fear/",
+					"a_image": {
+						"src": "/assets/imgs/launch-button.jpg",
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Scope Creep — The Silent Expansion That Kills Deadlines | Sickness Labs",
+		"description": "Scope creep silently expands project boundaries until deadlines collapse. Learn how to prevent, control, and stop scope creep in software development.",
+		"og": {
+			"title": "Scope Creep — \"While We're At It\" and Other Famous Last Words",
+			"description": "The project was two months. Then someone said \"while we're at it\" and now it's month six. Here's how scope creep happens and how to stop it mid-project.",
+			"url": "https://www.sicknesslabs.com/build/scope-creep/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Scope Creep — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Scope Creep — \"While We're At It\" and Other Famous Last Words",
+			"description": "The project was two months. Then someone said \"while we're at it\" and now it's month six. Here's how scope creep happens and how to stop it mid-project.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Scope Creep — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

@@ -1,0 +1,47 @@
+.o_footer {
+	background: var(--bg_surface);
+	padding-block: 4rem;
+
+	.brand-column {
+		.logo {
+			display: flex;
+			align-items: center;
+			gap: .75rem;
+			margin-bottom: .75rem;
+		}
+
+		.a_image img {
+			width: 3rem;
+			height: 3rem;
+			border-radius: 50%;
+			border: .25rem solid black;
+		}
+
+		.brand-name {
+			font-family: var(--font_heading);
+			font-weight: 500;
+			font-size: 1.25rem;
+			color: var(--color_text);
+		}
+	}
+
+	.nav-list {
+		display: flex;
+		flex-direction: column;
+		gap: .5rem;
+		margin: 0;
+		padding: 1rem 0 0 0;
+		list-style: none;
+	}
+
+	.nav-item a {
+		font-size: .875rem;
+		line-height: 1.33;
+		color: var(--color_text-muted);
+		text-decoration: none;
+
+		&:hover {
+			color: var(--color_text);
+		}
+	}
+}

@@ -1,0 +1,381 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Founder",
+					"href": "/founder/"
+				},
+				{
+					"text": "Startup Burnout"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/burnt-matchstick.jpg"
+			},
+			"a_eyebrow": "Founder",
+			"a_h1": "Startup Burnout — The Slow Fire That Kills Your Drive",
+			"a_description": "You're still shipping. Still answering emails. Still showing up. But somewhere along the way, the thing you loved building became the thing you dread opening. That's startup burnout, and it doesn't announce itself — it just moves in.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Startup Burnout in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Burnout isn't being tired. It's when the recovery never comes.</strong> You're exhausted from months of sustained effort with no clear endpoint."
+				},
+				{
+					"text": "<strong>The early stages require unsustainable effort.</strong> The problem is nobody tells you when to stop — or that stopping is an option."
+				},
+				{
+					"text": "<strong>Symptoms:</strong> the thing you loved building becomes the thing you dread opening. You're still shipping, but you stopped caring months ago."
+				},
+				{
+					"text": "<strong>Rest doesn't fix burnout if the system that caused it stays the same.</strong> A weekend off followed by the same 80-hour week is a bandaid, not a cure."
+				},
+				{
+					"text": "<strong>Sustainable pace is not weakness.</strong> The founders who last are the ones who figured out how to work at 70% indefinitely — not 100% until they collapse."
+				},
+				{
+					"text": "<strong>The project will survive you taking a break.</strong> It won't survive you burning out completely."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Diagnosis: Burnout vs. Being Tired",
+			"paragraphs": [
+				{
+					"text": "Everyone gets tired. You pull a late night, you feel it the next day, you recover. That's not startup burnout. Burnout is what happens when the recovery never comes."
+				},
+				{
+					"text": "Startup founder burnout is a specific breed. You're not tired from one bad week — you're exhausted from months of sustained effort with no clear endpoint. The backlog never shrinks. The users always need more. The competition never sleeps. And unlike a regular job, you can't clock out, because the project <em>is</em> you."
+				},
+				{
+					"text": "The WHO describes it as an occupational phenomenon — chronic workplace stress that hasn't been successfully managed. Founders call it Tuesday. But there's a real difference between pushing through a hard sprint and slowly burning through your capacity to care. One ends. The other consumes."
+				},
+				{
+					"text": "Burnout in startups is especially insidious because the early stages <em>require</em> unsustainable effort. You have to outwork your constraints. The problem is that nobody tells you when to stop — or even that stopping is an option."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Bright steady candle flame burning cleanly in a dark room, warm stable glow, calm and sustainable, centered composition, dark background, studio lighting",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/steady-candle.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Candle melted down to a puddle of wax with a tiny dying ember barely visible, smoke trails rising, exhausted and depleted, dark background, moody low-key lighting",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/melted-candle.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Why Indie Founders Are Especially Vulnerable",
+			"paragraphs": [
+				{
+					"text": "If you're a solo founder or running a tiny team, you don't have a cofounder to notice you're slipping. You don't have an HR department sending wellness surveys. You don't have anyone whose job it is to tell you to take a break."
+				},
+				{
+					"text": "The mental health and entrepreneurship connection is well-documented but rarely discussed in indie circles. Founders report higher rates of depression, anxiety, and burnout than the general population. And indie founders — without funding, without teams, without safety nets — carry the full weight alone."
+				},
+				{
+					"text": "There's also the identity trap. When your project is your identity, rest feels like abandonment. Taking a weekend off feels like letting your users down. The guilt of not working becomes more exhausting than the work itself."
+				},
+				{
+					"text": "Add financial pressure — no salary, no runway, just whatever the project earns this month — and you've got a perfect recipe for chronic, compounding stress that masquerades as dedication."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Normal Tiredness vs. Burnout",
+			"a_description": "One recovers with rest. The other doesn't.",
+			"columns": [
+				{
+					"a_h3": "Normal Tiredness",
+					"items": [
+						"<div>🟢</div> Recovers after a weekend or vacation",
+						"<div>🟢</div> Still excited about the project underneath",
+						"<div>🟢</div> Energy returns after good sleep",
+						"<div>🟢</div> Specific tasks feel hard",
+						"<div>🟢</div> Performance dips temporarily"
+					]
+				},
+				{
+					"a_h3": "Startup Burnout",
+					"items": [
+						"<div>🔴</div> Rest doesn't restore energy",
+						"<div>🔴</div> Dread replaces excitement",
+						"<div>🔴</div> Exhaustion persists regardless of sleep",
+						"<div>🔴</div> Everything feels hard",
+						"<div>🔴</div> Quality degrades across all work"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Hustle Culture Lie",
+			"paragraphs": [
+				{
+					"text": "The internet is full of founders bragging about their 80-hour weeks. \"Sleep when you're dead.\" \"Outwork everyone.\" \"If you're not obsessed, you're not serious.\""
+				},
+				{
+					"text": "This is bad advice dressed up as motivation. Hustle culture doesn't produce better outcomes — it produces burned-out founders who mistake suffering for progress. The research is clear: sustained overwork leads to worse decision-making, lower creativity, and more errors. You're not gaining an edge by working 14-hour days. You're borrowing from tomorrow's capacity to feel productive today."
+				},
+				{
+					"text": "Startup work life balance sounds like a contradiction, and that's the problem. The narrative says you have to choose: build something great or have a life. But the founders who actually sustain projects for years — not months, years — are the ones who figured out that work life balance startup founders need isn't about equal time. It's about not running the tank to empty."
+				},
+				{
+					"text": "The hustle bros who burned out aren't posting about it. Survivorship bias means you only hear from the ones who made it through. The graveyard of burned-out founders is enormous and silent."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Mental Health and Entrepreneurship",
+			"paragraphs": [
+				{
+					"text": "Let's talk about mental health and entrepreneurship directly, because the founder community is terrible at this."
+				},
+				{
+					"text": "Building something from nothing is inherently stressful. You're making high-stakes decisions with incomplete information, absorbing financial risk personally, and tying your self-worth to something that might fail. That's a recipe for anxiety and depression even if everything goes well."
+				},
+				{
+					"text": "When things go badly — a launch flops, users leave, a competitor appears — the psychological impact hits different when it's <em>your</em> thing. You didn't just have a bad quarter at work. Your creation failed. That distinction matters for your mental health, and pretending it doesn't is how founders end up in crisis."
+				},
+				{
+					"text": "The stigma is real too. Admitting you're struggling feels like admitting you're not cut out for this. So founders mask it. They push through. They tweet about resilience while silently falling apart. This isn't strength — it's a disease vector."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Burnout Self-Check",
+			"a_description": "If three or more are true, you're not tired — you're burning out.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "battery-low"
+					},
+					"a_h3": "Rest doesn't restore your energy",
+					"a_description": "You took a weekend off. You slept in. You still feel the same dread on Monday morning. Recovery isn't happening."
+				},
+				{
+					"a_icon": {
+						"icon": "eye-off"
+					},
+					"a_h3": "You dread opening the project",
+					"a_description": "The thing you used to love building now makes your stomach drop. You avoid looking at notifications, issues, or analytics."
+				},
+				{
+					"a_icon": {
+						"icon": "trending-down"
+					},
+					"a_h3": "Your work quality has dropped",
+					"a_description": "More bugs, slower responses, sloppier decisions. You're still showing up, but the output doesn't match what you're capable of."
+				},
+				{
+					"a_icon": {
+						"icon": "user-minus"
+					},
+					"a_h3": "You've detached emotionally",
+					"a_description": "Good news about the project doesn't excite you. Bad news doesn't upset you. You feel nothing — and that's the scariest symptom."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Treatment: Practical Recovery Strategies",
+			"paragraphs": [
+				{
+					"text": "Startup burnout doesn't fix itself. \"Just take a break\" is useless advice when the break makes you more anxious than the work. Here's what actually helps:"
+				},
+				{
+					"text": "<strong>Set hard boundaries and defend them.</strong> Pick a time when you stop working, and actually stop. Not \"stop but check Slack on your phone.\" Stop. The project will survive a few hours without you. If it can't, that's a different disease (see: <a href=\"/founder/founder-syndrome/\">founder syndrome</a>)."
+				},
+				{
+					"text": "<strong>Track your energy, not your hours.</strong> Some tasks drain you, some recharge you. Identify which is which and restructure your days so you're not stacking all the draining work together. Startup work life balance isn't about working less — it's about working smarter with the energy you have."
+				},
+				{
+					"text": "<strong>Build in recovery by default.</strong> Don't wait until you're burned out to rest. Schedule downtime the same way you schedule sprints. One day off per week isn't laziness — it's maintenance."
+				},
+				{
+					"text": "<strong>Talk to someone.</strong> A therapist, a founder peer group, a friend who gets it. The mental health and entrepreneurship conversation needs to happen out loud, not just in your head at 2 AM."
+				},
+				{
+					"text": "<strong>Give yourself permission to go slower.</strong> Your indie project doesn't need to compete with funded startups on speed. It needs to compete on longevity. And you can't last if you're on fire."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Build a Sustainable Work Rhythm",
+			"a_description": "A repeatable process for replacing hustle culture with a pace you can maintain for years.",
+			"items": [
+				{
+					"a_h3": "Audit your current week",
+					"text": "Track every task you do for one week. Tag each one: energizing, neutral, or draining. Most founders discover that 60-70% of their time goes to draining tasks that could be eliminated, automated, or delegated. The audit makes the problem visible."
+				},
+				{
+					"a_h3": "Identify your high-energy hours",
+					"text": "Notice when you do your best work. For most people it's the first 2-4 hours of the day. Protect those hours ruthlessly — no meetings, no email, no admin. Use them exclusively for the creative, high-stakes work that moves the project forward."
+				},
+				{
+					"a_h3": "Set a hard stop time",
+					"text": "Pick a time — 6 PM, 7 PM, whatever works — and stop. Not \"wind down.\" Stop. Close the laptop. The anxiety of stopping fades within a week. The recovery it provides compounds over months."
+				},
+				{
+					"a_h3": "Schedule one full day off per week",
+					"text": "Block it on the calendar. No code, no email, no \"quick check.\" The project will survive. If the idea of one day off fills you with panic, that's not dedication — that's a symptom."
+				},
+				{
+					"a_h3": "Review monthly",
+					"text": "At the end of each month, ask: am I more energized or less energized than last month? If the trend is downward for two months running, something structural needs to change — not your willpower, but your workload, your boundaries, or your scope."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about startup burnout and sustainable founder habits",
+			"items": [
+				{
+					"a_h3": "How do I know if I have startup burnout or just need a good night's sleep?",
+					"answer": "Normal tiredness recovers with rest. Startup burnout doesn't. If you've taken time off and still feel dread, detachment, or total indifference toward your project, that's burnout. The key marker is emotional exhaustion that persists regardless of how much you rest."
+				},
+				{
+					"a_h3": "Can you recover from startup founder burnout without quitting?",
+					"answer": "Yes, but it requires structural changes, not just willpower. Set real boundaries, delegate what you can, reduce your scope, and address the root causes. Burnout in startups comes from sustained imbalance, so the fix has to be sustained too. A single vacation won't cut it."
+				},
+				{
+					"a_h3": "Why is work-life balance so hard for startup founders?",
+					"answer": "Because the project feels like it needs you all the time, and the boundary between work and life dissolves when you're the founder. Startup work life balance requires deliberate structure — set hours, real days off, and the discipline to treat rest as non-negotiable rather than a reward for finishing everything (you never will)."
+				},
+				{
+					"a_h3": "Does hustle culture actually lead to success?",
+					"answer": "Short term, intense effort can accelerate a launch. Long term, it accelerates burnout. Research consistently shows that sustained overwork degrades decision quality, creativity, and health. The founders who last are the ones who pace themselves, not the ones who sprint until they collapse."
+				},
+				{
+					"a_h3": "How does burnout affect the quality of my work?",
+					"answer": "Burned-out founders make worse decisions, write buggier code, respond slower to users, and lose the creative spark that made the project interesting in the first place. Burnout doesn't just hurt you — it degrades everything you touch. The project suffers even if you're still technically showing up."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Founder Diseases",
+			"a_description": "Burnout doesn't exist in isolation. These conditions share the same fuel — unsustainable effort without recovery.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "crown"
+					},
+					"a_h3": "Founder Syndrome",
+					"a_description": "When the founder becomes the bottleneck. Every decision flows through one person, and the project can't breathe without them.",
+					"href": "/founder/founder-syndrome/",
+					"a_image": {
+						"src": "/assets/imgs/puppet-strings.jpg",
+						"alt": "Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "ghost"
+					},
+					"a_h3": "Imposter Syndrome",
+					"a_description": "You shipped it, people are using it, and you're still convinced someone will figure out you have no idea what you're doing.",
+					"href": "/founder/imposter-syndrome/",
+					"a_image": {
+						"src": "/assets/imgs/cracked-mirror.jpg",
+						"alt": "Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "hourglass"
+					},
+					"a_h3": "Procrastination",
+					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
+					"href": "/founder/procrastination/",
+					"a_image": {
+						"src": "/assets/imgs/frozen-hourglass.jpg",
+						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "skull"
+					},
+					"a_h3": "Zombie Projects",
+					"a_description": "Not alive, not dead. The domain is renewed, the server is running, and the last commit was eight months ago.",
+					"href": "/graveyard/zombie-projects/",
+					"a_image": {
+						"src": "/assets/imgs/zombie-laptop.jpg",
+						"alt": "Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Startup Burnout — The Slow Fire That Kills Your Drive | Sickness Labs",
+		"description": "Startup burnout destroys founders silently. Learn to spot the symptoms, understand the mental health connection, and recover without quitting.",
+		"og": {
+			"title": "Startup Burnout — When Passion Becomes Exhaustion",
+			"description": "You're still shipping but you stopped caring three months ago. Here's how startup burnout happens, why hustle culture is a lie, and how to recover without quitting.",
+			"url": "https://www.sicknesslabs.com/founder/startup-burnout/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Startup Burnout — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Startup Burnout — When Passion Becomes Exhaustion",
+			"description": "You're still shipping but you stopped caring three months ago. Here's how startup burnout happens, why hustle culture is a lie, and how to recover without quitting.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Startup Burnout — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

@@ -1,0 +1,7 @@
+.o_image_grid {
+	padding-block: 0;
+
+	& img {
+		border-radius: var(--radius);
+	}
+}

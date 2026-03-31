@@ -1,0 +1,7 @@
+{{#if href}}<a
+	 href="{{href}}"{{else}}<span{{/if}}
+	 class="a_button {{style}}">
+	{{> a_icon icon=icon_before }}
+	<span>{{text}}</span>
+	{{> a_icon icon=icon_after }}
+{{#if href}}</a>{{else}}</span>{{/if}}

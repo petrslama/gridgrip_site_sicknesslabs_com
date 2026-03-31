@@ -1,0 +1,65 @@
+{
+	"fu_type": "o_header",
+	"fu_label": "Header",
+	"fu_row__labels": [
+		{
+			"fu_label": "Header"
+		}
+	],
+	"fields": [
+		{
+			"fu_type": "from_definition",
+			"definition": "a_fu_type"
+		},
+		{
+			"fu_type": "h2",
+			"fu_label": "Logo"
+		},
+		{
+			"fu_type": "from_definition",
+			"definition": "a_image"
+		},
+		{
+			"fu_type": "h2",
+			"fu_label": "Menu"
+		},
+		{
+			"fu_type": "text",
+			"fu_label": "Aria Label Open Navigation",
+			"fu_name": "aria_label"
+		},
+		{
+			"fu_type": "repeater_table",
+			"fu_name": "navigation",
+			"templates": [
+				{
+					"fields": [
+						{
+							"fu_type": "text",
+							"fu_label": "Label",
+							"fu_name": "label"
+						},
+						{
+							"fu_type": "text",
+							"fu_label": "Link",
+							"fu_name": "href"
+						},
+						{
+							"fu_type": "text",
+							"fu_label": "Open in",
+							"fu_name": "target"
+						}
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "h2",
+			"fu_label": "Buttons"
+		},
+		{
+			"fu_type": "from_definition",
+			"definition": "m_buttons"
+		}
+	]
+}

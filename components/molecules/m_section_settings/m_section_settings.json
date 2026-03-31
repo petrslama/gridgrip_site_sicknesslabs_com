@@ -1,0 +1,10 @@
+{
+	"fu_name": "m_section_settings",
+	"fields": [
+		{
+			"fu_type": "text",
+			"fu_label": "Section ID",
+			"fu_name": "section_id"
+		}
+	]
+}

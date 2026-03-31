@@ -1,0 +1,124 @@
+.o_letters {
+
+	&.grid {
+		row-gap: 3rem;
+	}
+
+	.item {
+		display: grid;
+		grid-template-columns: 4rem 1fr;
+		gap: 0.5rem;
+
+		.letter {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			width: 3rem;
+			height: 3rem;
+			border-radius: 50%;
+			background: #111;
+			font-family: var(--font_heading);
+			font-size: 1.5rem;
+			font-weight: 800;
+			line-height: 1;
+			color: var(--color_primary);
+		}
+
+		.question {
+			text-wrap: balance;
+		}
+	}
+
+	.scorecard {
+		display: flex;
+		flex-direction: column;
+		gap: .75rem;
+
+		.score-buttons {
+			gap: .5rem;
+		}
+
+		.score-btn {
+			padding: .5rem 1rem;
+			border: 1px solid var(--color_border);
+			background: var(--bg_surface);
+			color: var(--color_text-muted);
+			cursor: pointer;
+			border-radius: var(--radius-sm);
+			font-size: 1rem;
+
+			&:hover,
+			&.active {
+				border-color: var(--color_text);
+			}
+		}
+
+		textarea {
+			width: 100%;
+			border: 1px solid var(--color_border);
+			background: var(--bg_surface);
+			color: var(--color_text);
+			padding: .75rem 1rem;
+			min-height: 7rem;
+			font: inherit;
+			border-radius: var(--radius-sm);
+			resize: vertical;
+			outline: none;
+
+			&::placeholder {
+				color: var(--color_text-muted);
+			}
+		}
+	}
+
+	.score-header {
+
+		.score-total {
+			font-family: var(--font_heading);
+			font-size: 2rem;
+			font-weight: 800;
+		}
+	}
+
+	.score-summary {
+		padding: 1.5rem;
+		background: var(--bg_surface);
+		border-radius: var(--radius-sm);
+
+		.score-bars {
+			display: flex;
+			gap: 3px;
+			margin-bottom: 1.5rem;
+
+			div {
+				flex: 1;
+				text-align: center;
+			}
+
+			em {
+				display: block;
+				font-style: normal;
+				font-family: var(--font_heading);
+				font-size: .75rem;
+				font-weight: 800;
+				color: var(--color_text-muted);
+				margin-bottom: .25rem;
+			}
+
+			span {
+				display: block;
+				height: 6px;
+				background: var(--color_border);
+				border-radius: 2px;
+
+				&.s1 { background: #ff2d2d; }
+				&.s2 { background: #ffb800; }
+				&.s3 { background: #c8ff00; }
+			}
+		}
+
+		.score-verdict {
+			color: var(--color_text-muted);
+		}
+	}
+}

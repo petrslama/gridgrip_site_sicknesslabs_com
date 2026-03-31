@@ -1,0 +1,45 @@
+{
+	"fu_type": "o_html",
+	"fu_label": "Custom HTML",
+	"fu_row__labels": [
+		{
+			"fu_label": "HTML"
+		}
+	],
+	"fields": [
+		{
+			"fu_type": "from_definition",
+			"definition": "a_fu_type"
+		},
+		{
+			"fu_type": "tabs",
+			"tabs": [
+				{
+					"fu_label": "Content",
+					"fields": [
+						{
+							"fu_type": "textarea",
+							"fu_label": "HTML Content",
+							"fu_name": "html",
+							"width": "fullwidth"
+						},
+						{
+							"fu_type": "checkbox",
+							"fu_name": "wrap",
+							"fu_after": "Wrap with Container"
+						}
+					]
+				},
+				{
+					"fu_label": "Settings",
+					"fields": [
+						{
+							"fu_type": "from_definition",
+							"definition": "m_section_settings"
+						}
+					]
+				}
+			]
+		}
+	]
+}

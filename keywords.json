@@ -1,0 +1,1082 @@
+[
+	{
+		"keyword": "founder syndrome",
+		"volume": 5000,
+		"competition": "low",
+		"competition_index": 2,
+		"cpc_low": 0.37,
+		"cpc_high": 38.15
+	},
+	{
+		"keyword": "founders syndrome",
+		"volume": 5000,
+		"competition": "low",
+		"competition_index": 2,
+		"cpc_low": 0.37,
+		"cpc_high": 38.15
+	},
+	{
+		"keyword": "startup burnout",
+		"volume": 5000,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "customer validation",
+		"volume": 500,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "done is better than perfect",
+		"volume": 500,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "done is better than perfect quote",
+		"volume": 500,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature creep",
+		"volume": 500,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature prioritization",
+		"volume": 500,
+		"competition": "low",
+		"competition_index": 4,
+		"cpc_low": 48.77,
+		"cpc_high": 166.56
+	},
+	{
+		"keyword": "graveyard projects",
+		"volume": 500,
+		"competition": "low",
+		"competition_index": 4,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "project management preventing scope creep",
+		"volume": 500,
+		"competition": "low",
+		"competition_index": 1,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "agile feature prioritization",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "avoiding scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "brand pre launch strategy",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "build mvp fast",
+		"volume": 50,
+		"competition": "high",
+		"competition_index": 86,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "burnout in startups",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "burnout startup",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "buy a feature prioritization",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 14,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "customer discovery customer validation",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "customer validation interviews",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 29,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "customer validation process",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "customer validation process steps",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "customer validation steps",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "customer validation steve blank",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "done is better than",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "entrepreneur mental health",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 1,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "entrepreneur procrastination",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature bloat",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature creep in project management",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature prioritization chart",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature prioritization framework",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 19,
+		"cpc_low": 39.19,
+		"cpc_high": 130.69
+	},
+	{
+		"keyword": "feature prioritization in entrepreneurship",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature prioritization in product management",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature prioritization matrix",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 7,
+		"cpc_low": 35.67,
+		"cpc_high": 173.13
+	},
+	{
+		"keyword": "feature prioritization matrix template",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 29,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature prioritization methods",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 7,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature prioritization product management",
+		"volume": 50,
+		"competition": "high",
+		"competition_index": 71,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature prioritization software",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "feature prioritization template",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 7,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "first time founder",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 4,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "founder decision making",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "founder syndrome in nonprofits",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "founder syndrome nonprofit",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 4,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "founders syndrome examples",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 5,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "founders syndrome nonprofit",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 5,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how do you avoid scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how do you prevent scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 20,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to avoid scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to avoid scope creep in agile",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to avoid scope creep in project management",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 2,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to control scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to control scope creep in project management",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to determine saas pricing",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 43,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to launch an mvp",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 43,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to launch mvp",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to minimize scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to mitigate scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to prevent scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 4,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to prevent scope creep in agile",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to prevent scope creep in project management",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 10,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to price a saas product",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 19,
+		"cpc_low": 79.32,
+		"cpc_high": 254.96
+	},
+	{
+		"keyword": "how to price saas product",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 39,
+		"cpc_low": 94.3,
+		"cpc_high": 406.45
+	},
+	{
+		"keyword": "how to price your saas",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 50,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to price your saas product",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to reduce scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to stop scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to test a startup idea",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 45,
+		"cpc_low": 59.43,
+		"cpc_high": 141.22
+	},
+	{
+		"keyword": "how to test startup idea",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 45,
+		"cpc_low": 59.43,
+		"cpc_high": 141.22
+	},
+	{
+		"keyword": "how to test your startup idea",
+		"volume": 50,
+		"competition": "high",
+		"competition_index": 71,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "how to validate startup idea",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 17,
+		"cpc_low": 38.34,
+		"cpc_high": 119.07
+	},
+	{
+		"keyword": "how to validate your startup idea",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 51,
+		"cpc_low": 86.69,
+		"cpc_high": 263.76
+	},
+	{
+		"keyword": "idea validation for startups",
+		"volume": 50,
+		"competition": "high",
+		"competition_index": 71,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "idea validation framework",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 36,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "idea validation in entrepreneurship",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 43,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "idea validation startup",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "market validation for startup",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 9,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "mental health and entrepreneurship",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "mental health in entrepreneurship",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 29,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "mental health of entrepreneurs",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "mental wellness for entrepreneurs",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "moscow feature prioritization",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 11,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "mvp checklist",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "mvp feature prioritization",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "mvp launch strategy",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "mvp prioritization",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 2,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "mvp prioritization matrix",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 11,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "pmf saas",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "pre launch plan",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "pre launch startup marketing",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "pre launch strategy",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 10,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "prioritize features for mvp",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "procrastination entrepreneur",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "product creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "product feature prioritization",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 12,
+		"cpc_low": 32.82,
+		"cpc_high": 191.7
+	},
+	{
+		"keyword": "product feature prioritization framework",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 27,
+		"cpc_low": 53.04,
+		"cpc_high": 219.6
+	},
+	{
+		"keyword": "product feature prioritization matrix",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "product management feature prioritization",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 29,
+		"cpc_low": 44.97,
+		"cpc_high": 133.98
+	},
+	{
+		"keyword": "product manager feature prioritization",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 29,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "product market fit for saas",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "product market fit saas",
+		"volume": 50,
+		"competition": "high",
+		"competition_index": 86,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "product pre launch strategy",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 57,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "product roadmap feature prioritization",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "project graveyard",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "quote done is better than perfect",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "reduce scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "rice feature prioritization",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 5,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "saas churn reasons",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "saas launch plan",
+		"volume": 50,
+		"competition": "high",
+		"competition_index": 86,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "saas launch strategy",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 34,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "saas product market fit",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "scope creep examples in software development",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 5,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "scope creep in software development",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "scope creep prevention",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 5,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "software feature prioritization matrix",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "software scope creep",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "sometimes done is better than perfect",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "startup employee burnout",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "startup founder burnout",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "startup idea validation",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 33,
+		"cpc_low": 69.07,
+		"cpc_high": 174.5
+	},
+	{
+		"keyword": "startup idea validation framework",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 24,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "startup market validation",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 43,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "startup pre launch strategy",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "startup product launch plan",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "startup validation",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 32,
+		"cpc_low": 54.85,
+		"cpc_high": 151.44
+	},
+	{
+		"keyword": "startup work life balance",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "startup work life balance reddit",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "test your startup idea",
+		"volume": 50,
+		"competition": "high",
+		"competition_index": 86,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "validate idea startup",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "validate your startup idea",
+		"volume": 50,
+		"competition": "medium",
+		"competition_index": 43,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "validating a startup idea",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 33,
+		"cpc_low": 69.07,
+		"cpc_high": 174.5
+	},
+	{
+		"keyword": "validation in startup",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "ways to prevent scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "what is the best way to prevent scope creep",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 10,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "work life balance in startups",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "work life balance startup",
+		"volume": 50,
+		"competition": "low",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	},
+	{
+		"keyword": "zero marketing strategy",
+		"volume": 50,
+		"competition": "unknown",
+		"competition_index": 0,
+		"cpc_low": 0,
+		"cpc_high": 0
+	}
+]

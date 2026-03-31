@@ -1,0 +1,378 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Idea",
+					"href": "/idea/"
+				},
+				{
+					"text": "Analysis Paralysis"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_image": {
+				"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography",
+				"width": "1024",
+				"height": "768",
+				"src": "/assets/imgs/spinning-compass.jpg"
+			},
+			"a_eyebrow": "Idea",
+			"a_h1": "Analysis Paralysis — When Overthinking Replaces Building",
+			"a_description": "You've read every competitor teardown, compared 14 tech stacks, and bookmarked 30 articles on product-market fit. Six months later, you still haven't shipped anything. Welcome to analysis paralysis — the startup disease where research becomes a full-time job and building never starts.",
+			"m_buttons": []
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "Analysis Paralysis in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>Analysis paralysis disguises itself as diligence.</strong> You're not being thorough — you're avoiding the risk of being wrong."
+				},
+				{
+					"text": "<strong>Preparation is not progress.</strong> A fatter spreadsheet, another framework comparison, one more Reddit thread — none of it is building your product."
+				},
+				{
+					"text": "<strong>Due diligence has an end date. Analysis paralysis is an open loop</strong> — every answer raises two new questions."
+				},
+				{
+					"text": "<strong>Most decisions are reversible.</strong> Picking the wrong database takes a week to fix. Not picking anything takes forever."
+				},
+				{
+					"text": "<strong>The cure:</strong> set a decision deadline, limit your options to three, and ship something — even if it's ugly and incomplete."
+				},
+				{
+					"text": "<strong>Information doesn't reduce uncertainty past a point.</strong> After that, only action does."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Diagnosis: What Analysis Paralysis Looks Like in Startups",
+			"paragraphs": [
+				{
+					"text": "Analysis paralysis in startups doesn't announce itself. It disguises itself as diligence. You tell yourself you're being thorough, strategic, responsible. Meanwhile, weeks pass without a single commit, a single customer conversation, or a single decision that moves the needle."
+				},
+				{
+					"text": "The symptoms are easy to spot once you know what to look for. You've created a spreadsheet comparing 8 different frameworks. You've read 200 Reddit threads about whether to use Next.js or Remix. You've spent a weekend building a pros-and-cons matrix for your database choice. None of this is building your product."
+				},
+				{
+					"text": "Analysis paralysis startup founders share a common trait: they confuse preparation with progress. The market research deck grows fatter every week. The competitive analysis gets another column. The business plan gets another revision. But the product — the thing that actually matters — stays at zero."
+				},
+				{
+					"text": "This is not due diligence. Due diligence has an end date. Analysis paralysis is an open loop that feeds on itself. Every answer raises two new questions, and every question demands another round of research. The loop doesn't break on its own."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "Single straight arrow drawn on a clean whiteboard pointing clearly to the right, minimal and decisive, dark background, calm and confident composition, studio lighting",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/single-arrow.jpg"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "Whiteboard completely covered in hundreds of arrows pointing in every direction, crossing and overlapping, some circling back on themselves, chaotic indecision visualization, dark background, overhead view",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/arrow-chaos.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Why Perfectionism Feeds the Loop",
+			"paragraphs": [
+				{
+					"text": "At the core of most analysis paralysis is a perfectionism entrepreneur mindset: the belief that the right decision exists and you just need to find it. If you pick the wrong stack, the project fails. If you target the wrong niche, you waste months. If the landing page copy isn't perfect, nobody converts."
+				},
+				{
+					"text": "Perfectionism creates a fantasy where risk can be eliminated through research. It can't. Every startup decision is made with incomplete information. That's not a bug — it's the defining feature of building something new. No amount of spreadsheet columns changes this."
+				},
+				{
+					"text": "The perfectionist founder doesn't just want to make a good decision. They want to make the <em>best</em> decision. And since \"best\" is unknowable in advance, they keep researching, comparing, and deliberating. Done is better than perfect — but the perfectionist brain rejects this as lazy thinking."
+				},
+				{
+					"text": "This is where analysis paralysis and procrastination become indistinguishable. The procrastination entrepreneur isn't lazy. They're scared. Scared of picking wrong, scared of wasted effort, scared of building something nobody wants. Research feels productive without carrying any of that risk."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Due Diligence vs. Analysis Paralysis",
+			"a_description": "One has an end date. The other is an infinite loop.",
+			"columns": [
+				{
+					"a_h3": "Due Diligence",
+					"items": [
+						"<div>🟢</div> Research has a deadline",
+						"<div>🟢</div> Ends with a decision",
+						"<div>🟢</div> Answers inform action",
+						"<div>🟢</div> 70% confidence is enough to move",
+						"<div>🟢</div> Output is a shipped product"
+					]
+				},
+				{
+					"a_h3": "Analysis Paralysis",
+					"items": [
+						"<div>🔴</div> Research has no end date",
+						"<div>🔴</div> Every answer raises new questions",
+						"<div>🔴</div> Answers trigger more research",
+						"<div>🔴</div> Waiting for 100% confidence",
+						"<div>🔴</div> Output is more spreadsheets"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Real Cost of Not Deciding",
+			"paragraphs": [
+				{
+					"text": "Every week spent in the analysis loop has a concrete cost. Your competitors are shipping. Your potential users are finding alternatives. The market window you identified three months ago is narrowing. Indecision is itself a decision — a decision to do nothing."
+				},
+				{
+					"text": "The irony is brutal: analysis paralysis founders fear making the wrong choice, but \"no choice\" is almost always worse than a wrong one. A wrong tech stack can be migrated. A wrong niche can be pivoted. A wrong pricing model can be revised. But time spent researching instead of building? That's gone."
+				},
+				{
+					"text": "There's a compounding effect too. The longer you stay in the research phase, the higher the psychological stakes become. You've now invested so much time in analysis that the decision <em>has</em> to be perfect to justify the delay. This raises the bar even higher, which triggers more research. It's a death spiral."
+				},
+				{
+					"text": "Founder decision making under uncertainty is a skill, not a personality trait. It can be learned. But it can only be learned by making decisions — not by reading about them."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Procrastination Connection",
+			"paragraphs": [
+				{
+					"text": "Analysis paralysis and procrastination share the same engine: avoidance of discomfort. Building something real means exposing it to judgment. It means finding out your idea might be flawed. Research doesn't carry that threat. You can research forever without anyone telling you your product sucks."
+				},
+				{
+					"text": "The procrastination entrepreneur often has a full calendar. They're busy — genuinely busy. Reading industry reports, attending webinars, drafting strategy documents, sketching wireframes that never become prototypes. The activity creates the illusion of progress while avoiding the one thing that would create actual progress: shipping."
+				},
+				{
+					"text": "This is why \"just start\" advice feels hollow. The problem isn't a lack of motivation. The problem is that starting requires tolerating uncertainty, and the analytical mind would rather eliminate uncertainty first. You need to accept that discomfort is part of the process, not a signal that you're not ready."
+				},
+				{
+					"text": "Recognize the pattern: if you've been \"about to start\" for more than two weeks, you're not preparing. You're avoiding."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Decision Readiness Check",
+			"a_description": "If all four are true, you have enough information to decide. Stop researching.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "check-circle"
+					},
+					"a_h3": "You can name the top two options",
+					"a_description": "If you can clearly articulate two viable choices, you have enough information. The third, fourth, and fifth options are noise."
+				},
+				{
+					"a_icon": {
+						"icon": "scale"
+					},
+					"a_h3": "You know the trade-offs of each",
+					"a_description": "You don't need to know everything — just the meaningful differences. If you can explain why each option is better and worse, you're ready."
+				},
+				{
+					"a_icon": {
+						"icon": "undo"
+					},
+					"a_h3": "The decision is reversible",
+					"a_description": "Most technical and business decisions can be changed later. If you can switch course in weeks rather than years, the stakes are lower than they feel."
+				},
+				{
+					"a_icon": {
+						"icon": "clock"
+					},
+					"a_h3": "You've spent more than a week on this",
+					"a_description": "If you've been researching the same decision for over a week, additional research won't change the outcome. Decide now."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Breaking Out: Practical Strategies",
+			"paragraphs": [
+				{
+					"text": "<strong>Timebox every decision.</strong> Give yourself 48 hours to pick a tech stack. One week to validate a niche. Two days to choose a name. When the timer runs out, you go with your best option. Not your perfect option — your best one with the information you have. This is how founder decision making works in practice."
+				},
+				{
+					"text": "<strong>Use minimum viable decisions.</strong> Instead of choosing the \"right\" framework forever, choose the one that gets you to a working prototype fastest. You can always switch later. Most technical decisions are reversible. Most market positioning decisions are revisable. Very few choices are actually permanent."
+				},
+				{
+					"text": "<strong>Set a \"no new research\" rule.</strong> Once you have enough information to make a 70% confident decision, stop gathering data. The remaining 30% almost never changes the outcome, but it will consume weeks of your time. Done is better than perfect — and a shipped product teaches you more than any analysis ever could."
+				},
+				{
+					"text": "<strong>Build the smallest possible thing first.</strong> Don't plan the whole product. Plan the first feature. Build it. Ship it. Learn from it. The information you get from one real user interaction is worth more than a hundred hours of market research. Let reality be your research."
+				},
+				{
+					"text": "<strong>Find an accountability partner.</strong> Analysis paralysis thrives in isolation. When nobody's asking \"so did you ship it?\", it's easy to spend another week tweaking your Notion setup. Find someone who will call you out when preparation becomes procrastination."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Make a Decision in 48 Hours",
+			"a_description": "A repeatable process for breaking the analysis loop and committing to action.",
+			"items": [
+				{
+					"a_h3": "Write down the decision in one sentence",
+					"text": "Not a paragraph. One sentence. \"Which framework should I use for the frontend?\" or \"Should I target freelancers or agencies?\" If you can't state the decision clearly, that's your first problem — you're not stuck on a decision, you're stuck on defining it."
+				},
+				{
+					"a_h3": "List only two options",
+					"text": "Force yourself to narrow it to two. Not three, not five — two. If you have more, eliminate the weakest until two remain. Two options are comparable. Five options are paralyzing."
+				},
+				{
+					"a_h3": "Write the trade-offs in three bullet points each",
+					"text": "For each option, write three pros and three cons. No more. This forces you to identify what actually matters instead of drowning in edge cases. If you can't fill three bullets, you don't know enough — do exactly the research needed to fill them, then stop."
+				},
+				{
+					"a_h3": "Ask: which is easier to reverse?",
+					"text": "If one option is significantly easier to change later, pick it. You're not making a permanent choice — you're making a first move. The cheaper the reversal, the lower the stakes, and the faster you can learn from real-world feedback."
+				},
+				{
+					"a_h3": "Commit and set a review date",
+					"text": "Pick one. Write it down. Tell someone. Set a 30-day review date to evaluate whether it was the right call. This removes the finality that makes decisions feel terrifying — you're not choosing forever, you're choosing for 30 days."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about analysis paralysis and making decisions faster",
+			"items": [
+				{
+					"a_h3": "What is analysis paralysis in startups?",
+					"answer": "Analysis paralysis in startups is the inability to move forward because you're stuck in an endless loop of research, comparison, and deliberation. Instead of building and testing, you keep gathering information — convinced that one more data point will make the decision obvious. It never does."
+				},
+				{
+					"a_h3": "How is analysis paralysis different from being thorough?",
+					"answer": "Thoroughness has a deadline and a clear output. You research to make a decision, then you make it. Analysis paralysis has no endpoint — every answer generates new questions, and the research itself becomes the activity. If you've been researching the same decision for more than two weeks, you've crossed the line."
+				},
+				{
+					"a_h3": "Why do perfectionist entrepreneurs struggle with decision making?",
+					"answer": "Perfectionism creates the illusion that a \"right\" answer exists and can be found through enough research. In startups, most decisions are made with 60-70% information. Perfectionist founders keep chasing the remaining 30%, which rarely changes the outcome but always delays progress."
+				},
+				{
+					"a_h3": "Is 'done is better than perfect' actually good advice for founders?",
+					"answer": "Yes — with a caveat. It doesn't mean ship garbage. It means ship something functional and learn from real feedback instead of hypothetical scenarios. A live product with rough edges teaches you more in a week than a perfect plan teaches you in a year."
+				},
+				{
+					"a_h3": "How do I break out of analysis paralysis quickly?",
+					"answer": "Timebox the decision. Give yourself a hard deadline (48 hours for most choices), gather what you can in that window, then commit. Remove the option to keep researching. The discomfort of deciding with incomplete information is the point — that's what building a startup feels like."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Idea-Phase Diseases",
+			"a_description": "Analysis paralysis rarely travels alone. These conditions share the same root — fear disguised as caution.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "sparkles"
+					},
+					"a_h3": "Shiny Object Syndrome",
+					"a_description": "Every week there's a better idea. The current project is 60% done but the new one feels 100% exciting.",
+					"href": "/idea/shiny-object-syndrome/",
+					"a_image": {
+						"src": "/assets/imgs/magpie-trinkets.jpg",
+						"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "eye-off"
+					},
+					"a_h3": "Validation Skip",
+					"a_description": "Building first, asking questions never. The product is finished — but nobody was ever asked if they wanted it.",
+					"href": "/idea/validation-skip/",
+					"a_image": {
+						"src": "/assets/imgs/bridge-leap.jpg",
+						"alt": "Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "hourglass"
+					},
+					"a_h3": "Procrastination",
+					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
+					"href": "/founder/procrastination/",
+					"a_image": {
+						"src": "/assets/imgs/frozen-hourglass.jpg",
+						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "shield-alert"
+					},
+					"a_h3": "Launch Fear",
+					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
+					"href": "/launch/launch-fear/",
+					"a_image": {
+						"src": "/assets/imgs/launch-button.jpg",
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Analysis Paralysis — When Overthinking Replaces Building | Sickness Labs",
+		"description": "Analysis paralysis kills startups before they start. Learn why overthinking replaces building, how perfectionism feeds the loop, and practical strategies to break free.",
+		"og": {
+			"title": "Analysis Paralysis — The Research Loop That Kills Startups",
+			"description": "You've compared 14 tech stacks and bookmarked 30 articles. You've shipped nothing. Here's how to break the analysis loop and start building.",
+			"url": "https://www.sicknesslabs.com/idea/analysis-paralysis/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Analysis Paralysis — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Analysis Paralysis — The Research Loop That Kills Startups",
+			"description": "You've compared 14 tech stacks and bookmarked 30 articles. You've shipped nothing. Here's how to break the analysis loop and start building.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "Analysis Paralysis — Sickness Labs"
+			}
+		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
+	}
+}

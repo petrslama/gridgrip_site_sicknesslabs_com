@@ -1,0 +1,10 @@
+{{#with a_icon}}
+{{> a_icon }}
+{{else}}
+{{#if icon}}
+<span class="a_icon"
+	 data-icon="{{icon}}"
+	 style="--icon: {{lucideSvgUrl icon fill stroke stroke_width}}"
+	 aria-hidden="true"></span>
+{{/if}}
+{{/with}}

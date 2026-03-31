@@ -1,0 +1,403 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Launch",
+					"href": "/launch/"
+				},
+				{
+					"text": "MVP Launch"
+				}
+			]
+		},
+		{
+			"fu_type": "o_hero",
+			"a_eyebrow": "Launch",
+			"a_h1": "MVP Launch Strategy &mdash; Beyond &ldquo;Post and Pray&rdquo;",
+			"a_description": "Your MVP launch strategy is posting on Reddit and hoping for the best. That is not a strategy. That is a coin flip with worse odds. Here is what an actual launch campaign looks like.",
+			"a_image": {
+				"src": "/assets/imgs/cardboard-rocket.jpg",
+				"alt": "Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark",
+				"width": "1024",
+				"height": "768"
+			}
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_eyebrow": "TL;DR",
+			"a_h2": "MVP Launch in 60 Seconds",
+			"paragraphs": [
+				{
+					"text": "<strong>\"Post on Reddit and pray\" is not a launch strategy.</strong> It's betting your product's future on a single hand of poker."
+				},
+				{
+					"text": "<strong>A launch is a process, not an event.</strong> It starts weeks before launch day and continues weeks after."
+				},
+				{
+					"text": "<strong>Build an audience before you have a product.</strong> The launch is the moment you convert attention you've already earned — not the moment you start earning it."
+				},
+				{
+					"text": "<strong>Multiple channels, multiple touchpoints.</strong> A strategy that depends on a single channel is not a strategy — it's a gamble."
+				},
+				{
+					"text": "<strong>Launch day is not the deadline — it's the starting line.</strong> The first week after launch matters more than launch day itself."
+				},
+				{
+					"text": "<strong>A quiet launch that teaches you something</strong> beats a loud launch that teaches you nothing."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Diagnosis: Post and Pray Is Not a Strategy",
+			"paragraphs": [
+				{
+					"text": "The typical indie MVP launch looks like this: you finish building, you write a breathless post on r/SideProject, you submit to Product Hunt, and you wait. Maybe you tweet about it. Maybe you tell a few friends. Then you stare at your analytics for three days, watching numbers that never arrive."
+				},
+				{
+					"text": "This is the \"post and pray\" approach. It is not an MVP launch strategy. It is the absence of one. And it fails for a predictable reason: you are relying on a single moment of visibility to carry the entire weight of your product's future. That is like betting your retirement on a single hand of poker."
+				},
+				{
+					"text": "A real product launch campaign strategy treats the launch as a process, not an event. It starts weeks before launch day and continues weeks after. It uses multiple channels, multiple touchpoints, and a deliberate sequence of actions designed to build momentum."
+				},
+				{
+					"text": "The problem is not that Reddit and Product Hunt don't work. They can. The problem is that most founders treat them as the entire strategy instead of one piece of a larger plan. An MVP launch strategy that depends on a single channel is not a strategy — it is a gamble."
+				}
+			]
+		},
+		{
+			"fu_type": "o_image_grid",
+			"items": [
+				{
+					"a_image": {
+						"alt": "A focused founder at a dark desk with a single glowing screen showing a structured launch timeline, organized sticky notes on the wall, deliberate and calm atmosphere",
+						"width": "1024",
+						"height": "768",
+						"src": "https://placehold.co/1024x768/000000/FFF?text=placeholder"
+					}
+				},
+				{
+					"a_image": {
+						"alt": "A chaotic desk covered in crumpled papers and empty coffee cups, a laptop showing a Reddit post with zero upvotes, desperation and disorder in dim light",
+						"width": "1024",
+						"height": "768",
+						"src": "/assets/imgs/zero-upvotes.jpg"
+					}
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "What an MVP Launch Campaign Actually Looks Like",
+			"paragraphs": [
+				{
+					"text": "A product launch campaign strategy for an MVP has three phases: warm-up, launch, and follow-through. Most founders skip the first and third, which is why the second falls flat."
+				},
+				{
+					"text": "<strong>The warm-up (2&ndash;4 weeks before launch).</strong> This is where you build anticipation. Share what you're building. Post screenshots, demo clips, design decisions. Write about the problem you're solving and why existing solutions fall short. Engage with potential users in communities. Collect email addresses from anyone who expresses interest. The warm-up converts strangers into people who are watching and waiting."
+				},
+				{
+					"text": "<strong>The launch (launch week).</strong> This is the visible part — the Product Hunt submission, the Reddit post, the Hacker News submission, the email blast. But notice: by launch day, you already have an audience. Your email list gets the announcement first. Your community connections amplify it. The cold channels (Product Hunt, Reddit) get a boost from your warm audience upvoting and commenting early. This is not manipulation — it is preparation."
+				},
+				{
+					"text": "<strong>The follow-through (2&ndash;4 weeks after launch).</strong> This is the most neglected phase and arguably the most important. Follow up with everyone who signed up. Ask for feedback. Fix the issues they find. Share the improvements publicly. Write a launch retrospective. Each of these actions extends the launch's momentum beyond the initial spike. A pre launch marketing plan without a follow-through plan is half a strategy."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Launch Channels for MVPs",
+			"paragraphs": [
+				{
+					"text": "Not all channels work for all products. An MVP launch strategy should focus on the two or three channels most likely to reach your specific audience. Here is an honest assessment of the most common options."
+				},
+				{
+					"text": "<strong>Product Hunt.</strong> Good for developer tools, SaaS products, and anything with a visual demo. The upvote system means your warm audience matters — if you launch cold, you'll sink. Best paired with an email list and social following. Product Hunt alone is not a strategy; it is a single-day amplifier."
+				},
+				{
+					"text": "<strong>Hacker News.</strong> Unpredictable but high-impact. A front-page HN post can deliver thousands of visitors in hours. The audience is technical and skeptical — they respect substance over polish. You cannot game HN, but you can increase your odds by launching something genuinely interesting and writing a clear, honest \"Show HN\" post."
+				},
+				{
+					"text": "<strong>Reddit.</strong> Highly channel-dependent. r/SideProject is supportive but small. Niche subreddits (r/selfhosted, r/webdev, r/startups) can drive real traffic if you are a genuine community member, not a drive-by self-promoter. Reddit punishes obvious marketing. Earn your credibility first."
+				},
+				{
+					"text": "<strong>Email.</strong> The highest-converting channel for MVPs, period. An email to 200 genuinely interested subscribers will outperform a Reddit post seen by 10,000 strangers. Your pre launch marketing strategy should prioritize email list building above all else."
+				},
+				{
+					"text": "<strong>Twitter/X.</strong> Best for building-in-public audiences. A launch thread from an account with an engaged following can drive significant traffic. But \"engaged following\" is the key — 5,000 followers who actually read your tweets beats 50,000 ghosts. Build the audience before you need it."
+				}
+			]
+		},
+		{
+			"fu_type": "o_comparison_table",
+			"a_eyebrow": "Comparison",
+			"a_h2": "Strategic Launch vs. Post and Pray",
+			"a_description": "The difference between a launch that builds momentum and one that evaporates on contact",
+			"columns": [
+				{
+					"a_h3": "Strategic Launch Campaign",
+					"items": [
+						"<div>🟢</div> Builds audience weeks before launch day",
+						"<div>🟢</div> Uses 2&ndash;3 channels with coordinated timing",
+						"<div>🟢</div> Email list gets the announcement first",
+						"<div>🟢</div> Follow-through plan extends momentum for weeks",
+						"<div>🟢</div> Defines success metrics before pressing publish"
+					]
+				},
+				{
+					"a_h3": "Post and Pray",
+					"items": [
+						"<div>🔴</div> Finishes building, then scrambles for attention",
+						"<div>🔴</div> Depends on a single Reddit or Product Hunt post",
+						"<div>🔴</div> Launches cold to strangers with no warm audience",
+						"<div>🔴</div> Checks analytics for three days, then gives up",
+						"<div>🔴</div> Measures success by upvotes instead of signups"
+					]
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Pre Launch Marketing Plan for Solo Founders",
+			"paragraphs": [
+				{
+					"text": "If you are a solo founder, your pre launch marketing plan needs to be ruthlessly focused. You do not have the bandwidth to cover every channel. Pick two and execute them well."
+				},
+				{
+					"text": "The recommended combination for most solo founders: <strong>email + one community channel</strong>. Build the email list through content and community participation. Use the community channel (Reddit, Twitter, or a niche forum) to drive signups and build relationships."
+				},
+				{
+					"text": "Your pre launch marketing strategy should be time-boxed. Dedicate specific hours each week to distribution work — this is not optional overflow from your building time. Block it on your calendar. Treat it with the same seriousness as coding sessions."
+				},
+				{
+					"text": "A practical weekly schedule might look like this: Monday — write one piece of content (blog post, thread, or community answer). Wednesday — engage in communities (reply to posts, answer questions, share insights). Friday — send a brief newsletter update to your email list. That is three hours a week, maximum. It compounds over time, and by launch day you will have built something more valuable than any feature: an audience that cares."
+				},
+				{
+					"text": "The pre launch marketing plan does not need to be complex. It needs to be consistent. Three months of steady, predictable output builds more momentum than a frantic week of activity right before launch."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Measuring Launch Success",
+			"paragraphs": [
+				{
+					"text": "Most founders measure launch success by the wrong metrics. Day-one traffic is vanity. What matters is what happens in week two and beyond."
+				},
+				{
+					"text": "The metrics that matter for an MVP launch: <strong>signups</strong> (how many people tried it), <strong>activation</strong> (how many experienced core value), <strong>retention</strong> (how many came back), and <strong>feedback quality</strong> (did you learn something actionable). Traffic and upvotes are inputs, not outcomes."
+				},
+				{
+					"text": "A launch that drives 5,000 visits and 50 signups with 10% activation is worse than a launch that drives 500 visits and 100 signups with 40% activation. The second scenario means your messaging resonated with the right people and your product delivered on its promise. The first means you reached a lot of the wrong people or your product didn't click."
+				},
+				{
+					"text": "Set your success criteria before launch. Write them down. \"If we get X signups and Y% activate in the first week, this launch was a success.\" Without pre-defined criteria, you will either celebrate too early or despair too quickly. Both are unproductive."
+				}
+			]
+		},
+		{
+			"fu_type": "o_checklist",
+			"a_eyebrow": "Decision Tool",
+			"a_h2": "The Launch Campaign Checklist",
+			"a_description": "Score yourself honestly. If you cannot check most of these, your launch is not ready.",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "users"
+					},
+					"a_h3": "Do you have a warm audience waiting?",
+					"a_description": "At least 100 email subscribers or an engaged community following who know what you are building and are expecting the launch."
+				},
+				{
+					"a_icon": {
+						"icon": "mail"
+					},
+					"a_h3": "Is your email sequence drafted?",
+					"a_description": "A launch announcement, a follow-up for non-openers, and a week-two check-in. Three emails minimum, written and scheduled before launch day."
+				},
+				{
+					"a_icon": {
+						"icon": "target"
+					},
+					"a_h3": "Have you defined success metrics?",
+					"a_description": "Specific numbers for signups, activation rate, and feedback quality. Written down before launch, not invented after the fact to justify the results."
+				},
+				{
+					"a_icon": {
+						"icon": "megaphone"
+					},
+					"a_h3": "Are your channel posts ready to publish?",
+					"a_description": "Announcements drafted for each channel — Reddit, Product Hunt, Hacker News, Twitter. Each tailored to the platform, not copy-pasted."
+				},
+				{
+					"a_icon": {
+						"icon": "rocket"
+					},
+					"a_h3": "Do you have a follow-through plan?",
+					"a_description": "A written plan for the two weeks after launch: feedback collection, iteration priorities, retrospective publishing, and audience nurturing."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Treatment: Launch Is Not an Event",
+			"paragraphs": [
+				{
+					"text": "The biggest mindset shift in MVP launch strategy is this: launch is not an event. It is a process. The \"big launch day\" is a marketing construct that rarely works for indie products."
+				},
+				{
+					"text": "For indie founders, the launch is a series of small, repeated acts of visibility. You launch when you post your first build update. You launch when you share your first demo. You launch when you send your first newsletter. You launch on \"official\" launch day. You launch again when you ship the first major update. You launch again when you enter a new market segment."
+				},
+				{
+					"text": "Each of these micro-launches follows the same product launch campaign strategy: warm up the audience, deliver something valuable, follow through. The only thing that changes is the scale. The first launch might reach 50 people. The tenth might reach 5,000. The structure is identical."
+				},
+				{
+					"text": "Stop treating launch day as a make-or-break moment. Treat it as one iteration in an ongoing process. If the first launch underperforms, you learn and launch again. The founders who succeed are not the ones who nail launch day — they are the ones who keep launching, keep learning, and keep showing up."
+				},
+				{
+					"text": "Your MVP launch strategy is not a plan for one day. It is a plan for the next three months. Build it accordingly."
+				}
+			]
+		},
+		{
+			"fu_type": "o_howto",
+			"a_eyebrow": "Step by Step",
+			"a_h2": "How to Plan an MVP Launch in One Week",
+			"a_description": "A compressed but realistic launch plan for founders who skipped the warm-up and need to make the best of what they have",
+			"items": [
+				{
+					"a_h3": "Audit your existing reach",
+					"text": "List every channel where you have any presence — Twitter followers, newsletter subscribers, community accounts, personal contacts in the industry. Be honest about the numbers. This is your launch surface area, and knowing its size determines your strategy."
+				},
+				{
+					"a_h3": "Write your launch narrative",
+					"text": "Draft one clear story: what problem you solve, who you solve it for, and why you built it. Adapt this narrative into channel-specific posts — a Twitter thread, a Reddit post, a Product Hunt tagline, and a launch email. Same story, different formats."
+				},
+				{
+					"a_h3": "Recruit five launch allies",
+					"text": "Reach out to five people who will genuinely engage on launch day — upvote, comment, share. These are not random followers. They are people who understand the problem you solve and can speak to it authentically. Brief them on timing and where to show up."
+				},
+				{
+					"a_h3": "Set up tracking before you launch",
+					"text": "Install analytics. Define your success metrics. Create a simple spreadsheet to track signups, activation, and feedback. If you cannot measure the launch, you cannot learn from it, and the whole point of an MVP launch is learning."
+				},
+				{
+					"a_h3": "Execute launch day and commit to follow-through",
+					"text": "Publish your announcements in sequence — email first, then communities, then aggregators. Respond to every comment personally. On days two through seven, follow up with signups, collect feedback, and share a short retrospective. The follow-through is where the real value lives."
+				}
+			]
+		},
+		{
+			"fu_type": "o_faq",
+			"a_eyebrow": "FAQ",
+			"a_h2": "Frequently Asked Questions",
+			"a_description": "Quick answers about MVP launches and getting your first users",
+			"items": [
+				{
+					"a_h3": "What is the best MVP launch strategy for a solo founder?",
+					"answer": "Focus on two channels: email and one community platform. Build your email list through content and community participation in the weeks before launch. On launch day, email your list first, then post on your chosen community channel. The warm audience from your email list provides the early engagement that algorithms and community members respond to. Follow up with everyone who signs up in the first week."
+				},
+				{
+					"a_h3": "How do I create a product launch campaign strategy for an MVP?",
+					"answer": "Break it into three phases: warm-up (2-4 weeks of audience building and anticipation), launch (coordinated announcements across your channels), and follow-through (2-4 weeks of engagement, feedback collection, and iteration). Most founders only plan the middle phase, which is why most MVP launches underperform. The warm-up and follow-through are where the real value is created."
+				},
+				{
+					"a_h3": "Is Product Hunt still worth it for MVP launches?",
+					"answer": "Product Hunt can be effective but it should not be your only channel. It works best when you already have a warm audience that can provide early upvotes and comments. Launching cold on Product Hunt is a gamble. Use it as an amplifier within a broader product launch campaign strategy, not as your entire plan."
+				},
+				{
+					"a_h3": "What should a pre launch marketing plan include?",
+					"answer": "A pre launch marketing plan should include: your target audience definition, two or three distribution channels, a content schedule (what you'll post and when), an email list building strategy, beta user recruitment plan, and launch day logistics. Keep it to one page. If it's longer, you're over-planning and under-executing."
+				},
+				{
+					"a_h3": "How do I know if my MVP launch was successful?",
+					"answer": "Define success metrics before launch: target signups, activation rate, and feedback quality. Traffic and upvotes are not success metrics — they are vanity numbers. A successful MVP launch tells you whether real people want what you built and whether your product delivers on its promise. If you got actionable feedback and a cohort of engaged early users, the launch succeeded regardless of the traffic numbers."
+				}
+			]
+		},
+		{
+			"fu_type": "o_cards",
+			"a_eyebrow": "Next Read",
+			"a_h2": "More Launch-Phase Diseases",
+			"items": [
+				{
+					"a_icon": {
+						"icon": "shield-alert"
+					},
+					"a_h3": "Launch Fear",
+					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
+					"href": "/launch/launch-fear/",
+					"a_image": {
+						"src": "/assets/imgs/launch-button.jpg",
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "megaphone-off"
+					},
+					"a_h3": "No Distribution",
+					"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget, zero audience, zero plan to change that.",
+					"href": "/launch/no-distribution/",
+					"a_image": {
+						"src": "/assets/imgs/empty-warehouse.jpg",
+						"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "users-round"
+					},
+					"a_h3": "No Audience First",
+					"a_description": "Launch day arrives and the only visitor is your own browser. You skipped the part where you build an audience before building the product.",
+					"href": "/launch/no-audience-first/",
+					"a_image": {
+						"src": "/assets/imgs/empty-theater.jpg",
+						"alt": "Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere"
+					}
+				},
+				{
+					"a_icon": {
+						"icon": "list-ordered"
+					},
+					"a_h3": "Feature Prioritization",
+					"a_description": "Everything feels urgent, nothing feels important. The backlog is a graveyard of half-started features and unranked ideas.",
+					"href": "/build/feature-prioritization/",
+					"a_image": {
+						"src": "/assets/imgs/chess-board.jpg",
+						"alt": "Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field"
+					}
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "MVP Launch Strategy — Beyond Post and Pray | Sickness Labs",
+		"description": "A real MVP launch strategy is more than posting on Reddit. Pre launch marketing plans, campaign strategy, and launch channels that work for indie founders.",
+		"og": {
+			"title": "MVP Launch Strategy — Beyond Post and Pray | Sickness Labs",
+			"description": "A real MVP launch strategy is more than posting on Reddit. Pre launch marketing plans, campaign strategy, and launch channels that work for indie founders.",
+			"url": "https://www.sicknesslabs.com/launch/mvp-launch/",
+			"type": "article",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "MVP Launch Strategy — Sickness Labs"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "MVP Launch Strategy — Beyond Post and Pray | Sickness Labs",
+			"description": "A real MVP launch strategy is more than posting on Reddit. Pre launch marketing plans, campaign strategy, and launch channels that work for indie founders.",
+			"image": {
+				"src": "/assets/imgs/og-image.jpg",
+				"alt": "MVP Launch Strategy — Sickness Labs"
+			}
+		}
+	}
+}

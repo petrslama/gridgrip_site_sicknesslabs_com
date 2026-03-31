@@ -1,0 +1,10 @@
+{
+	"fu_name": "a_eyebrow",
+	"fields": [
+		{
+			"fu_type": "text",
+			"fu_label": "Eyebrow text",
+			"fu_name": "a_eyebrow"
+		}
+	]
+}

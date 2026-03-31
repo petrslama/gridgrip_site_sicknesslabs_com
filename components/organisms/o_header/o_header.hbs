@@ -1,0 +1,26 @@
+<section class="o_header container">
+	<a class="logo" href="/">
+		{{> a_image }}
+		<span class="brand-name">SicknessLabs</span>
+	</a>
+	<div class="actions">
+		{{> m_buttons }}
+		<button class="menu-toggle"
+			{{#if aria_label}}
+			 aria-label="{{aria_label}}"
+			{{/if}}
+			 aria-expanded="false"
+			 aria-controls="main-nav">
+			{{> a_icon icon='menu' stroke_width='1.5' }}
+			{{> a_icon icon='x' stroke_width='1.5' }}
+		</button>
+	</div>
+	<nav id="main-nav">
+		{{#each navigation}}
+		<a href="{{href}}"
+			{{#if target}}
+			 target="{{target}}"
+			{{/if}}>{{label}}</a>
+		{{/each}}
+	</nav>
+</section>
