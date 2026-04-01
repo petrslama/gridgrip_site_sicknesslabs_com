@@ -63,6 +63,42 @@
 		}
 	}
 
+	.theme-toggle {
+		display: flex;
+		cursor: pointer;
+		background: transparent;
+		border: none;
+		padding: 0;
+		color: var(--color_text-muted);
+		--icon_size: 1.25rem;
+
+		&:hover {
+			color: var(--color_text);
+		}
+
+		[data-icon="sun"] {
+			display: none;
+		}
+
+		html.dark & [data-icon="sun"] {
+			display: block;
+		}
+
+		html.dark & [data-icon="moon"] {
+			display: none;
+		}
+
+		@media (prefers-color-scheme: dark) {
+			html:not(.light):not(.dark) & [data-icon="sun"] {
+				display: block;
+			}
+
+			html:not(.light):not(.dark) & [data-icon="moon"] {
+				display: none;
+			}
+		}
+	}
+
 	.menu-toggle {
 		display: flex;
 		cursor: pointer;

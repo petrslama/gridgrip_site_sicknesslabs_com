@@ -5,6 +5,11 @@
 	</a>
 	<div class="actions">
 		{{> m_buttons }}
+		<button class="theme-toggle"
+			 aria-label="Toggle dark mode">
+			{{> a_icon icon='sun' stroke_width='1.5' }}
+			{{> a_icon icon='moon' stroke_width='1.5' }}
+		</button>
 		<button class="menu-toggle"
 			{{#if aria_label}}
 			 aria-label="{{aria_label}}"
