@@ -306,37 +306,45 @@
 				{
 					"a_h3": "Perpetual Beta",
 					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
-					"href": "/graveyard/perpetual-beta/",
+					"href": "/graveyard/perpetual-beta",
 					"a_image": {
 						"src": "/assets/imgs/under-construction-door.jpg",
-						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor"
+						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Pivot or Quit",
 					"a_description": "The hardest question in indie building: is this a problem you can fix, or a project you need to walk away from?",
-					"href": "/graveyard/pivot-or-quit/",
+					"href": "/graveyard/pivot-or-quit",
 					"a_image": {
 						"src": "/assets/imgs/fork-in-road.jpg",
-						"alt": "Fork in a dark road with one path leading to light and the other to darkness, decision crossroads"
+						"alt": "Fork in a dark road with one path leading to light and the other to darkness, decision crossroads",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Startup Burnout",
 					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
-					"href": "/founder/startup-burnout/",
+					"href": "/founder/startup-burnout",
 					"a_image": {
 						"src": "/assets/imgs/burnt-matchstick.jpg",
-						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones"
+						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Procrastination",
 					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
-					"href": "/founder/procrastination/",
+					"href": "/founder/procrastination",
 					"a_image": {
 						"src": "/assets/imgs/frozen-hourglass.jpg",
-						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting"
+						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -348,7 +356,7 @@
 		"og": {
 			"title": "Zombie Projects — Not Dead, Not Alive, Just Running | Sickness Labs",
 			"description": "Your project is still online but nobody's touched it in months. Learn to recognize graveyard projects, understand the cost of keeping them alive, and how to shut them down.",
-			"url": "https://www.sicknesslabs.com/graveyard/zombie-projects/",
+			"url": "https://www.sicknesslabs.com/graveyard/zombie-projects",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

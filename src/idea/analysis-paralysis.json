@@ -298,37 +298,45 @@
 				{
 					"a_h3": "Shiny Object Syndrome",
 					"a_description": "Every week there's a better idea. The current project is 60% done but the new one feels 100% exciting.",
-					"href": "/idea/shiny-object-syndrome/",
+					"href": "/idea/shiny-object-syndrome",
 					"a_image": {
 						"src": "/assets/imgs/magpie-trinkets.jpg",
-						"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above"
+						"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Validation Skip",
 					"a_description": "Building first, asking questions never. The product is finished — but nobody was ever asked if they wanted it.",
-					"href": "/idea/validation-skip/",
+					"href": "/idea/validation-skip",
 					"a_image": {
 						"src": "/assets/imgs/bridge-leap.jpg",
-						"alt": "Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting"
+						"alt": "Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Procrastination",
 					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
-					"href": "/founder/procrastination/",
+					"href": "/founder/procrastination",
 					"a_image": {
 						"src": "/assets/imgs/frozen-hourglass.jpg",
-						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting"
+						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
-					"href": "/launch/launch-fear/",
+					"href": "/launch/launch-fear",
 					"a_image": {
 						"src": "/assets/imgs/launch-button.jpg",
-						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -340,7 +348,7 @@
 		"og": {
 			"title": "Analysis Paralysis — The Research Loop That Kills Startups",
 			"description": "You've compared 14 tech stacks and bookmarked 30 articles. You've shipped nothing. Here's how to break the analysis loop and start building.",
-			"url": "https://www.sicknesslabs.com/idea/analysis-paralysis/",
+			"url": "https://www.sicknesslabs.com/idea/analysis-paralysis",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

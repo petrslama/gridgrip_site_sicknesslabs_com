@@ -280,37 +280,45 @@
 				{
 					"a_h3": "Analysis Paralysis",
 					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
-					"href": "/idea/analysis-paralysis/",
+					"href": "/idea/analysis-paralysis",
 					"a_image": {
 						"src": "/assets/imgs/spinning-compass.jpg",
-						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography"
+						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Validation Skip",
 					"a_description": "Building first, asking questions never. The product is finished — but nobody was ever asked if they wanted it.",
-					"href": "/idea/validation-skip/",
+					"href": "/idea/validation-skip",
 					"a_image": {
 						"src": "/assets/imgs/bridge-leap.jpg",
-						"alt": "Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting"
+						"alt": "Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Feature Creep",
 					"a_description": "The product started simple. Now it has a dashboard, an API, dark mode, and a settings page with 47 toggles. Nobody asked for any of it.",
-					"href": "/build/feature-creep/",
+					"href": "/build/feature-creep",
 					"a_image": {
 						"src": "/assets/imgs/swiss-army-knife.jpg",
-						"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor"
+						"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Pivot or Quit",
 					"a_description": "The hardest question in indie building: is this a problem you can fix, or a project you need to walk away from?",
-					"href": "/graveyard/pivot-or-quit/",
+					"href": "/graveyard/pivot-or-quit",
 					"a_image": {
 						"src": "/assets/imgs/fork-in-road.jpg",
-						"alt": "Fork in a dark road with one path leading to light and the other to darkness, decision crossroads"
+						"alt": "Fork in a dark road with one path leading to light and the other to darkness, decision crossroads",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -322,7 +330,7 @@
 		"og": {
 			"title": "Shiny Object Syndrome — The Graveyard of 60% Prototypes",
 			"description": "The current project is 60% done but the new idea feels 100% exciting. Here's why projects die at the messy middle and how to push through to shipping.",
-			"url": "https://www.sicknesslabs.com/idea/shiny-object-syndrome/",
+			"url": "https://www.sicknesslabs.com/idea/shiny-object-syndrome",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

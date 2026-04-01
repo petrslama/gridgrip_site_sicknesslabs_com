@@ -345,37 +345,45 @@
 				{
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
-					"href": "/launch/launch-fear/",
+					"href": "/launch/launch-fear",
 					"a_image": {
 						"src": "/assets/imgs/launch-button.jpg",
-						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "No Distribution",
 					"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget, zero audience, zero plan to change that.",
-					"href": "/launch/no-distribution/",
+					"href": "/launch/no-distribution",
 					"a_image": {
 						"src": "/assets/imgs/empty-warehouse.jpg",
-						"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor"
+						"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "MVP Launch",
 					"a_description": "Your MVP launch strategy is \"post on Reddit and hope.\" That's not a strategy — that's a wish.",
-					"href": "/launch/mvp-launch/",
+					"href": "/launch/mvp-launch",
 					"a_image": {
 						"src": "/assets/imgs/cardboard-rocket.jpg",
-						"alt": "Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark"
+						"alt": "Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Customer Validation",
 					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
-					"href": "/market/customer-validation/",
+					"href": "/market/customer-validation",
 					"a_image": {
 						"src": "/assets/imgs/magnifying-crowd.jpg",
-						"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field"
+						"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -387,7 +395,7 @@
 		"og": {
 			"title": "No Audience First — Launch Day With Zero Visitors | Sickness Labs",
 			"description": "Why launching without an audience fails and how to build one before you ship. Pre launch marketing strategy, checklists, and SaaS launch plans.",
-			"url": "https://www.sicknesslabs.com/launch/no-audience-first/",
+			"url": "https://www.sicknesslabs.com/launch/no-audience-first",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

@@ -318,37 +318,45 @@
 				{
 					"a_h3": "Zombie Projects",
 					"a_description": "Not alive, not dead. The domain is renewed, the server is running, and the last commit was eight months ago.",
-					"href": "/graveyard/zombie-projects/",
+					"href": "/graveyard/zombie-projects",
 					"a_image": {
 						"src": "/assets/imgs/zombie-laptop.jpg",
-						"alt": "Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere"
+						"alt": "Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Perpetual Beta",
 					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
-					"href": "/graveyard/perpetual-beta/",
+					"href": "/graveyard/perpetual-beta",
 					"a_image": {
 						"src": "/assets/imgs/under-construction-door.jpg",
-						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor"
+						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Startup Burnout",
 					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
-					"href": "/founder/startup-burnout/",
+					"href": "/founder/startup-burnout",
 					"a_image": {
 						"src": "/assets/imgs/burnt-matchstick.jpg",
-						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones"
+						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Shiny Object Syndrome",
 					"a_description": "Every week there's a better idea. The current project is 60% done but the new one feels 100% exciting.",
-					"href": "/idea/shiny-object-syndrome/",
+					"href": "/idea/shiny-object-syndrome",
 					"a_image": {
 						"src": "/assets/imgs/magpie-trinkets.jpg",
-						"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above"
+						"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -360,7 +368,7 @@
 		"og": {
 			"title": "Pivot or Quit — The Hardest Decision in Indie Building | Sickness Labs",
 			"description": "Should you pivot your side project or walk away? How to separate emotion from data, avoid the sunk cost trap, and make the call without shiny object syndrome.",
-			"url": "https://www.sicknesslabs.com/graveyard/pivot-or-quit/",
+			"url": "https://www.sicknesslabs.com/graveyard/pivot-or-quit",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

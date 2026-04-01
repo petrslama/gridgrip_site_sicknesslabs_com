@@ -304,37 +304,45 @@
 				{
 					"a_h3": "Startup Burnout",
 					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
-					"href": "/founder/startup-burnout/",
+					"href": "/founder/startup-burnout",
 					"a_image": {
 						"src": "/assets/imgs/burnt-matchstick.jpg",
-						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones"
+						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Imposter Syndrome",
 					"a_description": "You shipped it, people are using it, and you're still convinced someone will figure out you have no idea what you're doing.",
-					"href": "/founder/imposter-syndrome/",
+					"href": "/founder/imposter-syndrome",
 					"a_image": {
 						"src": "/assets/imgs/cracked-mirror.jpg",
-						"alt": "Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field"
+						"alt": "Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Procrastination",
 					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
-					"href": "/founder/procrastination/",
+					"href": "/founder/procrastination",
 					"a_image": {
 						"src": "/assets/imgs/frozen-hourglass.jpg",
-						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting"
+						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Analysis Paralysis",
 					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
-					"href": "/idea/analysis-paralysis/",
+					"href": "/idea/analysis-paralysis",
 					"a_image": {
 						"src": "/assets/imgs/spinning-compass.jpg",
-						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography"
+						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -346,7 +354,7 @@
 		"og": {
 			"title": "Founder Syndrome — The Bottleneck That Kills Your Own Project",
 			"description": "Every decision flows through you. Your team waits. Your project suffocates. Here's how founder syndrome happens and how to decentralize before it's too late.",
-			"url": "https://www.sicknesslabs.com/founder/founder-syndrome/",
+			"url": "https://www.sicknesslabs.com/founder/founder-syndrome",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

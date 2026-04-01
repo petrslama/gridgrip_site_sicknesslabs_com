@@ -300,37 +300,45 @@
 				{
 					"a_h3": "Zombie Projects",
 					"a_description": "Not alive, not dead. The domain is renewed, the server is running, and the last commit was eight months ago.",
-					"href": "/graveyard/zombie-projects/",
+					"href": "/graveyard/zombie-projects",
 					"a_image": {
 						"src": "/assets/imgs/zombie-laptop.jpg",
-						"alt": "Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere"
+						"alt": "Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Pivot or Quit",
 					"a_description": "The hardest question in indie building: is this a problem you can fix, or a project you need to walk away from?",
-					"href": "/graveyard/pivot-or-quit/",
+					"href": "/graveyard/pivot-or-quit",
 					"a_image": {
 						"src": "/assets/imgs/fork-in-road.jpg",
-						"alt": "Fork in a dark road with one path leading to light and the other to darkness, decision crossroads"
+						"alt": "Fork in a dark road with one path leading to light and the other to darkness, decision crossroads",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "MVP Overengineering",
 					"a_description": "Your MVP has a microservice architecture, CI/CD pipeline, and 90% test coverage. It has zero users.",
-					"href": "/build/mvp-overengineering/",
+					"href": "/build/mvp-overengineering",
 					"a_image": {
 						"src": "/assets/imgs/golden-hammer.jpg",
-						"alt": "Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field"
+						"alt": "Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
-					"href": "/launch/launch-fear/",
+					"href": "/launch/launch-fear",
 					"a_image": {
 						"src": "/assets/imgs/launch-button.jpg",
-						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -342,7 +350,7 @@
 		"og": {
 			"title": "Perpetual Beta — The Product That Will Never Be Ready | Sickness Labs",
 			"description": "Still in beta after months? Perpetual beta is perfectionism disguised as quality control. Learn why it kills product-market fit and how to break the loop.",
-			"url": "https://www.sicknesslabs.com/graveyard/perpetual-beta/",
+			"url": "https://www.sicknesslabs.com/graveyard/perpetual-beta",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

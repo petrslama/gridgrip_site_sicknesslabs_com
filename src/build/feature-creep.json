@@ -358,7 +358,7 @@
 					},
 					"a_h3": "Scope Creep",
 					"a_description": "The timeline was two months. Then someone said \"while we're at it\" and now it's month six with no end in sight.",
-					"href": "/build/scope-creep/"
+					"href": "/build/scope-creep"
 				},
 				{
 					"a_image": {
@@ -369,7 +369,7 @@
 					},
 					"a_h3": "MVP Overengineering",
 					"a_description": "Your MVP has a microservice architecture, CI/CD pipeline, and 90% test coverage. It has zero users.",
-					"href": "/build/mvp-overengineering/"
+					"href": "/build/mvp-overengineering"
 				},
 				{
 					"a_image": {
@@ -380,7 +380,7 @@
 					},
 					"a_h3": "Feature Prioritization",
 					"a_description": "Everything feels urgent, nothing feels important. The backlog is a graveyard of half-started features and unranked ideas.",
-					"href": "/build/feature-prioritization/"
+					"href": "/build/feature-prioritization"
 				},
 				{
 					"a_image": {
@@ -391,7 +391,7 @@
 					},
 					"a_h3": "Shiny Object Syndrome",
 					"a_description": "Every week there's a better idea. The current project is 60% done but the new one feels 100% exciting.",
-					"href": "/idea/shiny-object-syndrome/"
+					"href": "/idea/shiny-object-syndrome"
 				}
 			]
 		}
@@ -402,7 +402,7 @@
 		"og": {
 			"title": "Feature Creep — The Disease That Kills Focused Products",
 			"description": "Your simple tool now has 47 settings and a dashboard nobody uses. Here's how feature creep happens, how to diagnose it, and how to cut the bloat before it kills your product.",
-			"url": "https://www.sicknesslabs.com/build/feature-creep/",
+			"url": "https://www.sicknesslabs.com/build/feature-creep",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

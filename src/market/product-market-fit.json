@@ -306,37 +306,45 @@
 				{
 					"a_h3": "Customer Validation",
 					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
-					"href": "/market/customer-validation/",
+					"href": "/market/customer-validation",
 					"a_image": {
 						"src": "/assets/imgs/magnifying-crowd.jpg",
-						"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field"
+						"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Market Validation",
 					"a_description": "The market research says there's a gap. But a gap in the market doesn't mean there's a market in the gap.",
-					"href": "/market/market-validation/",
+					"href": "/market/market-validation",
 					"a_image": {
 						"src": "/assets/imgs/market-compass.jpg",
-						"alt": "Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor"
+						"alt": "Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Pricing Phobia",
 					"a_description": "Your product is free, freemium, or priced so low it signals \"hobby project.\" Charging real money feels like a betrayal.",
-					"href": "/market/pricing-phobia/",
+					"href": "/market/pricing-phobia",
 					"a_image": {
 						"src": "/assets/imgs/pricing-anxiety.jpg",
-						"alt": "Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting"
+						"alt": "Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "No Distribution",
 					"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget, zero audience, zero plan to change that.",
-					"href": "/launch/no-distribution/",
+					"href": "/launch/no-distribution",
 					"a_image": {
 						"src": "/assets/imgs/empty-warehouse.jpg",
-						"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor"
+						"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -348,7 +356,7 @@
 		"og": {
 			"title": "Product-Market Fit for SaaS — The Signal You Can't Fake | Sickness Labs",
 			"description": "How to measure and find SaaS product-market fit. Retention signals, the Sean Ellis test, and why premature scaling is the real startup killer.",
-			"url": "https://www.sicknesslabs.com/market/product-market-fit/",
+			"url": "https://www.sicknesslabs.com/market/product-market-fit",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

@@ -32,7 +32,7 @@
 		"og": {
 			"title": "About — Website Name",
 			"description": "Open Graph description for the about page.",
-			"url": "https://www.example.com/about/",
+			"url": "https://www.example.com/about",
 			"type": "website",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

@@ -297,37 +297,45 @@
 				{
 					"a_h3": "Founder Syndrome",
 					"a_description": "When the founder becomes the bottleneck. Every decision flows through one person, and the project can't breathe without them.",
-					"href": "/founder/founder-syndrome/",
+					"href": "/founder/founder-syndrome",
 					"a_image": {
 						"src": "/assets/imgs/puppet-strings.jpg",
-						"alt": "Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field"
+						"alt": "Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Startup Burnout",
 					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
-					"href": "/founder/startup-burnout/",
+					"href": "/founder/startup-burnout",
 					"a_image": {
 						"src": "/assets/imgs/burnt-matchstick.jpg",
-						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones"
+						"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Procrastination",
 					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
-					"href": "/founder/procrastination/",
+					"href": "/founder/procrastination",
 					"a_image": {
 						"src": "/assets/imgs/frozen-hourglass.jpg",
-						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting"
+						"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
-					"href": "/launch/launch-fear/",
+					"href": "/launch/launch-fear",
 					"a_image": {
 						"src": "/assets/imgs/launch-button.jpg",
-						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -339,7 +347,7 @@
 		"og": {
 			"title": "Imposter Syndrome — The Fraud Feeling That Haunts Every Founder",
 			"description": "Your project has users and revenue. You're still convinced you're faking it. Here's how imposter syndrome works, when it's useful, and how to ship despite it.",
-			"url": "https://www.sicknesslabs.com/founder/imposter-syndrome/",
+			"url": "https://www.sicknesslabs.com/founder/imposter-syndrome",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

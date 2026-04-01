@@ -17,19 +17,19 @@
 					"links": [
 						{
 							"label": "Founder Syndrome",
-							"href": "/founder/founder-syndrome/"
+							"href": "/founder/founder-syndrome"
 						},
 						{
 							"label": "Startup Burnout",
-							"href": "/founder/startup-burnout/"
+							"href": "/founder/startup-burnout"
 						},
 						{
 							"label": "Imposter Syndrome",
-							"href": "/founder/imposter-syndrome/"
+							"href": "/founder/imposter-syndrome"
 						},
 						{
 							"label": "Procrastination",
-							"href": "/founder/procrastination/"
+							"href": "/founder/procrastination"
 						}
 					]
 				},
@@ -38,15 +38,15 @@
 					"links": [
 						{
 							"label": "Analysis Paralysis",
-							"href": "/idea/analysis-paralysis/"
+							"href": "/idea/analysis-paralysis"
 						},
 						{
 							"label": "Shiny Object Syndrome",
-							"href": "/idea/shiny-object-syndrome/"
+							"href": "/idea/shiny-object-syndrome"
 						},
 						{
 							"label": "Validation Skip",
-							"href": "/idea/validation-skip/"
+							"href": "/idea/validation-skip"
 						}
 					]
 				},
@@ -55,19 +55,19 @@
 					"links": [
 						{
 							"label": "Feature Creep",
-							"href": "/build/feature-creep/"
+							"href": "/build/feature-creep"
 						},
 						{
 							"label": "Scope Creep",
-							"href": "/build/scope-creep/"
+							"href": "/build/scope-creep"
 						},
 						{
 							"label": "MVP Overengineering",
-							"href": "/build/mvp-overengineering/"
+							"href": "/build/mvp-overengineering"
 						},
 						{
 							"label": "Feature Prioritization",
-							"href": "/build/feature-prioritization/"
+							"href": "/build/feature-prioritization"
 						}
 					]
 				},
@@ -76,19 +76,19 @@
 					"links": [
 						{
 							"label": "Customer Validation",
-							"href": "/market/customer-validation/"
+							"href": "/market/customer-validation"
 						},
 						{
 							"label": "Market Validation",
-							"href": "/market/market-validation/"
+							"href": "/market/market-validation"
 						},
 						{
 							"label": "Pricing Phobia",
-							"href": "/market/pricing-phobia/"
+							"href": "/market/pricing-phobia"
 						},
 						{
 							"label": "Product-Market Fit",
-							"href": "/market/product-market-fit/"
+							"href": "/market/product-market-fit"
 						}
 					]
 				},
@@ -97,19 +97,19 @@
 					"links": [
 						{
 							"label": "Launch Fear",
-							"href": "/launch/launch-fear/"
+							"href": "/launch/launch-fear"
 						},
 						{
 							"label": "MVP Launch Strategy",
-							"href": "/launch/mvp-launch/"
+							"href": "/launch/mvp-launch"
 						},
 						{
 							"label": "No Audience First",
-							"href": "/launch/no-audience-first/"
+							"href": "/launch/no-audience-first"
 						},
 						{
 							"label": "No Distribution",
-							"href": "/launch/no-distribution/"
+							"href": "/launch/no-distribution"
 						}
 					]
 				},
@@ -118,15 +118,15 @@
 					"links": [
 						{
 							"label": "Perpetual Beta",
-							"href": "/graveyard/perpetual-beta/"
+							"href": "/graveyard/perpetual-beta"
 						},
 						{
 							"label": "Zombie Projects",
-							"href": "/graveyard/zombie-projects/"
+							"href": "/graveyard/zombie-projects"
 						},
 						{
 							"label": "Pivot or Quit",
-							"href": "/graveyard/pivot-or-quit/"
+							"href": "/graveyard/pivot-or-quit"
 						}
 					]
 				},
@@ -139,7 +139,7 @@
 						},
 						{
 							"label": "About",
-							"href": "/about/"
+							"href": "/about"
 						}
 					]
 				}

@@ -355,37 +355,45 @@
 				{
 					"a_h3": "Feature Creep",
 					"a_description": "The product started simple. Now it has a dashboard, an API, dark mode, and a settings page with 47 toggles. Nobody asked for any of it.",
-					"href": "/build/feature-creep/",
+					"href": "/build/feature-creep",
 					"a_image": {
 						"src": "/assets/imgs/swiss-army-knife.jpg",
-						"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor"
+						"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Scope Creep",
 					"a_description": "The timeline was two months. Then someone said \"while we're at it\" and now it's month six with no end in sight.",
-					"href": "/build/scope-creep/",
+					"href": "/build/scope-creep",
 					"a_image": {
 						"src": "/assets/imgs/expanding-doorframe.jpg",
-						"alt": "Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective"
+						"alt": "Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "MVP Overengineering",
 					"a_description": "Your MVP has a microservice architecture, CI/CD pipeline, and 90% test coverage. It has zero users.",
-					"href": "/build/mvp-overengineering/",
+					"href": "/build/mvp-overengineering",
 					"a_image": {
 						"src": "/assets/imgs/golden-hammer.jpg",
-						"alt": "Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field"
+						"alt": "Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Analysis Paralysis",
 					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
-					"href": "/idea/analysis-paralysis/",
+					"href": "/idea/analysis-paralysis",
 					"a_image": {
 						"src": "/assets/imgs/spinning-compass.jpg",
-						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography"
+						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -397,7 +405,7 @@
 		"og": {
 			"title": "Feature Prioritization — Stop Building Whatever Feels Urgent",
 			"description": "Your backlog has 200 items and no ranking. Here's a practical system for indie builders to prioritize features without the enterprise ceremony.",
-			"url": "https://www.sicknesslabs.com/build/feature-prioritization/",
+			"url": "https://www.sicknesslabs.com/build/feature-prioritization",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

@@ -315,37 +315,45 @@
 				{
 					"a_h3": "No Distribution",
 					"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget, zero audience, zero plan to change that.",
-					"href": "/launch/no-distribution/",
+					"href": "/launch/no-distribution",
 					"a_image": {
 						"src": "/assets/imgs/empty-warehouse.jpg",
-						"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor"
+						"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "No Audience First",
 					"a_description": "Launch day arrives and the only visitor is your own browser. You skipped the part where you build an audience before building the product.",
-					"href": "/launch/no-audience-first/",
+					"href": "/launch/no-audience-first",
 					"a_image": {
 						"src": "/assets/imgs/empty-theater.jpg",
-						"alt": "Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere"
+						"alt": "Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "MVP Launch",
 					"a_description": "Your MVP launch strategy is \"post on Reddit and hope.\" That's not a strategy — that's a wish.",
-					"href": "/launch/mvp-launch/",
+					"href": "/launch/mvp-launch",
 					"a_image": {
 						"src": "/assets/imgs/cardboard-rocket.jpg",
-						"alt": "Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark"
+						"alt": "Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Perpetual Beta",
 					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
-					"href": "/graveyard/perpetual-beta/",
+					"href": "/graveyard/perpetual-beta",
 					"a_image": {
 						"src": "/assets/imgs/under-construction-door.jpg",
-						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor"
+						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -357,7 +365,7 @@
 		"og": {
 			"title": "Launch Fear — Your Product Will Never Be Ready | Sickness Labs",
 			"description": "Why founders delay launching, the real cost of perfectionism, and what a practical product launch strategy looks like. Stop polishing. Start shipping.",
-			"url": "https://www.sicknesslabs.com/launch/launch-fear/",
+			"url": "https://www.sicknesslabs.com/launch/launch-fear",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

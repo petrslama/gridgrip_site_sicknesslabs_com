@@ -312,37 +312,45 @@
 				{
 					"a_h3": "Customer Validation",
 					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
-					"href": "/market/customer-validation/",
+					"href": "/market/customer-validation",
 					"a_image": {
 						"src": "/assets/imgs/magnifying-crowd.jpg",
-						"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field"
+						"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Product-Market Fit",
 					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
-					"href": "/market/product-market-fit/",
+					"href": "/market/product-market-fit",
 					"a_image": {
 						"src": "/assets/imgs/puzzle-fit.jpg",
-						"alt": "Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting"
+						"alt": "Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Pricing Phobia",
 					"a_description": "Your product is free, freemium, or priced so low it signals \"hobby project.\" Charging real money feels like a betrayal.",
-					"href": "/market/pricing-phobia/",
+					"href": "/market/pricing-phobia",
 					"a_image": {
 						"src": "/assets/imgs/pricing-anxiety.jpg",
-						"alt": "Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting"
+						"alt": "Price tag with the number scratched out multiple times, pricing indecision, dark dramatic lighting",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Analysis Paralysis",
 					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
-					"href": "/idea/analysis-paralysis/",
+					"href": "/idea/analysis-paralysis",
 					"a_image": {
 						"src": "/assets/imgs/spinning-compass.jpg",
-						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography"
+						"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -354,7 +362,7 @@
 		"og": {
 			"title": "Market Validation — Is There a Market in Your Gap? | Sickness Labs",
 			"description": "Practical market validation for startups. Cheap, fast techniques to prove your market exists before you build something nobody wants to buy.",
-			"url": "https://www.sicknesslabs.com/market/market-validation/",
+			"url": "https://www.sicknesslabs.com/market/market-validation",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

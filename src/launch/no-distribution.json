@@ -306,37 +306,45 @@
 				{
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
-					"href": "/launch/launch-fear/",
+					"href": "/launch/launch-fear",
 					"a_image": {
 						"src": "/assets/imgs/launch-button.jpg",
-						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety"
+						"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "No Audience First",
 					"a_description": "Launch day arrives and the only visitor is your own browser. You skipped the part where you build an audience before building the product.",
-					"href": "/launch/no-audience-first/",
+					"href": "/launch/no-audience-first",
 					"a_image": {
 						"src": "/assets/imgs/empty-theater.jpg",
-						"alt": "Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere"
+						"alt": "Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "MVP Launch",
 					"a_description": "Your MVP launch strategy is \"post on Reddit and hope.\" That's not a strategy — that's a wish.",
-					"href": "/launch/mvp-launch/",
+					"href": "/launch/mvp-launch",
 					"a_image": {
 						"src": "/assets/imgs/cardboard-rocket.jpg",
-						"alt": "Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark"
+						"alt": "Minimalist rocket made of cardboard and tape on a real launch pad, scrappy MVP launch metaphor, dark",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Product-Market Fit",
 					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
-					"href": "/market/product-market-fit/",
+					"href": "/market/product-market-fit",
 					"a_image": {
 						"src": "/assets/imgs/puzzle-fit.jpg",
-						"alt": "Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting"
+						"alt": "Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -348,7 +356,7 @@
 		"og": {
 			"title": "No Distribution — Building in a Vacuum | Sickness Labs",
 			"description": "Zero budget marketing strategies that actually work for indie founders. Stop building in silence and start distributing before you ship.",
-			"url": "https://www.sicknesslabs.com/launch/no-distribution/",
+			"url": "https://www.sicknesslabs.com/launch/no-distribution",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",

@@ -334,37 +334,45 @@
 				{
 					"a_h3": "Feature Creep",
 					"a_description": "The product started simple. Now it has a dashboard, an API, dark mode, and a settings page with 47 toggles. Nobody asked for any of it.",
-					"href": "/build/feature-creep/",
+					"href": "/build/feature-creep",
 					"a_image": {
 						"src": "/assets/imgs/swiss-army-knife.jpg",
-						"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor"
+						"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Scope Creep",
 					"a_description": "The timeline was two months. Then someone said \"while we're at it\" and now it's month six with no end in sight.",
-					"href": "/build/scope-creep/",
+					"href": "/build/scope-creep",
 					"a_image": {
 						"src": "/assets/imgs/expanding-doorframe.jpg",
-						"alt": "Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective"
+						"alt": "Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Feature Prioritization",
 					"a_description": "Everything feels urgent, nothing feels important. The backlog is a graveyard of half-started features and unranked ideas.",
-					"href": "/build/feature-prioritization/",
+					"href": "/build/feature-prioritization",
 					"a_image": {
 						"src": "/assets/imgs/chess-board.jpg",
-						"alt": "Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field"
+						"alt": "Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field",
+						"width": "1024",
+						"height": "768"
 					}
 				},
 				{
 					"a_h3": "Perpetual Beta",
 					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
-					"href": "/graveyard/perpetual-beta/",
+					"href": "/graveyard/perpetual-beta",
 					"a_image": {
 						"src": "/assets/imgs/under-construction-door.jpg",
-						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor"
+						"alt": "Door with a forever under construction sign covered in cobwebs, dark abandoned corridor",
+						"width": "1024",
+						"height": "768"
 					}
 				}
 			]
@@ -376,7 +384,7 @@
 		"og": {
 			"title": "MVP Overengineering — Zero Users, Enterprise Architecture",
 			"description": "Your MVP has microservices, a CI/CD pipeline, and 90% test coverage. It also has zero users. Here's how to stop over-building and start shipping.",
-			"url": "https://www.sicknesslabs.com/build/mvp-overengineering/",
+			"url": "https://www.sicknesslabs.com/build/mvp-overengineering",
 			"type": "article",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",
