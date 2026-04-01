@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Founder",
-					"href": "/founder/"
+					"href": "/academy/#founder"
 				},
 				{
 					"text": "Imposter Syndrome"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_image": {
 				"alt": "Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field",
 				"width": "1024",
@@ -182,32 +182,32 @@
 			"a_description": "When the imposter voice gets loud, run through this list. Evidence beats feelings.",
 			"items": [
 				{
+					"a_h3": "Has someone paid for your work?",
+					"a_description": "Money is the strongest signal. If strangers exchange money for what you built, that's not luck — that's value delivered.",
 					"a_icon": {
 						"icon": "credit-card"
-					},
-					"a_h3": "Has someone paid for your work?",
-					"a_description": "Money is the strongest signal. If strangers exchange money for what you built, that's not luck — that's value delivered."
+					}
 				},
 				{
+					"a_h3": "Do users come back?",
+					"a_description": "Retention is evidence. People don't repeatedly use something out of politeness. They use it because it works.",
 					"a_icon": {
 						"icon": "repeat"
-					},
-					"a_h3": "Do users come back?",
-					"a_description": "Retention is evidence. People don't repeatedly use something out of politeness. They use it because it works."
+					}
 				},
 				{
+					"a_h3": "Have you solved a problem you didn't know how to solve?",
+					"a_description": "Every technical challenge you overcame is proof of competence. Your skill grew because you applied it — that's not faking.",
 					"a_icon": {
 						"icon": "puzzle"
-					},
-					"a_h3": "Have you solved a problem you didn't know how to solve?",
-					"a_description": "Every technical challenge you overcame is proof of competence. Your skill grew because you applied it — that's not faking."
+					}
 				},
 				{
+					"a_h3": "Has someone you don't know praised your work?",
+					"a_description": "Strangers have no reason to be polite. Unsolicited positive feedback from people who owe you nothing is real evidence.",
 					"a_icon": {
 						"icon": "message-circle"
-					},
-					"a_h3": "Has someone you don't know praised your work?",
-					"a_description": "Strangers have no reason to be polite. Unsolicited positive feedback from people who owe you nothing is real evidence."
+					}
 				}
 			]
 		},
@@ -294,9 +294,6 @@
 			"a_description": "Imposter syndrome rarely travels alone. These conditions share the same root — the founder's relationship with themselves.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "crown"
-					},
 					"a_h3": "Founder Syndrome",
 					"a_description": "When the founder becomes the bottleneck. Every decision flows through one person, and the project can't breathe without them.",
 					"href": "/founder/founder-syndrome/",
@@ -306,9 +303,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "flame"
-					},
 					"a_h3": "Startup Burnout",
 					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
 					"href": "/founder/startup-burnout/",
@@ -318,9 +312,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "hourglass"
-					},
 					"a_h3": "Procrastination",
 					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
 					"href": "/founder/procrastination/",
@@ -330,9 +321,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "shield-alert"
-					},
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
 					"href": "/launch/launch-fear/",

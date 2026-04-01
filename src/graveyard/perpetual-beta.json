@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Graveyard",
-					"href": "/graveyard/"
+					"href": "/academy/#graveyard"
 				},
 				{
 					"text": "Perpetual Beta"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_eyebrow": "Graveyard",
 			"a_h1": "Perpetual Beta &mdash; The Product That Will Never Be Ready",
 			"a_description": "\"We're still in beta\" is the startup version of \"it's complicated.\" The product will never be ready because ready means accountable &mdash; and accountability is terrifying when you've been hiding behind a label.",
@@ -185,35 +185,35 @@
 			"items": [
 				{
 					"a_icon": {
-						"icon": "check"
+						"icon": "check-circle"
 					},
 					"a_h3": "Can a user complete the core workflow end to end?",
 					"a_description": "Not every workflow. The core one. If a user can sign up, do the main thing, and get value — you have a launchable product. Everything else is a post-launch iteration."
 				},
 				{
 					"a_icon": {
-						"icon": "shield"
+						"icon": "bug"
 					},
 					"a_h3": "Are the critical bugs fixed?",
 					"a_description": "Data loss, security holes, payment failures. If these are resolved, the remaining bugs are polish — and polish is infinite. Ship with known minor issues and fix them based on real user priority."
 				},
 				{
 					"a_icon": {
-						"icon": "eye"
+						"icon": "user-check"
 					},
 					"a_h3": "Has anyone outside your circle used it successfully?",
 					"a_description": "Not your co-founder, not your developer friend. A stranger. If even one person outside your bubble has completed the core workflow, your product works in the real world."
 				},
 				{
 					"a_icon": {
-						"icon": "brain"
+						"icon": "layers"
 					},
 					"a_h3": "Are you adding features to avoid launching?",
 					"a_description": "Be honest. If every week brings a new must-have feature that was not on last month's list, you are using scope as a delay tactic. The feature list should be shrinking, not growing."
 				},
 				{
 					"a_icon": {
-						"icon": "rocket"
+						"icon": "dollar-sign"
 					},
 					"a_h3": "Would you be embarrassed to charge for it?",
 					"a_description": "If yes — good. That discomfort means the product matters to you. Ship it anyway. The embarrassment fades the moment a stranger pays you real money for it."
@@ -297,9 +297,6 @@
 			"a_h2": "More Graveyard Diseases",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "skull"
-					},
 					"a_h3": "Zombie Projects",
 					"a_description": "Not alive, not dead. The domain is renewed, the server is running, and the last commit was eight months ago.",
 					"href": "/graveyard/zombie-projects/",
@@ -309,9 +306,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "crosshair"
-					},
 					"a_h3": "Pivot or Quit",
 					"a_description": "The hardest question in indie building: is this a problem you can fix, or a project you need to walk away from?",
 					"href": "/graveyard/pivot-or-quit/",
@@ -321,9 +315,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "wrench"
-					},
 					"a_h3": "MVP Overengineering",
 					"a_description": "Your MVP has a microservice architecture, CI/CD pipeline, and 90% test coverage. It has zero users.",
 					"href": "/build/mvp-overengineering/",
@@ -333,9 +324,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "shield-alert"
-					},
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
 					"href": "/launch/launch-fear/",

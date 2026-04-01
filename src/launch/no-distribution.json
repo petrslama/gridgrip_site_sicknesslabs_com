@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Launch",
-					"href": "/launch/"
+					"href": "/academy/#launch"
 				},
 				{
 					"text": "No Distribution"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_eyebrow": "Launch",
 			"a_h1": "No Distribution &mdash; Building in a Vacuum",
 			"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget is not the problem. Zero distribution plan is.",
@@ -191,7 +191,7 @@
 			"items": [
 				{
 					"a_icon": {
-						"icon": "target"
+						"icon": "megaphone"
 					},
 					"a_h3": "Can you name your primary distribution channel?",
 					"a_description": "Not three channels. One. The single channel you will master before touching another. If you cannot name it, you do not have a distribution plan."
@@ -212,14 +212,14 @@
 				},
 				{
 					"a_icon": {
-						"icon": "megaphone"
+						"icon": "eye"
 					},
 					"a_h3": "Are you visible in the places your users already gather?",
 					"a_description": "Reddit threads, Discord servers, niche forums, Twitter circles. If your target users have never seen your name, your product does not exist to them."
 				},
 				{
 					"a_icon": {
-						"icon": "zap"
+						"icon": "trending-up"
 					},
 					"a_h3": "Is your distribution compounding while you build?",
 					"a_description": "Content, SEO, and community presence grow over time. If you have not started, you are already behind the founders who started six months ago."
@@ -303,9 +303,6 @@
 			"a_h2": "More Launch-Phase Diseases",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "shield-alert"
-					},
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
 					"href": "/launch/launch-fear/",
@@ -315,9 +312,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "users-round"
-					},
 					"a_h3": "No Audience First",
 					"a_description": "Launch day arrives and the only visitor is your own browser. You skipped the part where you build an audience before building the product.",
 					"href": "/launch/no-audience-first/",
@@ -327,9 +321,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "rocket"
-					},
 					"a_h3": "MVP Launch",
 					"a_description": "Your MVP launch strategy is \"post on Reddit and hope.\" That's not a strategy — that's a wish.",
 					"href": "/launch/mvp-launch/",
@@ -339,9 +330,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "target"
-					},
 					"a_h3": "Product-Market Fit",
 					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
 					"href": "/market/product-market-fit/",

@@ -1,0 +1,16 @@
+<section class="o_features grid"
+	{{#if section_id}}
+	 id="{{section_id}}"
+	{{/if}}>
+	<div class="col-12 hero">
+		{{> a_eyebrow }}
+		{{> a_h1 }}
+		{{> a_description }}
+	</div>
+	{{#each items}}
+	<div class="feature col-3">
+		<strong>{{title}}</strong>
+		{{> a_description }}
+	</div>
+	{{/each}}
+</section>

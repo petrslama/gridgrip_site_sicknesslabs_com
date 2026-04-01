@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Market",
-					"href": "/market/"
+					"href": "/academy/#market"
 				},
 				{
 					"text": "Product-Market Fit"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_eyebrow": "Market",
 			"a_h1": "Product-Market Fit for SaaS — The Signal You Can't Fake",
 			"a_description": "You have users. You have revenue. But something feels off. Product-market fit isn't a metric — it's a feeling backed by numbers. And most SaaS founders are faking it.",
@@ -192,28 +192,28 @@
 				},
 				{
 					"a_icon": {
-						"icon": "users"
+						"icon": "share-2"
 					},
 					"a_h3": "Are users referring others unprompted?",
 					"a_description": "Check how many new signups come from word of mouth or direct referrals. If the answer is under 20%, the product is not compelling enough to talk about."
 				},
 				{
 					"a_icon": {
-						"icon": "shield"
+						"icon": "heart"
 					},
 					"a_h3": "Would 40% of users be very disappointed without you?",
 					"a_description": "Run the Sean Ellis survey with active users (40 responses minimum, 100+ for confidence). Below 40% means you have not found fit yet. Segment to find where you do hit the threshold."
 				},
 				{
 					"a_icon": {
-						"icon": "target"
+						"icon": "percent"
 					},
 					"a_h3": "Is your net revenue retention above 100%?",
 					"a_description": "Existing customers should spend more over time through upgrades and expansion. Below 100% means you are leaking faster than you are filling."
 				},
 				{
 					"a_icon": {
-						"icon": "zap"
+						"icon": "clock"
 					},
 					"a_h3": "Can new users reach value in under 10 minutes?",
 					"a_description": "Measure time-to-value for new signups. If onboarding takes weeks of configuration and training, you are losing users before they experience what makes the product worth paying for."
@@ -303,9 +303,6 @@
 			"a_h2": "More Market-Phase Diseases",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "users"
-					},
 					"a_h3": "Customer Validation",
 					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
 					"href": "/market/customer-validation/",
@@ -315,9 +312,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "search"
-					},
 					"a_h3": "Market Validation",
 					"a_description": "The market research says there's a gap. But a gap in the market doesn't mean there's a market in the gap.",
 					"href": "/market/market-validation/",
@@ -327,9 +321,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "tag"
-					},
 					"a_h3": "Pricing Phobia",
 					"a_description": "Your product is free, freemium, or priced so low it signals \"hobby project.\" Charging real money feels like a betrayal.",
 					"href": "/market/pricing-phobia/",
@@ -339,9 +330,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "megaphone-off"
-					},
 					"a_h3": "No Distribution",
 					"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget, zero audience, zero plan to change that.",
 					"href": "/launch/no-distribution/",

@@ -1,0 +1,12 @@
+.o_hero_article {
+	padding-top: 0;
+
+	.container {
+		padding-inline: 0;
+		margin-bottom: 3rem;
+
+		@media (min-width: 69rem) {
+			padding-inline: var(--padding-inline);
+		}
+	}
+}

@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Launch",
-					"href": "/launch/"
+					"href": "/academy/#launch"
 				},
 				{
 					"text": "Launch Fear"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_eyebrow": "Launch",
 			"a_h1": "Launch Fear &mdash; Your Product Will Never Be &ldquo;Ready&rdquo;",
 			"a_description": "The product is 95% done. It has been 95% done for four months. Every week there is one more feature, one more fix, one more reason not to ship. This is not quality control. This is fear wearing a product manager costume.",
@@ -197,35 +197,35 @@
 			"items": [
 				{
 					"a_icon": {
-						"icon": "target"
+						"icon": "check-circle"
 					},
 					"a_h3": "Does the core feature work end to end?",
 					"a_description": "Not every feature — the one feature that solves the one problem for the one user type. If a new user can sign up, use the core feature, and get value from it, you are ready."
 				},
 				{
 					"a_icon": {
-						"icon": "users"
+						"icon": "megaphone"
 					},
 					"a_h3": "Do you have at least one distribution channel ready?",
 					"a_description": "A community, an email list, a social following — somewhere to announce. If you have zero audience, spend one week building one. Not six months. One week."
 				},
 				{
 					"a_icon": {
-						"icon": "search"
+						"icon": "message-circle"
 					},
 					"a_h3": "Can you explain the value in one sentence?",
 					"a_description": "If you cannot say what the product does and who it is for in a single sentence, your positioning is broken. Fix the sentence, not the product."
 				},
 				{
 					"a_icon": {
-						"icon": "shield"
+						"icon": "bug"
 					},
 					"a_h3": "Is there a way for users to report problems?",
 					"a_description": "A feedback form, an email address, a chat widget — anything. You do not need a support team. You need a way to hear when things break."
 				},
 				{
 					"a_icon": {
-						"icon": "rocket"
+						"icon": "calendar"
 					},
 					"a_h3": "Have you told three people your launch date?",
 					"a_description": "Accountability kills launch fear faster than confidence does. Tell three people you trust. Put it on your calendar. Make the date real."
@@ -312,9 +312,6 @@
 			"a_h2": "More Launch-Phase Diseases",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "megaphone-off"
-					},
 					"a_h3": "No Distribution",
 					"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget, zero audience, zero plan to change that.",
 					"href": "/launch/no-distribution/",
@@ -324,9 +321,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "users-round"
-					},
 					"a_h3": "No Audience First",
 					"a_description": "Launch day arrives and the only visitor is your own browser. You skipped the part where you build an audience before building the product.",
 					"href": "/launch/no-audience-first/",
@@ -336,9 +330,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "rocket"
-					},
 					"a_h3": "MVP Launch",
 					"a_description": "Your MVP launch strategy is \"post on Reddit and hope.\" That's not a strategy — that's a wish.",
 					"href": "/launch/mvp-launch/",
@@ -348,9 +339,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "infinity"
-					},
 					"a_h3": "Perpetual Beta",
 					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
 					"href": "/graveyard/perpetual-beta/",

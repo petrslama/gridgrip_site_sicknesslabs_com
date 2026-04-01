@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Market",
-					"href": "/market/"
+					"href": "/academy/#market"
 				},
 				{
 					"text": "Market Validation"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_eyebrow": "Market",
 			"a_h1": "Market Validation — Is There a Market in Your Gap?",
 			"a_description": "You found a gap in the market. Congratulations. Now the harder question: is there a market in your gap? Because empty space exists for a reason.",
@@ -198,14 +198,14 @@
 				},
 				{
 					"a_icon": {
-						"icon": "banknote"
+						"icon": "dollar-sign"
 					},
 					"a_h3": "Are people already spending money on alternatives?",
 					"a_description": "Spreadsheets, freelancers, duct-taped tools — any money flowing toward the problem is proof of willingness to pay. No spending means no market, no matter how loud the complaints."
 				},
 				{
 					"a_icon": {
-						"icon": "users"
+						"icon": "megaphone"
 					},
 					"a_h3": "Can you reach enough customers affordably?",
 					"a_description": "A real market needs accessible channels. If your ideal customers don't gather anywhere online, don't search for solutions, and can't be targeted with ads, acquisition costs will kill you."
@@ -219,7 +219,7 @@
 				},
 				{
 					"a_icon": {
-						"icon": "target"
+						"icon": "calculator"
 					},
 					"a_h3": "Can you estimate a realistic SOM above your revenue floor?",
 					"a_description": "Forget TAM fantasies. Calculate the number of reachable customers multiplied by a realistic price. If that number doesn't clear your minimum viable revenue, the market is too small for your ambitions."
@@ -309,9 +309,6 @@
 			"a_h2": "More Market-Phase Diseases",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "users"
-					},
 					"a_h3": "Customer Validation",
 					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
 					"href": "/market/customer-validation/",
@@ -321,9 +318,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "target"
-					},
 					"a_h3": "Product-Market Fit",
 					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
 					"href": "/market/product-market-fit/",
@@ -333,9 +327,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "tag"
-					},
 					"a_h3": "Pricing Phobia",
 					"a_description": "Your product is free, freemium, or priced so low it signals \"hobby project.\" Charging real money feels like a betrayal.",
 					"href": "/market/pricing-phobia/",
@@ -345,9 +336,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "brain"
-					},
 					"a_h3": "Analysis Paralysis",
 					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
 					"href": "/idea/analysis-paralysis/",

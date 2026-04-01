@@ -38,5 +38,9 @@
 		.a_description {
 			padding-bottom: 1.5rem;
 		}
+
+		&.card--no-image {
+			padding-top: 1.5rem;
+		}
 	}
 }

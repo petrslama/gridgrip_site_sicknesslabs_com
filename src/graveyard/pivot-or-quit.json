@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Graveyard",
-					"href": "/graveyard/"
+					"href": "/academy/#graveyard"
 				},
 				{
 					"text": "Pivot or Quit"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_eyebrow": "Graveyard",
 			"a_h1": "Pivot or Quit &mdash; The Hardest Decision in Indie Building",
 			"a_description": "You've been at it for months. The metrics are flat, the motivation is fading, and you're staring at two doors: pivot the idea or walk away entirely. This is the decision most indie builders get wrong &mdash; not because they choose badly, but because they refuse to choose at all.",
@@ -218,14 +218,14 @@
 				},
 				{
 					"a_icon": {
-						"icon": "zap"
+						"icon": "battery"
 					},
 					"a_h3": "Do you have energy for 90 more days?",
 					"a_description": "A pivot isn't a weekend project. It's a full restart with existing baggage. If the thought of spending another three months on this makes you feel dread rather than curiosity, that's your answer."
 				},
 				{
 					"a_icon": {
-						"icon": "brain"
+						"icon": "play"
 					},
 					"a_h3": "Would you start this project today?",
 					"a_description": "The ultimate sunk-cost filter. Knowing everything you know now — the market, the competition, the effort required — would you begin from scratch? If no, you're continuing for emotional reasons, not rational ones."
@@ -315,9 +315,6 @@
 			"a_h2": "More Graveyard Diseases",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "skull"
-					},
 					"a_h3": "Zombie Projects",
 					"a_description": "Not alive, not dead. The domain is renewed, the server is running, and the last commit was eight months ago.",
 					"href": "/graveyard/zombie-projects/",
@@ -327,9 +324,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "infinity"
-					},
 					"a_h3": "Perpetual Beta",
 					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
 					"href": "/graveyard/perpetual-beta/",
@@ -339,9 +333,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "flame"
-					},
 					"a_h3": "Startup Burnout",
 					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
 					"href": "/founder/startup-burnout/",
@@ -351,9 +342,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "sparkles"
-					},
 					"a_h3": "Shiny Object Syndrome",
 					"a_description": "Every week there's a better idea. The current project is 60% done but the new one feels 100% exciting.",
 					"href": "/idea/shiny-object-syndrome/",

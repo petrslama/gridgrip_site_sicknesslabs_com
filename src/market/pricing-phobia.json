@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Market",
-					"href": "/market/"
+					"href": "/academy/#market"
 				},
 				{
 					"text": "Pricing Phobia"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_eyebrow": "Market",
 			"a_h1": "Pricing Phobia — Why Founders Are Afraid to Charge Real Money",
 			"a_description": "Your product is free, freemium, or priced so low it whispers \"side project.\" You're not being generous. You're being afraid. Pricing phobia is the disease of founders who can't face the market's verdict.",
@@ -191,7 +191,7 @@
 			"items": [
 				{
 					"a_icon": {
-						"icon": "zap"
+						"icon": "message-circle"
 					},
 					"a_h3": "Can you articulate the value in one sentence?",
 					"a_description": "If you can't say 'We save X customers Y hours/dollars per month,' you don't have a pricing foundation. Value-based pricing requires knowing the value. Quantify it before you price it."
@@ -205,21 +205,21 @@
 				},
 				{
 					"a_icon": {
-						"icon": "shield"
+						"icon": "search"
 					},
 					"a_h3": "Do you know your competitors' pricing inside out?",
 					"a_description": "Every tier, every feature gate, every discount. You don't need to match them — but you need to know where you sit in the landscape. Pricing in a vacuum is how you end up at $5/month."
 				},
 				{
 					"a_icon": {
-						"icon": "rocket"
+						"icon": "shield"
 					},
 					"a_h3": "Are you willing to lose some prospects on price?",
 					"a_description": "If your close rate is 100%, you're too cheap. Healthy pricing means some people say no. That's not failure — that's segmentation. The right customers pay; the wrong ones filter themselves out."
 				},
 				{
 					"a_icon": {
-						"icon": "brain"
+						"icon": "heart"
 					},
 					"a_h3": "Have you separated your self-worth from the price tag?",
 					"a_description": "A 'no' to your pricing is not a 'no' to you as a person. If clicking 'publish' on a pricing page makes your stomach drop, the problem isn't the number — it's your relationship with rejection."
@@ -309,9 +309,6 @@
 			"a_h2": "More Market-Phase Diseases",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "users"
-					},
 					"a_h3": "Customer Validation",
 					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
 					"href": "/market/customer-validation/",
@@ -321,9 +318,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "search"
-					},
 					"a_h3": "Market Validation",
 					"a_description": "The market research says there's a gap. But a gap in the market doesn't mean there's a market in the gap.",
 					"href": "/market/market-validation/",
@@ -333,9 +327,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "target"
-					},
 					"a_h3": "Product-Market Fit",
 					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
 					"href": "/market/product-market-fit/",
@@ -345,9 +336,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "shield-alert"
-					},
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
 					"href": "/launch/launch-fear/",

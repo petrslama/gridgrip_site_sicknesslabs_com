@@ -1,27 +1,38 @@
 {
 	"sections": [
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_features",
 			"a_eyebrow": "SICKNESS Framework",
-			"a_h1": "Sickness Labs",
-			"a_description": "Every indie project dies of something. We diagnose what's killing yours — before it flatlines.",
-			"a_image": {
-				"src": "/assets/imgs/lab-petri-dishes.jpg",
-				"alt": "Dark laboratory workbench with petri dishes containing glowing digital organisms and code fragments, microscope in the center, cinematic side lighting",
-				"width": "1024",
-				"height": "768"
-			}
+			"a_h1": "Measure your project's viability before you build",
+			"a_description": "Most indie projects fail before launch. SICKNESS is a 12-point framework that exposes the weak spots in your idea — from market validation and pricing to your own assumptions and blind spots. No buzzwords, just hard questions you need to answer before investing time and money.",
+			"items": [
+				{
+					"title": "Clarity on viability",
+					"a_description": "Does your idea actually hold up?"
+				},
+				{
+					"title": "Stop wasting time",
+					"a_description": "Spot red flags before you invest months."
+				},
+				{
+					"title": "12-point check",
+					"a_description": "Shipping, market, pricing, honesty."
+				},
+				{
+					"title": "Honest diagnosis",
+					"a_description": "If there's a knockout problem, you'll know."
+				}
+			]
 		},
 		{
 			"fu_type": "o_letters",
-			"a_eyebrow": "Scorecard",
-			"a_h2": "SICKNESS LABS",
-			"a_description": "12 criteria. Rate each 1–3. If anything scores a 1 — that's a knockout.",
-			"placeholder_notes": "Notes\u2026",
-			"label_1": "🔴 No",
-			"label_2": "🟡 Need to verify",
-			"label_3": "🟢 I have proof",
-			"summary_title": "Your Diagnosis",
+			"a_eyebrow": "Project Check",
+			"a_h2": "Does your project make sense?",
+			"a_description": "Answer 12 questions honestly. Each one targets a common blind spot that kills indie projects. Your diagnosis updates as you go.",
+			"label_1": "Yes",
+			"label_2": "Not sure",
+			"label_3": "No",
+			"summary_title": "Sickness Labs Diagnosis",
 			"summary_incomplete": "Rate all criteria to see your diagnosis.",
 			"verdict_knockout": "KNOCKOUT — your project has a sickness. Full stop.",
 			"verdict_perfect": "Project is ready. Ship it.",
@@ -31,75 +42,75 @@
 			"items": [
 				{
 					"letter": "S",
-					"a_h3": "Ship",
-					"question": "I can build and launch this in one week.",
+					"a_eyebrow": "Ship",
+					"a_h3": "I can build and launch this in one week.",
 					"a_description": "If it takes longer, the scope is too big. Simplify or postpone."
 				},
 				{
 					"letter": "I",
-					"a_h3": "Intuitive",
-					"question": "Anyone understands the value without me explaining it.",
-					"a_description": "Test on 3 people. If you're explaining for more than 30 seconds, rework the pitch."
+					"a_eyebrow": "Intuitive",
+					"a_h3": "Anyone gets the value without explanation.",
+					"a_description": "If you need more than 30 seconds to explain it, rework."
 				},
 				{
 					"letter": "C",
-					"a_h3": "Cost",
-					"question": "I can fund this myself, no investor needed.",
-					"a_description": "Calculate your runway — time and money. If you need funding, you're playing a different game."
+					"a_eyebrow": "Cost",
+					"a_h3": "I can fund this myself, no investor needed.",
+					"a_description": "If you need funding, you're playing a different game."
 				},
 				{
 					"letter": "K",
-					"a_h3": "Know",
-					"question": "I know exactly who this is for.",
-					"a_description": "Prove it with a specific name or community. \"Everyone over 30\" is not an answer."
+					"a_eyebrow": "Know",
+					"a_h3": "I know exactly who this is for.",
+					"a_description": "\"Everyone over 30\" is not an answer."
 				},
 				{
 					"letter": "N",
-					"a_h3": "Need",
-					"question": "People actually need this and would pay for it today.",
+					"a_eyebrow": "Need",
+					"a_h3": "People need this and would pay for it today.",
 					"a_description": "Ask real people — don't assume. Politeness is not validation."
 				},
 				{
 					"letter": "E",
-					"a_h3": "Earn",
-					"question": "This will make money with a clear pricing model.",
-					"a_description": "Set a pricing model before launch. One-time sales are harder than recurring."
+					"a_eyebrow": "Earn",
+					"a_h3": "This will make money with a clear pricing model.",
+					"a_description": "One-time sales are harder than recurring. Decide before launch."
 				},
 				{
 					"letter": "S",
-					"a_h3": "Space",
-					"question": "The market has low competition and organic discoverability.",
-					"a_description": "Check Google, App Store, Product Hunt. Without an organic channel, you need a budget."
+					"a_eyebrow": "Space",
+					"a_h3": "Low competition and organic discoverability.",
+					"a_description": "Without an organic channel, you need a budget."
 				},
 				{
 					"letter": "S",
-					"a_h3": "Soul",
-					"question": "This project is morally and ethically sound.",
-					"a_description": "Projects without integrity drag and hurt. If you hesitate, the answer is no."
+					"a_eyebrow": "Soul",
+					"a_h3": "This project is morally and ethically sound.",
+					"a_description": "If you hesitate, the answer is no."
 				},
 				{
 					"letter": "L",
-					"a_h3": "Lies",
-					"question": "I am not telling myself things I know aren't true.",
-					"a_description": "Every project has spots where you're lying to yourself. Write them down. If you can't disprove them with evidence, they're still lies — just better packaged."
+					"a_eyebrow": "Lies",
+					"a_h3": "I am not telling myself things I know aren't true.",
+					"a_description": "If you can't disprove it with evidence, it's still a lie."
 				},
 				{
 					"letter": "A",
-					"a_h3": "Assumptions",
-					"question": "I have verified my core assumptions with real evidence.",
-					"a_description": "\"People will want this.\" \"We'll make money.\" \"I can do it alone.\" Maybe. But until it's verified, it's just a story you're telling yourself."
+					"a_eyebrow": "Assumptions",
+					"a_h3": "My core assumptions are backed by evidence.",
+					"a_description": "Until it's verified, it's just a story you're telling yourself."
 				},
 				{
 					"letter": "B",
-					"a_h3": "Bullshit",
-					"question": "I can name three weaknesses without starting each with \"but.\"",
-					"a_description": "Write down the three biggest weaknesses of the project. Read them again. If each one starts with \"but\" — those are excuses."
+					"a_eyebrow": "Bullshit",
+					"a_h3": "I can name three weaknesses honestly.",
+					"a_description": "If each one starts with \"but\" — those are excuses."
 				},
 				{
 					"letter": "S",
-					"a_h3": "Stripped",
-					"question": "What remains when you subtract lies, assumptions, and bullshit?",
-					"a_description": "This is the real state of the project — no sugar-coating. If nothing remains, the idea isn't bad. It's just not ready yet.",
+					"a_eyebrow": "Stripped",
+					"a_h3": "What remains without the lies and excuses?",
+					"a_description": "If nothing remains, the idea isn't bad. It's just not ready yet.",
 					"text_only": "1"
 				}
 			]
@@ -127,5 +138,12 @@
 				"alt": "Sickness Labs — indie project disease diagnosis"
 			}
 		}
+	},
+	"settings": {
+		"start_head_codes": [],
+		"head_codes": [],
+		"start_body_codes": [],
+		"body_codes": [],
+		"alternate": []
 	}
 }

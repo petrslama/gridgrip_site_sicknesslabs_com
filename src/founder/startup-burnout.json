@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Founder",
-					"href": "/founder/"
+					"href": "/academy/#founder"
 				},
 				{
 					"text": "Startup Burnout"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_image": {
 				"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones",
 				"width": "1024",
@@ -182,32 +182,32 @@
 			"a_description": "If three or more are true, you're not tired — you're burning out.",
 			"items": [
 				{
+					"a_h3": "Rest doesn't restore your energy",
+					"a_description": "You took a weekend off. You slept in. You still feel the same dread on Monday morning. Recovery isn't happening.",
 					"a_icon": {
 						"icon": "battery-low"
-					},
-					"a_h3": "Rest doesn't restore your energy",
-					"a_description": "You took a weekend off. You slept in. You still feel the same dread on Monday morning. Recovery isn't happening."
+					}
 				},
 				{
-					"a_icon": {
-						"icon": "eye-off"
-					},
 					"a_h3": "You dread opening the project",
-					"a_description": "The thing you used to love building now makes your stomach drop. You avoid looking at notifications, issues, or analytics."
+					"a_description": "The thing you used to love building now makes your stomach drop. You avoid looking at notifications, issues, or analytics.",
+					"a_icon": {
+						"icon": "door-open"
+					}
 				},
 				{
+					"a_h3": "Your work quality has dropped",
+					"a_description": "More bugs, slower responses, sloppier decisions. You're still showing up, but the output doesn't match what you're capable of.",
 					"a_icon": {
 						"icon": "trending-down"
-					},
-					"a_h3": "Your work quality has dropped",
-					"a_description": "More bugs, slower responses, sloppier decisions. You're still showing up, but the output doesn't match what you're capable of."
+					}
 				},
 				{
-					"a_icon": {
-						"icon": "user-minus"
-					},
 					"a_h3": "You've detached emotionally",
-					"a_description": "Good news about the project doesn't excite you. Bad news doesn't upset you. You feel nothing — and that's the scariest symptom."
+					"a_description": "Good news about the project doesn't excite you. Bad news doesn't upset you. You feel nothing — and that's the scariest symptom.",
+					"a_icon": {
+						"icon": "unplug"
+					}
 				}
 			]
 		},
@@ -298,9 +298,6 @@
 			"a_description": "Burnout doesn't exist in isolation. These conditions share the same fuel — unsustainable effort without recovery.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "crown"
-					},
 					"a_h3": "Founder Syndrome",
 					"a_description": "When the founder becomes the bottleneck. Every decision flows through one person, and the project can't breathe without them.",
 					"href": "/founder/founder-syndrome/",
@@ -310,9 +307,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "ghost"
-					},
 					"a_h3": "Imposter Syndrome",
 					"a_description": "You shipped it, people are using it, and you're still convinced someone will figure out you have no idea what you're doing.",
 					"href": "/founder/imposter-syndrome/",
@@ -322,9 +316,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "hourglass"
-					},
 					"a_h3": "Procrastination",
 					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
 					"href": "/founder/procrastination/",
@@ -334,9 +325,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "skull"
-					},
 					"a_h3": "Zombie Projects",
 					"a_description": "Not alive, not dead. The domain is renewed, the server is running, and the last commit was eight months ago.",
 					"href": "/graveyard/zombie-projects/",

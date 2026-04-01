@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Idea",
-					"href": "/idea/"
+					"href": "/academy/#idea"
 				},
 				{
 					"text": "Validation Skip"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_image": {
 				"alt": "Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting",
 				"width": "1024",
@@ -185,32 +185,32 @@
 			"a_description": "Before writing any code, every gate must pass. If any fails, validate more.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "message-circle"
-					},
 					"a_h3": "Have 5+ strangers confirmed the problem?",
-					"a_description": "Not friends, not family — strangers in your target market. They described the problem in their own words without you prompting the answer."
-				},
-				{
+					"a_description": "Not friends, not family — strangers in your target market. They described the problem in their own words without you prompting the answer.",
 					"a_icon": {
-						"icon": "credit-card"
-					},
-					"a_h3": "Has someone shown a commitment signal?",
-					"a_description": "A waitlist signup, a pre-order, a deposit. Something that cost them time or money — not just verbal enthusiasm."
+						"icon": "users"
+					}
 				},
 				{
+					"a_h3": "Has someone shown a commitment signal?",
+					"a_description": "A waitlist signup, a pre-order, a deposit. Something that cost them time or money — not just verbal enthusiasm.",
+					"a_icon": {
+						"icon": "handshake"
+					}
+				},
+				{
+					"a_h3": "Do alternatives exist?",
+					"a_description": "If no one has tried to solve this before, ask why. Existing competitors are a good sign — they prove people pay for solutions. No competitors often means no market.",
 					"a_icon": {
 						"icon": "search"
-					},
-					"a_h3": "Do alternatives exist?",
-					"a_description": "If no one has tried to solve this before, ask why. Existing competitors are a good sign — they prove people pay for solutions. No competitors often means no market."
+					}
 				},
 				{
+					"a_h3": "Are people currently spending money on this problem?",
+					"a_description": "If the target audience solves the problem with free tools or ignores it entirely, they won't pay for your solution either.",
 					"a_icon": {
 						"icon": "dollar-sign"
-					},
-					"a_h3": "Are people currently spending money on this problem?",
-					"a_description": "If the target audience solves the problem with free tools or ignores it entirely, they won't pay for your solution either."
+					}
 				}
 			]
 		},
@@ -295,9 +295,6 @@
 			"a_description": "Validation skip rarely acts alone. These conditions share the same weakness — building on assumptions instead of evidence.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "brain"
-					},
 					"a_h3": "Analysis Paralysis",
 					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
 					"href": "/idea/analysis-paralysis/",
@@ -307,9 +304,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "sparkles"
-					},
 					"a_h3": "Shiny Object Syndrome",
 					"a_description": "Every week there's a better idea. The current project is 60% done but the new one feels 100% exciting.",
 					"href": "/idea/shiny-object-syndrome/",
@@ -319,9 +313,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "users"
-					},
 					"a_h3": "Customer Validation",
 					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
 					"href": "/market/customer-validation/",
@@ -331,9 +322,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "target"
-					},
 					"a_h3": "Product-Market Fit",
 					"a_description": "You have users, but they're not staying. You have revenue, but it's not growing. Something fits — but not quite.",
 					"href": "/market/product-market-fit/",

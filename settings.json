@@ -1,6 +1,7 @@
 {
 	"site_url": "https://www.sicknesslabs.com",
 	"template": "inSite",
+	"disable_sitemap_page": "1",
 	"start_head_codes": [
 		{
 			"note": "Google Tag Manager",
@@ -15,20 +16,21 @@
 		}
 	],
 	"body_codes": [],
-	"color_primary": "#39FF14",
-	"color_primary-hover": "#32CC11",
+	"color_primary": "#22c55e",
+	"color_primary-hover": "#16a34a",
 	"color_text": "#333333",
 	"color_text-muted": "#747474",
-	"bg_body": "#F5F5F5",
 	"color_border": "#eee",
+	"bg_body": "#F5F5F5",
 	"bg_surface": "#ffffff",
+	"dark_scheme": "use_dark_scheme",
 	"dark_scheme_colors": {
-		"color_primary": "#39FF14",
-		"color_primary-hover": "#32CC11",
-		"color_text": "#333333",
-		"color_text-muted": "#747474",
-		"color_border": "#eee",
-		"bg_body": "#F5F5F5",
-		"bg_surface": "#ffffff"
+		"color_primary": "#22c55e",
+		"color_primary-hover": "#4ade80",
+		"color_text": "#e0e0e0",
+		"color_text-muted": "#a0a0a0",
+		"color_border": "#2a2a2a",
+		"bg_body": "#0e0e0e",
+		"bg_surface": "#1a1a1a"
 	}
 }

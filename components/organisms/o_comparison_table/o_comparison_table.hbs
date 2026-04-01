@@ -1,18 +1,20 @@
-<section class="o_comparison_table grid-sm"
+<section class="o_comparison_table"
 	{{#if section_id}}
 	 id="{{section_id}}"
 	{{/if}}>
-	<div class="col-12">
+	<div class="container-sm">
 		{{> m_section_title }}
 	</div>
-	{{#each columns}}
-	<div class="col-6">
-		{{> a_h3 }}
-		<ul>
-			{{#each items}}
-			<li>{{{this}}}</li>
-			{{/each}}
-		</ul>
+	<div class="grid-sm">
+		{{#each columns}}
+		<div class="col-6">
+			{{> a_h3 }}
+			<ul>
+				{{#each items}}
+				<li>{{{this}}}</li>
+				{{/each}}
+			</ul>
+		</div>
+		{{/each}}
 	</div>
-	{{/each}}
 </section>

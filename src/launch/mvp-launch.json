@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Launch",
-					"href": "/launch/"
+					"href": "/academy/#launch"
 				},
 				{
 					"text": "MVP Launch"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_eyebrow": "Launch",
 			"a_h1": "MVP Launch Strategy &mdash; Beyond &ldquo;Post and Pray&rdquo;",
 			"a_description": "Your MVP launch strategy is posting on Reddit and hoping for the best. That is not a strategy. That is a coin flip with worse odds. Here is what an actual launch campaign looks like.",
@@ -79,7 +79,7 @@
 						"alt": "A focused founder at a dark desk with a single glowing screen showing a structured launch timeline, organized sticky notes on the wall, deliberate and calm atmosphere",
 						"width": "1024",
 						"height": "768",
-						"src": "https://placehold.co/1024x768/000000/FFF?text=placeholder"
+						"src": "/assets/imgs/launch-timeline.jpg"
 					}
 				},
 				{
@@ -223,21 +223,21 @@
 				},
 				{
 					"a_icon": {
-						"icon": "target"
+						"icon": "bar-chart"
 					},
 					"a_h3": "Have you defined success metrics?",
 					"a_description": "Specific numbers for signups, activation rate, and feedback quality. Written down before launch, not invented after the fact to justify the results."
 				},
 				{
 					"a_icon": {
-						"icon": "megaphone"
+						"icon": "send"
 					},
 					"a_h3": "Are your channel posts ready to publish?",
 					"a_description": "Announcements drafted for each channel — Reddit, Product Hunt, Hacker News, Twitter. Each tailored to the platform, not copy-pasted."
 				},
 				{
 					"a_icon": {
-						"icon": "rocket"
+						"icon": "calendar"
 					},
 					"a_h3": "Do you have a follow-through plan?",
 					"a_description": "A written plan for the two weeks after launch: feedback collection, iteration priorities, retrospective publishing, and audience nurturing."
@@ -327,9 +327,6 @@
 			"a_h2": "More Launch-Phase Diseases",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "shield-alert"
-					},
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
 					"href": "/launch/launch-fear/",
@@ -339,9 +336,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "megaphone-off"
-					},
 					"a_h3": "No Distribution",
 					"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget, zero audience, zero plan to change that.",
 					"href": "/launch/no-distribution/",
@@ -351,9 +345,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "users-round"
-					},
 					"a_h3": "No Audience First",
 					"a_description": "Launch day arrives and the only visitor is your own browser. You skipped the part where you build an audience before building the product.",
 					"href": "/launch/no-audience-first/",
@@ -363,9 +354,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "list-ordered"
-					},
 					"a_h3": "Feature Prioritization",
 					"a_description": "Everything feels urgent, nothing feels important. The backlog is a graveyard of half-started features and unranked ideas.",
 					"href": "/build/feature-prioritization/",

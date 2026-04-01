@@ -24,14 +24,7 @@
 							"fu_type": "from_definition",
 							"definition": "m_section_title"
 						},
-						{
-							"fu_type": "text",
-							"fu_label": "Notes placeholder",
-							"fu_name": "placeholder_notes",
-							"width": "fullwidth",
-							"fu_default": "Notes…"
-						},
-						{
+{
 							"fu_type": "text",
 							"fu_label": "Score 1 label",
 							"fu_name": "label_1",
@@ -57,7 +50,7 @@
 							"fu_label": "Summary title",
 							"fu_name": "summary_title",
 							"width": "fullwidth",
-							"fu_default": "Your Diagnosis"
+							"fu_default": "Diagnosis"
 						},
 						{
 							"fu_type": "text",
@@ -112,7 +105,7 @@
 											"fu_label": "[letter]"
 										},
 										{
-											"fu_label": "[a_h3]"
+											"fu_label": "[a_eyebrow]"
 										}
 									],
 									"fields": [
@@ -124,13 +117,11 @@
 										},
 										{
 											"fu_type": "from_definition",
-											"definition": "a_h3"
+											"definition": "a_eyebrow"
 										},
 										{
-											"fu_type": "text",
-											"fu_label": "Question",
-											"fu_name": "question",
-											"width": "fullwidth"
+											"fu_type": "from_definition",
+											"definition": "a_h3"
 										},
 										{
 											"fu_type": "from_definition",

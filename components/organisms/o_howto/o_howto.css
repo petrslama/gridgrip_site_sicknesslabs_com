@@ -24,9 +24,14 @@
 			content: counter(step) ".";
 			grid-row: span 2;
 			font-size: 1rem;
+			font-weight: 600;
 			line-height: 1.2;
 			color: var(--color_text-muted);
 		}
+	}
+
+	.a_h3 {
+		font-size: 1rem;
 	}
 
 	li > div {

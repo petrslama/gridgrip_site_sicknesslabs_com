@@ -1,13 +1,13 @@
 .o_letters {
-
-	&.grid {
-		row-gap: 3rem;
-	}
+	padding-bottom: 0;
 
 	.item {
-		display: grid;
-		grid-template-columns: 4rem 1fr;
+		display: flex;
+		flex-direction: column;
 		gap: 0.5rem;
+		background: var(--bg_surface);
+		border-radius: var(--radius-sm);
+		padding: 1.5rem;
 
 		.letter {
 			display: flex;
@@ -15,7 +15,6 @@
 			justify-content: center;
 			width: 3rem;
 			height: 3rem;
-			border-radius: 50%;
 			background: #111;
 			font-family: var(--font_heading);
 			font-size: 1.5rem;
@@ -24,85 +23,108 @@
 			color: var(--color_primary);
 		}
 
-		.question {
-			text-wrap: balance;
+		.a_description {
+			font-size: .875rem;
+			font-style: italic;
+			color: var(--color_text-muted);
+			margin-top: -.25rem;
 		}
-	}
-
-	.scorecard {
-		display: flex;
-		flex-direction: column;
-		gap: .75rem;
 
 		.score-buttons {
+			display: flex;
 			gap: .5rem;
+			margin-top: .5rem;
 		}
 
 		.score-btn {
-			padding: .5rem 1rem;
-			border: 1px solid var(--color_border);
-			background: var(--bg_surface);
-			color: var(--color_text-muted);
+			padding: .625rem 1.5rem;
+			border: none;
 			cursor: pointer;
-			border-radius: var(--radius-sm);
-			font-size: 1rem;
+			border-radius: 100px;
+			font-size: .875rem;
+			font-weight: 500;
+			opacity: 1;
+			transition: all .3s ease;
 
-			&:hover,
+			&[data-val="3"] { background: #d4edda; color: #1a6130; }
+			&[data-val="2"] { background: #fde9c8; color: #7a4500; }
+			&[data-val="1"] { background: #fdd9d7; color: #7a1f1f; }
+
+			&:focus-visible {
+				outline: 2px solid var(--color_accent);
+				outline-offset: 2px;
+			}
+
 			&.active {
-				border-color: var(--color_text);
-			}
-		}
-
-		textarea {
-			width: 100%;
-			border: 1px solid var(--color_border);
-			background: var(--bg_surface);
-			color: var(--color_text);
-			padding: .75rem 1rem;
-			min-height: 7rem;
-			font: inherit;
-			border-radius: var(--radius-sm);
-			resize: vertical;
-			outline: none;
-
-			&::placeholder {
-				color: var(--color_text-muted);
+				&[data-val="3"] { background: #22c55e; color: #fff; box-shadow: 0 1px 3px rgba(34, 197, 94, .4); }
+				&[data-val="2"] { background: #f59e0b; color: #fff; box-shadow: 0 1px 3px rgba(245, 158, 11, .4); }
+				&[data-val="1"] { background: #ef4444; color: #fff; box-shadow: 0 1px 3px rgba(239, 68, 68, .4); }
 			}
 		}
 	}
 
-	.score-header {
-
-		.score-total {
-			font-family: var(--font_heading);
-			font-size: 2rem;
-			font-weight: 800;
+	.score-panel {
+		@media (min-width: 48rem) {
+			position: sticky;
+			bottom: 0;
+			z-index: 10;
 		}
-	}
-
-	.score-summary {
-		padding: 1.5rem;
+		margin-top: 3rem;
 		background: var(--bg_surface);
-		border-radius: var(--radius-sm);
+		border-top: 1px solid var(--color_border);
+		padding-block: 3rem;
+
+		.score-header {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			margin-bottom: 1rem;
+
+			.score-total {
+				font-family: var(--font_heading);
+				font-size: 2rem;
+				font-weight: 800;
+			}
+		}
 
 		.score-bars {
-			display: flex;
-			gap: 3px;
-			margin-bottom: 1.5rem;
+			display: grid;
+			grid-template-columns: repeat(12, 1fr);
+			gap: 1rem;
+			margin-bottom: 1rem;
 
 			div {
-				flex: 1;
 				text-align: center;
+				grid-column: span 6;
+			}
+
+			@media (min-width: 40rem) {
+				div { grid-column: span 3; }
+			}
+
+			@media (min-width: 48rem) {
+				div { grid-column: span 2; }
+			}
+
+			@media (min-width: 69rem) {
+				div { grid-column: span 1; }
+			}
+
+			b {
+				display: block;
+				font-family: var(--font_heading);
+				font-size: 1rem;
+				font-weight: 800;
+				color: var(--color_text);
+				margin-bottom: .25rem;
 			}
 
 			em {
 				display: block;
 				font-style: normal;
-				font-family: var(--font_heading);
 				font-size: .75rem;
-				font-weight: 800;
 				color: var(--color_text-muted);
-				margin-bottom: .25rem;
+				margin-top: .25rem;
 			}
 
 			span {
@@ -111,9 +133,9 @@
 				background: var(--color_border);
 				border-radius: 2px;
 
-				&.s1 { background: #ff2d2d; }
-				&.s2 { background: #ffb800; }
-				&.s3 { background: #c8ff00; }
+				&.s1 { background: #ef4444; }
+				&.s2 { background: #f59e0b; }
+				&.s3 { background: #22c55e; }
 			}
 		}
 

@@ -11,7 +11,7 @@ TEMPLATE_NAME === 'inSite' ? SITE_DIR . '/components' : ROOT_DIR . '/template/' 
 site/sicknesslabs_com/components/
 	atoms/        a_button, a_description, a_eyebrow, a_fu_type, a_h1, a_h2, a_h3, a_icon, a_image, a_image_cover
 	molecules/    m_buttons, m_section_settings, m_section_title
-	organisms/    o_breadcrumbs, o_cards, o_checklist, o_comparison_table, o_faq, o_footer, o_header, o_hero, o_howto, o_html, o_image_grid, o_paragraphs
+	organisms/    o_breadcrumbs, o_cards, o_checklist, o_comparison_table, o_faq, o_footer, o_header, o_hero, o_hero_article, o_howto, o_html, o_image_grid, o_paragraphs
 	roots/        r_debug, r_html, r_seo
 ```
 
@@ -36,7 +36,7 @@ Content site about "indie project diseases" — founder syndrome, burnout, featu
 
 ### Page Structure Pattern
 - **Section index pages**: o_breadcrumbs + o_hero + o_cards
-- **Article pages**: o_breadcrumbs + o_hero + o_paragraphs (multiple) + optional enrichments (o_image_grid, o_comparison_table, o_checklist, o_howto) + o_faq + o_cards
+- **Article pages**: o_breadcrumbs + o_hero_article + o_paragraphs (multiple) + optional enrichments (o_image_grid, o_comparison_table, o_checklist, o_howto) + o_faq + o_cards
 - **Home**: o_hero + o_html
 - **About**: o_breadcrumbs + o_paragraphs
 
@@ -44,3 +44,37 @@ Content site about "indie project diseases" — founder syndrome, burnout, featu
 - `o_faq` — FAQPage JSON-LD schema
 - `o_howto` — HowTo JSON-LD schema
 - `o_breadcrumbs` — BreadcrumbList JSON-LD schema
+
+## Hosting: Cloudflare Workers (Static Assets)
+
+Domain: `www.sicknesslabs.com` (primary), `sicknesslabs.com` (also routed).
+Non-www → www redirect: set in Cloudflare dashboard (DNS → Rules → Redirect Rules), not in Worker.
+
+### Files
+- **`wrangler.jsonc`** — Worker config (routes, assets directory, html handling, 404)
+- **`_redirects`** — rewrites: `/favicon.ico`, `/style.min.*.css` cache busting
+- **`deploy.sh`** — copies files into `public/`, runs `wrangler deploy`
+- **`public/`** — generated deploy directory (gitignored)
+
+### How deploy.sh builds `public/`
+```
+html/*           → public/* (home.html renamed to index.html)
+style.min.css    → public/style.min.css
+assets/          → public/assets/ (icons/, imgs/, logo.svg)
+root files       → public/ (robots.txt, sitemap.xml, sitemap-images.xml, site.webmanifest, ads.txt, humans.txt, llms.txt, llms-full.txt)
+_redirects       → public/_redirects
+```
+
+### Routing (handled by Cloudflare, not a Worker script)
+- `html_handling: "auto-trailing-slash"` — `/about` → 301 → `/about/` → serves `about.html`
+- `not_found_handling: "404-page"` — missing pages serve `404.html`
+- `_redirects` handles `/favicon.ico` and `/style.min.{timestamp}.css` cache busting
+
+### Deploy
+```bash
+wrangler login                              # first time only
+cd site/sicknesslabs_com && ./deploy.sh     # build public/ + deploy
+```
+
+### What NOT to deploy
+`src/`, `components/`, `dist/`, `keywords/`, `trash/`, `settings.json`, `keywords.json`, `.htaccess`, `style.css`, `filelist.php`, `CLAUDE.md`, `README.md` — CMS/admin only, not needed in production.

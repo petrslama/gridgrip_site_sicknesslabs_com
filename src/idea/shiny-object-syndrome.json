@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Idea",
-					"href": "/idea/"
+					"href": "/academy/#idea"
 				},
 				{
 					"text": "Shiny Object Syndrome"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_image": {
 				"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above",
 				"width": "1024",
@@ -164,32 +164,32 @@
 			"a_description": "Before abandoning your current project for a new idea, every gate must pass. If any fails, it's a shiny object.",
 			"items": [
 				{
+					"a_h3": "Has the idea survived 48 hours?",
+					"a_description": "Write it down and wait two days. If it still feels urgent after the initial dopamine spike fades, it might be real. Most don't survive.",
 					"a_icon": {
 						"icon": "clock"
-					},
-					"a_h3": "Has the idea survived 48 hours?",
-					"a_description": "Write it down and wait two days. If it still feels urgent after the initial dopamine spike fades, it might be real. Most don't survive."
+					}
 				},
 				{
+					"a_h3": "Is someone asking for it?",
+					"a_description": "A real opportunity has external demand — people searching, complaining, paying for alternatives. If the only person excited is you, it's a shiny object.",
 					"a_icon": {
 						"icon": "users"
-					},
-					"a_h3": "Is someone asking for it?",
-					"a_description": "A real opportunity has external demand — people searching, complaining, paying for alternatives. If the only person excited is you, it's a shiny object."
+					}
 				},
 				{
-					"a_icon": {
-						"icon": "x-circle"
-					},
 					"a_h3": "Is your current project genuinely dead?",
-					"a_description": "Not boring — dead. No market, no users, no path forward. If it's just in the messy middle, the problem isn't the project. It's your patience."
+					"a_description": "Not boring — dead. No market, no users, no path forward. If it's just in the messy middle, the problem isn't the project. It's your patience.",
+					"a_icon": {
+						"icon": "skull"
+					}
 				},
 				{
+					"a_h3": "Can you write a post-mortem for the current project?",
+					"a_description": "If you can't articulate why the current project failed with evidence, you're not quitting — you're fleeing. Write the post-mortem first.",
 					"a_icon": {
 						"icon": "file-text"
-					},
-					"a_h3": "Can you write a post-mortem for the current project?",
-					"a_description": "If you can't articulate why the current project failed with evidence, you're not quitting — you're fleeing. Write the post-mortem first."
+					}
 				}
 			]
 		},
@@ -277,9 +277,6 @@
 			"a_description": "Shiny object syndrome thrives alongside these conditions — all fueled by the gap between fantasy and reality.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "brain"
-					},
 					"a_h3": "Analysis Paralysis",
 					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
 					"href": "/idea/analysis-paralysis/",
@@ -289,9 +286,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "eye-off"
-					},
 					"a_h3": "Validation Skip",
 					"a_description": "Building first, asking questions never. The product is finished — but nobody was ever asked if they wanted it.",
 					"href": "/idea/validation-skip/",
@@ -301,9 +295,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "layers"
-					},
 					"a_h3": "Feature Creep",
 					"a_description": "The product started simple. Now it has a dashboard, an API, dark mode, and a settings page with 47 toggles. Nobody asked for any of it.",
 					"href": "/build/feature-creep/",
@@ -313,9 +304,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "crosshair"
-					},
 					"a_h3": "Pivot or Quit",
 					"a_description": "The hardest question in indie building: is this a problem you can fix, or a project you need to walk away from?",
 					"href": "/graveyard/pivot-or-quit/",

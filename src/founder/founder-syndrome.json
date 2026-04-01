@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Founder",
-					"href": "/founder/"
+					"href": "/academy/#founder"
 				},
 				{
 					"text": "Founder Syndrome"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_image": {
 				"alt": "Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field",
 				"width": "1024",
@@ -185,32 +185,32 @@
 			"a_description": "Answer honestly. If three or more are true, you have founder syndrome.",
 			"items": [
 				{
+					"a_h3": "Nothing ships without your sign-off",
+					"a_description": "Pull requests, design decisions, support replies — everything waits for your review before it moves forward.",
 					"a_icon": {
 						"icon": "lock"
-					},
-					"a_h3": "Nothing ships without your sign-off",
-					"a_description": "Pull requests, design decisions, support replies — everything waits for your review before it moves forward."
+					}
 				},
 				{
+					"a_h3": "All context lives in your head",
+					"a_description": "There are no docs, no decision logs, no onboarding materials. If you got hit by a bus, the project dies with you.",
 					"a_icon": {
 						"icon": "brain"
-					},
-					"a_h3": "All context lives in your head",
-					"a_description": "There are no docs, no decision logs, no onboarding materials. If you got hit by a bus, the project dies with you."
+					}
 				},
 				{
-					"a_icon": {
-						"icon": "repeat"
-					},
 					"a_h3": "You redo delegated work",
-					"a_description": "You assign tasks, then quietly redo them because they weren't done the way you would have done them."
+					"a_description": "You assign tasks, then quietly redo them because they weren't done the way you would have done them.",
+					"a_icon": {
+						"icon": "refresh-cw"
+					}
 				},
 				{
-					"a_icon": {
-						"icon": "heart-crack"
-					},
 					"a_h3": "Criticism feels personal",
-					"a_description": "A bug report feels like an insult. A feature request feels like an attack on your judgment. The project is you."
+					"a_description": "A bug report feels like an insult. A feature request feels like an attack on your judgment. The project is you.",
+					"a_icon": {
+						"icon": "heart"
+					}
 				}
 			]
 		},
@@ -301,9 +301,6 @@
 			"a_description": "Founder syndrome doesn't exist in isolation. These related conditions share the same root — when the founder becomes the problem.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "flame"
-					},
 					"a_h3": "Startup Burnout",
 					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
 					"href": "/founder/startup-burnout/",
@@ -313,9 +310,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "ghost"
-					},
 					"a_h3": "Imposter Syndrome",
 					"a_description": "You shipped it, people are using it, and you're still convinced someone will figure out you have no idea what you're doing.",
 					"href": "/founder/imposter-syndrome/",
@@ -325,9 +319,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "hourglass"
-					},
 					"a_h3": "Procrastination",
 					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
 					"href": "/founder/procrastination/",
@@ -337,9 +328,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "brain"
-					},
 					"a_h3": "Analysis Paralysis",
 					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
 					"href": "/idea/analysis-paralysis/",

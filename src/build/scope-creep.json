@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Build",
-					"href": "/build/"
+					"href": "/academy/#build"
 				},
 				{
 					"text": "Scope Creep"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_image": {
 				"alt": "Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective",
 				"width": "1024",
@@ -203,14 +203,14 @@
 				},
 				{
 					"a_icon": {
-						"icon": "user-check"
+						"icon": "check-circle"
 					},
 					"a_h3": "Did the decision-maker approve?",
 					"a_description": "Whoever owns the timeline must sign off. No informal hallway agreements, no \"just this once\" exceptions."
 				},
 				{
 					"a_icon": {
-						"icon": "arrow-left-right"
+						"icon": "scissors"
 					},
 					"a_h3": "What gets cut to make room?",
 					"a_description": "Zero-sum scoping: every addition requires a removal. If nothing gets cut, the project just got bigger without anyone admitting it."
@@ -322,9 +322,6 @@
 			"a_description": "Scope creep rarely acts alone. These conditions share the same weakness — building without boundaries.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "layers"
-					},
 					"a_h3": "Feature Creep",
 					"a_description": "The product started simple. Now it has a dashboard, an API, dark mode, and a settings page with 47 toggles. Nobody asked for any of it.",
 					"href": "/build/feature-creep/",
@@ -334,9 +331,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "wrench"
-					},
 					"a_h3": "MVP Overengineering",
 					"a_description": "Your MVP has a microservice architecture, CI/CD pipeline, and 90% test coverage. It has zero users.",
 					"href": "/build/mvp-overengineering/",
@@ -346,9 +340,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "list-ordered"
-					},
 					"a_h3": "Feature Prioritization",
 					"a_description": "Everything feels urgent, nothing feels important. The backlog is a graveyard of half-started features and unranked ideas.",
 					"href": "/build/feature-prioritization/",
@@ -358,9 +349,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "shield-alert"
-					},
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
 					"href": "/launch/launch-fear/",

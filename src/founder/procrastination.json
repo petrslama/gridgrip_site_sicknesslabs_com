@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Founder",
-					"href": "/founder/"
+					"href": "/academy/#founder"
 				},
 				{
 					"text": "Procrastination"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_image": {
 				"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting",
 				"width": "1024",
@@ -182,32 +182,32 @@
 			"a_description": "Run through this every morning before you open anything else.",
 			"items": [
 				{
+					"a_h3": "What is the single most important task today?",
+					"a_description": "Not three things. Not five. One. The task that, if completed, makes the day a success regardless of what else happens.",
 					"a_icon": {
 						"icon": "target"
-					},
-					"a_h3": "What is the single most important task today?",
-					"a_description": "Not three things. Not five. One. The task that, if completed, makes the day a success regardless of what else happens."
+					}
 				},
 				{
-					"a_icon": {
-						"icon": "alert-triangle"
-					},
 					"a_h3": "Am I avoiding it right now?",
-					"a_description": "If you're reaching for email, Slack, or the task board before doing the hard thing — you're already procrastinating. Catch it early."
+					"a_description": "If you're reaching for email, Slack, or the task board before doing the hard thing — you're already procrastinating. Catch it early.",
+					"a_icon": {
+						"icon": "eye-off"
+					}
 				},
 				{
+					"a_h3": "Can I time-box this decision?",
+					"a_description": "If a decision is blocking progress, give it 30 minutes. When the timer runs out, decide with what you have. Perfect information never arrives.",
 					"a_icon": {
 						"icon": "clock"
-					},
-					"a_h3": "Can I time-box this decision?",
-					"a_description": "If a decision is blocking progress, give it 30 minutes. When the timer runs out, decide with what you have. Perfect information never arrives."
+					}
 				},
 				{
-					"a_icon": {
-						"icon": "ship"
-					},
 					"a_h3": "Will this ship something?",
-					"a_description": "If the task you're about to do won't result in something a user can see or use, question whether it's real work or comfortable avoidance."
+					"a_description": "If the task you're about to do won't result in something a user can see or use, question whether it's real work or comfortable avoidance.",
+					"a_icon": {
+						"icon": "package"
+					}
 				}
 			]
 		},
@@ -301,9 +301,6 @@
 			"a_description": "Procrastination rarely acts alone. These conditions share the same engine — avoidance disguised as effort.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "crown"
-					},
 					"a_h3": "Founder Syndrome",
 					"a_description": "When the founder becomes the bottleneck. Every decision flows through one person, and the project can't breathe without them.",
 					"href": "/founder/founder-syndrome/",
@@ -313,9 +310,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "flame"
-					},
 					"a_h3": "Startup Burnout",
 					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
 					"href": "/founder/startup-burnout/",
@@ -325,9 +319,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "ghost"
-					},
 					"a_h3": "Imposter Syndrome",
 					"a_description": "You shipped it, people are using it, and you're still convinced someone will figure out you have no idea what you're doing.",
 					"href": "/founder/imposter-syndrome/",
@@ -337,9 +328,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "brain"
-					},
 					"a_h3": "Analysis Paralysis",
 					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
 					"href": "/idea/analysis-paralysis/",

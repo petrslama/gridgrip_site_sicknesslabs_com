@@ -13,6 +13,7 @@ Thumbs.db
 html/
 style.css
 style.min.css
+public/
 
 # FTP credentials + remote file list
 .ftp.md

@@ -6,10 +6,10 @@
 		{{> m_section_title }}
 	</div>
 	{{#each items}}
-	<a href="{{href}}" class="card col-3">
+	<{{#if href}}a href="{{href}}"{{else}}div{{/if}} class="card col-3{{#unless a_image.src}} card--no-image{{/unless}}">
 		{{> a_image }}
 		{{> a_h3 }}
 		{{> a_description }}
-	</a>
+	</{{#if href}}a{{else}}div{{/if}}>
 	{{/each}}
 </section>

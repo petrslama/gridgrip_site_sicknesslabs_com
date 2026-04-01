@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Build",
-					"href": "/build/"
+					"href": "/academy/#build"
 				},
 				{
 					"text": "Feature Prioritization"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_image": {
 				"alt": "Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field",
 				"width": "1024",
@@ -216,28 +216,28 @@
 			"items": [
 				{
 					"a_icon": {
-						"icon": "list-checks"
+						"icon": "clipboard"
 					},
 					"a_h3": "Review last week's output",
 					"a_description": "Did you finish your top three? If not, why? Recurring blockers reveal systemic problems — fix those before picking new work."
 				},
 				{
 					"a_icon": {
-						"icon": "message-square"
+						"icon": "message-circle"
 					},
 					"a_h3": "Check user feedback",
 					"a_description": "Read every support message and feature request from the past week. Look for patterns, not individual voices. Pull out the top five support pain points — these are prioritization candidates that come pre-validated."
 				},
 				{
 					"a_icon": {
-						"icon": "target"
+						"icon": "bar-chart"
 					},
 					"a_h3": "Score with your framework",
 					"a_description": "Run the top candidates through ICE or RICE. No gut decisions — numbers first, intuition second."
 				},
 				{
 					"a_icon": {
-						"icon": "scissors"
+						"icon": "crosshair"
 					},
 					"a_h3": "Pick three, kill the rest",
 					"a_description": "Choose your top three for the week. Everything else waits. If you can't pick three, your scoring is broken."
@@ -352,9 +352,6 @@
 			"a_description": "Broken prioritization rarely travels alone. These conditions share the same root — building without a system.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "layers"
-					},
 					"a_h3": "Feature Creep",
 					"a_description": "The product started simple. Now it has a dashboard, an API, dark mode, and a settings page with 47 toggles. Nobody asked for any of it.",
 					"href": "/build/feature-creep/",
@@ -364,9 +361,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "expand"
-					},
 					"a_h3": "Scope Creep",
 					"a_description": "The timeline was two months. Then someone said \"while we're at it\" and now it's month six with no end in sight.",
 					"href": "/build/scope-creep/",
@@ -376,9 +370,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "wrench"
-					},
 					"a_h3": "MVP Overengineering",
 					"a_description": "Your MVP has a microservice architecture, CI/CD pipeline, and 90% test coverage. It has zero users.",
 					"href": "/build/mvp-overengineering/",
@@ -388,9 +379,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "brain"
-					},
 					"a_h3": "Analysis Paralysis",
 					"a_description": "Trapped in an endless loop of research, comparison, and what-ifs. You know everything about the market — except how to start.",
 					"href": "/idea/analysis-paralysis/",

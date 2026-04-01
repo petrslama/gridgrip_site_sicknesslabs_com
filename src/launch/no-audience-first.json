@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Launch",
-					"href": "/launch/"
+					"href": "/academy/#launch"
 				},
 				{
 					"text": "No Audience First"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_eyebrow": "Launch",
 			"a_h1": "No Audience First &mdash; Launch Day With Zero Visitors",
 			"a_description": "Launch day arrives and the only visitor is your own browser. You built the product first and the audience never. That is not a launch — that is a tree falling in an empty forest.",
@@ -241,21 +241,21 @@
 				},
 				{
 					"a_icon": {
-						"icon": "search"
+						"icon": "globe"
 					},
 					"a_h3": "Have you validated the problem publicly?",
 					"a_description": "Published at least one piece of content about the problem space that got genuine engagement — comments, replies, shares from people you do not know personally."
 				},
 				{
 					"a_icon": {
-						"icon": "brain"
+						"icon": "bell"
 					},
 					"a_h3": "Does your audience know a launch is coming?",
 					"a_description": "You have communicated a timeline, shared previews, and built anticipation. Your audience is not just aware — they are expecting something from you."
 				},
 				{
 					"a_icon": {
-						"icon": "zap"
+						"icon": "radio"
 					},
 					"a_h3": "Do you have a channel that reliably reaches people?",
 					"a_description": "A newsletter with consistent open rates, a community where your posts get responses, or a social account where people actually engage. At least one channel you can count on."
@@ -342,9 +342,6 @@
 			"a_h2": "More Launch-Phase Diseases",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "shield-alert"
-					},
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
 					"href": "/launch/launch-fear/",
@@ -354,9 +351,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "megaphone-off"
-					},
 					"a_h3": "No Distribution",
 					"a_description": "You built it. Nobody came. Because nobody knew. Zero marketing budget, zero audience, zero plan to change that.",
 					"href": "/launch/no-distribution/",
@@ -366,9 +360,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "rocket"
-					},
 					"a_h3": "MVP Launch",
 					"a_description": "Your MVP launch strategy is \"post on Reddit and hope.\" That's not a strategy — that's a wish.",
 					"href": "/launch/mvp-launch/",
@@ -378,9 +369,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "users"
-					},
 					"a_h3": "Customer Validation",
 					"a_description": "You talked to five friends who said \"that's cool.\" That's not validation — that's politeness.",
 					"href": "/market/customer-validation/",

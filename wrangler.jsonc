@@ -1,0 +1,14 @@
+{
+	"name": "sicknesslabs-com",
+	"compatibility_date": "2026-03-31",
+	"assets": {
+		"directory": "./public",
+		"html_handling": "auto-trailing-slash",
+		"not_found_handling": "404-page"
+	},
+	"workers_dev": false,
+	"routes": [
+		{ "pattern": "sicknesslabs.com/*", "zone_name": "sicknesslabs.com" },
+		{ "pattern": "www.sicknesslabs.com/*", "zone_name": "sicknesslabs.com" }
+	]
+}

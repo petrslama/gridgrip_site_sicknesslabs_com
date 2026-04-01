@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Graveyard",
-					"href": "/graveyard/"
+					"href": "/academy/#graveyard"
 				},
 				{
 					"text": "Zombie Projects"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_eyebrow": "Graveyard",
 			"a_h1": "Zombie Projects &mdash; Not Dead, Not Alive, Just Running",
 			"a_description": "The domain is renewed. The server is running. The last commit was eight months ago. Welcome to the project graveyard, where abandoned startups live on life support and nobody has the guts to pull the plug.",
@@ -188,14 +188,14 @@
 			"items": [
 				{
 					"a_icon": {
-						"icon": "archive"
+						"icon": "git-commit"
 					},
 					"a_h3": "When was the last meaningful commit?",
 					"a_description": "Not a dependency update or a typo fix — a real feature, a real fix, a real decision. If the answer is measured in months, the project is cold. If you can't remember without checking, it's already dead."
 				},
 				{
 					"a_icon": {
-						"icon": "crosshair"
+						"icon": "list"
 					},
 					"a_h3": "Can you name the next three things you'd build?",
 					"a_description": "Active projects have a backlog that excites you. Zombie projects have a vague sense of \"I should probably...\" If you can't list three concrete next steps in 30 seconds, there's no roadmap — just guilt."
@@ -209,14 +209,14 @@
 				},
 				{
 					"a_icon": {
-						"icon": "skull"
+						"icon": "play"
 					},
 					"a_h3": "Would you start this project today?",
 					"a_description": "The sunk cost killer. Forget everything you've built. If you had the idea today with zero code written, would you begin? If no, the only reason it exists is because it already exists — and that's not a reason."
 				},
 				{
 					"a_icon": {
-						"icon": "shield"
+						"icon": "heart"
 					},
 					"a_h3": "Is it costing you more than money?",
 					"a_description": "Hosting fees are obvious. The hidden cost is the mental tab it keeps open — the low-grade guilt every time you see it in your bookmarks, the awkward explanation when someone asks about it. If it drains your energy, it's a zombie."
@@ -303,9 +303,6 @@
 			"a_h2": "More Graveyard Diseases",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "infinity"
-					},
 					"a_h3": "Perpetual Beta",
 					"a_description": "\"We're still in beta\" is the startup version of \"it's not you, it's me.\" The product will never be ready because ready means accountable.",
 					"href": "/graveyard/perpetual-beta/",
@@ -315,9 +312,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "crosshair"
-					},
 					"a_h3": "Pivot or Quit",
 					"a_description": "The hardest question in indie building: is this a problem you can fix, or a project you need to walk away from?",
 					"href": "/graveyard/pivot-or-quit/",
@@ -327,9 +321,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "flame"
-					},
 					"a_h3": "Startup Burnout",
 					"a_description": "The slow burn that turns passion into exhaustion. You're still shipping, but you stopped caring three months ago.",
 					"href": "/founder/startup-burnout/",
@@ -339,9 +330,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "hourglass"
-					},
 					"a_h3": "Procrastination",
 					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
 					"href": "/founder/procrastination/",

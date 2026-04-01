@@ -11,28 +11,12 @@
 			"aria_label": "Open navigation",
 			"navigation": [
 				{
-					"label": "Founder",
-					"href": "/founder/"
+					"label": "Project Check",
+					"href": "/"
 				},
 				{
-					"label": "Idea",
-					"href": "/idea/"
-				},
-				{
-					"label": "Build",
-					"href": "/build/"
-				},
-				{
-					"label": "Market",
-					"href": "/market/"
-				},
-				{
-					"label": "Launch",
-					"href": "/launch/"
-				},
-				{
-					"label": "Graveyard",
-					"href": "/graveyard/"
+					"label": "Academy",
+					"href": "/academy/"
 				}
 			],
 			"m_buttons": []

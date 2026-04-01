@@ -9,7 +9,7 @@
 				},
 				{
 					"text": "Idea",
-					"href": "/idea/"
+					"href": "/academy/#idea"
 				},
 				{
 					"text": "Analysis Paralysis"
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"fu_type": "o_hero",
+			"fu_type": "o_hero_article",
 			"a_image": {
 				"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography",
 				"width": "1024",
@@ -182,32 +182,32 @@
 			"a_description": "If all four are true, you have enough information to decide. Stop researching.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "check-circle"
-					},
 					"a_h3": "You can name the top two options",
-					"a_description": "If you can clearly articulate two viable choices, you have enough information. The third, fourth, and fifth options are noise."
+					"a_description": "If you can clearly articulate two viable choices, you have enough information. The third, fourth, and fifth options are noise.",
+					"a_icon": {
+						"icon": "list"
+					}
 				},
 				{
+					"a_h3": "You know the trade-offs of each",
+					"a_description": "You don't need to know everything — just the meaningful differences. If you can explain why each option is better and worse, you're ready.",
 					"a_icon": {
 						"icon": "scale"
-					},
-					"a_h3": "You know the trade-offs of each",
-					"a_description": "You don't need to know everything — just the meaningful differences. If you can explain why each option is better and worse, you're ready."
+					}
 				},
 				{
+					"a_h3": "The decision is reversible",
+					"a_description": "Most technical and business decisions can be changed later. If you can switch course in weeks rather than years, the stakes are lower than they feel.",
 					"a_icon": {
 						"icon": "undo"
-					},
-					"a_h3": "The decision is reversible",
-					"a_description": "Most technical and business decisions can be changed later. If you can switch course in weeks rather than years, the stakes are lower than they feel."
+					}
 				},
 				{
-					"a_icon": {
-						"icon": "clock"
-					},
 					"a_h3": "You've spent more than a week on this",
-					"a_description": "If you've been researching the same decision for over a week, additional research won't change the outcome. Decide now."
+					"a_description": "If you've been researching the same decision for over a week, additional research won't change the outcome. Decide now.",
+					"a_icon": {
+						"icon": "calendar"
+					}
 				}
 			]
 		},
@@ -295,9 +295,6 @@
 			"a_description": "Analysis paralysis rarely travels alone. These conditions share the same root — fear disguised as caution.",
 			"items": [
 				{
-					"a_icon": {
-						"icon": "sparkles"
-					},
 					"a_h3": "Shiny Object Syndrome",
 					"a_description": "Every week there's a better idea. The current project is 60% done but the new one feels 100% exciting.",
 					"href": "/idea/shiny-object-syndrome/",
@@ -307,9 +304,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "eye-off"
-					},
 					"a_h3": "Validation Skip",
 					"a_description": "Building first, asking questions never. The product is finished — but nobody was ever asked if they wanted it.",
 					"href": "/idea/validation-skip/",
@@ -319,9 +313,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "hourglass"
-					},
 					"a_h3": "Procrastination",
 					"a_description": "Researching, planning, reorganizing — anything but the one task that would actually move the project forward.",
 					"href": "/founder/procrastination/",
@@ -331,9 +322,6 @@
 					}
 				},
 				{
-					"a_icon": {
-						"icon": "shield-alert"
-					},
 					"a_h3": "Launch Fear",
 					"a_description": "The product is 95% ready. It's been 95% ready for four months. There's always one more thing before it's \"really\" ready.",
 					"href": "/launch/launch-fear/",

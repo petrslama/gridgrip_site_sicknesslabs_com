@@ -1,3 +1,21 @@
 .o_hero {
 	align-items: center;
+
+	> :first-child {
+		order: 1;
+	}
+
+	> :last-child {
+		order: 0;
+	}
+
+	@media (min-width: 69rem) {
+		> :first-child {
+			order: 0;
+		}
+
+		> :last-child {
+			order: 1;
+		}
+	}
 }
