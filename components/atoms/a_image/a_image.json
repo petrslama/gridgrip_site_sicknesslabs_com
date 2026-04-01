@@ -31,6 +31,24 @@
 					"fu_label": "Link",
 					"fu_name": "href",
 					"fu_list": "datalist__site_pages_links"
+				},
+				{
+					"fu_type": "select",
+					"fu_label": "Fetch Priority",
+					"fu_name": "fetchpriority",
+					"values": [
+						{
+							"fu_label": "-"
+						},
+						{
+							"fu_label": "High",
+							"fu_value": "high"
+						},
+						{
+							"fu_label": "Low",
+							"fu_value": "low"
+						}
+					]
 				}
 			]
 		}

@@ -25,7 +25,8 @@
 				"src": "/assets/imgs/empty-theater.jpg",
 				"alt": "Empty theater with a spotlight on an empty stage, no audience metaphor, dark moody atmosphere",
 				"width": "1024",
-				"height": "768"
+				"height": "768",
+				"fetchpriority": "high"
 			}
 		},
 		{

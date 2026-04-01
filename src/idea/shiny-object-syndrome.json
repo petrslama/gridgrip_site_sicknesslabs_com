@@ -22,7 +22,8 @@
 				"alt": "Magpie bird surrounded by scattered glittering jewels, coins, and metallic trinkets on a dark surface, some objects half-buried, dark moody atmosphere, dramatic spotlight from above",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/magpie-trinkets.jpg"
+				"src": "/assets/imgs/magpie-trinkets.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Idea",
 			"a_h1": "Shiny Object Syndrome — Why You Keep Starting and Never Finishing",

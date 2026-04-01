@@ -22,7 +22,8 @@
 				"alt": "Single hand gripping dozens of tangled puppet strings controlling many small marionettes at once, dramatic side lighting from above, dark background, shallow depth of field",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/puppet-strings.jpg"
+				"src": "/assets/imgs/puppet-strings.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Founder",
 			"a_h1": "Founder Syndrome — When You Become the Bottleneck",

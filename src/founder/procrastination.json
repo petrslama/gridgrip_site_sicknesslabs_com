@@ -22,7 +22,8 @@
 				"alt": "Ornate hourglass with sand frozen mid-fall suspended in time, golden grains hanging motionless in the air, dark background, dramatic macro photography, warm side lighting",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/frozen-hourglass.jpg"
+				"src": "/assets/imgs/frozen-hourglass.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Founder",
 			"a_h1": "Procrastination — The Art of Productive Avoidance",

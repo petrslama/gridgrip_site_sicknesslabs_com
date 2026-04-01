@@ -22,7 +22,8 @@
 				"alt": "Simple wooden doorframe with dozens of progressively larger ornate frames layered around it expanding outward, dark room, dramatic spotlight from above, forced perspective",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/expanding-doorframe.jpg"
+				"src": "/assets/imgs/expanding-doorframe.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Build",
 			"a_h1": "Scope Creep — The Silent Expansion That Kills Deadlines",

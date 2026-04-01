@@ -22,7 +22,8 @@
 				"alt": "Cracked vintage mirror reflecting a distorted shadowy silhouette, fragments showing different uncertain expressions, dark moody room, dramatic side lighting, shallow depth of field",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/cracked-mirror.jpg"
+				"src": "/assets/imgs/cracked-mirror.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Founder",
 			"a_h1": "Imposter Syndrome — You Shipped It, but You Don't Believe It",

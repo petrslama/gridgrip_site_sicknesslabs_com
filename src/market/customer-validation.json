@@ -22,7 +22,8 @@
 				"alt": "Large magnifying glass hovering over a crowd of small wooden figurines, one figurine glowing under the lens, dark background, dramatic spotlight, shallow depth of field",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/magnifying-crowd.jpg"
+				"src": "/assets/imgs/magnifying-crowd.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Market",
 			"a_h1": "Customer Validation — Stop Guessing, Start Asking",

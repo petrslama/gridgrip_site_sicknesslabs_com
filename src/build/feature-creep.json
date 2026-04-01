@@ -22,7 +22,8 @@
 				"alt": "Overloaded Swiss army knife with too many absurd tools sticking out, dark background, feature bloat metaphor",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/swiss-army-knife.jpg"
+				"src": "/assets/imgs/swiss-army-knife.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Build",
 			"a_h1": "Feature Creep — When Your Product Tries to Do Everything",

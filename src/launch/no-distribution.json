@@ -25,7 +25,8 @@
 				"src": "/assets/imgs/empty-warehouse.jpg",
 				"alt": "Beautiful product sitting alone in a dark empty warehouse, no distribution channels metaphor",
 				"width": "1024",
-				"height": "768"
+				"height": "768",
+				"fetchpriority": "high"
 			}
 		},
 		{

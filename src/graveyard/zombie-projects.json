@@ -25,7 +25,8 @@
 				"src": "/assets/imgs/zombie-laptop.jpg",
 				"alt": "Zombie hand reaching out of laptop screen in dark room, undead project metaphor, horror atmosphere",
 				"width": "1024",
-				"height": "768"
+				"height": "768",
+				"fetchpriority": "high"
 			}
 		},
 		{

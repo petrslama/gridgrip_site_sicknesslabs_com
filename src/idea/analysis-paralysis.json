@@ -22,7 +22,8 @@
 				"alt": "Vintage compass with the needle spinning wildly in multiple directions at once, motion blur on the needle, dark wooden surface, dramatic overhead lighting, macro photography",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/spinning-compass.jpg"
+				"src": "/assets/imgs/spinning-compass.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Idea",
 			"a_h1": "Analysis Paralysis — When Overthinking Replaces Building",

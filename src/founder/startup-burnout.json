@@ -22,7 +22,8 @@
 				"alt": "Single burnt matchstick still faintly smoldering next to a row of fresh unlit matches, dark background, dramatic macro photography, warm ember glow against cold tones",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/burnt-matchstick.jpg"
+				"src": "/assets/imgs/burnt-matchstick.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Founder",
 			"a_h1": "Startup Burnout — The Slow Fire That Kills Your Drive",

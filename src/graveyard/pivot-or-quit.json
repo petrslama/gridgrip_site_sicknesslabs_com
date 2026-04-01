@@ -25,7 +25,8 @@
 				"src": "/assets/imgs/fork-in-road.jpg",
 				"alt": "Fork in a dark road with one path leading to light and the other to darkness, decision crossroads",
 				"width": "1024",
-				"height": "768"
+				"height": "768",
+				"fetchpriority": "high"
 			}
 		},
 		{

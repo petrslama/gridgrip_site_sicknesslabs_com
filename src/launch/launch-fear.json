@@ -25,7 +25,8 @@
 				"src": "/assets/imgs/launch-button.jpg",
 				"alt": "Finger hovering over a big red launch button trembling, dark dramatic close-up, launch anxiety",
 				"width": "1024",
-				"height": "768"
+				"height": "768",
+				"fetchpriority": "high"
 			}
 		},
 		{

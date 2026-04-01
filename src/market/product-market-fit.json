@@ -25,7 +25,8 @@
 				"src": "/assets/imgs/puzzle-fit.jpg",
 				"alt": "Puzzle piece floating above a puzzle board almost fitting but not quite, dark atmospheric lighting",
 				"width": "1024",
-				"height": "768"
+				"height": "768",
+				"fetchpriority": "high"
 			}
 		},
 		{

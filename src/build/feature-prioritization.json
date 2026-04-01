@@ -22,7 +22,8 @@
 				"alt": "Messy chess board with dozens of mismatched pieces crowding each square, some pieces knocked over, dark moody lighting, overhead view, shallow depth of field",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/chess-board.jpg"
+				"src": "/assets/imgs/chess-board.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Build",
 			"a_h1": "Feature Prioritization — How to Decide What Actually Matters",

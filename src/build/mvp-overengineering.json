@@ -22,7 +22,8 @@
 				"alt": "Ornate golden jewel-encrusted hammer resting next to a single tiny simple nail on a dark wooden surface, dramatic side lighting, shallow depth of field",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/golden-hammer.jpg"
+				"src": "/assets/imgs/golden-hammer.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Build",
 			"a_h1": "MVP Overengineering — When Your \"Minimum\" Isn't Minimal",

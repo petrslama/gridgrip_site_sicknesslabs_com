@@ -25,7 +25,8 @@
 				"src": "/assets/imgs/market-compass.jpg",
 				"alt": "Compass spinning wildly on a dark map with question marks, market direction uncertainty metaphor",
 				"width": "1024",
-				"height": "768"
+				"height": "768",
+				"fetchpriority": "high"
 			}
 		},
 		{

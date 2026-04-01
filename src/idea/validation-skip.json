@@ -22,7 +22,8 @@
 				"alt": "Person mid-leap over a wide gap in a crumbling stone bridge, far side barely visible in fog, dramatic perspective from below, dark stormy sky, cinematic lighting",
 				"width": "1024",
 				"height": "768",
-				"src": "/assets/imgs/bridge-leap.jpg"
+				"src": "/assets/imgs/bridge-leap.jpg",
+				"fetchpriority": "high"
 			},
 			"a_eyebrow": "Idea",
 			"a_h1": "Validation Skip — Building First, Asking Questions Never",
