@@ -8,6 +8,7 @@
 			align-items: center;
 			gap: .75rem;
 			margin-bottom: .75rem;
+			text-decoration: none;
 		}
 
 		.a_image img {
@@ -23,6 +24,10 @@
 			font-size: 1.25rem;
 			color: var(--color_text);
 		}
+	}
+
+	.a_h3 {
+		margin-top: .75rem;
 	}
 
 	.nav-list {

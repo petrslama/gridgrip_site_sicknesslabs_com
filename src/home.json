@@ -2,9 +2,9 @@
 	"sections": [
 		{
 			"fu_type": "o_features",
-			"a_eyebrow": "SICKNESS Framework",
+			"a_eyebrow": "SicknessLabs Framework",
 			"a_h1": "Measure your project's viability before you build",
-			"a_description": "Most indie projects fail before launch. SICKNESS is a 12-point framework that exposes the weak spots in your idea — from market validation and pricing to your own assumptions and blind spots. No buzzwords, just hard questions you need to answer before investing time and money.",
+			"a_description": "Most indie projects fail before launch. SicknessLabs is a 12-point framework that exposes the weak spots in your idea — from market validation and pricing to your own assumptions and blind spots. No buzzwords, just hard questions you need to answer before investing time and money.",
 			"items": [
 				{
 					"title": "Clarity on viability",

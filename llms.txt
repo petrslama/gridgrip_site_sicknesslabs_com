@@ -8,7 +8,7 @@ Sickness Labs is a content site about "indie project diseases" — the recurring
 
 ## Main Pages
 
-- [Home](https://www.sicknesslabs.com/): SICKNESS Framework scorecard — 12 criteria to diagnose your project
+- [Home](https://www.sicknesslabs.com/): SicknessLabs Framework scorecard — 12 criteria to diagnose your project
 - [Founder](https://www.sicknesslabs.com/founder/): Diseases that live in the person — founder syndrome, burnout, imposter syndrome, procrastination
 - [Idea](https://www.sicknesslabs.com/idea/): Diseases before the first line of code — analysis paralysis, shiny object syndrome, skipping validation
 - [Build](https://www.sicknesslabs.com/build/): Diseases that infect the product — feature creep, scope creep, MVP overengineering, feature prioritization

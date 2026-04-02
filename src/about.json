@@ -13,39 +13,79 @@
 			]
 		},
 		{
+			"fu_type": "o_hero_article",
+			"a_eyebrow": "About",
+			"a_h1": "Diagnosing What Kills Indie Projects",
+			"a_description": "Most indie projects don't die from bad ideas. They die from recognizable, nameable patterns — founder syndrome, scope creep, launch fear, pricing phobia — that nobody talks about directly. Sickness Labs names them. Describes how they spread. Explains what they cost you. This isn't a blog. It's a field guide to the specific diseases that kill projects built by one person, or a very small team, without the guardrails of investors or deadlines or accountability.",
+			"a_image": {},
+			"m_buttons": []
+		},
+		{
 			"fu_type": "o_paragraphs",
-			"a_h2": "About Page Heading",
-			"a_description": "Brief intro to the about page.",
+			"a_h2": "Who It's For",
 			"paragraphs": [
 				{
-					"text": "First paragraph about the company, team, or project. Tell visitors who you are and what you do."
+					"text": "You're building something on the side, or you've gone all in on something small. You've shipped before, or you haven't. Either way, you've felt the pull to add one more feature, or spent three weeks picking a name, or avoided pricing your product because you're not sure it's worth anything yet."
 				},
 				{
-					"text": "Second paragraph with more details, history, or mission statement."
+					"text": "That's who this is for. Builders who work mostly alone and need an honest look at what's going wrong — not encouragement."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The SicknessLabs Framework",
+			"paragraphs": [
+				{
+					"text": "The site is built around a 12-point diagnostic called the SicknessLabs framework. It's a set of yes/no questions that map to the most common failure modes in indie projects. Ship. Intuitive. Cost. Know. Need. Earn. Space. Soul. Lies. Assumptions. Bullshit. Stripped."
+				},
+				{
+					"text": "You go through the questions. You find out where the holes are. Then you read about the specific diseases that live in those holes."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "The Philosophy",
+			"paragraphs": [
+				{
+					"text": "Diagnosis before prescription. Most advice skips straight to fixes — ship faster, validate earlier, charge more. That advice isn't wrong, but it lands differently when you understand what's actually broken first."
+				},
+				{
+					"text": "Sickness Labs doesn't tell you your project is going to make it. It tells you what's currently killing it. What you do with that is up to you."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Who Made This",
+			"paragraphs": [
+				{
+					"text": "I started this by writing down a handful of patterns I kept seeing — in my own projects, in other people's. I was waiting for an electrician. By the time he showed up, I had a list that felt like it meant something. I added two letters I don't remember, and the whole thing clicked into place. No plan. No framework session. The electrician was an hour late. Best hour I've wasted."
 				}
 			]
 		}
 	],
 	"seo": {
-		"title": "About — Website Name",
-		"description": "Meta description for the about page (150-160 characters recommended).",
+		"title": "About — Sickness Labs",
+		"description": "Sickness Labs names the patterns that kill indie projects before they ship — founder syndrome, scope creep, launch fear — and gives you tools to diagnose them.",
 		"og": {
-			"title": "About — Website Name",
-			"description": "Open Graph description for the about page.",
-			"url": "https://www.example.com/about",
+			"title": "About — Sickness Labs | Indie Project Diagnostics",
+			"description": "Not a startup blog. A diagnostic tool for indie builders who want to know what's actually wrong with their project.",
+			"url": "https://www.sicknesslabs.com/about",
 			"type": "website",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",
-				"alt": "OG image description"
+				"alt": "Sickness Labs — indie project disease diagnosis"
 			}
 		},
 		"twitter": {
 			"card": "summary_large_image",
-			"title": "About — Website Name",
-			"description": "Twitter card description for the about page.",
+			"title": "About — Sickness Labs | Indie Project Diagnostics",
+			"description": "Not a startup blog. A diagnostic tool for indie builders who want to know what's actually wrong with their project.",
 			"image": {
 				"src": "/assets/imgs/og-image.jpg",
-				"alt": "Twitter image description"
+				"alt": "Sickness Labs — indie project disease diagnosis"
 			}
 		}
 	},

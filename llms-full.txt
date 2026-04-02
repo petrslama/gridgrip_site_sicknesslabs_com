@@ -4,7 +4,7 @@
 
 ## About
 
-Sickness Labs is a content site about "indie project diseases" — the recurring patterns that kill side projects, startups, and indie products. 6 sections, 22 articles covering the full lifecycle from idea to graveyard. The homepage features the SICKNESS Framework — a 12-criteria scorecard to diagnose your project's health.
+Sickness Labs is a content site about "indie project diseases" — the recurring patterns that kill side projects, startups, and indie products. 6 sections, 22 articles covering the full lifecycle from idea to graveyard. The homepage features the SicknessLabs Framework — a 12-criteria scorecard to diagnose your project's health.
 
 ---
 
@@ -14,7 +14,7 @@ URL: https://www.sicknesslabs.com/
 
 Every indie project dies of something. We diagnose what's killing yours — before it flatlines.
 
-The SICKNESS Framework is a 12-criteria scorecard. Rate each 1–3. If anything scores a 1, that's a knockout.
+The SicknessLabs Framework is a 12-criteria scorecard. Rate each 1–3. If anything scores a 1, that's a knockout.
 
 The 12 criteria: Ship (can you launch in one week?), Intuitive (does anyone understand the value?), Cost (can you self-fund?), Know (who exactly is this for?), Need (will people pay today?), Earn (clear pricing model?), Space (low competition, organic discovery?), Soul (ethically sound?), Lies (are you lying to yourself?), Assumptions (verified with evidence?), Bullshit (can you name three weaknesses?), Stripped (what remains after subtracting lies, assumptions, and BS?).
 
