@@ -148,7 +148,7 @@
 					"text": "Here's how to validate your startup idea before writing a single line of code. This isn't theoretical — it's a weekend exercise that separates real opportunities from fantasies."
 				},
 				{
-					"text": "<strong>Saturday morning: problem interviews.</strong> Find 5 people in your target audience (Reddit, Twitter, LinkedIn, industry Slack groups). Ask them about the problem you're solving. Don't pitch your solution. Just ask: \"How do you currently handle X? What's frustrating about it? Have you tried to solve it? What did you try?\" Listen more than you talk. Take notes on exact words they use."
+					"text": "<strong>Saturday morning: problem interviews.</strong> Find 5 people in your target audience (<a href=\"https://www.reddit.com/\" target=\"_blank\" rel=\"noopener\">Reddit</a>, <a href=\"https://x.com/\" target=\"_blank\" rel=\"noopener\">Twitter</a>, <a href=\"https://www.linkedin.com/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a>, industry Slack groups). Ask them about the problem you're solving. Don't pitch your solution. Just ask: \"How do you currently handle X? What's frustrating about it? Have you tried to solve it? What did you try?\" Listen more than you talk. Take notes on exact words they use."
 				},
 				{
 					"text": "<strong>Saturday afternoon: competitive analysis.</strong> Find every existing solution to this problem. If nothing exists, that's a red flag, not a green one — it often means the market doesn't care enough to pay. If solutions exist, study their reviews. What do users complain about? That's your opportunity. What do they praise? That's your table stakes."
@@ -226,7 +226,7 @@
 					"text": "But the cost isn't just time. It's emotional. You've now spent months on something that doesn't work, and you have to confront that. Some founders pivot. Most quit entirely — not just the project, but the whole idea of building things. The validation skip doesn't just kill one project. It often kills the founder's willingness to try again."
 				},
 				{
-					"text": "The sunk cost fallacy makes it worse. After three months of building, you're not going to throw it away based on 5 user interviews. So you keep building, keep adding features, keep telling yourself that the next feature will be the one that makes people care. It won't. Features don't fix a problem that doesn't exist."
+					"text": "The sunk cost fallacy makes it worse. After three months of building, you're not going to throw it away based on 5 user interviews. So you keep building, keep <a href=\"/build/feature-creep/\">adding features</a>, keep telling yourself that the next feature will be the one that makes people care. It won't. Features don't fix a problem that doesn't exist."
 				},
 				{
 					"text": "Every successful startup founder you admire validated before they built. They might not call it validation — they might call it \"talking to users\" or \"customer development\" or \"market research.\" But they all did it. The ones who didn't are the ones you've never heard of."

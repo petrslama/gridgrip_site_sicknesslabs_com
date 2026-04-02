@@ -153,7 +153,7 @@
 			"a_h2": "Perpetual Beta and Product-Market Fit",
 			"paragraphs": [
 				{
-					"text": "Here's where perpetual beta becomes genuinely dangerous: <strong>you cannot find product-market fit for SaaS if you never actually go to market.</strong> PMF isn't something you design in isolation. It's something you discover through collision with reality &mdash; real users, real pricing, real competition."
+					"text": "Here's where perpetual beta becomes genuinely dangerous: <strong>you cannot find <a href=\"/market/product-market-fit/\">product-market fit</a> for SaaS if you never actually go to market.</strong> PMF isn't something you design in isolation. It's something you discover through collision with reality &mdash; real users, real pricing, real competition."
 				},
 				{
 					"text": "The relationship between perpetual beta and product-market fit is adversarial. PMF requires data. Data requires users. Users require a launched product. Perpetual beta blocks the entire chain. You're running a scientific experiment where you refuse to look at the results."
@@ -168,7 +168,7 @@
 			"a_h2": "The MVP Launch Strategy You're Avoiding",
 			"paragraphs": [
 				{
-					"text": "An MVP launch strategy exists precisely for products like yours &mdash; the ones that feel unfinished because they are, and that's the point. The \"minimum\" in minimum viable product isn't a weakness. It's a discipline. It means you've identified the smallest version of your product that can generate real feedback, and you've committed to shipping it."
+					"text": "An <a href=\"/launch/mvp-launch/\">MVP launch strategy</a> exists precisely for products like yours &mdash; the ones that feel unfinished because they are, and that's the point. The \"minimum\" in minimum viable product isn't a weakness. It's a discipline. It means you've identified the smallest version of your product that can generate real feedback, and you've committed to shipping it."
 				},
 				{
 					"text": "Perpetual beta founders struggle with MVP thinking because they confuse \"minimum\" with \"bad.\" Your MVP doesn't need to be embarrassing. It needs to be <strong>focused</strong>. One core workflow, done well, with a way to collect feedback. That's it. Everything else is a future version's problem."
@@ -186,7 +186,7 @@
 			"items": [
 				{
 					"a_icon": {
-						"icon": "check-circle"
+						"icon": "circle-check"
 					},
 					"a_h3": "Can a user complete the core workflow end to end?",
 					"a_description": "Not every workflow. The core one. If a user can sign up, do the main thing, and get value — you have a launchable product. Everything else is a post-launch iteration."

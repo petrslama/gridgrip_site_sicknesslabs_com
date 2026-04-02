@@ -98,7 +98,7 @@
 					"text": "The psychology behind zombie projects is surprisingly simple: <strong>shutting something down feels like admitting failure.</strong> As long as the server runs, you haven't failed. You've just... not finished yet. There's a difference, right?"
 				},
 				{
-					"text": "Wrong. The perpetual beta mindset and the zombie project share the same root &mdash; an inability to draw a line and say \"this is done, and done means over.\" Every indie builder has at least one project they keep alive purely out of guilt. You spent six months on it. You told people about it. You bought the domain for three years."
+					"text": "Wrong. The <a href=\"/graveyard/perpetual-beta/\">perpetual beta</a> mindset and the zombie project share the same root &mdash; an inability to draw a line and say \"this is done, and done means over.\" Every indie builder has at least one project they keep alive purely out of guilt. You spent six months on it. You told people about it. You bought the domain for three years."
 				},
 				{
 					"text": "But here's the uncomfortable truth: keeping a dead project alive costs more than killing it. Not just in hosting fees &mdash; in <em>mental overhead</em>. Every zombie project occupies a slot in your brain. It's one more thing on the list you'll never get to, one more tab you keep open, one more source of low-grade anxiety every time someone asks \"so what happened with that thing?\""
@@ -189,7 +189,7 @@
 			"items": [
 				{
 					"a_icon": {
-						"icon": "git-commit"
+						"icon": "git-commit-horizontal"
 					},
 					"a_h3": "When was the last meaningful commit?",
 					"a_description": "Not a dependency update or a typo fix — a real feature, a real fix, a real decision. If the answer is measured in months, the project is cold. If you can't remember without checking, it's already dead."
@@ -232,7 +232,7 @@
 					"text": "Every experienced indie builder has a graveyard. The difference between a good builder and a stuck one isn't the number of dead projects &mdash; it's what they did with the bodies."
 				},
 				{
-					"text": "Your graveyard projects contain lessons you paid for in time, money, and emotional energy. The project that failed because you never validated the market? That's a lesson in startup idea validation. The one that died because you couldn't stop adding features? That's a lesson in scope. The one you abandoned because something shinier came along? That's a lesson in commitment."
+					"text": "Your graveyard projects contain lessons you paid for in time, money, and emotional energy. The project that failed because you never <a href=\"/idea/validation-skip/\">validated the market</a>? That's a lesson in startup idea validation. The one that died because you couldn't stop <a href=\"/build/feature-creep/\">adding features</a>? That's a lesson in scope. The one you abandoned because <a href=\"/idea/shiny-object-syndrome/\">something shinier</a> came along? That's a lesson in commitment."
 				},
 				{
 					"text": "Stop treating your project graveyard like a source of shame. Start treating it like a curriculum. Every dead project taught you something. If you can't name what it taught you, you haven't finished learning from it yet."

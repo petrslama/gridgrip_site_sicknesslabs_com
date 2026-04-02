@@ -39,7 +39,7 @@
 					"text": "<strong>Feature creep is uncontrolled addition</strong> — the product grows wider, not deeper."
 				},
 				{
-					"text": "<strong>Scope creep expands existing work. Feature creep adds entirely new work.</strong> Different disease, different cure."
+					"text": "<strong><a href=\"/build/scope-creep/\">Scope creep</a> expands existing work. Feature creep adds entirely new work.</strong> Different disease, different cure."
 				},
 				{
 					"text": "Every feature has a maintenance cost. <strong>If you can't support it alone for two years, don't ship it.</strong>"

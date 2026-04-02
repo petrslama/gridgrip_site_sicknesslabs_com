@@ -122,7 +122,7 @@
 					"text": "A startup pre launch strategy does not require a marketing team or a budget. It requires starting early and being consistent. Here is a practical pre launch marketing strategy broken into phases."
 				},
 				{
-					"text": "<strong>Phase 1: Problem validation (weeks 1&ndash;4).</strong> Before you build anything, talk to potential users. Post in forums, run surveys, interview people. This is not market research theater — this is building your first audience. Everyone who participates in your validation is a potential launch day visitor. Collect emails. Start a newsletter. Share what you learn."
+					"text": "<strong>Phase 1: Problem validation (weeks 1&ndash;4).</strong> Before you build anything, talk to potential users. Post in forums, run surveys, <a href=\"/market/customer-validation/\">interview people</a>. This is not market research theater — this is building your first audience. Everyone who participates in your validation is a potential launch day visitor. Collect emails. Start a newsletter. Share what you learn."
 				},
 				{
 					"text": "<strong>Phase 2: Building in public (weeks 4&ndash;12).</strong> As you build, share the process. Weekly updates, design decisions, technical challenges, pivots. Each post is a touchpoint that deepens your relationship with the growing audience. People who watch you build something feel invested in its success."
@@ -186,7 +186,7 @@
 					"text": "<strong>Launch day:</strong>"
 				},
 				{
-					"text": "<ul><li>Send the launch email</li><li>Post on all planned channels</li><li>Submit to directories and aggregators (Product Hunt, Hacker News, relevant subreddits)</li><li>Engage with every comment and reply personally</li><li>Monitor analytics and fix any critical issues immediately</li></ul>"
+					"text": "<ul><li>Send the launch email</li><li>Post on all planned channels</li><li>Submit to directories and aggregators (<a href=\"https://www.producthunt.com/\" target=\"_blank\" rel=\"noopener\">Product Hunt</a>, <a href=\"https://news.ycombinator.com/\" target=\"_blank\" rel=\"noopener\">Hacker News</a>, relevant subreddits)</li><li>Engage with every comment and reply personally</li><li>Monitor analytics and fix any critical issues immediately</li></ul>"
 				},
 				{
 					"text": "<strong>Week after launch:</strong>"

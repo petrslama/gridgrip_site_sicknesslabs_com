@@ -119,19 +119,19 @@
 					"text": "Not all channels work for all products. An MVP launch strategy should focus on the two or three channels most likely to reach your specific audience. Here is an honest assessment of the most common options."
 				},
 				{
-					"text": "<strong>Product Hunt.</strong> Good for developer tools, SaaS products, and anything with a visual demo. The upvote system means your warm audience matters — if you launch cold, you'll sink. Best paired with an email list and social following. Product Hunt alone is not a strategy; it is a single-day amplifier."
+					"text": "<strong><a href=\"https://www.producthunt.com/\" target=\"_blank\" rel=\"noopener\">Product Hunt</a>.</strong> Good for developer tools, SaaS products, and anything with a visual demo. The upvote system means your warm audience matters — if you launch cold, you'll sink. Best paired with an email list and social following. Product Hunt alone is not a strategy; it is a single-day amplifier."
 				},
 				{
-					"text": "<strong>Hacker News.</strong> Unpredictable but high-impact. A front-page HN post can deliver thousands of visitors in hours. The audience is technical and skeptical — they respect substance over polish. You cannot game HN, but you can increase your odds by launching something genuinely interesting and writing a clear, honest \"Show HN\" post."
+					"text": "<strong><a href=\"https://news.ycombinator.com/\" target=\"_blank\" rel=\"noopener\">Hacker News</a>.</strong> Unpredictable but high-impact. A front-page HN post can deliver thousands of visitors in hours. The audience is technical and skeptical — they respect substance over polish. You cannot game HN, but you can increase your odds by launching something genuinely interesting and writing a clear, honest \"Show HN\" post."
 				},
 				{
-					"text": "<strong>Reddit.</strong> Highly channel-dependent. r/SideProject is supportive but small. Niche subreddits (r/selfhosted, r/webdev, r/startups) can drive real traffic if you are a genuine community member, not a drive-by self-promoter. Reddit punishes obvious marketing. Earn your credibility first."
+					"text": "<strong><a href=\"https://www.reddit.com/\" target=\"_blank\" rel=\"noopener\">Reddit</a>.</strong> Highly channel-dependent. <a href=\"https://www.reddit.com/r/SideProject/\" target=\"_blank\" rel=\"noopener\">r/SideProject</a> is supportive but small. Niche subreddits (<a href=\"https://www.reddit.com/r/selfhosted/\" target=\"_blank\" rel=\"noopener\">r/selfhosted</a>, <a href=\"https://www.reddit.com/r/webdev/\" target=\"_blank\" rel=\"noopener\">r/webdev</a>, <a href=\"https://www.reddit.com/r/startups/\" target=\"_blank\" rel=\"noopener\">r/startups</a>) can drive real traffic if you are a genuine community member, not a drive-by self-promoter. Reddit punishes obvious marketing. Earn your credibility first."
 				},
 				{
 					"text": "<strong>Email.</strong> The highest-converting channel for MVPs, period. An email to 200 genuinely interested subscribers will outperform a Reddit post seen by 10,000 strangers. Your pre launch marketing strategy should prioritize email list building above all else."
 				},
 				{
-					"text": "<strong>Twitter/X.</strong> Best for building-in-public audiences. A launch thread from an account with an engaged following can drive significant traffic. But \"engaged following\" is the key — 5,000 followers who actually read your tweets beats 50,000 ghosts. Build the audience before you need it."
+					"text": "<strong><a href=\"https://x.com/\" target=\"_blank\" rel=\"noopener\">Twitter/X</a>.</strong> Best for building-in-public audiences. A launch thread from an account with an engaged following can drive significant traffic. But \"engaged following\" is the key — 5,000 followers who actually read your tweets beats 50,000 ghosts. Build the audience before you need it."
 				}
 			]
 		},
@@ -224,7 +224,7 @@
 				},
 				{
 					"a_icon": {
-						"icon": "bar-chart"
+						"icon": "chart-bar"
 					},
 					"a_h3": "Have you defined success metrics?",
 					"a_description": "Specific numbers for signups, activation rate, and feedback quality. Written down before launch, not invented after the fact to justify the results."

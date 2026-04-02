@@ -59,7 +59,7 @@
 			"a_h2": "The Weight of the Decision",
 			"paragraphs": [
 				{
-					"text": "This is the hardest article on this site, and it should be. Every other disease we cover &mdash; feature creep, perpetual beta, zombie projects &mdash; has a relatively clear treatment. Pivot or quit doesn't. It's the one that sits in your chest at 2 AM, the one you can't solve with a framework or a checklist."
+					"text": "This is the hardest article on this site, and it should be. Every other disease we cover &mdash; <a href=\"/build/feature-creep/\">feature creep</a>, <a href=\"/graveyard/perpetual-beta/\">perpetual beta</a>, <a href=\"/graveyard/zombie-projects/\">zombie projects</a> &mdash; has a relatively clear treatment. Pivot or quit doesn't. It's the one that sits in your chest at 2 AM, the one you can't solve with a framework or a checklist."
 				},
 				{
 					"text": "The decision to pivot or quit an abandoned side project carries emotional weight that no business book prepares you for. You built this thing. You told people about it. You sacrificed weekends, strained relationships, spent money you probably shouldn't have. Walking away feels like betrayal &mdash; not just of the project, but of the version of yourself that believed in it."
@@ -177,7 +177,7 @@
 			"a_h2": "Quitting vs. Shiny Object Syndrome",
 			"paragraphs": [
 				{
-					"text": "Here's the critical distinction most people miss: <strong>quitting with data is not the same as quitting for dopamine.</strong> Shiny object syndrome is abandoning a project because something newer and more exciting caught your eye. Quitting is abandoning a project because the evidence says it's not working."
+					"text": "Here's the critical distinction most people miss: <strong>quitting with data is not the same as quitting for dopamine.</strong> <a href=\"/idea/shiny-object-syndrome/\">Shiny object syndrome</a> is abandoning a project because something newer and more exciting caught your eye. Quitting is abandoning a project because the evidence says it's not working."
 				},
 				{
 					"text": "The shiny object builder quits before the data arrives. They launch, hit the first plateau, get bored, and move on to the next idea &mdash; convinced that <em>this one</em> is different. It never is. They leave a trail of half-built projects, each abandoned at roughly the same stage, because the pattern isn't about the projects. It's about the builder."

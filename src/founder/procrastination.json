@@ -99,7 +99,7 @@
 			"a_h2": "The Analysis Paralysis Connection",
 			"paragraphs": [
 				{
-					"text": "One of the most common forms of entrepreneur procrastination is analysis paralysis. The decision about which database to use turns into a three-week comparison. The choice between two pricing models becomes a month-long spreadsheet exercise. The question of what to build next spawns a user survey, three competitor analyses, and a strategy doc that nobody reads."
+					"text": "One of the most common forms of entrepreneur procrastination is <a href=\"/idea/analysis-paralysis/\">analysis paralysis</a>. The decision about which database to use turns into a three-week comparison. The choice between two pricing models becomes a month-long spreadsheet exercise. The question of what to build next spawns a user survey, three competitor analyses, and a strategy doc that nobody reads."
 				},
 				{
 					"text": "Founder decision making is hard because the stakes feel enormous. Every choice feels permanent. Pick the wrong tech stack and you'll have to rewrite everything. Price too low and you leave money on the table. Price too high and nobody buys. The weight of these decisions makes it feel rational to gather more information before committing."
@@ -148,7 +148,7 @@
 					"text": "\"Done is better than perfect\" — the quote resonated because it named something every builder knows: perfectionism is a form of procrastination."
 				},
 				{
-					"text": "The pull of \"just one more tweak\" is universal. The feature that's 95% done but never ships because the last 5% keeps expanding. The blog post that sits in drafts because the opening paragraph isn't quite right. The product that never launches because it's \"not ready yet.\""
+					"text": "The pull of \"just one more tweak\" is universal. The feature that's 95% done but never ships because the last 5% keeps expanding. The blog post that sits in drafts because the opening paragraph isn't quite right. The product that never launches because it's \"not ready yet\" — classic <a href=\"/launch/launch-fear/\">launch fear</a>."
 				},
 				{
 					"text": "Done is better than perfect isn't about shipping garbage. It's about recognizing that the difference between 90% and 100% is often invisible to your users but enormously expensive to you. That last 10% of polish consumes a disproportionate amount of time and energy, and most of it addresses problems that exist only in your head."

@@ -39,7 +39,7 @@
 					"text": "<strong>If your MVP takes longer than 4-6 weeks, it's not minimal.</strong> The M stands for minimum."
 				},
 				{
-					"text": "<strong>Over-building is procrastination disguised as preparation.</strong> Infrastructure feels productive. Launching feels terrifying. So you stay in the code."
+					"text": "<strong>Over-building is <a href=\"/founder/procrastination/\">procrastination</a> disguised as preparation.</strong> Infrastructure feels productive. Launching feels terrifying. So you stay in the code."
 				},
 				{
 					"text": "Your MVP needs one thing: <strong>the core action that delivers value.</strong> Not a dashboard. Not an API. Not dark mode."
@@ -220,7 +220,7 @@
 				},
 				{
 					"a_icon": {
-						"icon": "alert-triangle"
+						"icon": "triangle-alert"
 					},
 					"a_h3": "Is the product broken without it?",
 					"a_description": "If the core workflow still works without this item, it's post-launch. Ship what's essential, learn what's not."
@@ -262,7 +262,7 @@
 					"text": "Skip the abstractions. Your MVP doesn't need a plugin architecture, a theme system, or a configuration layer. Hardcode things. When (if) you need flexibility later, you'll refactor with the knowledge of how the product is actually used — which will be different from what you imagined."
 				},
 				{
-					"text": "Deploy simply. A single server, a single database, a monolith. You're not going to have scaling problems with 50 users. Microservices, containers, and orchestration are solutions to problems that come after product-market fit, not before."
+					"text": "Deploy simply. A single server, a single database, a monolith. You're not going to have scaling problems with 50 users. Microservices, containers, and orchestration are solutions to problems that come after <a href=\"/market/product-market-fit/\">product-market fit</a>, not before."
 				},
 				{
 					"text": "The fastest MVP is the one with the smallest scope, built with familiar tools, deployed in the simplest way possible. Speed and quality aren't opposites — over-building is the enemy of both."

@@ -59,7 +59,7 @@
 			"a_h2": "Market Validation vs. Customer Validation",
 			"paragraphs": [
 				{
-					"text": "Customer validation asks: \"Do individual people want this?\" Market validation for startup founders asks something bigger: \"Are there <em>enough</em> people who want this, willing to pay <em>enough</em>, to sustain a business?\" You can validate the customer and still fail at the market."
+					"text": "<a href=\"/market/customer-validation/\">Customer validation</a> asks: \"Do individual people want this?\" Market validation for startup founders asks something bigger: \"Are there <em>enough</em> people who want this, willing to pay <em>enough</em>, to sustain a business?\" You can validate the customer and still fail at the market."
 				},
 				{
 					"text": "Ten people who'd pay $50/month is customer validation. But if those are the only ten people on earth with that problem, you don't have a market — you have a consulting gig. Startup market validation forces you to zoom out from individual conversations and look at the landscape. How many people have this problem? How fast is that number growing? What do they spend on alternatives today?"
@@ -128,7 +128,7 @@
 					"text": "<strong>Competitor revenue.</strong> SimilarWeb, BuiltWith, and public financial data can estimate competitor revenue. If the top player in your space does $2M/year, the market ceiling might be $10-20M. Is that enough for you?"
 				},
 				{
-					"text": "<strong>Community signals.</strong> Reddit, Twitter, Stack Overflow, Product Hunt — where do people with this problem gather? What do they complain about? What alternatives do they mention? The language real users use is worth more than any analyst report."
+					"text": "<strong>Community signals.</strong> <a href=\"https://www.reddit.com/\" target=\"_blank\" rel=\"noopener\">Reddit</a>, <a href=\"https://x.com/\" target=\"_blank\" rel=\"noopener\">Twitter</a>, Stack Overflow, <a href=\"https://www.producthunt.com/\" target=\"_blank\" rel=\"noopener\">Product Hunt</a> — where do people with this problem gather? What do they complain about? What alternatives do they mention? The language real users use is worth more than any analyst report."
 				},
 				{
 					"text": "<strong>Adjacent market data.</strong> Even if your exact niche has no published data, adjacent markets do. If you're building a project management tool for architects, look at project management market data and architecture software market data. The intersection gives you a realistic estimate for market research for new product launch without paying for custom reports."

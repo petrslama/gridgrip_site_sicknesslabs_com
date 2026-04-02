@@ -99,7 +99,7 @@
 			"a_h2": "Scope Creep vs. Feature Creep — They're Not the Same Disease",
 			"paragraphs": [
 				{
-					"text": "People use these terms interchangeably. They shouldn't. Feature creep adds capabilities that nobody asked for — the product grows beyond its purpose. Scope creep expands the work required to deliver what was already agreed upon."
+					"text": "People use these terms interchangeably. They shouldn't. <a href=\"/build/feature-creep/\">Feature creep</a> adds capabilities that nobody asked for — the product grows beyond its purpose. Scope creep expands the work required to deliver what was already agreed upon."
 				},
 				{
 					"text": "Here's an example. You're building a user registration system. Feature creep would be adding social login, two-factor authentication, and a profile customization page that weren't in the original plan. Scope creep would be the original login form taking three times longer than estimated because someone decided it needs to support five edge cases, three error states, and pixel-perfect responsive behavior across twelve breakpoints — none of which were in the spec."
@@ -204,7 +204,7 @@
 				},
 				{
 					"a_icon": {
-						"icon": "check-circle"
+						"icon": "circle-check"
 					},
 					"a_h3": "Did the decision-maker approve?",
 					"a_description": "Whoever owns the timeline must sign off. No informal hallway agreements, no \"just this once\" exceptions."

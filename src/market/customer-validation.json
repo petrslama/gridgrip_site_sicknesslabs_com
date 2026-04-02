@@ -105,7 +105,7 @@
 					"text": "<strong>Step 1: Define your assumption.</strong> Write down exactly who your customer is, what problem they have, and why your solution is better than what they're doing now. Be specific. \"Busy professionals\" is not a customer segment. \"Marketing managers at 10-50 person agencies who manually create social media reports\" — that's a segment."
 				},
 				{
-					"text": "<strong>Step 2: Find those people.</strong> Not your friends. Not your Twitter followers. Actual strangers who match your customer profile. LinkedIn, Reddit, industry forums, cold outreach. If you can't find them, that's your first red flag."
+					"text": "<strong>Step 2: Find those people.</strong> Not your friends. Not your Twitter followers. Actual strangers who match your customer profile. <a href=\"https://www.linkedin.com/\" target=\"_blank\" rel=\"noopener\">LinkedIn</a>, <a href=\"https://www.reddit.com/\" target=\"_blank\" rel=\"noopener\">Reddit</a>, industry forums, cold outreach. If you can't find them, that's your first red flag."
 				},
 				{
 					"text": "<strong>Step 3: Interview them about the problem.</strong> Not your solution — the problem. How do they deal with it today? How much time and money do they spend? Have they tried alternatives? What's broken about those alternatives? Shut up and listen. Your job is to understand their world, not pitch yours."
@@ -197,7 +197,7 @@
 				},
 				{
 					"a_icon": {
-						"icon": "alert-circle"
+						"icon": "circle-alert"
 					},
 					"a_h3": "Problem confirmed as painful",
 					"a_description": "At least half of interviewees described the problem with emotion, specifics, and evidence of prior attempts to solve it."
@@ -232,7 +232,7 @@
 					"text": "A pivot doesn't mean failure. It means the customer validation process is working. You learned that Version A of the idea doesn't match reality, so you adjust. The founders who fail are the ones who ignore the data and build anyway, convinced that the market is wrong and they're right."
 				},
 				{
-					"text": "Set a deadline. \"If I can't find 10 people willing to pre-order by [date], I'm pivoting or killing this.\" Without a deadline, validation becomes an endless loop of \"just one more interview\" — which is just procrastination wearing a research hat."
+					"text": "Set a deadline. \"If I can't find 10 people willing to pre-order by [date], I'm pivoting or killing this.\" Without a deadline, validation becomes an endless loop of \"just one more interview\" — which is just <a href=\"/founder/procrastination/\">procrastination</a> wearing a research hat."
 				}
 			]
 		},

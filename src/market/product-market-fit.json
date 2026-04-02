@@ -235,7 +235,7 @@
 					"text": "<strong>Watch what users do, not what they say.</strong> Analytics show you which features get used daily and which get used once. If your \"killer feature\" has 5% adoption, it's not killing anything. Build more of what people actually use, less of what they say they want."
 				},
 				{
-					"text": "<strong>Narrow before you widen.</strong> If you're getting mixed signals on SaaS product market fit, your product is probably trying to serve too many use cases. Pick the one where users are most engaged and most willing to pay. Own that niche completely. Then expand."
+					"text": "<strong>Narrow before you widen.</strong> If you're getting mixed signals on SaaS product market fit, your product is probably trying to serve <a href=\"/build/feature-creep/\">too many use cases</a>. Pick the one where users are most engaged and most willing to pay. Own that niche completely. Then expand."
 				},
 				{
 					"text": "<strong>Ship fast, learn faster.</strong> The path to product market fit for SaaS is paved with rapid iteration. Weekly releases, not quarterly. Quick experiments, not year-long roadmaps. The faster you learn, the sooner you'll feel the market pulling the product out of your hands — and that's the signal you've been waiting for."

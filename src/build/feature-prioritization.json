@@ -175,7 +175,7 @@
 					"text": "<strong>Weekly prioritization, not sprint planning.</strong> Forget two-week sprints. Every Monday, look at your list and pick the three most important things for the week. Not five. Not ten. Three. If you finish all three, pick the next one. This keeps focus tight and makes reprioritization a weekly habit instead of a quarterly event."
 				},
 				{
-					"text": "<strong>One decision-maker.</strong> In agile teams, prioritization is collaborative. In a team of one or two, it's autocratic — and that's fine. The founder decides what gets built. Input from users and data informs the decision, but the decision itself is fast and final. Committee-style prioritization in small teams is just procrastination."
+					"text": "<strong>One decision-maker.</strong> In agile teams, prioritization is collaborative. In a team of one or two, it's autocratic — and that's fine. The founder decides what gets built. Input from users and data informs the decision, but the decision itself is fast and final. Committee-style prioritization in small teams is just <a href=\"/founder/procrastination/\">procrastination</a>."
 				},
 				{
 					"text": "<strong>Kill the backlog regularly.</strong> A backlog with 200 items is not a prioritized list — it's a graveyard of ideas. Every month, delete everything below the top 20. If an idea is important enough, it'll come back. If it doesn't come back, it wasn't important. Track how many times a killed idea resurfaces — if something comes back three or more times unprompted, it's earned a real evaluation regardless of its original score. This is the most liberating practice in agile feature prioritization: admitting that most ideas don't matter."
@@ -199,7 +199,7 @@
 					"text": "Product prioritization operates at a higher level. It decides between categories of work: new features vs. bug fixes vs. performance improvements vs. reducing technical debt vs. user research vs. marketing. A product can have perfect feature prioritization and still fail because it's spending all its time on features when it should be fixing the bugs that make existing users leave."
 				},
 				{
-					"text": "For indie builders, the product prioritization question is even broader: should I be coding, or should I be doing customer development? Should I be building, or should I be writing content? Should I be adding features, or should I be improving onboarding for the features that already exist?"
+					"text": "For indie builders, the product prioritization question is even broader: should I be coding, or should I be doing <a href=\"/market/customer-validation/\">customer development</a>? Should I be building, or should I be writing content? Should I be adding features, or should I be improving onboarding for the features that already exist?"
 				},
 				{
 					"text": "The feature prioritization template that actually works for indie products includes all types of work, not just features. Your weekly top-three list should sometimes include \"write a blog post\" or \"talk to five users\" or \"fix the three worst bugs.\" If your prioritization system only considers new features, it has a blind spot that will eventually sink the product."
@@ -231,7 +231,7 @@
 				},
 				{
 					"a_icon": {
-						"icon": "bar-chart"
+						"icon": "chart-bar"
 					},
 					"a_h3": "Score with your framework",
 					"a_description": "Run the top candidates through ICE or RICE. No gut decisions — numbers first, intuition second."

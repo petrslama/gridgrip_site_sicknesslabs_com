@@ -59,7 +59,7 @@
 			"a_h2": "The Diagnosis: Perfectionism as Procrastination",
 			"paragraphs": [
 				{
-					"text": "Launch fear is the most common disease in indie product development. It presents as perfectionism, but the underlying condition is avoidance. You are not polishing — you are hiding."
+					"text": "Launch fear is the most common disease in indie product development. It presents as perfectionism, but the underlying condition is <a href=\"/founder/procrastination/\">avoidance</a>. You are not polishing — you are hiding."
 				},
 				{
 					"text": "The symptoms are easy to spot. Your product launch plan has been \"almost final\" for weeks. You keep adding items to the checklist instead of crossing them off. Every user test reveals something that \"absolutely must\" be fixed before release. The backlog grows. The launch date moves. The product sits in a private repo, gathering dust."
@@ -177,7 +177,7 @@
 					"text": "Your marketing plan does not need to be complex. For a new product launch, you need three things: a channel, a message, and a schedule."
 				},
 				{
-					"text": "<strong>Channel:</strong> Where do your potential users already spend time? Pick one or two channels and go deep. Reddit, Twitter, a niche forum, a Slack community — it does not matter which. What matters is that you show up consistently before launch day."
+					"text": "<strong>Channel:</strong> Where do your potential users already spend time? Pick one or two channels and go deep. <a href=\"https://www.reddit.com/\" target=\"_blank\" rel=\"noopener\">Reddit</a>, <a href=\"https://x.com/\" target=\"_blank\" rel=\"noopener\">Twitter</a>, a niche forum, a Slack community — it does not matter which. What matters is that you show up consistently before launch day."
 				},
 				{
 					"text": "<strong>Message:</strong> What problem does your product solve, and for whom? If you cannot say this in one sentence, your product is not ready — but not in the way you think. The product might be fine. Your positioning is broken."
@@ -198,7 +198,7 @@
 			"items": [
 				{
 					"a_icon": {
-						"icon": "check-circle"
+						"icon": "circle-check"
 					},
 					"a_h3": "Does the core feature work end to end?",
 					"a_description": "Not every feature — the one feature that solves the one problem for the one user type. If a new user can sign up, use the core feature, and get value from it, you are ready."
