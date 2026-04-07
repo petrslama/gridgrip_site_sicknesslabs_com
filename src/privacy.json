@@ -1,0 +1,142 @@
+{
+	"sections": [
+		{
+			"fu_type": "o_breadcrumbs",
+			"items": [
+				{
+					"text": "Home",
+					"href": "/"
+				},
+				{
+					"text": "Privacy Policy"
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Privacy Policy",
+			"paragraphs": [
+				{
+					"text": "<strong>Last updated:</strong> April 7, 2026"
+				},
+				{
+					"text": "This Privacy Policy explains how Sickness Labs (&ldquo;we&rdquo;, &ldquo;us&rdquo;) handles information when you visit sicknesslabs.com (the &ldquo;Website&rdquo;)."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "What we collect",
+			"paragraphs": [
+				{
+					"text": "We do not collect any personal information such as names, email addresses, or billing details. The Website has no user accounts, forms, or login functionality."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Analytics",
+			"paragraphs": [
+				{
+					"text": "We use Google Analytics 4 (GA4), deployed through Google Tag Manager (GTM), to understand how visitors interact with the Website. GA4 collects anonymized usage data including pages visited, session duration, approximate location (country/city level), device type, browser, and referral source."
+				},
+				{
+					"text": "GA4 uses first-party cookies to distinguish unique visitors. No data that personally identifies you is sent to Google. IP addresses are automatically anonymized by GA4."
+				},
+				{
+					"text": "You can learn more about how Google processes data at <a href=\"https://www.google.com/policies/privacy/partners/\">google.com/policies/privacy/partners</a>."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Cookies",
+			"paragraphs": [
+				{
+					"text": "The Website uses only cookies required for analytics:"
+				},
+				{
+					"text": "<strong>_ga</strong> &mdash; Google Analytics &mdash; Distinguishes unique visitors &mdash; 2 years<br><strong>_ga_*</strong> &mdash; Google Analytics &mdash; Maintains session state &mdash; 2 years"
+				},
+				{
+					"text": "No cookies are set until you provide consent through the cookie banner."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Consent",
+			"paragraphs": [
+				{
+					"text": "When you first visit the Website, a consent banner is displayed. Analytics cookies are loaded only after you accept. You can withdraw consent at any time by clearing your cookies or using the consent settings available on the Website."
+				},
+				{
+					"text": "We comply with the <a href=\"https://www.google.com/about/company/user-consent-policy.html\">EU User Consent Policy</a> as required by Google."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Data retention",
+			"paragraphs": [
+				{
+					"text": "Analytics data is retained in GA4 for 14 months, after which it is automatically deleted."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Third-party services",
+			"paragraphs": [
+				{
+					"text": "Data collected through GA4 is processed by Google LLC. Google acts as a data processor under the <a href=\"https://privacy.google.com/businesses/processorterms/\">Google Ads Data Processing Terms</a>. Data may be transferred to the United States under Google&rsquo;s standard contractual clauses."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Your rights",
+			"paragraphs": [
+				{
+					"text": "Under GDPR, you have the right to access, rectify, delete, or restrict processing of your data. Since we do not collect personal information directly, these rights primarily apply to data held by Google. You can manage your Google activity at <a href=\"https://myactivity.google.com/\">myactivity.google.com</a>."
+				},
+				{
+					"text": "You can also opt out of Google Analytics entirely by installing the <a href=\"https://tools.google.com/dlpage/gaoptout\">Google Analytics Opt-out Browser Add-on</a>."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Changes to this policy",
+			"paragraphs": [
+				{
+					"text": "We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated date."
+				}
+			]
+		},
+		{
+			"fu_type": "o_paragraphs",
+			"a_h2": "Contact",
+			"paragraphs": [
+				{
+					"text": "If you have questions about this Privacy Policy, contact us at <a href=\"mailto:privacy@sicknesslabs.com\">privacy@sicknesslabs.com</a>."
+				}
+			]
+		}
+	],
+	"seo": {
+		"title": "Privacy Policy — Sickness Labs",
+		"description": "How Sickness Labs handles your data. We use Google Analytics 4 with consent-based cookies. No personal information is collected directly.",
+		"og": {
+			"title": "Privacy Policy — Sickness Labs",
+			"description": "How Sickness Labs handles your data. We use Google Analytics 4 with consent-based cookies. No personal information is collected directly.",
+			"url": "https://www.sicknesslabs.com/privacy",
+			"type": "website"
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "Privacy Policy — Sickness Labs",
+			"description": "How Sickness Labs handles your data. We use Google Analytics 4 with consent-based cookies. No personal information is collected directly."
+		}
+	}
+}
