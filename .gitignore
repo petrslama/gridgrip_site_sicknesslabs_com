@@ -20,6 +20,12 @@ public/
 .ftp.sh
 filelist.php
 
+# Cloudflare Wrangler
+.wrangler/
+
+# Podcast
+.podcast/
+
 # Environment
 .env
 .env.local

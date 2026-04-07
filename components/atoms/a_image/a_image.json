@@ -49,6 +49,24 @@
 							"fu_value": "low"
 						}
 					]
+				},
+				{
+					"fu_type": "select",
+					"fu_label": "Loading",
+					"fu_name": "loading",
+					"values": [
+						{
+							"fu_label": "-"
+						},
+						{
+							"fu_label": "Lazy",
+							"fu_value": "lazy"
+						},
+						{
+							"fu_label": "Eager",
+							"fu_value": "eager"
+						}
+					]
 				}
 			]
 		}

@@ -11,7 +11,7 @@ TEMPLATE_NAME === 'inSite' ? SITE_DIR . '/components' : ROOT_DIR . '/template/' 
 site/sicknesslabs_com/components/
 	atoms/        a_button, a_description, a_eyebrow, a_fu_type, a_h1, a_h2, a_h3, a_icon, a_image, a_image_cover
 	molecules/    m_buttons, m_section_settings, m_section_title
-	organisms/    o_breadcrumbs, o_cards, o_checklist, o_comparison_table, o_faq, o_footer, o_header, o_hero, o_hero_article, o_howto, o_html, o_image_grid, o_paragraphs
+	organisms/    o_breadcrumbs, o_cards, o_checklist, o_comparison_table, o_faq, o_footer, o_header, o_hero, o_hero_article, o_howto, o_html, o_image_grid, o_paragraphs, o_sicknesslabs
 	roots/        r_debug, r_html, r_seo
 ```
 

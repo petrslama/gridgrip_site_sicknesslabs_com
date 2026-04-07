@@ -3,6 +3,8 @@
 	<img
 		 src="{{a_image_cover.src}}"
 		 alt="{{a_image_cover.alt}}"
+		 {{#if a_image_cover.fetchpriority}} fetchpriority="{{a_image_cover.fetchpriority}}"{{/if}}
+		 {{#if a_image_cover.loading}} loading="{{a_image_cover.loading}}"{{/if}}
 	 />
 </div>
 {{/if}}

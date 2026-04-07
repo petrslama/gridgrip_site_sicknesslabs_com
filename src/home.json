@@ -1,44 +1,17 @@
 {
 	"sections": [
 		{
-			"fu_type": "o_features",
+			"fu_type": "o_sicknesslabs",
 			"a_eyebrow": "SicknessLabs Framework",
 			"a_h1": "Measure your project's viability before you build",
-			"a_description": "Most indie projects fail before launch. SicknessLabs is a 12-point framework that exposes the weak spots in your idea — from market validation and pricing to your own assumptions and blind spots. No buzzwords, just hard questions you need to answer before investing time and money.",
-			"items": [
-				{
-					"title": "Clarity on viability",
-					"a_description": "Does your idea actually hold up?"
-				},
-				{
-					"title": "Stop wasting time",
-					"a_description": "Spot red flags before you invest months."
-				},
-				{
-					"title": "12-point check",
-					"a_description": "Shipping, market, pricing, honesty."
-				},
-				{
-					"title": "Honest diagnosis",
-					"a_description": "If there's a knockout problem, you'll know."
-				}
-			]
-		},
-		{
-			"fu_type": "o_letters",
-			"a_eyebrow": "Project Check",
-			"a_h2": "Does your project make sense?",
-			"a_description": "Answer 12 questions honestly. Each one targets a common blind spot that kills indie projects. Your diagnosis updates as you go.",
-			"label_1": "Yes",
-			"label_2": "Not sure",
-			"label_3": "No",
-			"summary_title": "Sickness Labs Diagnosis",
-			"summary_incomplete": "Rate all criteria to see your diagnosis.",
-			"verdict_knockout": "KNOCKOUT — your project has a sickness. Full stop.",
-			"verdict_perfect": "Project is ready. Ship it.",
-			"verdict_solid": "Solid foundation — verify the yellow areas before launch.",
-			"verdict_weak": "Too many unknowns. Step back — the project isn't ready.",
-			"verdict_stop": "Stop. This isn't a project yet — it's an idea.",
+			"a_h2": "12-point framework that exposes weak spots in your idea — from validation to pricing to your own blind spots. Hard questions before you invest time and money.",
+			"answers": [
+				{"label": "Yes", "verdict": "Project is ready. Ship it."},
+				{"label": "Not sure", "verdict": "Check what you do not know. The project isn't ready yet."},
+				{"label": "No", "verdict": "KNOCKOUT — your project has a sickness. Full stop."}
+			],
+			"diagnosis_title": "Sickness Labs Diagnosis",
+			"incomplete": "Rate all criteria to see your diagnosis.",
 			"items": [
 				{
 					"letter": "S",
