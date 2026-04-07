@@ -5,6 +5,10 @@
 	"sitemap_trailing_slash": "no",
 	"start_head_codes": [
 		{
+			"note": "Consent Mode v2 default",
+			"code": "<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{'analytics_storage':'denied','ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied','wait_for_update':500});</script>"
+		},
+		{
 			"note": "Google Tag Manager",
 			"code": "<!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KGBBP972');</script><!-- End Google Tag Manager -->"
 		}
@@ -16,7 +20,12 @@
 			"code": "<!-- Google Tag Manager (noscript) --><noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KGBBP972\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript><!-- End Google Tag Manager (noscript) -->"
 		}
 	],
-	"body_codes": [],
+	"body_codes": [
+		{
+			"note": "Cookie consent banner",
+			"code": "<div id=\"cb\" role=\"dialog\" aria-label=\"Cookie consent\" style=\"display:none;position:fixed;bottom:0;left:0;right:0;z-index:9999;padding:16px 24px;background:#111;color:#ccc;font-size:14px;line-height:1.5;font-family:inherit;border-top:1px solid #333;\"><div style=\"max-width:960px;margin:0 auto;display:flex;align-items:center;gap:16px;flex-wrap:wrap;\"><p style=\"margin:0;flex:1;min-width:200px;\">We use cookies for analytics (Google Analytics). <a href=\"/privacy\" style=\"color:#fff;text-decoration:underline;\">Privacy Policy</a></p><div style=\"display:flex;gap:8px;flex-shrink:0;\"><button onclick=\"cbAccept()\" style=\"padding:8px 20px;background:#fff;color:#111;border:none;border-radius:4px;cursor:pointer;font-size:14px;font-weight:600;\">Accept</button><button onclick=\"cbReject()\" style=\"padding:8px 20px;background:transparent;color:#ccc;border:1px solid #555;border-radius:4px;cursor:pointer;font-size:14px;\">Reject</button></div></div></div><script>const cb=document.getElementById('cb');const cbAccept=()=>{gtag('consent','update',{'analytics_storage':'granted'});localStorage.setItem('cb','granted');cb.style.display='none';};const cbReject=()=>{localStorage.setItem('cb','denied');cb.style.display='none';};const saved=localStorage.getItem('cb');if(saved==='granted'){gtag('consent','update',{'analytics_storage':'granted'});}else if(!saved){window.addEventListener('DOMContentLoaded',()=>{cb.style.display='block';});}</script>"
+		}
+	],
 	"color_primary": "#22c55e",
 	"color_primary-hover": "#16a34a",
 	"color_text": "#333333",
