@@ -32,10 +32,11 @@ Primary: `www.sicknesslabs.com`. Non-www → www redirect is set in the Cloudfla
 
 - **`wrangler.jsonc`** — Worker config (routes, assets directory, html handling, 404)
 - **`_redirects`** — `/favicon.ico`, `/style.min.*.css` cache busting
-- **`deploy.sh`** — copies files into `public/`, runs `wrangler deploy`
-- **`public/`** — generated deploy directory (gitignored)
+- **`public/`** — generated deploy directory (gitignored), built by `scripts/deploy.sh`
 
-### `deploy.sh` — how `public/` is built
+### How `public/` is built
+
+`scripts/deploy.sh sicknesslabs_com` assembles `public/`:
 
 ```
 html/*           → public/*           (home.html renamed to index.html)
@@ -55,7 +56,7 @@ _redirects       → public/_redirects
 
 ```bash
 wrangler login                              # first time only
-cd site/sicknesslabs_com && ./deploy.sh     # builds public/ and deploys
+scripts/deploy.sh sicknesslabs_com          # builds public/ and runs wrangler deploy
 ```
 
 ### Do NOT deploy
